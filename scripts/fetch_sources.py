@@ -12,7 +12,7 @@ import json
 import time
 
 # Umbral: solo noticias de las últimas 26 horas
-HORAS_UMBRAL = 26
+HORAS_UMBRAL = 36
 
 RSS_SOURCES = [
     {
