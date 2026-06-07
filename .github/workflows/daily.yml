@@ -1,0 +1,43 @@
+name: TV Alertas — Ejecución diaria
+
+on:
+  schedule:
+    # 09:00 hora española (UTC+2 en verano = 07:00 UTC / UTC+1 en invierno = 08:00 UTC)
+    # Usamos 07:00 UTC para cubrir horario de verano (CEST)
+    - cron: '0 7 * * *'
+  workflow_dispatch:  # Permite ejecución manual desde GitHub
+
+jobs:
+  generar-alertas:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write  # Necesario para hacer commit de los HTML generados
+
+    steps:
+      - name: Checkout repositorio
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Instalar dependencias
+        run: |
+          pip install anthropic feedparser requests beautifulsoup4
+
+      - name: Ejecutar análisis diario
+        working-directory: scripts
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python run.py
+
+      - name: Commit y push de los HTML generados
+        run: |
+          git config user.name "tv-alertas-bot"
+          git config user.email "bot@carolo-iii.github.io"
+          git add docs/
+          git diff --staged --quiet || git commit -m "📺 Alertas $(date +'%Y-%m-%d')"
+          git push
