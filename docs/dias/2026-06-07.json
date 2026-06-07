@@ -1,13 +1,47 @@
 {
   "fecha": "2026-06-07",
-  "hay_alertas": false,
-  "resumen_ejecutivo": "Jornada sin eventos relevantes, solo datos rutinarios de informativos y resúmenes mensuales",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "La llegada del Papa León XIV a España domina la programación con especiales que lideran audiencias; 'Tu cara me suena' arrasa con un 20,7% y el fútbol femenino brilla con un 16,1%",
   "alertas": {
-    "estrenos": [],
-    "deportes": [],
-    "especiales": [],
+    "estrenos": [
+      {
+        "titular": "'La casa del dragón' promete en su tercera temporada algo que nunca se ha hecho para televisión",
+        "cadena": "",
+        "detalle": "Tercera temporada con contenido innovador sin precedentes en TV",
+        "fuente": "Fórmula TV"
+      }
+    ],
+    "deportes": [
+      {
+        "titular": "El fútbol femenino destaca en La 1 con un 16,1%",
+        "cadena": "La 1",
+        "detalle": "Retransmisión de fútbol femenino logra excelente dato de audiencia",
+        "fuente": "Fórmula TV"
+      }
+    ],
+    "especiales": [
+      {
+        "titular": "La llegada del papa León XIV a España lidera la mañana, pero pierde fuerza por la tarde",
+        "cadena": "Varias",
+        "detalle": "Cobertura especial de la llegada del Papa a España domina audiencias matinales",
+        "fuente": "Fórmula TV"
+      },
+      {
+        "titular": "Roberto Brasero avisa del ascenso de temperaturas coincidiendo con la llegada del Papa",
+        "cadena": "Antena 3",
+        "detalle": "Contexto meteorológico vinculado al evento papal que afecta programación",
+        "fuente": "20minutos TV"
+      }
+    ],
     "entrevistas": [],
     "parrilla": [],
-    "records": []
+    "records": [
+      {
+        "titular": "'Tu cara me suena' lídera con un 20,7%",
+        "cadena": "Antena 3",
+        "detalle": "El programa de imitaciones consigue un excelente 20,7% de share",
+        "fuente": "Fórmula TV"
+      }
+    ]
   }
 }
