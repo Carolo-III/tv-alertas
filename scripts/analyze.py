@@ -38,18 +38,19 @@ Responde ÚNICAMENTE con un objeto JSON válido con esta estructura exacta:
   "hay_alertas": true/false,
   "resumen_ejecutivo": "Una frase concisa con lo más importante del día",
   "alertas": {
-    "estrenos": [{"titular": "...", "cadena": "...", "detalle": "...", "fuente": "..."}],
-    "deportes": [{"titular": "...", "cadena": "...", "detalle": "...", "fuente": "..."}],
-    "especiales": [{"titular": "...", "cadena": "...", "detalle": "...", "fuente": "..."}],
-    "entrevistas": [{"titular": "...", "cadena": "...", "detalle": "...", "fuente": "..."}],
-    "parrilla": [{"titular": "...", "cadena": "...", "detalle": "...", "fuente": "..."}],
-    "records": [{"titular": "...", "cadena": "...", "detalle": "...", "fuente": "..."}]
+    "estrenos": [{"titular": "...", "cadena": "...", "detalle": "...", "fuente": "...", "url": "..."}],
+    "deportes": [{"titular": "...", "cadena": "...", "detalle": "...", "fuente": "...", "url": "..."}],
+    "especiales": [{"titular": "...", "cadena": "...", "detalle": "...", "fuente": "...", "url": "..."}],
+    "entrevistas": [{"titular": "...", "cadena": "...", "detalle": "...", "fuente": "...", "url": "..."}],
+    "parrilla": [{"titular": "...", "cadena": "...", "detalle": "...", "fuente": "...", "url": "..."}],
+    "records": [{"titular": "...", "cadena": "...", "detalle": "...", "fuente": "...", "url": "..."}]
   }
 }
 
 Si una categoría no tiene alertas, devuelve array vacío [].
 El campo "cadena" puede ser "Varias" si aplica a múltiples, o dejarlo vacío si no se especifica.
 El campo "detalle" es una frase corta con el contexto clave.
+El campo "url" es la URL original de la noticia extraída del titular entre corchetes. Si no hay URL, deja cadena vacía.
 """
 
 def construir_prompt_usuario(datos_raw, fecha):
