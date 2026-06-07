@@ -78,7 +78,7 @@ def analizar(datos_raw):
     
     print("  Llamando a Claude API...")
     respuesta = cliente.messages.create(
-        model="claude-sonnet-4-20250514",
+        model="claude-sonnet-4-5",
         max_tokens=1500,
         system=PROMPT_SISTEMA,
         messages=[{"role": "user", "content": prompt_usuario}]
