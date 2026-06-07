@@ -1,14 +1,14 @@
 {
   "fecha": "2026-06-07",
   "hay_alertas": true,
-  "resumen_ejecutivo": "La llegada del Papa León XIV a España domina la programación, con cobertura especial liderando audiencias matinales, mientras 'Tu cara me suena' se impone el viernes con 20,7%",
+  "resumen_ejecutivo": "La llegada del Papa León XIV a España marca el fin de semana con cobertura destacada en todas las cadenas",
   "alertas": {
     "estrenos": [],
     "deportes": [
       {
         "titular": "'Tu cara me suena' lídera con un 20,7% y el fútbol femenino destaca en La 1 con un 16,1%",
         "cadena": "La 1",
-        "detalle": "Fútbol femenino obtiene notable 16,1% de cuota",
+        "detalle": "Retransmisión de fútbol femenino alcanza notable 16,1% en prime time viernes",
         "fuente": "Fórmula TV",
         "url": "https://www.formulatv.com/noticias/audiencias-5-junio-tu-cara-me-suena-137411/"
       }
@@ -17,14 +17,14 @@
       {
         "titular": "La llegada del papa León XIV a España lidera la mañana, pero pierde fuerza por la tarde",
         "cadena": "Varias",
-        "detalle": "Cobertura especial de visita papal domina audiencias matinales del sábado, cae en tarde",
+        "detalle": "Cobertura especial de la visita papal del sábado 6 de junio lidera audiencias matinales",
         "fuente": "Fórmula TV",
         "url": "https://www.formulatv.com/noticias/audiencias-sabado-6-junio-papa-leon-xiv-espana-137415/"
       },
       {
-        "titular": "Roberto Brasero, meteorólogo, avisa de un ascenso de las temperaturas en las próximas horas: 'Volveremos a tener más calor'. El incremento de temperaturas no será tan intenso 'como el fin de semana pasado, pero van a volver a subir', coincidiendo con la llegada del Papa",
-        "cadena": "",
-        "detalle": "Mención contextual de la visita papal relacionada con información meteorológica",
+        "titular": "Roberto Brasero avisa de un ascenso de las temperaturas coincidiendo con la llegada del Papa",
+        "cadena": "Antena 3",
+        "detalle": "Cobertura meteorológica especial vinculada al evento de la visita papal",
         "fuente": "20minutos TV",
         "url": "https://www.20minutos.es/television/roberto-brasero-meteorologo-ascenso-temperaturas-fin-semana-volveremos-tener-mas-calor_6979935_0.html"
       }
@@ -33,9 +33,16 @@
     "parrilla": [],
     "records": [
       {
-        "titular": "'Tu cara me suena' lídera con un 20,7% y el fútbol femenino destaca en La 1 con un 16,1%",
+        "titular": "ANTENA 3 NOTICIAS 1 FIN DE SEMANA logró 2.022.000 espectadores y el 23,5% de cuota",
         "cadena": "Antena 3",
-        "detalle": "Tu cara me suena consigue destacado 20,7% liderando el viernes",
+        "detalle": "Liderazgo destacado del informativo de fin de semana el sábado 6 de junio",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-06-de-junio-2026/"
+      },
+      {
+        "titular": "'Tu cara me suena' lídera con un 20,7%",
+        "cadena": "Antena 3",
+        "detalle": "Programa de entretenimiento consigue liderazgo del viernes en prime time",
         "fuente": "Fórmula TV",
         "url": "https://www.formulatv.com/noticias/audiencias-5-junio-tu-cara-me-suena-137411/"
       }
