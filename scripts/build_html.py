@@ -176,6 +176,14 @@ main { max-width: 900px; margin: 0 auto; padding: 40px 24px; }
 
 .badge-fuente { color: var(--text-muted); font-style: italic; }
 
+.alerta-link {
+  color: var(--text);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: border-color 0.2s, color 0.2s;
+}
+.alerta-link:hover { color: var(--accent); border-bottom-color: var(--accent); }
+
 .historico-grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
@@ -254,12 +262,17 @@ def render_dia(alertas_json):
             detalle = item.get("detalle", "")
             cadena = item.get("cadena", "")
             fuente = item.get("fuente", "")
+            url = item.get("url", "")
+            titular_html = (
+                f'<a href="{url}" target="_blank" rel="noopener" class="alerta-link">{titular}</a>'
+                if url else titular
+            )
             det_html = f"<div class='alerta-detalle'>{detalle}</div>" if detalle else ""
             cad_html = f"<span class='badge-cadena'>{cadena}</span>" if cadena else ""
             fue_html = f"<span class='badge-fuente'>{fuente}</span>" if fuente else ""
             tarjetas += (
                 f'<div class="alerta-card" style="border-left-color:{color}">'
-                f'<div class="alerta-titular">{titular}</div>'
+                f'<div class="alerta-titular">{titular_html}</div>'
                 f'{det_html}'
                 f'<div class="alerta-meta">{cad_html}{fue_html}</div>'
                 f'</div>'
