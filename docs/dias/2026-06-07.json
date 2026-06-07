@@ -1,0 +1,13 @@
+{
+  "fecha": "2026-06-07",
+  "hay_alertas": false,
+  "resumen_ejecutivo": "Jornada sin eventos relevantes. Solo datos rutinarios de audiencia diaria y resúmenes mensuales retrospectivos.",
+  "alertas": {
+    "estrenos": [],
+    "deportes": [],
+    "especiales": [],
+    "entrevistas": [],
+    "parrilla": [],
+    "records": []
+  }
+}
