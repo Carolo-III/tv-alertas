@@ -1,0 +1,43 @@
+{
+  "fecha": "2026-06-08",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "La visita del Papa León XIV a España monopoliza las audiencias del fin de semana con cobertura especial; 'La trampa' supera a 'Supervivientes' en su recta final",
+  "alertas": {
+    "estrenos": [],
+    "deportes": [],
+    "especiales": [
+      {
+        "titular": "La misa del papa León XIV lidera la mañana y 'La trampa' supera a 'Supervivientes'",
+        "cadena": "Varias",
+        "detalle": "Cobertura especial de la visita papal a España genera liderazgo en audiencias matinales del domingo",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-domingo-7-junio-misa-papa-leon-cibeles-137420/"
+      },
+      {
+        "titular": "La llegada del papa León XIV a España lidera la mañana, pero pierde fuerza por la tarde",
+        "cadena": "Varias",
+        "detalle": "Evento de actualidad internacional con cobertura televisiva especial en sábado, con menor impacto vespertino",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-sabado-6-junio-papa-leon-xiv-espana-137415/"
+      }
+    ],
+    "entrevistas": [],
+    "parrilla": [],
+    "records": [
+      {
+        "titular": "Antena 3 Noticias 1 Fin de Semana logra 2.022.000 espectadores y 23,5% de share",
+        "cadena": "Antena 3",
+        "detalle": "Dato destacado del sábado 6 de junio como lo más visto del día",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-06-de-junio-2026/"
+      },
+      {
+        "titular": "'La trampa' supera a 'Supervivientes' en audiencias del domingo",
+        "cadena": "Varias",
+        "detalle": "Dato relevante de competencia en prime time dominical con victoria inesperada de ficción sobre reality",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-domingo-7-junio-misa-papa-leon-cibeles-137420/"
+      }
+    ]
+  }
+}
