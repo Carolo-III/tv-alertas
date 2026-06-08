@@ -1,40 +1,63 @@
 {
   "fecha": "2026-06-08",
   "hay_alertas": true,
-  "resumen_ejecutivo": "La visita del Papa León XIV a España monopoliza las audiencias del fin de semana con cobertura especial; 'La trampa' supera a 'Supervivientes' en su recta final",
+  "resumen_ejecutivo": "La visita del Papa León XIV a España domina la programación con cobertura especial en RTVE durante todo el fin de semana, generando liderazgo de audiencia; La 1 prepara maratón de Toy Story y Supervivientes se acerca a su final.",
   "alertas": {
-    "estrenos": [],
+    "estrenos": [
+      {
+        "titular": "RTVE prepara un maratón de 'Toy Story' antes del estreno de la quinta entrega",
+        "cadena": "La 1",
+        "detalle": "Maratón programado para el 13 de junio desde las 15:50 hasta las 22:00 horas previo al estreno de Toy Story 5",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/rtve-prepara-un-maraton-toy-story-antes-estreno-quinta-entrega-hasta-1-mas-alla_6980588_0.html"
+      }
+    ],
     "deportes": [],
     "especiales": [
       {
-        "titular": "La misa del papa León XIV lidera la mañana y 'La trampa' supera a 'Supervivientes'",
-        "cadena": "Varias",
-        "detalle": "Cobertura especial de la visita papal a España genera liderazgo en audiencias matinales del domingo",
+        "titular": "La misa del papa León XIV lidera la mañana",
+        "cadena": "RTVE",
+        "detalle": "Cobertura especial de la visita papal con misa del domingo 7 de junio que lidera audiencias matinales",
         "fuente": "Fórmula TV",
         "url": "https://www.formulatv.com/noticias/audiencias-domingo-7-junio-misa-papa-leon-cibeles-137420/"
       },
       {
         "titular": "La llegada del papa León XIV a España lidera la mañana, pero pierde fuerza por la tarde",
-        "cadena": "Varias",
-        "detalle": "Evento de actualidad internacional con cobertura televisiva especial en sábado, con menor impacto vespertino",
+        "cadena": "RTVE",
+        "detalle": "Cobertura especial del sábado 6 de junio de la llegada del Papa a España, con liderazgo en mañana",
         "fuente": "Fórmula TV",
         "url": "https://www.formulatv.com/noticias/audiencias-sabado-6-junio-papa-leon-xiv-espana-137415/"
+      },
+      {
+        "titular": "El gesto del Papa León XIV con trabajadores de RTVE a su paso por Torrespaña",
+        "cadena": "RTVE",
+        "detalle": "El Papa inició su recorrido desde las instalaciones de RTVE en Torrespaña hacia el Movistar Arena",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/gesto-papa-leon-xiv-con-trabajadores-rtve-su-paso-por-torrespana-yo-os-veo_6980300_0.html"
+      },
+      {
+        "titular": "'Supervivientes' vuelve a romper una amistad con la última y lacrimógena expulsión desde Honduras",
+        "cadena": "Telecinco",
+        "detalle": "Expulsión definitiva en las puertas de la gran final del reality, con Aratz, Alba y Maica protagonistas",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/supervivientes-vuelve-romper-una-amistad-con-ultima-lacrimogena-expulsion-desde-honduras-queriamos-llegar-juntos_6980377_0.html"
       }
     ],
     "entrevistas": [],
-    "parrilla": [],
+    "parrilla": [
+      {
+        "titular": "Ana Rosa, sobre la ausencia de Pedro Sánchez en los actos de León XIV",
+        "cadena": "Telecinco",
+        "detalle": "Programa aborda la decisión del presidente de acudir a un festival de música en lugar de los actos papales",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/ana-rosa-sobre-ausencia-pedro-sanchez-los-actos-leon-xiv-prefirio-irse-un-festival-musica-hacer-indi_6980553_0.html"
+      }
+    ],
     "records": [
       {
-        "titular": "Antena 3 Noticias 1 Fin de Semana logra 2.022.000 espectadores y 23,5% de share",
+        "titular": "\"La trampa\" supera a 'Supervivientes'",
         "cadena": "Antena 3",
-        "detalle": "Dato destacado del sábado 6 de junio como lo más visto del día",
-        "fuente": "Barlovento Comunicación",
-        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-06-de-junio-2026/"
-      },
-      {
-        "titular": "'La trampa' supera a 'Supervivientes' en audiencias del domingo",
-        "cadena": "Varias",
-        "detalle": "Dato relevante de competencia en prime time dominical con victoria inesperada de ficción sobre reality",
+        "detalle": "El filme supera en audiencia al reality de Telecinco en la noche del domingo 7 de junio",
         "fuente": "Fórmula TV",
         "url": "https://www.formulatv.com/noticias/audiencias-domingo-7-junio-misa-papa-leon-cibeles-137420/"
       }
