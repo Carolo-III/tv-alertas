@@ -1,0 +1,109 @@
+{
+  "fecha": "2026-06-09",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "La visita del papa León XIV domina la programación con misas, especiales y debates que marcan récords; 'La isla de las tentaciones' lidera el lunes con su hoguera final; estrenos de 'En tierra lejana' y maratón de Toy Story en RTVE",
+  "alertas": {
+    "estrenos": [
+      {
+        "titular": "RTVE prepara un maratón de 'Toy Story' antes del estreno de la quinta entrega",
+        "cadena": "La 1",
+        "detalle": "Maratón comenzará el 13 de junio desde las 15:50 hasta las 22:00 horas",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/rtve-prepara-un-maraton-toy-story-antes-estreno-quinta-entrega-hasta-1-mas-alla_6980588_0.html"
+      },
+      {
+        "titular": "Georgina Rodríguez y Antonio Resines, nueva pareja televisiva: la 'influencer' da el salto a presentadora",
+        "cadena": "",
+        "detalle": "Georgina presentará 'LOL: Si te ríes, pierdes' junto a Antonio Resines",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/georgina-rodriguez-antonio-resines-nueva-pareja-televisiva-influencer-da-salto-presentadora_6980897_0.html"
+      },
+      {
+        "titular": "'En tierra lejana' supera a 'MasterChef'",
+        "cadena": "",
+        "detalle": "Estreno o emisión destacada que bate a MasterChef en audiencia",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-lunes-8-junio-isla-de-las-tentacione-137432/"
+      }
+    ],
+    "deportes": [],
+    "especiales": [
+      {
+        "titular": "La misa del papa León XIV lidera la mañana",
+        "cadena": "Varias",
+        "detalle": "La misa del papa León XIV durante su visita a España lidera audiencias de la mañana del domingo",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-domingo-7-junio-misa-papa-leon-cibeles-137420/"
+      },
+      {
+        "titular": "Patricia Pardo recuerda cómo vivió el acto del papa León XIV en el Bernabéu: 'Lloré muchas veces ayer'",
+        "cadena": "",
+        "detalle": "Cobertura especial del acto del papa en el estadio Bernabéu el lunes anterior",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/patricia-pardo-recuerda-como-vivio-acto-papa-leon-xiv-bernabeu-llore-muchas-veces-ayer_6981092_0.html"
+      },
+      {
+        "titular": "Ana Rosa, sobre las palabras del papa en el Congreso: 'El jefe del Estado más pequeño conmovió con el discurso más grande'",
+        "cadena": "",
+        "detalle": "Cobertura y debate sobre el discurso del papa León XIV en el Congreso de los Diputados",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/ana-rosa-sobre-las-palabras-papa-congreso-jefe-estado-mas-pequeno-conmovio-con-discurso-mas-grande_6981117_0.html"
+      },
+      {
+        "titular": "'La isla de las tentaciones' lidera con un 14,4% con su hoguera final",
+        "cadena": "Telecinco",
+        "detalle": "Emisión de la hoguera final del reality con múltiples reencuentros explosivos",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-lunes-8-junio-isla-de-las-tentacione-137432/"
+      }
+    ],
+    "entrevistas": [
+      {
+        "titular": "El rey Felipe sale en el documental de Netflix del asesinato de Miguel Ángel Blanco",
+        "cadena": "Netflix",
+        "detalle": "El rey Felipe VI aparece en documental de Jon Sistiaga sobre Miguel Ángel Blanco, se emite el 10 de julio",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/rey-felipe-sale-documental-netflix-asesinato-miguel-angel-blanco-siento-misma-indignacion-que-cuando-paso_6981236_0.html"
+      },
+      {
+        "titular": "José Sacristán defiende a León XIV en 'La Revuelta': 'Me parece formidable cualquiera que le plante cara al energúmeno de Trump'",
+        "cadena": "La 1",
+        "detalle": "José Sacristán comenta sobre el papa León XIV en el programa de Broncano",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/jose-sacristan-defiende-leon-xiv-revuelta-me-parece-formidable-cualquiera-que-le-plante-cara-energumeno-trump_6980851_0.html"
+      },
+      {
+        "titular": "Mario Vaquerizo cuenta en 'El Hormiguero' su encuentro con León XIV: 'Sentí muy buenas vibraciones'",
+        "cadena": "Antena 3",
+        "detalle": "Mario Vaquerizo relata su experiencia con el papa en El Hormiguero",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/mario-vaquerizo-cuenta-hormiguero-su-encuentro-con-leon-xiv-senti-muy-buenas-vibraciones_6980845_0.html"
+      }
+    ],
+    "parrilla": [
+      {
+        "titular": "Ana Rosa, sobre la ausencia de Pedro Sánchez en los actos de León XIV: 'Prefirió irse a un festival de música a hacer el indi'",
+        "cadena": "Telecinco",
+        "detalle": "Debate sobre la ausencia del presidente en los actos del papa León XIV",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/ana-rosa-sobre-ausencia-pedro-sanchez-los-actos-leon-xiv-prefirio-irse-un-festival-musica-hacer-indi_6980553_0.html"
+      }
+    ],
+    "records": [
+      {
+        "titular": "'La isla de las tentaciones' lidera con un 14,4%",
+        "cadena": "Telecinco",
+        "detalle": "El reality alcanza 14,4% de share con su hoguera final el lunes 8 de junio",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-lunes-8-junio-isla-de-las-tentacione-137432/"
+      },
+      {
+        "titular": "La trampa supera a 'Supervivientes'",
+        "cadena": "",
+        "detalle": "La película 'La trampa' bate en audiencia a Supervivientes el domingo",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-domingo-7-junio-misa-papa-leon-cibeles-137420/"
+      }
+    ]
+  }
+}
