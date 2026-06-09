@@ -4,7 +4,7 @@ on:
   schedule:
     # 09:00 hora española (UTC+2 en verano = 07:00 UTC / UTC+1 en invierno = 08:00 UTC)
     # Usamos 07:00 UTC para cubrir horario de verano (CEST)
-    - cron: '0 7 * * *'
+    - cron: '0 5 * * *'
   workflow_dispatch:  # Permite ejecución manual desde GitHub
 
 jobs:
