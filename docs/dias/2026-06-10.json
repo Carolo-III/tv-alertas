@@ -1,99 +1,128 @@
 {
   "fecha": "2026-06-10",
   "hay_alertas": true,
-  "resumen_ejecutivo": "Visita papal de León XIV genera programación especial masiva; finales de realities dominan prime time; llegada estelar de Zendaya y Tom Holland a El Hormiguero",
+  "resumen_ejecutivo": "El Mundial de Fútbol altera la parrilla sacando 'Cifras y Letras'; visita papal genera especiales en múltiples cadenas; anuncios de Zendaya y Tom Holland en El Hormiguero y nueva temporada de La Voz",
   "alertas": {
     "estrenos": [
       {
-        "titular": "Georgina Rodríguez y Antonio Resines, nueva pareja televisiva: la 'influencer' da el salto a presentadora",
-        "cadena": "",
-        "detalle": "Georgina presentará 'LOL: Si te ríes, pierdes' junto a Antonio Resines",
-        "fuente": "20minutos",
-        "url": "https://www.20minutos.es/television/georgina-rodriguez-antonio-resines-nueva-pareja-televisiva-influencer-da-salto-presentadora_6980897_0.html"
+        "titular": "Mika, Lola Índigo, Melendi y Pablo López serán los 'coaches' de la próxima edición de 'La Voz'",
+        "cadena": "Antena 3",
+        "detalle": "Confirmado el panel de coaches para la nueva temporada del talent show musical",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/mika-lola-indigo-melendi-pablo-lopez-seran-los-coaches-proxima-edicion-voz_6981619_0.html"
       },
       {
-        "titular": "El icónico Naranjito regresa a la pantalla por primera vez desde 1982",
-        "cadena": "",
-        "detalle": "Regreso de la mascota del Mundial 82 a televisión después de 44 años",
-        "fuente": "20minutos",
-        "url": "https://www.20minutos.es/television/iconico-naranjito-regresa-pantalla-por-primera-vez-desde-1982_6981051_0.html"
+        "titular": "'Got Talent' tendrá una nueva versión a la que se incorpora Xuso Jones y en la que los jueces también tendrán que competir",
+        "cadena": "Telecinco",
+        "detalle": "Nueva versión del formato con Xuso Jones y mecánica renovada donde los jueces también compiten",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/got-talent-tendra-una-nueva-version-que-se-incorpora-xuso-jones-que-los-jueces-tambien-tendran-que-competir_6981425_0.html"
       },
       {
         "titular": "El rey Felipe sale en el documental de Netflix del asesinato de Miguel Ángel Blanco",
         "cadena": "",
-        "detalle": "Documental conducido por Jon Sistiaga se emitirá en Netflix el 10 de julio",
-        "fuente": "20minutos",
+        "detalle": "Documental conducido por Jon Sistiaga con participación del Rey Felipe VI, estreno 10 de julio en Netflix",
+        "fuente": "20minutos TV",
         "url": "https://www.20minutos.es/television/rey-felipe-sale-documental-netflix-asesinato-miguel-angel-blanco-siento-misma-indignacion-que-cuando-paso_6981236_0.html"
       }
     ],
-    "deportes": [],
+    "deportes": [
+      {
+        "titular": "El Mundial de Fútbol trastoca la emisión de 'Cifras y Letras' en medio de su mejor temporada en audiencia",
+        "cadena": "La 2",
+        "detalle": "El Mundial de Fútbol saca de parrilla 'Cifras y Letras' que estaba en su mejor temporada (5,8% y 711.000 espectadores), regresará en septiembre",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/mundial-futbol-se-queda-con-hueco-parrilla-cifras-letras-medio-su-mejor-temporada-audiencia_6981504_0.html"
+      }
+    ],
     "especiales": [
       {
-        "titular": "Ana Rosa, sobre las palabras del papa en el Congreso: 'El jefe del Estado más pequeño conmovió con el discurso más grande'",
-        "cadena": "Telecinco",
-        "detalle": "Cobertura del discurso del Papa León XIV en el Congreso de los Diputados",
-        "fuente": "20minutos",
-        "url": "https://www.20minutos.es/television/ana-rosa-sobre-las-palabras-papa-congreso-jefe-estado-mas-pequeno-conmovio-con-discurso-mas-grande_6981117_0.html"
+        "titular": "Carlos Franganillo 'entrevista' a Antoni Gaudí en un reportaje especial sobre sus obras, en el centenario de la muerte del arquitecto",
+        "cadena": "La 1",
+        "detalle": "Reportaje especial con motivo del centenario de la muerte de Gaudí",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/carlos-franganillo-entrevista-antoni-gaudi-un-reportaje-especial-sobre-sus-obras-centenario-muerte-arquitecto_6981631_0.html"
       },
       {
-        "titular": "Patricia Pardo recuerda cómo vivió el acto del papa León XIV en el Bernabéu: 'Lloré muchas veces ayer'",
+        "titular": "Alfred García, a escasos minutos de actuar frente a Leon XIV: 'Sigo sin creérmelo'",
+        "cadena": "",
+        "detalle": "Actuación especial del cantante ante el Papa León XIV durante su visita",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/alfred-garcia-escasos-minutos-actuar-frente-leon-xiv-sigo-sin-creermelo_6981214_0.html"
+      },
+      {
+        "titular": "Miguel Ángel Martín, amigo del Papa León XIV: 'Yo siempre le decía que en España tenía que ser del Real Madrid'",
+        "cadena": "",
+        "detalle": "Cobertura especial de la visita papal con entrevistas a personas cercanas al Papa",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/miguel-angel-martin-amigo-papa-leon-xiv-yo-siempre-le-decia-que-espana-tenia-que-ser-real-madrid_6981565_0.html"
+      },
+      {
+        "titular": "El piloto que llevó al Papa desde Madrid hasta Barcelona: 'Tiene una gran formación en física y matemáticas'",
+        "cadena": "",
+        "detalle": "Cobertura del traslado del Papa en su visita de Estado con testimonios del piloto",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/piloto-que-llevo-papa-desde-madrid-hasta-barcelona-tiene-una-gran-formacion-fisica-matematicas_6981543_0.html"
+      },
+      {
+        "titular": "Ana Rosa: 'Pedro Sánchez ha sacado un hueco para ir a misa, pero no se va a librar del infierno judicial'",
         "cadena": "Telecinco",
-        "detalle": "Cobertura especial del acto papal en el estadio Santiago Bernabéu el lunes 8 de junio",
-        "fuente": "20minutos",
-        "url": "https://www.20minutos.es/television/patricia-pardo-recuerda-como-vivio-acto-papa-leon-xiv-bernabeu-llore-muchas-veces-ayer_6981092_0.html"
+        "detalle": "Cobertura de la visita papal en programa matinal con comentarios sobre la asistencia del presidente",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/ana-rosa-pedro-sanchez-ha-sacado-un-hueco-para-ir-misa-pero-no-se-va-librar-infierno-judicial_6981552_0.html"
       },
       {
         "titular": "María Lamela apaga por primera vez la palapa de 'Supervivientes' entre lágrimas y emoción",
         "cadena": "Telecinco",
-        "detalle": "Final desde Honduras de Supervivientes tras casi 100 días, debut de Lamela como presentadora",
-        "fuente": "20minutos",
+        "detalle": "Final desde Honduras de Supervivientes, despedida emotiva de la presentadora tras casi 100 días",
+        "fuente": "20minutos TV",
         "url": "https://www.20minutos.es/television/maria-lamela-apaga-por-primera-vez-palapa-supervivientes-entre-lagrimas-emocion-espero-que-sean-muchos_6981357_0.html"
-      },
-      {
-        "titular": "'Supervivientes' lidera en su final en Honduras y 'Cara al Show' cae a su mínimo",
-        "cadena": "Telecinco",
-        "detalle": "Emisión de la final en Honduras de Supervivientes el martes 9 de junio",
-        "fuente": "Fórmula TV",
-        "url": "https://www.formulatv.com/noticias/audiencias-martes-9-junio-supervivientes-137441/"
-      },
-      {
-        "titular": "'La isla de las tentaciones' lidera con un 14,4% y 'En tierra lejana' supera a 'MasterChef'",
-        "cadena": "Telecinco",
-        "detalle": "Emisión de hogueras finales de La isla de las tentaciones el lunes 8 de junio",
-        "fuente": "Fórmula TV",
-        "url": "https://www.formulatv.com/noticias/audiencias-lunes-8-junio-isla-de-las-tentacione-137432/"
       }
     ],
     "entrevistas": [
       {
         "titular": "Bombazo de 'El Hormiguero': Zendaya y Tom Holland estarán la próxima semana",
         "cadena": "Antena 3",
-        "detalle": "Visita confirmada de los actores Zendaya y Tom Holland a El Hormiguero",
-        "fuente": "20minutos",
+        "detalle": "Pablo Motos anuncia la visita de Zendaya y Tom Holland, calificada como 'no hay nadie más famoso'",
+        "fuente": "20minutos TV",
         "url": "https://www.20minutos.es/television/bombazo-hormiguero-zendaya-tom-holland-estaran-proxima-semana_6981370_0.html"
       },
       {
-        "titular": "Ricardo Darín, sin filtros sobre la ultraderecha y la violencia machista en programa",
+        "titular": "Ricardo Darín, sin filtros sobre la ultraderecha y la violencia machista: '¿Qué pasa con los hombres, que no reaccionamos?'",
         "cadena": "",
-        "detalle": "Entrevista al actor argentino abordando temas de actualidad",
-        "fuente": "20minutos",
+        "detalle": "Entrevista al actor argentino abordando temas de violencia machista y ultraderecha",
+        "fuente": "20minutos TV",
         "url": "https://www.20minutos.es/television/ricardo-darin-sin-filtros-sobre-ultraderecha-violencia-machista-que-pasa-con-los-hombres-que-no-reaccionamos_6981345_0.html"
       }
     ],
     "parrilla": [
       {
-        "titular": "'Supervivientes' lidera en su final en Honduras y 'Cara al Show' cae a su mínimo",
-        "cadena": "Telecinco",
-        "detalle": "Cara al Show registra su dato más bajo de audiencia",
-        "fuente": "Fórmula TV",
-        "url": "https://www.formulatv.com/noticias/audiencias-martes-9-junio-supervivientes-137441/"
+        "titular": "El Mundial de Fútbol trastoca la emisión de 'Cifras y Letras' en medio de su mejor temporada en audiencia",
+        "cadena": "La 2",
+        "detalle": "Cancelación temporal del programa cultural por el Mundial de Fútbol, regresará en septiembre",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/mundial-futbol-se-queda-con-hueco-parrilla-cifras-letras-medio-su-mejor-temporada-audiencia_6981504_0.html"
+      },
+      {
+        "titular": "Leticia Sabater y Georgina Rodríguez coincidirán en 'LOL' tras su sonada polémica",
+        "cadena": "Varias",
+        "detalle": "Confirmado el fichaje de ambas para la nueva temporada de LOL en streaming",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/leticia-sabater-georgina-rodriguez-coincidiran-lol-tras-su-sonada-polemica_6981669_0.html"
       }
     ],
     "records": [
       {
-        "titular": "'La isla de las tentaciones' lidera con un 14,4%",
+        "titular": "'Supervivientes' lidera en su final en Honduras y 'Cara al Show' cae a su mínimo",
         "cadena": "Telecinco",
-        "detalle": "Fuerte liderazgo del reality en prime time del lunes con 14,4% de share",
+        "detalle": "Supervivientes lidera en su final desde Honduras mientras Cara al Show marca mínimo histórico",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-martes-9-junio-supervivientes-137441/"
+      },
+      {
+        "titular": "'La isla de las tentaciones' lidera con un 14,4% y 'En tierra lejana' supera a 'MasterChef'",
+        "cadena": "Telecinco",
+        "detalle": "La isla de las tentaciones lidera la noche del lunes con 14,4% de cuota",
         "fuente": "Fórmula TV",
         "url": "https://www.formulatv.com/noticias/audiencias-lunes-8-junio-isla-de-las-tentacione-137432/"
       }
