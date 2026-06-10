@@ -1,0 +1,102 @@
+{
+  "fecha": "2026-06-10",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "Visita papal de León XIV genera programación especial masiva; finales de realities dominan prime time; llegada estelar de Zendaya y Tom Holland a El Hormiguero",
+  "alertas": {
+    "estrenos": [
+      {
+        "titular": "Georgina Rodríguez y Antonio Resines, nueva pareja televisiva: la 'influencer' da el salto a presentadora",
+        "cadena": "",
+        "detalle": "Georgina presentará 'LOL: Si te ríes, pierdes' junto a Antonio Resines",
+        "fuente": "20minutos",
+        "url": "https://www.20minutos.es/television/georgina-rodriguez-antonio-resines-nueva-pareja-televisiva-influencer-da-salto-presentadora_6980897_0.html"
+      },
+      {
+        "titular": "El icónico Naranjito regresa a la pantalla por primera vez desde 1982",
+        "cadena": "",
+        "detalle": "Regreso de la mascota del Mundial 82 a televisión después de 44 años",
+        "fuente": "20minutos",
+        "url": "https://www.20minutos.es/television/iconico-naranjito-regresa-pantalla-por-primera-vez-desde-1982_6981051_0.html"
+      },
+      {
+        "titular": "El rey Felipe sale en el documental de Netflix del asesinato de Miguel Ángel Blanco",
+        "cadena": "",
+        "detalle": "Documental conducido por Jon Sistiaga se emitirá en Netflix el 10 de julio",
+        "fuente": "20minutos",
+        "url": "https://www.20minutos.es/television/rey-felipe-sale-documental-netflix-asesinato-miguel-angel-blanco-siento-misma-indignacion-que-cuando-paso_6981236_0.html"
+      }
+    ],
+    "deportes": [],
+    "especiales": [
+      {
+        "titular": "Ana Rosa, sobre las palabras del papa en el Congreso: 'El jefe del Estado más pequeño conmovió con el discurso más grande'",
+        "cadena": "Telecinco",
+        "detalle": "Cobertura del discurso del Papa León XIV en el Congreso de los Diputados",
+        "fuente": "20minutos",
+        "url": "https://www.20minutos.es/television/ana-rosa-sobre-las-palabras-papa-congreso-jefe-estado-mas-pequeno-conmovio-con-discurso-mas-grande_6981117_0.html"
+      },
+      {
+        "titular": "Patricia Pardo recuerda cómo vivió el acto del papa León XIV en el Bernabéu: 'Lloré muchas veces ayer'",
+        "cadena": "Telecinco",
+        "detalle": "Cobertura especial del acto papal en el estadio Santiago Bernabéu el lunes 8 de junio",
+        "fuente": "20minutos",
+        "url": "https://www.20minutos.es/television/patricia-pardo-recuerda-como-vivio-acto-papa-leon-xiv-bernabeu-llore-muchas-veces-ayer_6981092_0.html"
+      },
+      {
+        "titular": "María Lamela apaga por primera vez la palapa de 'Supervivientes' entre lágrimas y emoción",
+        "cadena": "Telecinco",
+        "detalle": "Final desde Honduras de Supervivientes tras casi 100 días, debut de Lamela como presentadora",
+        "fuente": "20minutos",
+        "url": "https://www.20minutos.es/television/maria-lamela-apaga-por-primera-vez-palapa-supervivientes-entre-lagrimas-emocion-espero-que-sean-muchos_6981357_0.html"
+      },
+      {
+        "titular": "'Supervivientes' lidera en su final en Honduras y 'Cara al Show' cae a su mínimo",
+        "cadena": "Telecinco",
+        "detalle": "Emisión de la final en Honduras de Supervivientes el martes 9 de junio",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-martes-9-junio-supervivientes-137441/"
+      },
+      {
+        "titular": "'La isla de las tentaciones' lidera con un 14,4% y 'En tierra lejana' supera a 'MasterChef'",
+        "cadena": "Telecinco",
+        "detalle": "Emisión de hogueras finales de La isla de las tentaciones el lunes 8 de junio",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-lunes-8-junio-isla-de-las-tentacione-137432/"
+      }
+    ],
+    "entrevistas": [
+      {
+        "titular": "Bombazo de 'El Hormiguero': Zendaya y Tom Holland estarán la próxima semana",
+        "cadena": "Antena 3",
+        "detalle": "Visita confirmada de los actores Zendaya y Tom Holland a El Hormiguero",
+        "fuente": "20minutos",
+        "url": "https://www.20minutos.es/television/bombazo-hormiguero-zendaya-tom-holland-estaran-proxima-semana_6981370_0.html"
+      },
+      {
+        "titular": "Ricardo Darín, sin filtros sobre la ultraderecha y la violencia machista en programa",
+        "cadena": "",
+        "detalle": "Entrevista al actor argentino abordando temas de actualidad",
+        "fuente": "20minutos",
+        "url": "https://www.20minutos.es/television/ricardo-darin-sin-filtros-sobre-ultraderecha-violencia-machista-que-pasa-con-los-hombres-que-no-reaccionamos_6981345_0.html"
+      }
+    ],
+    "parrilla": [
+      {
+        "titular": "'Supervivientes' lidera en su final en Honduras y 'Cara al Show' cae a su mínimo",
+        "cadena": "Telecinco",
+        "detalle": "Cara al Show registra su dato más bajo de audiencia",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-martes-9-junio-supervivientes-137441/"
+      }
+    ],
+    "records": [
+      {
+        "titular": "'La isla de las tentaciones' lidera con un 14,4%",
+        "cadena": "Telecinco",
+        "detalle": "Fuerte liderazgo del reality en prime time del lunes con 14,4% de share",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-lunes-8-junio-isla-de-las-tentacione-137432/"
+      }
+    ]
+  }
+}
