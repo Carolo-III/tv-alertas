@@ -1,0 +1,59 @@
+{
+  "fecha": "2026-06-12",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "El partido inaugural del Mundial 2026 arrasa con un 28% en La 1, mientras Supervivientes cierra temporada con final femenina histórica y RTVE anuncia dos nuevos concursos para próxima temporada",
+  "alertas": {
+    "estrenos": [
+      {
+        "titular": "Jesús Vázquez se meterá en 'El túnel', un concurso que ya busca participantes para el 'prime time' de RTVE",
+        "cadena": "La 1",
+        "detalle": "Nuevo concurso con Jesús Vázquez para prime time de próxima temporada, ya en casting",
+        "fuente": "20minutos",
+        "url": "https://www.20minutos.es/television/jesus-vazquez-se-metera-tunel-un-concurso-que-ya-busca-participantes-para-prime-time-rtve_6982404_0.html"
+      },
+      {
+        "titular": "¿Cuándo salió ese pelotazo? 'Hitster: el juego de los grandes éxitos' será el nuevo concurso musical de RTVE",
+        "cadena": "La 1",
+        "detalle": "Nuevo concurso musical para RTVE basado en el juego Hitster",
+        "fuente": "20minutos",
+        "url": "https://www.20minutos.es/television/cuando-salio-ese-pelotazo-hitster-juego-los-grandes-exitos-sera-nuevo-concurso-musical-rtve_6982101_0.html"
+      }
+    ],
+    "deportes": [
+      {
+        "titular": "El partido inaugural del Mundial 2026 barre con un 28% y 'Supervivientes' lidera en su final",
+        "cadena": "La 1",
+        "detalle": "Partido México-Sudáfrica (previa) del Mundial de Fútbol 2026 logra 3.351.000 espectadores y 28% de cuota",
+        "fuente": "Fórmula TV / Barlovento",
+        "url": "https://www.formulatv.com/noticias/audiencias-jueves-11-junio-partido-inaugural-137460/"
+      }
+    ],
+    "especiales": [
+      {
+        "titular": "'Supervivientes' ya tiene a su ganadora en una final puramente femenina: 'Hacía 15 años que no ocurría algo así'",
+        "cadena": "Telecinco",
+        "detalle": "Final histórica de Supervivientes con triple televoto, juegos y el circuito más grande de la historia. Primera final completamente femenina en 15 años",
+        "fuente": "20minutos",
+        "url": "https://www.20minutos.es/television/final-supervivientes-ganador-reacciones-ultimas-noticias_6982050_6.html"
+      }
+    ],
+    "entrevistas": [],
+    "parrilla": [
+      {
+        "titular": "Sonsoles Ónega se marcha de su programa para asistir a la gala del 75 aniversario de los Premios Planeta",
+        "cadena": "Antena 3",
+        "detalle": "La presentadora abandona su programa por evento especial del 75 aniversario Premios Planeta",
+        "fuente": "20minutos",
+        "url": "https://www.20minutos.es/television/sonsoles-onega-se-marcha-su-programa-para-asistir-gala-75-aniversario-los-premios-planeta-me-voy-celebrar_6982233_0.html"
+      },
+      {
+        "titular": "'La isla de las tentaciones' sube con su reencuentro y 'Operación África' se desploma",
+        "cadena": "Varias",
+        "detalle": "Reencuentro de 'La isla de las tentaciones' sube en audiencia mientras 'Operación África' cae",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-miercoles-10-junio-la-isla-tentaciones-137451/"
+      }
+    ],
+    "records": []
+  }
+}
