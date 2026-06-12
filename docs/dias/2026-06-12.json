@@ -1,21 +1,21 @@
 {
   "fecha": "2026-06-12",
   "hay_alertas": true,
-  "resumen_ejecutivo": "El partido inaugural del Mundial 2026 arrasa con un 28% en La 1, mientras Supervivientes cierra temporada con final femenina histórica y RTVE anuncia dos nuevos concursos para próxima temporada",
+  "resumen_ejecutivo": "El partido inaugural del Mundial 2026 arrasa con un 28% en La 1, mientras Supervivientes cierra temporada con su final y RTVE prepara nuevos concursos para el prime time",
   "alertas": {
     "estrenos": [
       {
         "titular": "Jesús Vázquez se meterá en 'El túnel', un concurso que ya busca participantes para el 'prime time' de RTVE",
         "cadena": "La 1",
-        "detalle": "Nuevo concurso con Jesús Vázquez para prime time de próxima temporada, ya en casting",
-        "fuente": "20minutos",
+        "detalle": "Nuevo concurso propio para Jesús Vázquez en RTVE a partir de próxima temporada",
+        "fuente": "20minutos TV",
         "url": "https://www.20minutos.es/television/jesus-vazquez-se-metera-tunel-un-concurso-que-ya-busca-participantes-para-prime-time-rtve_6982404_0.html"
       },
       {
         "titular": "¿Cuándo salió ese pelotazo? 'Hitster: el juego de los grandes éxitos' será el nuevo concurso musical de RTVE",
-        "cadena": "La 1",
-        "detalle": "Nuevo concurso musical para RTVE basado en el juego Hitster",
-        "fuente": "20minutos",
+        "cadena": "RTVE",
+        "detalle": "Nuevo concurso musical en preparación para RTVE",
+        "fuente": "20minutos TV",
         "url": "https://www.20minutos.es/television/cuando-salio-ese-pelotazo-hitster-juego-los-grandes-exitos-sera-nuevo-concurso-musical-rtve_6982101_0.html"
       }
     ],
@@ -23,37 +23,81 @@
       {
         "titular": "El partido inaugural del Mundial 2026 barre con un 28% y 'Supervivientes' lidera en su final",
         "cadena": "La 1",
-        "detalle": "Partido México-Sudáfrica (previa) del Mundial de Fútbol 2026 logra 3.351.000 espectadores y 28% de cuota",
-        "fuente": "Fórmula TV / Barlovento",
+        "detalle": "Partido México-Sudáfrica (previa) logra 3.351.000 espectadores y 28% de share",
+        "fuente": "Fórmula TV",
         "url": "https://www.formulatv.com/noticias/audiencias-jueves-11-junio-partido-inaugural-137460/"
+      },
+      {
+        "titular": "Audiencias 11 de junio 2026 - MEXICO-SUDAFRICA:PREVIA de FUTBOL:COPA MUNDIAL",
+        "cadena": "La 1",
+        "detalle": "Lo más visto del día con 3.351.000 espectadores y 28% de cuota",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-11-de-junio-2026/"
       }
     ],
     "especiales": [
       {
-        "titular": "'Supervivientes' ya tiene a su ganadora en una final puramente femenina: 'Hacía 15 años que no ocurría algo así'",
+        "titular": "Iker Jiménez dedica un especial de 'Horizonte' a Donald Trump, coincidiendo con su 80 cumpleaños",
+        "cadena": "Cuatro",
+        "detalle": "Programa especial sobre la vida y presidencia de Trump por su 80 aniversario",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/iker-jimenez-dedica-un-especial-horizonte-donald-trump-coincidiendo-con-su-80-cumpleanos_6982642_0.html"
+      },
+      {
+        "titular": "'Supervivientes' ya tiene a su ganadora en una final puramente femenina",
         "cadena": "Telecinco",
-        "detalle": "Final histórica de Supervivientes con triple televoto, juegos y el circuito más grande de la historia. Primera final completamente femenina en 15 años",
-        "fuente": "20minutos",
+        "detalle": "Final del reality con triple televoto, juegos históricos y 200.000 euros de premio. Primera final femenina en 15 años",
+        "fuente": "20minutos TV",
         "url": "https://www.20minutos.es/television/final-supervivientes-ganador-reacciones-ultimas-noticias_6982050_6.html"
+      },
+      {
+        "titular": "La final de 'Supervivientes' tendrá su juego más grande de la historia",
+        "cadena": "Telecinco",
+        "detalle": "Circuito espectacular con doble apnea por primera vez decidirá ganador de 200.000 euros",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/final-supervivientes-tendra-su-juego-mas-grande-historia-decidira-quien-se-lleva-los-200-000-euros-premio_6981947_0.html"
       }
     ],
-    "entrevistas": [],
-    "parrilla": [
+    "entrevistas": [
       {
-        "titular": "Sonsoles Ónega se marcha de su programa para asistir a la gala del 75 aniversario de los Premios Planeta",
+        "titular": "Susanna Griso agradece que el papa León XIV visite el centro de migrantes de Las Raíces, en Tenerife",
         "cadena": "Antena 3",
-        "detalle": "La presentadora abandona su programa por evento especial del 75 aniversario Premios Planeta",
-        "fuente": "20minutos",
-        "url": "https://www.20minutos.es/television/sonsoles-onega-se-marcha-su-programa-para-asistir-gala-75-aniversario-los-premios-planeta-me-voy-celebrar_6982233_0.html"
+        "detalle": "Contexto de visita papal a España con parada en centro de migrantes",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/susanna-griso-que-momento-nos-hemos-vuelto-tan-insensibles-que-hablamos-menas-como-si-fuesen-objetos_6982586_0.html"
       },
+      {
+        "titular": "Sergi, el joven que entregó su rosario al papa y luego lo recuperó: 'Ha pasado por Tierra Santa'",
+        "cadena": "",
+        "detalle": "Cobertura de visita papal a España con anécdotas destacadas",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/sergi-joven-que-entrego-su-rosario-papa-luego-recupero-ha-pasado-por-tierra-santa_6982611_0.html"
+      }
+    ],
+    "parrilla": [
       {
         "titular": "'La isla de las tentaciones' sube con su reencuentro y 'Operación África' se desploma",
         "cadena": "Varias",
-        "detalle": "Reencuentro de 'La isla de las tentaciones' sube en audiencia mientras 'Operación África' cae",
+        "detalle": "Cambios significativos en audiencias del miércoles 10 de junio",
         "fuente": "Fórmula TV",
         "url": "https://www.formulatv.com/noticias/audiencias-miercoles-10-junio-la-isla-tentaciones-137451/"
       }
     ],
-    "records": []
+    "records": [
+      {
+        "titular": "El partido inaugural del Mundial 2026 barre con un 28%",
+        "cadena": "La 1",
+        "detalle": "Dato muy destacado para partido inaugural del Mundial con 28% de share y más de 3,3 millones",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-jueves-11-junio-partido-inaugural-137460/"
+      },
+      {
+        "titular": "Primera final femenina de Supervivientes en 15 años",
+        "cadena": "Telecinco",
+        "detalle": "Hito histórico del programa con final completamente femenina por primera vez desde hace 15 años",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/final-supervivientes-ganador-reacciones-ultimas-noticias_6982050_6.html"
+      }
+    ]
   }
 }
