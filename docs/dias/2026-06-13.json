@@ -1,0 +1,74 @@
+{
+  "fecha": "2026-06-13",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "Arranca el Mundial 2026 con récords de audiencia en La 1, final de Supervivientes y Cristina Pardo se despide de laSexta tras 20 años",
+  "alertas": {
+    "estrenos": [
+      {
+        "titular": "Jesús Vázquez se meterá en 'El túnel', un concurso que ya busca participantes para el 'prime time' de RTVE",
+        "cadena": "La 1",
+        "detalle": "Nuevo concurso con Jesús Vázquez en prime time de La 1 para la próxima temporada",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/jesus-vazquez-se-metera-tunel-un-concurso-que-ya-busca-participantes-para-prime-time-rtve_6982404_0.html"
+      }
+    ],
+    "deportes": [
+      {
+        "titular": "Mundial 2026: Partido MEXICO-SUDAFRICA logró 3.351.000 espectadores y 28% de cuota",
+        "cadena": "La 1",
+        "detalle": "Partido inaugural del Mundial 2026 barre en audiencias el jueves 11 de junio",
+        "fuente": "Barlovento Comunicación / Fórmula TV",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-11-de-junio-2026/"
+      },
+      {
+        "titular": "Mundial 2026: Partido CANADA-BOSNIA Y HERZEGOVINA logró 2.149.000 espectadores y 22,5%",
+        "cadena": "La 1",
+        "detalle": "Segundo partido del Mundial, viernes 12 de junio, fue lo más visto del día",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-12-de-junio-de-2026/"
+      }
+    ],
+    "especiales": [
+      {
+        "titular": "Iker Jiménez dedica un especial de 'Horizonte' a Donald Trump, coincidiendo con su 80 cumpleaños",
+        "cadena": "Cuatro",
+        "detalle": "Especial sobre la vida, carrera y presidencia de Trump en su 80 cumpleaños",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/iker-jimenez-dedica-un-especial-horizonte-donald-trump-coincidiendo-con-su-80-cumpleanos_6982642_0.html"
+      },
+      {
+        "titular": "Cobertura de la visita del papa León XIV: encuentros con niña invidente Valentina y visita a centro de migrantes",
+        "cadena": "Varias",
+        "detalle": "Especiales informativos sobre visita papal con impacto mediático destacado",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/valentina-nina-invidente-que-conquisto-papa-leon-xiv-los-reyes-desvela-como-vivio-ese-encuentro-estuvo-muy-atento_6982733_0.html"
+      },
+      {
+        "titular": "Final de 'Supervivientes 2026': Maica gana la edición",
+        "cadena": "Telecinco",
+        "detalle": "Gran final del reality con victoria de Maica, líder de su franja",
+        "fuente": "20minutos TV / Fórmula TV",
+        "url": "https://www.20minutos.es/television/insolita-reaccion-maica-tras-ganar-supervivientes-2026-no-me-puedo-creer-estoy-shock_6982432_0.html"
+      }
+    ],
+    "entrevistas": [],
+    "parrilla": [
+      {
+        "titular": "Cristina Pardo se despide de 'Más vale tarde' y La Sexta tras 20 años",
+        "cadena": "laSexta",
+        "detalle": "La presentadora inicia nueva etapa profesional en Antena 3 dejando laSexta",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/cristina-pardo-se-despide-mas-vale-tarde-sexta-muchas-gracias-esta-cadena-que-me-ha-dado-tantas-oportunidades_6982785_0.html"
+      }
+    ],
+    "records": [
+      {
+        "titular": "El partido inaugural del Mundial 2026 barre con un 28% y lidera ampliamente",
+        "cadena": "La 1",
+        "detalle": "México-Sudáfrica alcanza 3.351.000 espectadores y 28% en arranque del Mundial",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-jueves-11-junio-partido-inaugural-137460/"
+      }
+    ]
+  }
+}
