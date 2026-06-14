@@ -1,0 +1,51 @@
+{
+  "fecha": "2026-06-14",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "La 1 domina con el Mundial de Fútbol alcanzando máximos de 34,4% en horario nocturno, mientras la competencia queda relegada a un segundo plano",
+  "alertas": {
+    "estrenos": [],
+    "deportes": [
+      {
+        "titular": "Brasil-Marruecos (previa) logra 2.160.000 espectadores y 34,4% en La 1",
+        "cadena": "La 1",
+        "detalle": "Partido del Mundial de Fútbol emitido el sábado 13 de junio a las 00:04h con datos récord en horario nocturno",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-13-de-junio-2026/"
+      },
+      {
+        "titular": "Canadá-Bosnia y Herzegovina (previa) consigue 2.149.000 espectadores y 22,5% en La 1",
+        "cadena": "La 1",
+        "detalle": "Partido del Mundial de Fútbol emitido el viernes 12 de junio a las 21:02h, lo más visto del día",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-12-de-junio-de-2026/"
+      },
+      {
+        "titular": "La 1 lidera gracias al Mundial mientras la maratón de 'Toy Story' pasa desapercibida",
+        "cadena": "La 1",
+        "detalle": "El Mundial de Fútbol consolida el liderazgo de La 1 el sábado 13 de junio frente a la competencia",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-sabado-13-junio-mundial-toy-story-137475/"
+      }
+    ],
+    "especiales": [],
+    "entrevistas": [],
+    "parrilla": [
+      {
+        "titular": "'La revuelta' no aprovecha el Mundial y marca un 8,8% frente a 'Tu cara me suena'",
+        "cadena": "Varias",
+        "detalle": "El viernes 12 de junio 'La revuelta' registra bajo rendimiento en contexto de Mundial, perdiendo frente a 'Tu cara me suena'",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-viernes-12-junio-la-revuelta-137471/"
+      }
+    ],
+    "records": [
+      {
+        "titular": "Brasil-Marruecos alcanza 34,4% de share en horario nocturno",
+        "cadena": "La 1",
+        "detalle": "Dato excepcional para un partido emitido tras medianoche (00:04h), lo más visto del sábado 13 de junio",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-13-de-junio-2026/"
+      }
+    ]
+  }
+}
