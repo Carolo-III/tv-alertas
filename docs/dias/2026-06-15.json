@@ -1,0 +1,73 @@
+{
+  "fecha": "2026-06-15",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "Copa Mundial domina audiencias con partidos en La 1 superando 2M; Antena 3 estrena prueba sustituta de El Rosco tras sentencia judicial; nuevo concurso en La 1 con Grison y famosos",
+  "alertas": {
+    "estrenos": [
+      {
+        "titular": "Antena 3 ya tiene prueba sustituta para El Rosco de 'Pasapalabra': la estrenará el viernes",
+        "cadena": "Antena 3",
+        "detalle": "Nueva prueba se estrena el viernes 19 de junio en sustitución de El Rosco",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/antena-3-ya-tiene-prueba-sustituta-para-rosco-pasapalabra-estrenara-viernes_6983431_0.html"
+      },
+      {
+        "titular": "Bertín Osborne, Rosa López, Jorge Garbajosa e Inés Hernand, concursantes de 'El escondite' de Grison en La 1",
+        "cadena": "La 1",
+        "detalle": "Nuevo concurso presentado por Grison con concursantes famosos",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/bertin-osborne-rosa-lopez-jorge-garbajosa-ines-hernand-concursantes-escondite-grison-1_6983096_0.html"
+      }
+    ],
+    "deportes": [
+      {
+        "titular": "Audiencias 14 de junio 2026. Alemania-Curazao de Copa Mundial",
+        "cadena": "La 1",
+        "detalle": "Partido logró 2.307.000 espectadores y 25,5% de cuota a las 19:01h",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-14-de-junio-2026/"
+      },
+      {
+        "titular": "Audiencias 13 de junio 2026. Brasil-Marruecos de Copa Mundial",
+        "cadena": "La 1",
+        "detalle": "Partido logró 2.160.000 espectadores y 34,4% de cuota a las 00:04h",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-13-de-junio-2026/"
+      },
+      {
+        "titular": "El Alemania - Curazao del Mundial 2026, lo más visto del domingo con un 25,5%",
+        "cadena": "La 1",
+        "detalle": "Confirmación del liderazgo del Mundial en audiencias del domingo",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-domingo-14-junio-alemania-curazao-137482/"
+      },
+      {
+        "titular": "La 1 lidera gracias al Mundial mientras la maratón de 'Toy Story' pasa desapercibida",
+        "cadena": "La 1",
+        "detalle": "La 1 lidera con Copa Mundial frente a programación rival del sábado",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-sabado-13-junio-mundial-toy-story-137475/"
+      }
+    ],
+    "especiales": [],
+    "entrevistas": [],
+    "parrilla": [
+      {
+        "titular": "Atresmedia cumple la sentencia de 'El Rosco' y elimina para siempre seis años 'Pasapalabra', 1.539 episodios",
+        "cadena": "Antena 3",
+        "detalle": "Sentencia judicial obliga a eliminar 6 años de emisiones de Pasapalabra (1.539 episodios)",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/atresmedia-cumple-sentencia-rosco-elimina-para-siempre-seis-anos-pasapalabra-1-539-episodios_6983630_0.html"
+      }
+    ],
+    "records": [
+      {
+        "titular": "Brasil-Marruecos Copa Mundial alcanza 34,4% de cuota en madrugada",
+        "cadena": "La 1",
+        "detalle": "Partido a las 00:04h logra notable 34,4% de share con 2.160.000 espectadores",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-13-de-junio-2026/"
+      }
+    ]
+  }
+}
