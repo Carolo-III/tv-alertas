@@ -1,0 +1,73 @@
+{
+  "fecha": "2026-06-16",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "El debut de España en el Mundial 2026 arrasa con récord del año (7,3M y 60,4%), El Grand Prix regresa a La 1, y Antena 3 estrena nueva prueba en Pasapalabra",
+  "alertas": {
+    "estrenos": [
+      {
+        "titular": "'El Grand Prix del Verano' regresa a La 1 con nuevos pueblos, apasionantes retos y el espíritu de siempre",
+        "cadena": "La 1",
+        "detalle": "Ramón García vuelve al frente del clásico de verano junto a Lalachus, Gorka Rodríguez, Wilbur y la Vaquilla",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/grand-prix-verano-regresa-1-con-nuevos-pueblos-apasionantes-retos-espiritu-siempre_6984086_0.html"
+      },
+      {
+        "titular": "Antena 3 ya tiene prueba sustituta para El Rosco de 'Pasapalabra': la estrenará el viernes",
+        "cadena": "Antena 3",
+        "detalle": "Nueva prueba se estrenará el viernes 19 de junio en sustitución de El Rosco",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/antena-3-ya-tiene-prueba-sustituta-para-rosco-pasapalabra-estrenara-viernes_6983431_0.html"
+      }
+    ],
+    "deportes": [
+      {
+        "titular": "El debut de España en el Mundial arrasa y es lo más visto del año con más de 7 millones de espectadores",
+        "cadena": "La 1",
+        "detalle": "España-Cabo Verde del Mundial 2026 logra 7,3M espectadores y 60,4% de cuota, lo más visto del año",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/debut-espana-mundial-arrasa-es-mas-visto-ano-con-mas-7-millones-espectadores_6983713_0.html"
+      },
+      {
+        "titular": "Audiencias 15 de junio 2026. España-Cabo Verde logró 7.322.000 espectadores y el 60,4% de cuota",
+        "cadena": "La 1",
+        "detalle": "Partido de COPA MUNDIAL de fútbol emitido el lunes 15 de junio a las 18:01 horas",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-15-de-junio-2026/"
+      },
+      {
+        "titular": "El Alemania - Curazao del Mundial 2026, lo más visto del domingo con un 25,5%",
+        "cadena": "",
+        "detalle": "Partido del Mundial 2026 fue lo más visto del domingo 14 de junio",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-domingo-14-junio-alemania-curazao-137482/"
+      }
+    ],
+    "especiales": [],
+    "entrevistas": [],
+    "parrilla": [
+      {
+        "titular": "Atresmedia cumple la sentencia de 'El Rosco' y elimina para siempre seis años de 'Pasapalabra', 1.539 episodios",
+        "cadena": "Antena 3",
+        "detalle": "Atresmedia elimina definitivamente 1.539 episodios de Pasapalabra (6 años) por cumplimiento de sentencia judicial",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/atresmedia-cumple-sentencia-rosco-elimina-para-siempre-seis-anos-pasapalabra-1-539-episodios_6983630_0.html"
+      },
+      {
+        "titular": "La meteoróloga Isabel Moreno se despide de 'Aquí la Tierra' tras casi nueve años",
+        "cadena": "La 1",
+        "detalle": "Isabel Moreno abandona el programa de La 1 tras casi 9 años como meteoróloga",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/meteorologa-isabel-moreno-se-despide-aqui-tierra-tras-casi-nueve-anos-crei-que-no-iba-durar-ni-tres-meses_6983726_0.html"
+      }
+    ],
+    "records": [
+      {
+        "titular": "El debut de España en el Mundial 2026 arrasa con un 60,4% y más de 7 millones de seguidores",
+        "cadena": "La 1",
+        "detalle": "Récord del año 2026: España-Cabo Verde alcanza 7,3M espectadores y 60,4% de cuota",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-lunes-15-junio-espana-mundial-2026-137494/"
+      }
+    ]
+  }
+}
