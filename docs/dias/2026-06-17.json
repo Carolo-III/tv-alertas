@@ -1,0 +1,88 @@
+{
+  "fecha": "2026-06-17",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "El Mundial 2026 arrasa en La 1: España-Cabo Verde logra récord con 60,4% y más de 7 millones; Francia-Senegal marca 27,6% y 3,3 millones",
+  "alertas": {
+    "estrenos": [
+      {
+        "titular": "Prime Video confirma una nueva edición de 'Operación Triunfo' y 'LOL: Si te ríes, pierdes' con Georgina Rodríguez como presentadora",
+        "cadena": "Prime Video",
+        "detalle": "Nueva edición de OT y LOL con Georgina Rodríguez confirmadas para Prime Video",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/prime-video-confirma-una-nueva-edicion-operacion-triunfo-lol-si-te-ries-pierdes-con-georgina-rodriguez-como-presentadora_6984543_0.html"
+      },
+      {
+        "titular": "'El Grand Prix del Verano' regresa a La 1 con nuevos pueblos, apasionantes retos y el espíritu de siempre",
+        "cadena": "La 1",
+        "detalle": "Ramón García regresa con El Grand Prix junto a Lalachus, Gorka Rodríguez y Wilbur para el verano",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/grand-prix-verano-regresa-1-con-nuevos-pueblos-apasionantes-retos-espiritu-siempre_6984086_0.html"
+      },
+      {
+        "titular": "Netflix prepara 'Criminopaía', una docuserie que analizará crímenes reales en España",
+        "cadena": "Netflix",
+        "detalle": "Docuserie sobre crímenes reales dirigida por Clara Tiscar, referente en análisis criminal",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/netflix-prepara-criminopaia-una-docuserie-que-analizara-crimenes-reales-espana_6984509_0.html"
+      }
+    ],
+    "deportes": [
+      {
+        "titular": "El debut de España en el Mundial 2026 arrasa con un 60,4% y más de 7 millones de seguidores",
+        "cadena": "La 1",
+        "detalle": "España-Cabo Verde logra 7.322.000 espectadores y 60,4% de cuota el lunes 15 de junio a las 18:01h",
+        "fuente": "Fórmula TV / Barlovento",
+        "url": "https://www.formulatv.com/noticias/audiencias-lunes-15-junio-espana-mundial-2026-137494/"
+      },
+      {
+        "titular": "El partido entre Francia y Senegal del Mundial supera los 3 millones y el 27% en La 1",
+        "cadena": "La 1",
+        "detalle": "Francia-Senegal alcanza 3.322.000 espectadores y 27,6% de cuota el martes 16 de junio a las 21:02h",
+        "fuente": "Fórmula TV / Barlovento",
+        "url": "https://www.formulatv.com/noticias/audiencias-martes-16-junio-francia-senegal-mundial-137502/"
+      },
+      {
+        "titular": "AUDIENCIA FÚTBOL COPA MUNDIAL 2026",
+        "cadena": "La 1 / Dazn Mundial / Teledeporte",
+        "detalle": "Barlovento informa seguimiento diario de audiencias del Mundial 2026 en TV tradicional y redifusiones",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/informes-barlovento/audiencia-copa-mundial-2026/"
+      }
+    ],
+    "especiales": [],
+    "entrevistas": [
+      {
+        "titular": "La respuesta de Tom Holland en 'El Hormiguero' que deja perpleja a Zendaya: 'Mi salvavidas mental es el golf'",
+        "cadena": "Antena 3",
+        "detalle": "Tom Holland y Zendaya visitan El Hormiguero para presentar 'Spider-Man: Brand New Day', estreno el 29 de julio",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/respuesta-tom-holland-hormiguero-que-deja-perpleja-zendaya-mi-salvavidas-mental-es-golf_6984195_0.html"
+      }
+    ],
+    "parrilla": [
+      {
+        "titular": "La internalización de RTVE provoca la salida de 'Aquí la tierra' de uno de sus presentadores",
+        "cadena": "La 1",
+        "detalle": "Cambios en Aquí la tierra debido a proceso de internalización de RTVE",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/internalizacion-rtve-provoca-salida-aqui-tierra-uno-sus-presentadores_6984570_0.html"
+      },
+      {
+        "titular": "La meteoróloga Isabel Moreno se despide de 'Aquí la Tierra' tras casi nueve años: 'Creí que no iba a durar ni tres meses'",
+        "cadena": "La 1",
+        "detalle": "Isabel Moreno abandona Aquí la Tierra tras casi 9 años como meteoróloga del programa",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/meteorologa-isabel-moreno-se-despide-aqui-tierra-tras-casi-nueve-anos-crei-que-no-iba-durar-ni-tres-meses_6983726_0.html"
+      }
+    ],
+    "records": [
+      {
+        "titular": "El debut de España en el Mundial 2026 arrasa con un 60,4% y más de 7 millones de seguidores",
+        "cadena": "La 1",
+        "detalle": "Récord: España-Cabo Verde alcanza 60,4% de share y 7,322 millones de espectadores, dato extraordinario para Mundial",
+        "fuente": "Fórmula TV / Barlovento",
+        "url": "https://www.formulatv.com/noticias/audiencias-lunes-15-junio-espana-mundial-2026-137494/"
+      }
+    ]
+  }
+}
