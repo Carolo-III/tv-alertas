@@ -1,43 +1,71 @@
 {
   "fecha": "2026-06-18",
   "hay_alertas": true,
-  "resumen_ejecutivo": "El Mundial de Fútbol domina con récords de audiencia superiores a 3 millones (27%), mientras 'Pasapalabra' se despide de su icónico 'Rosco' y Prime Video anuncia el regreso de 'OT'",
+  "resumen_ejecutivo": "Mundial de Fútbol 2026 arrasa en La 1 con más de 3 millones de espectadores; Pasapalabra estrena nueva prueba final eliminando El Rosco; Feijóo visitó El Hormiguero con 13,1%",
   "alertas": {
     "estrenos": [
       {
+        "titular": "'Pasapalabra' dice hoy adiós para siempre al histórico 'El Rosco': 'Cuando la gente vea la nueva prueba va a decir ¡guau!'",
+        "cadena": "Antena 3",
+        "detalle": "Pasapalabra estrena nueva prueba final sustituyendo a El Rosco este viernes",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/pasapalabra-dice-hoy-adios-para-siempre-historico-rosco-cuando-gente-vea-nueva-prueba-va-decir-guau_6984799_0.html"
+      },
+      {
+        "titular": "Carlos Lozano se 'desnuda' en 'Amor… ¡O lo que surja!', un original programa para buscar el amor a cualquier edad en Telecinco",
+        "cadena": "Telecinco",
+        "detalle": "Nuevo programa de dating en Telecinco con Carlos Lozano",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/carlos-lozano-se-desnuda-amor-que-surja-un-original-programa-para-buscar-amor-cualquier-edad-telecinco_6985154_0.html"
+      },
+      {
         "titular": "Prime Video confirma una nueva edición de 'Operación Triunfo' y 'LOL: Si te ríes, pierdes' con Georgina Rodríguez como presentadora",
-        "cadena": "Prime Video",
-        "detalle": "Nueva temporada de OT y LOL con Georgina Rodríguez al frente",
+        "cadena": "",
+        "detalle": "Prime Video anuncia nueva edición de OT y LOL con Georgina Rodríguez",
         "fuente": "20minutos TV",
         "url": "https://www.20minutos.es/television/prime-video-confirma-una-nueva-edicion-operacion-triunfo-lol-si-te-ries-pierdes-con-georgina-rodriguez-como-presentadora_6984543_0.html"
       },
       {
-        "titular": "Netflix prepara 'Criminopaía', una docuserie que analizará crímenes reales en España",
-        "cadena": "Netflix",
-        "detalle": "Nueva docuserie de crímenes reales dirigida por Clara Tiscar",
-        "fuente": "20minutos TV",
-        "url": "https://www.20minutos.es/television/netflix-prepara-criminopaia-una-docuserie-que-analizara-crimenes-reales-espana_6984509_0.html"
-      },
-      {
-        "titular": "Antonio Orozco, su primera guitarra y la calle de Sevilla que lo cambió todo en 'El hilo verde', el nuevo programa de Toñi Moreno en Canal Sur",
+        "titular": "Antonio Orozco, su primera guitarra y la calle de Sevilla que lo cambió todo: 'Decidí que quería ser músico y es lo que soy hoy'",
         "cadena": "Canal Sur",
-        "detalle": "Estreno de 'El hilo verde', nuevo programa de Toñi Moreno",
+        "detalle": "El cantante en El hilo verde, nuevo programa de Toñi Moreno en Canal Sur",
         "fuente": "20minutos TV",
         "url": "https://www.20minutos.es/television/antonio-orozco-su-primera-guitarra-calle-sevilla-que-cambio-todo-decidi-que-queria-ser-musico-es-que-soy-hoy_6984780_0.html"
+      },
+      {
+        "titular": "Leire Martínez, Melody, Becky G y Antoñito Molina será los asesores de 'La Voz Kids'",
+        "cadena": "Antena 3",
+        "detalle": "Confirmados los asesores de la nueva edición de La Voz Kids",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/leire-martinez-melody-becky-g-antonito-molina-sera-los-asesores-voz-kids_6984881_0.html"
+      },
+      {
+        "titular": "Netflix prepara 'Criminopaía', una docuserie que analizará crímenes reales en España",
+        "cadena": "",
+        "detalle": "Nueva docuserie de crímenes reales dirigida por Clara Tiscar para Netflix",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/netflix-prepara-criminopaia-una-docuserie-que-analizara-crimenes-reales-espana_6984509_0.html"
       }
     ],
     "deportes": [
       {
-        "titular": "Audiencias 17 de junio 2026. LO MÁS VISTO fue el partido INGLATERRA-CROACIA:PREVIA de FUTBOL:COPA MUNDIAL, emitido en La1 a las 22:00 horas con 3.151.000 espectadores y 27,2% de cuota",
+        "titular": "Audiencias 17 de junio 2026. El partido INGLATERRA-CROACIA:PREVIA de FUTBOL:COPA MUNDIAL logró 3.151.000 espectadores y 27,2%",
         "cadena": "La 1",
-        "detalle": "Inglaterra-Croacia del Mundial lidera con 3,15 millones y 27,2%",
+        "detalle": "Mundial de Fútbol 2026: Inglaterra-Croacia consigue 3,1 millones y 27,2% de share",
         "fuente": "Barlovento Comunicación",
         "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-17-de-junio-2026/"
       },
       {
+        "titular": "Audiencias 16 de junio 2026. El partido FRANCIA-SENEGAL:PREVIA de FUTBOL:COPA MUNDIAL logró 3.322.000 espectadores y 27,6%",
+        "cadena": "La 1",
+        "detalle": "Mundial de Fútbol 2026: Francia-Senegal alcanza 3,3 millones y 27,6% de cuota",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-16-de-junio-2026/"
+      },
+      {
         "titular": "El partido entre Francia y Senegal del Mundial supera los 3 millones y el 27% en La 1",
         "cadena": "La 1",
-        "detalle": "Francia-Senegal del Mundial logra 3,322 millones y 27,6%",
+        "detalle": "Confirmación del éxito del Mundial con más de 3 millones de espectadores",
         "fuente": "Fórmula TV",
         "url": "https://www.formulatv.com/noticias/audiencias-martes-16-junio-francia-senegal-mundial-137502/"
       }
@@ -45,43 +73,36 @@
     "especiales": [],
     "entrevistas": [
       {
+        "titular": "'El hormiguero' con Feijóo aguanta el tirón del Mundial (27,2%) con un 13,1%",
+        "cadena": "Antena 3",
+        "detalle": "Feijóo visita El Hormiguero y logra 13,1% compitiendo contra el Mundial",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-miercoles-17-junio-el-hormiguero-feijoo-137511/"
+      },
+      {
         "titular": "Feijóo confiesa en 'El Hormiguero' que lleva 'mal' el inglés: 'No lo toco porque el móvil me lo traduce directamente'",
         "cadena": "Antena 3",
-        "detalle": "Entrevista al presidente del PP en El Hormiguero",
+        "detalle": "Entrevista a Feijóo, presidente del PP, en El Hormiguero con cuestionario personal",
         "fuente": "20minutos TV",
         "url": "https://www.20minutos.es/television/feijoo-confiesa-hormiguero-que-lleva-mal-ingles-no-toco-porque-movil-me-traduce-directamente_6984768_0.html"
       }
     ],
     "parrilla": [
       {
-        "titular": "'Pasapalabra' dice hoy adiós para siempre al histórico 'El Rosco': 'Cuando la gente vea la nueva prueba va a decir ¡guau!'",
-        "cadena": "Antena 3",
-        "detalle": "Pasapalabra elimina su prueba icónica del Rosco y estrena nueva prueba final",
-        "fuente": "20minutos TV",
-        "url": "https://www.20minutos.es/television/pasapalabra-dice-hoy-adios-para-siempre-historico-rosco-cuando-gente-vea-nueva-prueba-va-decir-guau_6984799_0.html"
-      },
-      {
         "titular": "La internalización de RTVE provoca la salida de 'Aquí la tierra' de uno de sus presentadores",
         "cadena": "La 1",
-        "detalle": "Cambio en la presentación de 'Aquí la tierra' por internalización de RTVE",
+        "detalle": "Cambio en el equipo de Aquí la tierra por la internalización de RTVE",
         "fuente": "20minutos TV",
         "url": "https://www.20minutos.es/television/internalizacion-rtve-provoca-salida-aqui-tierra-uno-sus-presentadores_6984570_0.html"
-      },
-      {
-        "titular": "Leire Martínez, Melody, Becky G y Antoñito Molina será los asesores de 'La Voz Kids'",
-        "cadena": "Antena 3",
-        "detalle": "Nuevos asesores confirmados para La Voz Kids",
-        "fuente": "20minutos TV",
-        "url": "https://www.20minutos.es/television/leire-martinez-melody-becky-g-antonito-molina-sera-los-asesores-voz-kids_6984881_0.html"
       }
     ],
     "records": [
       {
-        "titular": "'El hormiguero' con Feijóo aguanta el tirón del Mundial (27,2%) con un 13,1%",
-        "cadena": "Antena 3",
-        "detalle": "El Hormiguero logra un notable 13,1% compitiendo contra el Mundial",
-        "fuente": "Fórmula TV",
-        "url": "https://www.formulatv.com/noticias/audiencias-miercoles-17-junio-el-hormiguero-feijoo-137511/"
+        "titular": "El partido FRANCIA-SENEGAL del Mundial logró 3.322.000 espectadores y el 27,6% de cuota de pantalla",
+        "cadena": "La 1",
+        "detalle": "Dato destacado de audiencia del Mundial superando los 3,3 millones",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-16-de-junio-2026/"
       }
     ]
   }
