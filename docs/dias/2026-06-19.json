@@ -1,0 +1,109 @@
+{
+  "fecha": "2026-06-19",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "El Mundial de Fútbol domina con Inglaterra-Croacia liderando (27,2%), Pasapalabra estrena nueva prueba eliminando el icónico Rosco, y Telecinco lanza nuevo formato 'Amor... ¡O lo que surja!' con Carlos Lozano",
+  "alertas": {
+    "estrenos": [
+      {
+        "titular": "'Ella, maldita alma' no convence en su estreno",
+        "cadena": "",
+        "detalle": "Estreno de nueva serie que no alcanzó buena recepción de audiencia",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-jueves-18-junio-el-perro-andaluz-futbol-137520/"
+      },
+      {
+        "titular": "Estreno de 'Dos y Medio', nuevo formato de Juan y Medio con Ana Rosa Quintana como invitada",
+        "cadena": "",
+        "detalle": "Ana Rosa fue invitada estrella del estreno del nuevo programa, donde habló de su infancia",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/ana-rosa-quintana-se-abre-canal-sobre-su-humilde-infancia-cajera-cafeteria-me-recogia-me-daba-merienda_6985286_0.html"
+      },
+      {
+        "titular": "Carlos Lozano se 'desnuda' en 'Amor… ¡O lo que surja!', un original programa para buscar pareja a cualquier edad en Telecinco",
+        "cadena": "Telecinco",
+        "detalle": "Nuevo formato de dating show para buscar pareja a cualquier edad",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/carlos-lozano-se-desnuda-amor-que-surja-un-original-programa-para-buscar-amor-cualquier-edad-telecinco_6985154_0.html"
+      },
+      {
+        "titular": "Leire Martínez, Melody, Becky G y Antoñito Molina serán los asesores de 'La Voz Kids'",
+        "cadena": "Antena 3",
+        "detalle": "Anuncio de los asesores para la nueva edición del talent show infantil",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/leire-martinez-melody-becky-g-antonito-molina-sera-los-asesores-voz-kids_6984881_0.html"
+      }
+    ],
+    "deportes": [
+      {
+        "titular": "INGLATERRA-CROACIA:PREVIA de FUTBOL:COPA MUNDIAL logró 3.151.000 espectadores y 27,2% de cuota",
+        "cadena": "La 1",
+        "detalle": "Fue lo más visto del miércoles 17 de junio, partido del Mundial de Fútbol 2026",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-17-de-junio-2026/"
+      },
+      {
+        "titular": "'El hormiguero' con Feijóo aguanta el tirón del Mundial (27,2%) con un 13,1%",
+        "cadena": "Antena 3",
+        "detalle": "El programa compite contra la previa del Mundial y logra mantener audiencia notable",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-miercoles-17-junio-el-hormiguero-feijoo-137511/"
+      },
+      {
+        "titular": "'El perro andaluz' lidera tras el fútbol",
+        "cadena": "La 1",
+        "detalle": "El programa de La 1 lidera el jueves beneficiándose de la audiencia residual del Mundial",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-jueves-18-junio-el-perro-andaluz-futbol-137520/"
+      }
+    ],
+    "especiales": [],
+    "entrevistas": [
+      {
+        "titular": "Feijóo confiesa en 'El Hormiguero' que lleva 'mal' el inglés",
+        "cadena": "Antena 3",
+        "detalle": "El presidente del PP visitó el programa y habló de su vida personal en pleno Mundial",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/feijoo-confiesa-hormiguero-que-lleva-mal-ingles-no-toco-porque-movil-me-traduce-directamente_6984768_0.html"
+      },
+      {
+        "titular": "Ana Rosa Quintana invitada estrella en estreno de 'Dos y Medio'",
+        "cadena": "Telecinco",
+        "detalle": "La presentadora habló de su humilde infancia en el nuevo programa de Juan y Medio",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/ana-rosa-quintana-se-abre-canal-sobre-su-humilde-infancia-cajera-cafeteria-me-recogia-me-daba-merienda_6985286_0.html"
+      }
+    ],
+    "parrilla": [
+      {
+        "titular": "'Pasapalabra' dice hoy adiós para siempre al histórico 'El Rosco'",
+        "cadena": "Antena 3",
+        "detalle": "El programa elimina su prueba icónica y estrena nueva mecánica este viernes",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/pasapalabra-dice-hoy-adios-para-siempre-historico-rosco-cuando-gente-vea-nueva-prueba-va-decir-guau_6984799_0.html"
+      },
+      {
+        "titular": "El 'Rosco' dice adiós a 'Pasapalabra': así ha sido la última emisión de la prueba y la despedida de Roberto Leal",
+        "cadena": "Antena 3",
+        "detalle": "Última emisión de la prueba más emblemática del concurso tras años en antena",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/rosco-dice-adios-pasapalabra-asi-ha-sido-ultima-emision-prueba-despedida-roberto-leal_6985260_0.html"
+      },
+      {
+        "titular": "Alfonso Egea dedica unas bonitas palabras a una reportera en su último día en 'El tiempo justo'",
+        "cadena": "Telecinco",
+        "detalle": "Despedida de reportera del formato en plena incertidumbre sobre continuidad del programa",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/alfonso-egea-dedica-unas-bonitas-palabras-una-reportera-su-ultimo-dia-tiempo-justo-eres-una-magnifica-profesional_6985643_0.html"
+      }
+    ],
+    "records": [
+      {
+        "titular": "ANTENA 3 NOTICIAS 1 fue lo más visto del jueves 18 de junio con 2.099.000 y 22,5%",
+        "cadena": "Antena 3",
+        "detalle": "El informativo lideró el día en ausencia de fútbol del Mundial",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-18-de-junio-2026/"
+      }
+    ]
+  }
+}
