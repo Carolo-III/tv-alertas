@@ -1,0 +1,73 @@
+{
+  "fecha": "2026-06-20",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "Pasapalabra estrena AlaZ, su nueva prueba final, rozando el 22% de cuota; debut discreto de 'Ella, maldita alma' en competencia con fútbol y 'El perro andaluz'",
+  "alertas": {
+    "estrenos": [
+      {
+        "titular": "'Pasapalabra' roza el 22% de cuota de pantalla en el estreno de 'AlaZ', su nuevo 'Rosco'",
+        "cadena": "Antena 3",
+        "detalle": "Estreno de AlaZ como nueva prueba final de Pasapalabra, alcanzando 28,3% en su tramo final con más de 2,4 millones",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/pasapalabra-roza-22-cuota-pantalla-estreno-alaz-su-nuevo-rosco_6985795_0.html"
+      },
+      {
+        "titular": "'Pasapalabra' roza el 22% y los 1,6 millones con 'AlaZ', su nuevo 'Rosco'",
+        "cadena": "Antena 3",
+        "detalle": "Estreno de AlaZ, formato suizo tipo 'El Ahorcado' con mayor dificultad, pistas y tiempo aumentado",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-viernes-19-junio-pasapalabra-alaz-137527/"
+      },
+      {
+        "titular": "'Ella, maldita alma' no convence en su estreno",
+        "cadena": "",
+        "detalle": "Debut discreto de 'Ella, maldita alma' enfrentándose a fútbol y 'El perro andaluz'",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-jueves-18-junio-el-perro-andaluz-futbol-137520/"
+      },
+      {
+        "titular": "Ana Rosa Quintana fue la invitada estrella del estreno de 'Dos y Medio', el nuevo formato de Juan y Medio",
+        "cadena": "Canal Sur",
+        "detalle": "Estreno del nuevo programa de Juan y Medio en Canal Sur con Ana Rosa Quintana como invitada",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/ana-rosa-quintana-se-abre-canal-sobre-su-humilde-infancia-cajera-cafeteria-me-recogia-me-daba-merienda_6985286_0.html"
+      }
+    ],
+    "deportes": [
+      {
+        "titular": "'El perro andaluz' lidera tras el fútbol",
+        "cadena": "laSexta",
+        "detalle": "El perro andaluz lidera la noche del jueves tras retransmisión futbolística",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-jueves-18-junio-el-perro-andaluz-futbol-137520/"
+      }
+    ],
+    "especiales": [],
+    "entrevistas": [
+      {
+        "titular": "Ana Rosa Quintana reflexiona sobre su maternidad con más de 40 años en el nuevo programa de Juan y Medio",
+        "cadena": "Canal Sur",
+        "detalle": "Entrevista estrella a Ana Rosa Quintana en el debut de 'Dos y Medio' donde habla de su infancia y maternidad",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/ana-rosa-quintana-reflexiona-sobre-su-maternidad-con-mas-40-anos-soy-bastante-descerebrada-no-pense_6985730_0.html"
+      }
+    ],
+    "parrilla": [
+      {
+        "titular": "Así es la nueva prueba final de 'Pasapalabra' y así se concibió: un formato suizo al estilo de 'El Ahorcado' y con más dificultad",
+        "cadena": "Antena 3",
+        "detalle": "Cambio en la mecánica final de Pasapalabra: AlaZ sustituye al tradicional Rosco con nuevo grafismo y reglas",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/asi-es-nueva-prueba-final-pasapalabra-asi-se-concibio-un-formato-suizo-estilo-ahorcado-con-mas-dificultad_6985517_0.html"
+      },
+      {
+        "titular": "Alfonso Egea dedica unas bonitas palabras a una reportera en su último día en 'El tiempo justo'",
+        "cadena": "Telecinco",
+        "detalle": "Despedida de Luisa Chamizo del formato de Telecinco en medio de incertidumbre sobre continuidad del programa",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/alfonso-egea-dedica-unas-bonitas-palabras-una-reportera-su-ultimo-dia-tiempo-justo-eres-una-magnifica-profesional_6985643_0.html"
+      }
+    ],
+    "records": []
+  }
+}
