@@ -1,0 +1,37 @@
+{
+  "fecha": "2026-06-21",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "Pasapalabra estrena nuevo concursante 'AlaZ' rozando el 22% de cuota, mientras La 2 supera a La 1 en prime time del sábado",
+  "alertas": {
+    "estrenos": [
+      {
+        "titular": "'Pasapalabra' roza el 22% de cuota de pantalla en el estreno de 'AlaZ', su nuevo 'Rosco'",
+        "cadena": "Antena 3",
+        "detalle": "Nuevo concursante en el rosco alcanza 22% de share y 2,4 millones de espectadores, llegando al 28,3% al final",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/pasapalabra-roza-22-cuota-pantalla-estreno-alaz-su-nuevo-rosco_6985795_0.html"
+      }
+    ],
+    "deportes": [],
+    "especiales": [],
+    "entrevistas": [],
+    "parrilla": [
+      {
+        "titular": "'Malas lenguas noche' en La 2 supera a 'Denominación de origen' en La 1",
+        "cadena": "La 2",
+        "detalle": "Programa de La 2 vence a La 1 en prime time del sábado 20 de junio",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-sabado-20-junio-malas-lenguas-noche-137532/"
+      }
+    ],
+    "records": [
+      {
+        "titular": "'Pasapalabra' roza el 22% y los 1,6 millones con 'AlaZ', su nuevo 'Rosco'",
+        "cadena": "Antena 3",
+        "detalle": "Datos destacados para el estreno del nuevo concursante, alcanzando 28,3% y más de 2,4 millones al final del programa",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-viernes-19-junio-pasapalabra-alaz-137527/"
+      }
+    ]
+  }
+}
