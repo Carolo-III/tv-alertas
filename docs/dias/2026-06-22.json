@@ -1,0 +1,67 @@
+{
+  "fecha": "2026-06-22",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "España arrasa con 7,9 millones y 55,9% en su partido contra Arabia Saudí por el Mundial, mejorando en 2,5 millones respecto al anterior; 'Malas lenguas noche' supera a 'Denominación de origen' en La 2.",
+  "alertas": {
+    "estrenos": [
+      {
+        "titular": "Jesús Calleja, sobre la nueva temporada de 'Universo Calleja': 'Hemos estado en lugares recónditos'",
+        "cadena": "Cuatro",
+        "detalle": "Nueva temporada del programa de aventuras con viajes a China y participación de actores e influencers",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/jesus-calleja-sobre-nueva-temporada-universo-calleja-hemos-estado-lugar-reconditos_6986397_0.html"
+      },
+      {
+        "titular": "Exclusiva: Borjamina, de Los mozos de Arousa, será uno de los concursantes de 'Hasta el fin del mundo'",
+        "cadena": "",
+        "detalle": "Incorporación confirmada de participante conocido al reality",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/exclusiva-borjamina-los-mozos-arousa-sera-uno-los-concursantes-hasta-fin-mundo_6986246_0.html"
+      }
+    ],
+    "deportes": [
+      {
+        "titular": "España-Arabia Saudí arrasa con 7,9 millones y un 55,9% en el Mundial",
+        "cadena": "La 1",
+        "detalle": "Partido de la Copa Mundial de Fútbol logra récord dominical con 7.909.000 espectadores, mejorando en casi 2,5 millones respecto al partido contra Cabo Verde",
+        "fuente": "Barlovento Comunicación / Fórmula TV",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-21-de-junio-2026/"
+      }
+    ],
+    "especiales": [],
+    "entrevistas": [
+      {
+        "titular": "Iker Jiménez defiende su entrevista a Florentino Pérez y niega que estuviera pactada",
+        "cadena": "Cuatro",
+        "detalle": "Entrevista destacada al presidente del Real Madrid genera controversia y defensa pública del presentador",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/iker-jimenez-defiende-su-entrevista-florentino-perez-niega-que-estuviera-pactada-no-sabia-que-le-iba-preguntar_6986137_0.html"
+      }
+    ],
+    "parrilla": [
+      {
+        "titular": "'Malas lenguas noche' en La 2 supera a 'Denominación de origen' en La 1",
+        "cadena": "La 2 / La 1",
+        "detalle": "Movimiento inusual donde un programa de La 2 supera a contenido de La 1 el sábado 20 de junio",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-sabado-20-junio-malas-lenguas-noche-137532/"
+      },
+      {
+        "titular": "El motivo por el que Silvia Intxaurrondo lleva días sin aparecer en 'La hora de la 1'",
+        "cadena": "La 1",
+        "detalle": "Ausencia notable de la presentadora titular del magacín matinal",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/motivo-por-que-silvia-intxaurrondo-lleva-dias-sin-aparecer-hora-1_6986383_0.html"
+      }
+    ],
+    "records": [
+      {
+        "titular": "El partido de España-Arabia Saudí logra casi dos millones y medio más de espectadores que contra Cabo Verde",
+        "cadena": "La 1",
+        "detalle": "Incremento excepcional de audiencia de 2,5 millones de espectadores respecto al partido anterior del Mundial",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/partido-espana-arabia-saudi-logra-casi-dos-millones-medio-mas-espectadores-que-contra-cabo-verde_6986190_0.html"
+      }
+    ]
+  }
+}
