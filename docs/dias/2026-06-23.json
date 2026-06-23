@@ -1,0 +1,103 @@
+{
+  "fecha": "2026-06-23",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "España arrasa en el Mundial con 7,9M (55,9%) mientras 'Amor o lo que surja' fracasa en su estreno en Telecinco",
+  "alertas": {
+    "estrenos": [
+      {
+        "titular": "'Amor... o lo que surja' no convence en su estreno y 'Horizonte' supera a 'La revuelta'",
+        "cadena": "Telecinco",
+        "detalle": "Nuevo programa busca pareja presentado por Carlos Lozano debuta con datos discretos",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-lunes-22-junio-137544/"
+      },
+      {
+        "titular": "La indignación sobresalta en el estreno de 'Amor o lo que surja': así desactivaron al 'macho'",
+        "cadena": "Telecinco",
+        "detalle": "Carlos Lozano presenta el nuevo busca pareja con el que Telecinco intenta mejorar sus audiencias",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/indignacion-sobresalta-estreno-amor-que-surja-asi-desactivaron-macho_6986502_3.html"
+      },
+      {
+        "titular": "Jesús Calleja, sobre la nueva temporada de 'Universo Calleja': 'Hemos estado en lugares recónditos'",
+        "cadena": "Cuatro",
+        "detalle": "El aventurero ha viajado a China acompañado de varios actores, actrices e influencers",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/jesus-calleja-sobre-nueva-temporada-universo-calleja-hemos-estado-lugar-reconditos_6986397_0.html"
+      }
+    ],
+    "deportes": [
+      {
+        "titular": "La goleada de España a Arabia Saudí arrasa con 7,9 millones y un 55,9%",
+        "cadena": "La 1",
+        "detalle": "Partido de España en la Copa Mundial logra casi dos millones y medio más de espectadores que contra Cabo Verde",
+        "fuente": "Fórmula TV / Barlovento",
+        "url": "https://www.formulatv.com/noticias/audiencias-domingo-21-junio-espana-arabia-saudi-137538/"
+      },
+      {
+        "titular": "Partido ARGENTINA-AUSTRIA:PREVIA alcanza 2.953.000 espectadores y 31,1%",
+        "cadena": "La 1",
+        "detalle": "Lo más visto del lunes 22 de junio, partido de Copa Mundial emitido a las 19:01h",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-22-de-junio-2026/"
+      }
+    ],
+    "especiales": [
+      {
+        "titular": "Así ha sido la gran final de 'MasterChef 14': de los grandes chefs invitados a los espectaculares menús del duelo femenino",
+        "cadena": "La 1",
+        "detalle": "Final de la temporada 14 de MasterChef con duelo femenino",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/final-masterchef-14-directo-concursantes-pruebas-jurado-primer-puesto_6986574_6.html"
+      },
+      {
+        "titular": "El Telediario hecho con IA: así TVE entrena nuestro cerebro",
+        "cadena": "La 1",
+        "detalle": "Programa especial del Telediario con tiempo para la elaboración utilizando Inteligencia Artificial",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/telediario-hecho-con-ia-asi-tve-entrena-nuestro-cerebro_6986598_3.html"
+      },
+      {
+        "titular": "El homenaje de Josema Yuste, Segura, José Mota y Harlem en 'El Hormiguero' a Luis Sánchez Polack: 'Era un tipo extraordinario'",
+        "cadena": "Antena 3",
+        "detalle": "El programa de Pablo Motos quiso recordar al cómico al cumplirse 100 años de su nacimiento",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/homenaje-josema-yuste-segura-jose-mota-harlem-hormiguero-luis-sanchez-polack-era-un-tipo-extraordinario_6986581_0.html"
+      }
+    ],
+    "entrevistas": [
+      {
+        "titular": "Iker Jiménez defiende su entrevista a Florentino Pérez y niega que estuviera pactada: 'No sabía lo que le iba a preguntar'",
+        "cadena": "Cuatro",
+        "detalle": "Entrevista al presidente del Real Madrid genera polémica",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/iker-jimenez-defiende-su-entrevista-florentino-perez-niega-que-estuviera-pactada-no-sabia-que-le-iba-preguntar_6986137_0.html"
+      }
+    ],
+    "parrilla": [
+      {
+        "titular": "'El sótano club' sufre un apagón de 20 minutos en directo: 'Hay una mano negra que nos quiere mover'",
+        "cadena": "Ten",
+        "detalle": "Problema técnico obliga a interrumpir el programa durante 20 minutos",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/sotano-club-sufre-un-apagon-20-minutos-directo-hay-una-mano-negra-que-nos-quiere-mover_7005784_0.html"
+      },
+      {
+        "titular": "El motivo por el que Silvia Intxaurrondo lleva días sin aparecer en 'La hora de la 1'",
+        "cadena": "La 1",
+        "detalle": "Ausencia prolongada de la presentadora en el programa matinal",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/motivo-por-que-silvia-intxaurrondo-lleva-dias-sin-aparecer-hora-1_6986383_0.html"
+      }
+    ],
+    "records": [
+      {
+        "titular": "La goleada de España a Arabia Saudí arrasa con 7,9 millones y un 55,9%",
+        "cadena": "La 1",
+        "detalle": "Récord destacado: 7.909.000 espectadores y 55,9% de cuota, casi 2,5M más que el partido contra Cabo Verde",
+        "fuente": "Fórmula TV / Barlovento",
+        "url": "https://www.formulatv.com/noticias/audiencias-domingo-21-junio-espana-arabia-saudi-137538/"
+      }
+    ]
+  }
+}
