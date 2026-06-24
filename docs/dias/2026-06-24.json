@@ -1,0 +1,52 @@
+{
+  "fecha": "2026-06-24",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "Mundial 2026: Inglaterra-Ghana arrasa con 2M y 22%; 'Horizonte' récord con 11% y 1.3M; 'Amor...o lo que surja' decepciona en estreno",
+  "alertas": {
+    "estrenos": [
+      {
+        "titular": "'Amor... o lo que surja' no convence en su estreno",
+        "cadena": "Telecinco",
+        "detalle": "El nuevo programa de busca pareja de Carlos Lozano decepciona en su debut",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-lunes-22-junio-137544/"
+      }
+    ],
+    "deportes": [
+      {
+        "titular": "El partido entre Inglaterra y Ghana del Mundial 2026 lidera con más de 2 millones y un 22%",
+        "cadena": "",
+        "detalle": "Gran audiencia del partido de fase de grupos del Mundial de Fútbol 2026",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-martes-23-junio-inglaterra-ghana-137552/"
+      }
+    ],
+    "especiales": [],
+    "entrevistas": [],
+    "parrilla": [
+      {
+        "titular": "Silvia Intxaurrondo aclara su 'desaparición' de La 1: Estoy de vacaciones, volverá en próxima temporada",
+        "cadena": "La 1",
+        "detalle": "La presentadora anuncia que regresará a 'La hora de la 1' tras periodo vacacional",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/silvia-intxaurrondo-aclara-su-desaparicion-1-estoy-vacaciones-cuidando-mis-plantitas-con-mi-nueva-novela_7006067_0.html"
+      },
+      {
+        "titular": "'Horizonte' supera a 'La revuelta' en la noche del lunes",
+        "cadena": "Varias",
+        "detalle": "El programa de Iker Jiménez se impone al de Broncano en su franja",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-lunes-22-junio-137544/"
+      }
+    ],
+    "records": [
+      {
+        "titular": "Iker Jiménez celebra el récord de audiencia de 'Horizonte': supera por primera vez el 11% con 1.338.000 espectadores",
+        "cadena": "Cuatro",
+        "detalle": "El programa de misterio alcanza su máximo histórico superando la barrera del 11% de share",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/iker-jimenez-celebra-record-audiencia-horizonte-lanza-un-dardo-las-criticas-que-hacen-es-darnos-alas-promocion_7006157_0.html"
+      }
+    ]
+  }
+}
