@@ -1,0 +1,103 @@
+{
+  "fecha": "2026-06-25",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "Mundial 2026 domina audiencias con partidos de Inglaterra-Ghana (22%) y Brasil-Escocia (22,2% en late night); 'Horizonte' logra récord histórico superando 11% y vence a 'La Revuelta'",
+  "alertas": {
+    "estrenos": [
+      {
+        "titular": "Ion Aramendi compartirá plató con su pareja, la periodista María Amores, en 'El verano se mueve', que llega el lunes",
+        "cadena": "Desconocida",
+        "detalle": "Nuevo programa de verano con Ion Aramendi y María Amores como presentadores, se estrena el lunes con colaboradores como Carmen Alcayde y Sheila Casas",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/ion-aramendi-compartira-plato-con-su-pareja-periodista-maria-amores-verano-se-mueve-que-llega-lunes_7006867_0.html"
+      }
+    ],
+    "deportes": [
+      {
+        "titular": "El partido entre Inglaterra y Ghana del Mundial 2026 lidera con más de 2 millones y un 22%",
+        "cadena": "Desconocida",
+        "detalle": "Partido del Mundial 2026 Inglaterra-Ghana alcanza 2 millones de espectadores y 22% de share el martes 23 de junio",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-martes-23-junio-inglaterra-ghana-137552/"
+      },
+      {
+        "titular": "Brasil - Escocia en late night anota un 22,2%",
+        "cadena": "Desconocida",
+        "detalle": "Partido del Mundial 2026 Brasil-Escocia en late night consigue 22,2% de cuota el miércoles 24 de junio",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-miercoles-24-junio-horizonte-revuelta-137562/"
+      }
+    ],
+    "especiales": [
+      {
+        "titular": "Afectados por los terremotos de Venezuela: 'No he tenido ninguna comunicación con mi hijo, menor de edad'",
+        "cadena": "Desconocida",
+        "detalle": "Cobertura especial sobre terremotos en Venezuela con testimonios de afectados y testigos del seísmo",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/afectados-por-los-terremotos-venezuela-no-he-tenido-ninguna-comunicacion-con-mi-hijo-menor-edad_7006784_0.html"
+      }
+    ],
+    "entrevistas": [
+      {
+        "titular": "Paz Padilla se abre con Toñi Moreno sobre los peores meses de su vida",
+        "cadena": "Canal Sur",
+        "detalle": "Entrevista en Canal Sur donde Paz Padilla habla sobre la muerte de su madre y enfermedad de su marido",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/paz-padilla-se-abre-con-toni-moreno-sobre-los-peores-meses-su-vida-mientras-estoy-rabia-pierdo-capacidad-sanar_7006532_0.html"
+      },
+      {
+        "titular": "Alberto San Juan y el recuerdo agridulce de su padre, el dibujante Máximo",
+        "cadena": "Desconocida",
+        "detalle": "El actor habló en 'La Noche de Aimar' sobre su padre y su tardío salto a la interpretación",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/alberto-san-juan-recuerdo-agridulce-su-padre-dibujante-maximo-un-hombre-bueno-puede-tambien-hacer-dano_7006530_0.html"
+      },
+      {
+        "titular": "Fernando Arrabal revela qué se hará cuando fallezca con las obras que Dalí, Picasso, Botero o Miró le regalaron",
+        "cadena": "La 1",
+        "detalle": "El escritor y dramaturgo español fue invitado en 'La Revuelta' y habló sobre su colección de arte",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/fernando-arrabal-revela-que-se-hara-cuando-fallezca-con-las-obras-que-dali-picasso-botero-miro-le-regalaron_7006497_0.html"
+      },
+      {
+        "titular": "Àngel Llàcer muestra las secuelas de la bacteria en 'El Hormiguero'",
+        "cadena": "Antena 3",
+        "detalle": "Àngel Llàcer acudió como invitado a 'El Hormiguero' y mostró las secuelas de la bacteria que sufrió",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/angel-llacer-muestra-las-secuelas-bacteria-hormiguero-tengo-pierna-un-torero_7006486_0.html"
+      }
+    ],
+    "parrilla": [
+      {
+        "titular": "Silvia Intxaurrondo aclara su 'desaparición' de La 1: 'Estoy de vacaciones, cuidando mis plantitas y con mi nueva novela'",
+        "cadena": "La 1",
+        "detalle": "La periodista anuncia que está de vacaciones y volverá a 'La hora de la 1' en la próxima temporada",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/silvia-intxaurrondo-aclara-su-desaparicion-1-estoy-vacaciones-cuidando-mis-plantitas-con-mi-nueva-novela_7006067_0.html"
+      },
+      {
+        "titular": "Javier y David ponen de manifiesto la dificultad de 'AlaZ', la prueba que sustituye a El Rosco",
+        "cadena": "Antena 3",
+        "detalle": "Nueva prueba 'AlaZ' sustituye a 'El Rosco' en 'Pasapalabra', destacando su mayor dificultad",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/javier-david-ponen-manifiesto-dificultad-alaz-prueba-que-sustituye-rosco-ahora-solo-cabe-una-palabra_7006472_0.html"
+      }
+    ],
+    "records": [
+      {
+        "titular": "Iker Jiménez celebra el récord de audiencia de 'Horizonte' y lanza un dardo a las críticas",
+        "cadena": "Cuatro",
+        "detalle": "'Horizonte' supera por primera vez el 11% de cuota con 1.338.000 espectadores, récord histórico del programa",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/iker-jimenez-celebra-record-audiencia-horizonte-lanza-un-dardo-las-criticas-que-hacen-es-darnos-alas-promocion_7006157_0.html"
+      },
+      {
+        "titular": "'Horizonte' supera de nuevo a 'La revuelta' y el Brasil - Escocia en late night anota un 22,2%",
+        "cadena": "Cuatro / La 1",
+        "detalle": "'Horizonte' vence a 'La Revuelta' el miércoles 24 de junio tras su récord histórico del día anterior",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-miercoles-24-junio-horizonte-revuelta-137562/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang='es'>
+<head>
+<meta charset='UTF-8'>
+<meta name='viewport' content='width=device-width, initial-scale=1.0'>
+<title>TV Alertas — Jueves 25 de junio de 2026</title>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=DM+Sans:wght@300;400;500;600&display=swap');
+
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+:root {
+  --bg: #0a0a0b;
+  --bg2: #111113;
+  --bg3: #1a1a1d;
+  --border: #2a2a2e;
+  --text: #e8e8ec;
+  --text-muted: #6b6b78;
+  --accent: #e8c547;
+}
+
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: 'DM Sans', sans-serif;
+  font-size: 15px;
+  line-height: 1.6;
+  min-height: 100vh;
+}
+
+.site-header {
+  border-bottom: 1px solid var(--border);
+  padding: 20px 32px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  position: sticky;
+  top: 0;
+  background: rgba(10,10,11,0.95);
+  backdrop-filter: blur(8px);
+  z-index: 100;
+}
+
+.site-title {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 24px;
+  letter-spacing: 2px;
+  color: var(--accent);
+}
+
+.site-subtitle {
+  font-size: 12px;
+  color: var(--text-muted);
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+
+.nav-link {
+  color: var(--text-muted);
+  text-decoration: none;
+  font-size: 13px;
+  letter-spacing: 0.5px;
+  transition: color 0.2s;
+}
+.nav-link:hover { color: var(--accent); }
+
+main { max-width: 900px; margin: 0 auto; padding: 40px 24px; }
+
+.fecha-display {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 48px;
+  letter-spacing: 3px;
+  color: var(--text);
+  margin-bottom: 4px;
+}
+
+.resumen-ejecutivo {
+  font-size: 16px;
+  color: var(--text-muted);
+  margin-bottom: 40px;
+  padding-left: 16px;
+  border-left: 3px solid var(--accent);
+}
+
+.sin-alertas {
+  text-align: center;
+  padding: 80px 24px;
+  color: var(--text-muted);
+}
+
+.sin-alertas .icon { font-size: 48px; margin-bottom: 16px; }
+.sin-alertas h2 { font-family: 'Bebas Neue', sans-serif; font-size: 28px; letter-spacing: 2px; margin-bottom: 8px; color: var(--text); }
+
+.categoria-bloque { margin-bottom: 40px; }
+
+.categoria-header {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 16px;
+  padding-bottom: 8px;
+  border-bottom: 1px solid var(--border);
+}
+
+.categoria-icon { font-size: 20px; }
+
+.categoria-label {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 20px;
+  letter-spacing: 2px;
+}
+
+.categoria-count {
+  font-size: 12px;
+  padding: 2px 8px;
+  border-radius: 12px;
+  background: var(--bg3);
+  color: var(--text-muted);
+  font-weight: 500;
+}
+
+.alerta-card {
+  background: var(--bg2);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 16px 20px;
+  margin-bottom: 10px;
+  border-left: 3px solid transparent;
+  transition: border-color 0.2s, background 0.2s;
+}
+
+.alerta-card:hover { background: var(--bg3); }
+
+.alerta-titular {
+  font-weight: 600;
+  font-size: 15px;
+  margin-bottom: 4px;
+  color: var(--text);
+}
+
+.alerta-detalle {
+  font-size: 13px;
+  color: var(--text-muted);
+  margin-bottom: 6px;
+}
+
+.alerta-meta {
+  display: flex;
+  gap: 12px;
+  font-size: 12px;
+}
+
+.badge-cadena {
+  background: var(--bg3);
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  padding: 1px 7px;
+  color: var(--text-muted);
+}
+
+.badge-fuente { color: var(--text-muted); font-style: italic; }
+
+.alerta-link {
+  color: var(--text);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: border-color 0.2s, color 0.2s;
+}
+.alerta-link:hover { color: var(--accent); border-bottom-color: var(--accent); }
+
+.historico-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 12px;
+  margin-top: 24px;
+}
+
+.dia-card {
+  background: var(--bg2);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 16px;
+  text-decoration: none;
+  display: block;
+  transition: border-color 0.2s, background 0.2s;
+}
+
+.dia-card:hover { background: var(--bg3); border-color: var(--accent); }
+
+.dia-fecha {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 18px;
+  letter-spacing: 1px;
+  color: var(--text);
+  margin-bottom: 4px;
+}
+
+.dia-alertas { font-size: 12px; color: var(--text-muted); }
+
+.dia-dot {
+  display: inline-block;
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: var(--accent);
+  margin-right: 6px;
+  vertical-align: middle;
+}
+
+.dia-sin-alertas .dia-dot { background: var(--border); }
+
+footer {
+  border-top: 1px solid var(--border);
+  padding: 20px 32px;
+  text-align: center;
+  font-size: 12px;
+  color: var(--text-muted);
+  letter-spacing: 0.5px;
+}
+</style>
+</head>
+<body>
+<header class="site-header"><div><div class="site-title">TV ALERTAS</div><div class="site-subtitle">Monitor de televisión española</div></div><a href="../index.html" class="nav-link">← Histórico</a></header>
+<main>
+<div class="fecha-display">JUEVES 25 DE JUNIO DE 2026</div>
+<div class="resumen-ejecutivo">Mundial 2026 domina audiencias con partidos de Inglaterra-Ghana (22%) y Brasil-Escocia (22,2% en late night); 'Horizonte' logra récord histórico superando 11% y vence a 'La Revuelta'</div>
+<div class="categoria-bloque"><div class="categoria-header"><span class="categoria-icon">🎬</span><span class="categoria-label" style="color:#e8c547">Estrenos</span><span class="categoria-count">1</span></div><div class="alerta-card" style="border-left-color:#e8c547"><div class="alerta-titular"><a href="https://www.20minutos.es/television/ion-aramendi-compartira-plato-con-su-pareja-periodista-maria-amores-verano-se-mueve-que-llega-lunes_7006867_0.html" target="_blank" rel="noopener" class="alerta-link">Ion Aramendi compartirá plató con su pareja, la periodista María Amores, en 'El verano se mueve', que llega el lunes</a></div><div class='alerta-detalle'>Nuevo programa de verano con Ion Aramendi y María Amores como presentadores, se estrena el lunes con colaboradores como Carmen Alcayde y Sheila Casas</div><div class="alerta-meta"><span class='badge-cadena'>Desconocida</span><span class='badge-fuente'>20minutos TV</span></div></div></div><div class="categoria-bloque"><div class="categoria-header"><span class="categoria-icon">⚽</span><span class="categoria-label" style="color:#47c5e8">Deportes</span><span class="categoria-count">2</span></div><div class="alerta-card" style="border-left-color:#47c5e8"><div class="alerta-titular"><a href="https://www.formulatv.com/noticias/audiencias-martes-23-junio-inglaterra-ghana-137552/" target="_blank" rel="noopener" class="alerta-link">El partido entre Inglaterra y Ghana del Mundial 2026 lidera con más de 2 millones y un 22%</a></div><div class='alerta-detalle'>Partido del Mundial 2026 Inglaterra-Ghana alcanza 2 millones de espectadores y 22% de share el martes 23 de junio</div><div class="alerta-meta"><span class='badge-cadena'>Desconocida</span><span class='badge-fuente'>Fórmula TV</span></div></div><div class="alerta-card" style="border-left-color:#47c5e8"><div class="alerta-titular"><a href="https://www.formulatv.com/noticias/audiencias-miercoles-24-junio-horizonte-revuelta-137562/" target="_blank" rel="noopener" class="alerta-link">Brasil - Escocia en late night anota un 22,2%</a></div><div class='alerta-detalle'>Partido del Mundial 2026 Brasil-Escocia en late night consigue 22,2% de cuota el miércoles 24 de junio</div><div class="alerta-meta"><span class='badge-cadena'>Desconocida</span><span class='badge-fuente'>Fórmula TV</span></div></div></div><div class="categoria-bloque"><div class="categoria-header"><span class="categoria-icon">⭐</span><span class="categoria-label" style="color:#e847a3">Especiales / Galas</span><span class="categoria-count">1</span></div><div class="alerta-card" style="border-left-color:#e847a3"><div class="alerta-titular"><a href="https://www.20minutos.es/television/afectados-por-los-terremotos-venezuela-no-he-tenido-ninguna-comunicacion-con-mi-hijo-menor-edad_7006784_0.html" target="_blank" rel="noopener" class="alerta-link">Afectados por los terremotos de Venezuela: 'No he tenido ninguna comunicación con mi hijo, menor de edad'</a></div><div class='alerta-detalle'>Cobertura especial sobre terremotos en Venezuela con testimonios de afectados y testigos del seísmo</div><div class="alerta-meta"><span class='badge-cadena'>Desconocida</span><span class='badge-fuente'>20minutos TV</span></div></div></div><div class="categoria-bloque"><div class="categoria-header"><span class="categoria-icon">🎙️</span><span class="categoria-label" style="color:#a347e8">Entrevistas</span><span class="categoria-count">4</span></div><div class="alerta-card" style="border-left-color:#a347e8"><div class="alerta-titular"><a href="https://www.20minutos.es/television/paz-padilla-se-abre-con-toni-moreno-sobre-los-peores-meses-su-vida-mientras-estoy-rabia-pierdo-capacidad-sanar_7006532_0.html" target="_blank" rel="noopener" class="alerta-link">Paz Padilla se abre con Toñi Moreno sobre los peores meses de su vida</a></div><div class='alerta-detalle'>Entrevista en Canal Sur donde Paz Padilla habla sobre la muerte de su madre y enfermedad de su marido</div><div class="alerta-meta"><span class='badge-cadena'>Canal Sur</span><span class='badge-fuente'>20minutos TV</span></div></div><div class="alerta-card" style="border-left-color:#a347e8"><div class="alerta-titular"><a href="https://www.20minutos.es/television/alberto-san-juan-recuerdo-agridulce-su-padre-dibujante-maximo-un-hombre-bueno-puede-tambien-hacer-dano_7006530_0.html" target="_blank" rel="noopener" class="alerta-link">Alberto San Juan y el recuerdo agridulce de su padre, el dibujante Máximo</a></div><div class='alerta-detalle'>El actor habló en 'La Noche de Aimar' sobre su padre y su tardío salto a la interpretación</div><div class="alerta-meta"><span class='badge-cadena'>Desconocida</span><span class='badge-fuente'>20minutos TV</span></div></div><div class="alerta-card" style="border-left-color:#a347e8"><div class="alerta-titular"><a href="https://www.20minutos.es/television/fernando-arrabal-revela-que-se-hara-cuando-fallezca-con-las-obras-que-dali-picasso-botero-miro-le-regalaron_7006497_0.html" target="_blank" rel="noopener" class="alerta-link">Fernando Arrabal revela qué se hará cuando fallezca con las obras que Dalí, Picasso, Botero o Miró le regalaron</a></div><div class='alerta-detalle'>El escritor y dramaturgo español fue invitado en 'La Revuelta' y habló sobre su colección de arte</div><div class="alerta-meta"><span class='badge-cadena'>La 1</span><span class='badge-fuente'>20minutos TV</span></div></div><div class="alerta-card" style="border-left-color:#a347e8"><div class="alerta-titular"><a href="https://www.20minutos.es/television/angel-llacer-muestra-las-secuelas-bacteria-hormiguero-tengo-pierna-un-torero_7006486_0.html" target="_blank" rel="noopener" class="alerta-link">Àngel Llàcer muestra las secuelas de la bacteria en 'El Hormiguero'</a></div><div class='alerta-detalle'>Àngel Llàcer acudió como invitado a 'El Hormiguero' y mostró las secuelas de la bacteria que sufrió</div><div class="alerta-meta"><span class='badge-cadena'>Antena 3</span><span class='badge-fuente'>20minutos TV</span></div></div></div><div class="categoria-bloque"><div class="categoria-header"><span class="categoria-icon">📋</span><span class="categoria-label" style="color:#e87347">Cambios de parrilla</span><span class="categoria-count">2</span></div><div class="alerta-card" style="border-left-color:#e87347"><div class="alerta-titular"><a href="https://www.20minutos.es/television/silvia-intxaurrondo-aclara-su-desaparicion-1-estoy-vacaciones-cuidando-mis-plantitas-con-mi-nueva-novela_7006067_0.html" target="_blank" rel="noopener" class="alerta-link">Silvia Intxaurrondo aclara su 'desaparición' de La 1: 'Estoy de vacaciones, cuidando mis plantitas y con mi nueva novela'</a></div><div class='alerta-detalle'>La periodista anuncia que está de vacaciones y volverá a 'La hora de la 1' en la próxima temporada</div><div class="alerta-meta"><span class='badge-cadena'>La 1</span><span class='badge-fuente'>20minutos TV</span></div></div><div class="alerta-card" style="border-left-color:#e87347"><div class="alerta-titular"><a href="https://www.20minutos.es/television/javier-david-ponen-manifiesto-dificultad-alaz-prueba-que-sustituye-rosco-ahora-solo-cabe-una-palabra_7006472_0.html" target="_blank" rel="noopener" class="alerta-link">Javier y David ponen de manifiesto la dificultad de 'AlaZ', la prueba que sustituye a El Rosco</a></div><div class='alerta-detalle'>Nueva prueba 'AlaZ' sustituye a 'El Rosco' en 'Pasapalabra', destacando su mayor dificultad</div><div class="alerta-meta"><span class='badge-cadena'>Antena 3</span><span class='badge-fuente'>20minutos TV</span></div></div></div><div class="categoria-bloque"><div class="categoria-header"><span class="categoria-icon">📊</span><span class="categoria-label" style="color:#47e87e">Récords</span><span class="categoria-count">2</span></div><div class="alerta-card" style="border-left-color:#47e87e"><div class="alerta-titular"><a href="https://www.20minutos.es/television/iker-jimenez-celebra-record-audiencia-horizonte-lanza-un-dardo-las-criticas-que-hacen-es-darnos-alas-promocion_7006157_0.html" target="_blank" rel="noopener" class="alerta-link">Iker Jiménez celebra el récord de audiencia de 'Horizonte' y lanza un dardo a las críticas</a></div><div class='alerta-detalle'>'Horizonte' supera por primera vez el 11% de cuota con 1.338.000 espectadores, récord histórico del programa</div><div class="alerta-meta"><span class='badge-cadena'>Cuatro</span><span class='badge-fuente'>20minutos TV</span></div></div><div class="alerta-card" style="border-left-color:#47e87e"><div class="alerta-titular"><a href="https://www.formulatv.com/noticias/audiencias-miercoles-24-junio-horizonte-revuelta-137562/" target="_blank" rel="noopener" class="alerta-link">'Horizonte' supera de nuevo a 'La revuelta' y el Brasil - Escocia en late night anota un 22,2%</a></div><div class='alerta-detalle'>'Horizonte' vence a 'La Revuelta' el miércoles 24 de junio tras su récord histórico del día anterior</div><div class="alerta-meta"><span class='badge-cadena'>Cuatro / La 1</span><span class='badge-fuente'>Fórmula TV</span></div></div></div>
+</main>
+<footer>Generado automáticamente · Fuentes: Barlovento, Fórmula TV, Vertele, DOS30</footer>
+</body>
+</html>
