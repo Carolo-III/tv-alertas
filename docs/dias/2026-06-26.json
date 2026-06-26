@@ -1,0 +1,95 @@
+{
+  "fecha": "2026-06-26",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "Copa Mundial 2026 domina con Ecuador-Alemania líder (24,7%), mientras Atresmedia cierra quinta temporada consecutiva como líder anual y Ana Rosa se despide hasta septiembre",
+  "alertas": {
+    "estrenos": [
+      {
+        "titular": "Ion Aramendi compartirá plató con su pareja, la periodista María Amores, en 'El verano se mueve', que llega el lunes",
+        "cadena": "Telecinco",
+        "detalle": "Nuevo programa de verano estrena el lunes con Ion Aramendi y María Amores, con colaboradores como Carmen Alcayde",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/ion-aramendi-compartira-plato-con-su-pareja-periodista-maria-amores-verano-se-mueve-que-llega-lunes_7006867_0.html"
+      }
+    ],
+    "deportes": [
+      {
+        "titular": "LO MÁS VISTO de ayer jueves 25 de junio de 2026 fue el partido ECUADOR-ALEMANIA:PREVIA de FUTBOL:COPA MUNDIAL",
+        "cadena": "La 1",
+        "detalle": "El partido Ecuador-Alemania del Mundial logró 2.665.000 espectadores y 24,7% de cuota",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-25-de-junio-2026/"
+      },
+      {
+        "titular": "AUDIENCIA FÚTBOL COPA MUNDIAL 2026",
+        "cadena": "La 1",
+        "detalle": "Informe de seguimiento de audiencias del Mundial 2026 en TV tradicional (La 1, Dazn Mundial, Teledeporte)",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/informes-barlovento/audiencia-copa-mundial-2026/"
+      },
+      {
+        "titular": "'Horizonte' supera de nuevo a 'La revuelta' y el Brasil - Escocia en late night anota un 22,2%",
+        "cadena": "La 1",
+        "detalle": "Partido Brasil-Escocia en late night logra notable 22,2% de cuota",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-miercoles-24-junio-horizonte-revuelta-137562/"
+      }
+    ],
+    "especiales": [
+      {
+        "titular": "El presidente de RTVE se disculpa con la madre del futbolista Fabián, a la que subtitularon en el programa sobre el Mundial",
+        "cadena": "La 1",
+        "detalle": "Controversia por subtitulado en programa especial del Mundial 'Denominación de origen', que reúne a futbolistas y familiares",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/presidente-rtve-se-disculpa-con-madre-futbolista-fabian-que-subtitularon-programa-sobre-mundial_7007013_0.html"
+      },
+      {
+        "titular": "Afectados por los terremotos de Venezuela: 'No he tenido ninguna comunicación con mi hijo, menor de edad'",
+        "cadena": "Telecinco",
+        "detalle": "Cobertura especial de la catástrofe en Venezuela con testimonios de afectados en programas informativos",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/afectados-por-los-terremotos-venezuela-no-he-tenido-ninguna-comunicacion-con-mi-hijo-menor-edad_7006784_0.html"
+      },
+      {
+        "titular": "Una venezolana busca a su madre desaparecida tras el colapso de su edificio en La Guaira: 'Mi padre vio cómo se caía'",
+        "cadena": "Antena 3",
+        "detalle": "Programa 'Y ahora Sonsoles' cubre emergencia humanitaria en Venezuela tras terremotos",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/una-venezolana-busca-su-madre-desaparecida-tras-colapso-su-edificio-guaira-mi-padre-vio-como-se-caia_7006988_0.html"
+      },
+      {
+        "titular": "Boris Izaguirre, sobre los terremotos de Venezuela: 'Piden rescatistas, como si allí no hubiera'",
+        "cadena": "",
+        "detalle": "El periodista venezolano habla sobre la situación de emergencia en su país tras los terremotos",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/boris-izaguirre-sobre-los-terremotos-venezuela-piden-rescatistas-como-si-alli-no-hubiera_7007362_0.html"
+      }
+    ],
+    "entrevistas": [],
+    "parrilla": [
+      {
+        "titular": "Ana Rosa Quintana se marcha de vacaciones: 'Este maravilloso equipo echa el cierre hasta septiembre'",
+        "cadena": "Telecinco",
+        "detalle": "Cambio en parrilla: 'La mirada crítica' abrirá las mañanas y 'Vamos a ver' adelanta a las 10:30h durante el verano",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/ana-rosa-quintana-se-marcha-vacaciones-este-maravilloso-equipo-echa-cierre-hasta-septiembre_7007376_0.html"
+      }
+    ],
+    "records": [
+      {
+        "titular": "Atresmedia lidera por quinto año consecutivo la temporada televisiva, cerrando el curso con una cuota media del 25,6%",
+        "cadena": "Atresmedia",
+        "detalle": "Atresmedia consigue su quinto liderazgo consecutivo de temporada con 25,6% de cuota media",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/atresmedia-lidera-por-quinto-ano-consecutivo-temporada-televisiva-cerrando-curso-con-una-cuota-media-25-6_7007197_0.html"
+      },
+      {
+        "titular": "El Ecuador - Alemania lidera en prime time y 'Ella, maldita alma' se desploma a un 6,7%",
+        "cadena": "Varias",
+        "detalle": "Mundial lidera en prime time mientras 'Ella, maldita alma' sufre desplome notable a mínimo de 6,7%",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-jueves-25-junio-ecuador-alemania-137570/"
+      }
+    ]
+  }
+}
