@@ -1,0 +1,51 @@
+{
+  "fecha": "2026-06-27",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "Uruguay-España arrasa de madrugada con 58% y 3.5M; Atresmedia lidera temporada por 5º año; Ana Rosa cierra hasta septiembre",
+  "alertas": {
+    "estrenos": [],
+    "deportes": [
+      {
+        "titular": "El primer tramo del Uruguay - España arrasa de madrugada con un 58% y más de 3,5 millones",
+        "cadena": "",
+        "detalle": "Partido de madrugada alcanza cifras espectaculares con 58% de cuota y más de 3.5 millones de espectadores",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-viernes-26-junio-uruguay-espana-late-137579/"
+      },
+      {
+        "titular": "El Ecuador - Alemania lidera en prime time",
+        "cadena": "",
+        "detalle": "Partido de fútbol lidera la noche del jueves en prime time",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-jueves-25-junio-ecuador-alemania-137570/"
+      }
+    ],
+    "especiales": [],
+    "entrevistas": [],
+    "parrilla": [
+      {
+        "titular": "Ana Rosa Quintana se marcha de vacaciones: 'Este maravilloso equipo echa el cierre hasta septiembre'",
+        "cadena": "Telecinco",
+        "detalle": "Las mañanas arrancarán con 'La mirada crítica' y 'Vamos a ver' adelanta su horario a las 10:30h",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/ana-rosa-quintana-se-marcha-vacaciones-este-maravilloso-equipo-echa-cierre-hasta-septiembre_7007376_0.html"
+      },
+      {
+        "titular": "'Ella, maldita alma' se desploma a un 6,7%",
+        "cadena": "",
+        "detalle": "Caída significativa de audiencia del programa frente a competencia deportiva",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-jueves-25-junio-ecuador-alemania-137570/"
+      }
+    ],
+    "records": [
+      {
+        "titular": "Atresmedia lidera por quinto año consecutivo la temporada televisiva, cerrando el curso con una cuota media del 25,6%",
+        "cadena": "Atresmedia",
+        "detalle": "Cierre de temporada con liderazgo por quinto año consecutivo y cuota del 25.6%",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/atresmedia-lidera-por-quinto-ano-consecutivo-temporada-televisiva-cerrando-curso-con-una-cuota-media-25-6_7007197_0.html"
+      }
+    ]
+  }
+}
