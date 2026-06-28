@@ -1,0 +1,36 @@
+{
+  "fecha": "2026-06-28",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "El partido Uruguay-España del Mundial arrasa en la madrugada con cifras históricas superiores al 58-70% de cuota",
+  "alertas": {
+    "estrenos": [],
+    "deportes": [
+      {
+        "titular": "El resto del Uruguay - España arrasa en la madrugada con casi un 70% y 3,7 millones",
+        "cadena": "La 1",
+        "detalle": "Segunda parte del partido Uruguay-España de la Copa Mundial logra 3.707.000 espectadores y 69,9% de cuota en la madrugada del sábado 27",
+        "fuente": "Fórmula TV / Barlovento",
+        "url": "https://www.formulatv.com/noticias/audiencia-sabado-27-junio-uruguay-espana-madrugada-137586/"
+      },
+      {
+        "titular": "El primer tramo del Uruguay - España arrasa de madrugada con un 58% y más de 3,5 millones",
+        "cadena": "La 1",
+        "detalle": "Primera parte del partido Uruguay-España de la Copa Mundial consigue 3.531.000 espectadores y 58% de cuota en la madrugada del viernes 26",
+        "fuente": "Fórmula TV / Barlovento",
+        "url": "https://www.formulatv.com/noticias/audiencias-viernes-26-junio-uruguay-espana-late-137579/"
+      }
+    ],
+    "especiales": [],
+    "entrevistas": [],
+    "parrilla": [],
+    "records": [
+      {
+        "titular": "Uruguay-España logra 69,9% de cuota de pantalla en horario de madrugada",
+        "cadena": "La 1",
+        "detalle": "Cuota histórica para un partido de madrugada del Mundial, superando ampliamente el 50% de share y rozando el 70%",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-27-de-junio-de-2026/"
+      }
+    ]
+  }
+}
