@@ -1,0 +1,58 @@
+{
+  "fecha": "2026-06-29",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "La Copa Mundial de Fútbol 2026 arrasa con récords históricos: España vs Uruguay alcanza 69,9% de cuota en madrugada y Sudáfrica vs Canadá lidera el domingo con 24,9%",
+  "alertas": {
+    "estrenos": [
+      {
+        "titular": "Gloria Camila se estrena como colaboradora en 'El verano se mueve', nuevo magacín vespertino de Telecinco",
+        "cadena": "Telecinco",
+        "detalle": "Estreno de nuevo magacín de tarde de verano con incorporación de Gloria Camila",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/gloria-camila-sobre-documental-rocio-jurado-tampoco-necesito-participar-para-recordar-mi-madre_7008334_0.html"
+      },
+      {
+        "titular": "'El show de Paz Padilla' se ha estrenado este domingo en Telecinco",
+        "cadena": "Telecinco",
+        "detalle": "Estreno dominical del nuevo programa de Paz Padilla, aunque recibe críticas por su enfoque",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/por-que-todo-es-tan-raro-show-paz-padilla-telecinco_7007877_3.html"
+      }
+    ],
+    "deportes": [
+      {
+        "titular": "URUGUAY-ESPAÑA de la Copa Mundial arrasa en la madrugada con casi un 70% y 3,7 millones",
+        "cadena": "La 1",
+        "detalle": "Partido de octavos de final emitido a las 02:30h logra 69,9% de cuota y 3.707.000 espectadores, cifra histórica",
+        "fuente": "Fórmula TV / Barlovento",
+        "url": "https://www.formulatv.com/noticias/audiencia-sabado-27-junio-uruguay-espana-madrugada-137586/"
+      },
+      {
+        "titular": "SUDÁFRICA-CANADÁ: 1/16 de la Copa Mundial lidera el domingo con 2,6 millones y 24,9%",
+        "cadena": "La 1",
+        "detalle": "Partido de octavos emitido a las 21:00h del domingo 28 de junio es lo más visto del día",
+        "fuente": "Barlovento / Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-domingo-28-junio-cowboys-aliens-137590/"
+      }
+    ],
+    "especiales": [],
+    "entrevistas": [],
+    "parrilla": [],
+    "records": [
+      {
+        "titular": "Cuatro supera en audiencia a Telecinco este domingo: 7% frente a 6,9%",
+        "cadena": "Varias",
+        "detalle": "Hito histórico: Cuatro supera a Telecinco en audiencia de día completo, invirtiendo posiciones tradicionales",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/cuatro-supera-audiencia-telecinco-este-domingo-con-un-7-frente-6-9-primera-cadena_7008061_0.html"
+      },
+      {
+        "titular": "Uruguay-España logra 69,9% de cuota de pantalla en madrugada, récord de la Copa Mundial 2026",
+        "cadena": "La 1",
+        "detalle": "Cifra excepcional de cuota para horario de madrugada (02:30h) con 3,7 millones de espectadores",
+        "fuente": "Barlovento",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-27-de-junio-de-2026/"
+      }
+    ]
+  }
+}
