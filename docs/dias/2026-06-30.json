@@ -1,0 +1,79 @@
+{
+  "fecha": "2026-06-30",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "La 1 se dispara en audiencia con el Mundial de Fútbol 2026, Brasil-Japón arrasa en la tarde; Telecinco estrena 'El verano se mueve' con un 7%, y Cuatro supera históricamente a Telecinco en audiencia dominical",
+  "alertas": {
+    "estrenos": [
+      {
+        "titular": "'El verano se mueve' se estrena con un 7% en Telecinco",
+        "cadena": "Telecinco",
+        "detalle": "Nuevo magacín vespertino de Telecinco debuta con Gloria Camila como colaboradora",
+        "fuente": "Fórmula TV / 20minutos",
+        "url": "https://www.formulatv.com/noticias/audiencias-lunes-29-junio-137601/"
+      },
+      {
+        "titular": "Maestros de la costura Celebrity estrena con Luis de Javier como nuevo juez",
+        "cadena": "La 1",
+        "detalle": "El diseñador que viste a Beyoncé se incorpora como juez en sustitución de Palomo Spain",
+        "fuente": "20minutos",
+        "url": "https://www.20minutos.es/television/luis-javier-disenador-que-viste-beyonce-aterriza-television-salir-taller-me-ha-devuelto-ilusion_7008460_0.html"
+      },
+      {
+        "titular": "'La Voz Kids' anuncia a sus 'coaches' de la próxima edición, con solo una gran novedad",
+        "cadena": "Antena 3",
+        "detalle": "Manuel Turizo se sumará de nuevo al formato tras haberlo ganado anteriormente",
+        "fuente": "20minutos",
+        "url": "https://www.20minutos.es/television/voz-kids-anuncia-sus-coaches-proxima-edicion-con-solo-una-gran-novedad_7008748_0.html"
+      },
+      {
+        "titular": "El nuevo canal en abierto de la TDT ya tiene nombre: se llamará 'La Sép7ima'",
+        "cadena": "La Sép7ima",
+        "detalle": "Nuevo canal confirma su denominación definitiva para la TDT en abierto",
+        "fuente": "20minutos",
+        "url": "https://www.20minutos.es/television/nuevo-canal-abierto-tdt-ya-tiene-nombre-se-llamara-sep7ima_7008679_0.html"
+      }
+    ],
+    "deportes": [
+      {
+        "titular": "La 1 se dispara en audiencia por el Mundial de Fútbol",
+        "cadena": "La 1",
+        "detalle": "La cadena pública experimenta un notable incremento de audiencia gracias a la retransmisión del Mundial de Fútbol 2026",
+        "fuente": "20minutos",
+        "url": "https://www.20minutos.es/television/1-se-dispara-audiencia-por-mundial-futbol-antena-3-afianza-sus-datos_7008707_0.html"
+      },
+      {
+        "titular": "El Brasil - Japón barre en la tarde del lunes",
+        "cadena": "La 1",
+        "detalle": "Partido del Mundial 2026 domina ampliamente la franja vespertina",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-lunes-29-junio-137601/"
+      },
+      {
+        "titular": "El Sudáfrica - Canadá del Mundial 2026 lidera la noche del domingo",
+        "cadena": "La 1",
+        "detalle": "El partido del Mundial se impone en prime time dominical junto a Cowboys & Aliens",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-domingo-28-junio-cowboys-aliens-137590/"
+      }
+    ],
+    "especiales": [],
+    "entrevistas": [],
+    "parrilla": [],
+    "records": [
+      {
+        "titular": "Cuatro supera en audiencia a Telecinco este domingo, con un 7% frente al 6,9%",
+        "cadena": "Cuatro / Telecinco",
+        "detalle": "Hito histórico: Cuatro supera por primera vez a Telecinco en audiencia diaria, invirtiendo posiciones entre ambas cadenas",
+        "fuente": "20minutos",
+        "url": "https://www.20minutos.es/television/cuatro-supera-audiencia-telecinco-este-domingo-con-un-7-frente-6-9-primera-cadena_7008061_0.html"
+      },
+      {
+        "titular": "Antena 3 afianza sus datos en contexto de Mundial",
+        "cadena": "Antena 3",
+        "detalle": "La cadena mantiene solidez en audiencias pese a la competencia del Mundial de Fútbol en La 1",
+        "fuente": "20minutos",
+        "url": "https://www.20minutos.es/television/1-se-dispara-audiencia-por-mundial-futbol-antena-3-afianza-sus-datos_7008707_0.html"
+      }
+    ]
+  }
+}
