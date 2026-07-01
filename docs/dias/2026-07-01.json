@@ -1,0 +1,102 @@
+{
+  "fecha": "2026-07-01",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "Mundial de Fútbol dispara audiencias de La 1 con récords históricos (Francia-Suecia 28% y Brasil-Japón 33.7%), mientras Telecinco estrena 'El verano se mueve' con discreto 7%",
+  "alertas": {
+    "estrenos": [
+      {
+        "titular": "'El verano se mueve' se estrena con un 7% en Telecinco",
+        "cadena": "Telecinco",
+        "detalle": "Estreno de programa de verano con arranque discreto",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-lunes-29-junio-137601/"
+      },
+      {
+        "titular": "El nuevo canal en abierto de la TDT ya tiene nombre: se llamará 'La Sép7ima'",
+        "cadena": "TDT",
+        "detalle": "Anuncio del nombre del nuevo canal en abierto de la TDT",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/nuevo-canal-abierto-tdt-ya-tiene-nombre-se-llamara-sep7ima_7008679_0.html"
+      },
+      {
+        "titular": "'La Voz Kids' anuncia a sus 'coaches' de la próxima edición, con solo una gran novedad",
+        "cadena": "Antena 3",
+        "detalle": "Manuel Turizo se suma como coach en nueva edición",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/voz-kids-anuncia-sus-coaches-proxima-edicion-con-solo-una-gran-novedad_7008748_0.html"
+      }
+    ],
+    "deportes": [
+      {
+        "titular": "LO MÁS VISTO fue el partido FRANCIA-SUECIA:1/16 de FUTBOL:COPA MUNDIAL, emitido en La1 a las 23:00 horas. El espacio logró 2.513.000 espectadores y el 28,1% de cuota",
+        "cadena": "La 1",
+        "detalle": "Partido de octavos de final del Mundial con gran impacto de audiencia",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-30-de-junio-2026/"
+      },
+      {
+        "titular": "LO MÁS VISTO fue el partido BRASIL-JAPON:1/16 de FUTBOL:COPA MUNDIAL, emitido en La1 a las 19:00 horas. El espacio logró 3.075.000 espectadores y el 33,7% de cuota",
+        "cadena": "La 1",
+        "detalle": "Partido de octavos de final del Mundial con máximo impacto en tarde",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-29-de-junio-2026/"
+      },
+      {
+        "titular": "La victoria de Francia frente a Suecia lidera en La 1 con más de 28% y 2,5 millones",
+        "cadena": "La 1",
+        "detalle": "Confirmación del liderazgo del partido Francia-Suecia del Mundial",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-martes-30-junio-francia-suecia-mundial-137611/"
+      },
+      {
+        "titular": "El Brasil - Japón barre en la tarde",
+        "cadena": "La 1",
+        "detalle": "Dominio absoluto del partido Brasil-Japón en franja vespertina",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-lunes-29-junio-137601/"
+      }
+    ],
+    "especiales": [
+      {
+        "titular": "Susanna Griso, sobre la muerte de varios menores rescatados en Venezuela: '¡Esto no nos lo podemos permitir!'",
+        "cadena": "Antena 3",
+        "detalle": "Cobertura especial de los terremotos de Venezuela y tareas de rescate",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/susanna-griso-sobre-muerte-varios-menores-rescatados-venezuela-esto-no-nos-podemos-permitir_7008766_0.html"
+      },
+      {
+        "titular": "El chef José Andrés, firme ante la situación política actual: 'Siempre apuntando con el dedo al prójimo'. Repasó la respuesta de World Central Kitchen tras los terremotos de Venezuela",
+        "cadena": "",
+        "detalle": "Entrevista sobre ayuda humanitaria tras terremotos de Venezuela",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/chef-jose-andres-firme-ante-situacion-politica-actual-siempre-apuntando-con-dedo-projimo_7009018_0.html"
+      }
+    ],
+    "entrevistas": [
+      {
+        "titular": "Andrea de la Torre, pareja de José Luis Ábalos, señala directamente a Pedro Sánchez: 'El primero que se entera es el presidente'",
+        "cadena": "Mediaset",
+        "detalle": "Entrevista exclusiva en 'Código 10' sobre trama Koldo con señalamientos al Gobierno",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/andrea-torre-pareja-jose-luis-abalos-senala-directamente-pedro-sanchez-primero-que-se-entera-es-presidente_7009024_0.html"
+      }
+    ],
+    "parrilla": [],
+    "records": [
+      {
+        "titular": "La 1 se dispara en audiencia por el Mundial de Fútbol y Antena 3 afianza sus datos",
+        "cadena": "La 1",
+        "detalle": "Incremento significativo de audiencia de La 1 por retransmisiones del Mundial",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/1-se-dispara-audiencia-por-mundial-futbol-antena-3-afianza-sus-datos_7008707_0.html"
+      },
+      {
+        "titular": "BRASIL-JAPON logró 3.075.000 espectadores y el 33,7% de cuota de pantalla",
+        "cadena": "La 1",
+        "detalle": "Dato extraordinario de audiencia para partido de Mundial en tarde",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-29-de-junio-2026/"
+      }
+    ]
+  }
+}
