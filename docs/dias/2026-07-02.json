@@ -1,0 +1,59 @@
+{
+  "fecha": "2026-07-02",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "El Hormiguero cierra temporada como líder; Francia-Suecia logra gran audiencia en La 1; Telecinco estrena 'De lunes a viernes'",
+  "alertas": {
+    "estrenos": [
+      {
+        "titular": "Telecinco estrena 'De lunes a viernes', que reúne a colaboradores como Rosa Benito, Karmele Marchante y Laura Matamoros",
+        "cadena": "Telecinco",
+        "detalle": "Nuevo formato de verano por las tardes presentado por Bea Archidona y Santi Acosta, arranca el 6 de julio",
+        "fuente": "20minutos",
+        "url": "https://www.20minutos.es/television/telecinco-estrena-lunes-viernes-que-reune-colaboradores-como-rosa-benito-karmele-marchante-laura-matamoros_7009438_0.html"
+      },
+      {
+        "titular": "Ion Aramendi y su mujer, María Amores, debutan juntos en 'El verano se mueve'",
+        "cadena": "Telecinco",
+        "detalle": "Nueva incorporación al programa de verano donde él presenta y ella debuta como colaboradora",
+        "fuente": "20minutos",
+        "url": "https://www.20minutos.es/television/ion-aramendi-su-mujer-maria-amores-debutan-juntos-verano-se-mueve-estoy-favor-divorcio-pero-no-contigo_7009451_0.html"
+      }
+    ],
+    "deportes": [
+      {
+        "titular": "La victoria de Francia frente a Suecia lidera en La 1 con más de 28% y 2,5 millones",
+        "cadena": "La 1",
+        "detalle": "Partido del Mundial de fútbol femenino alcanza gran audiencia con más de 28% de share",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-martes-30-junio-francia-suecia-mundial-137611/"
+      }
+    ],
+    "especiales": [],
+    "entrevistas": [],
+    "parrilla": [
+      {
+        "titular": "'El hormiguero' (13,5%) cierra temporada como líder frente a 'La revuelta' (10,8%)",
+        "cadena": "Antena 3",
+        "detalle": "Cierre de la vigésima temporada del programa de Pablo Motos manteniéndose como líder del access prime time",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-miercoles-1-julio-el-hormiguero-137620/"
+      },
+      {
+        "titular": "Pablo Motos desmiente así los rumores sobre su marcha de Antena 3: 'Todavía no os podemos contar'",
+        "cadena": "Antena 3",
+        "detalle": "El presentador cierra temporada con mensaje que contradice informaciones sobre posible salida del programa",
+        "fuente": "20minutos",
+        "url": "https://www.20minutos.es/television/pablo-motos-desmiente-asi-los-rumores-sobre-su-marcha-antena-3-todavia-no-os-podemos-contar_7009533_0.html"
+      }
+    ],
+    "records": [
+      {
+        "titular": "La victoria de Francia frente a Suecia lidera en La 1 con más de 28% y 2,5 millones",
+        "cadena": "La 1",
+        "detalle": "Dato destacado de audiencia para el partido del Mundial femenino superando ampliamente el 28% de share",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-martes-30-junio-francia-suecia-mundial-137611/"
+      }
+    ]
+  }
+}
