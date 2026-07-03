@@ -1,0 +1,74 @@
+{
+  "fecha": "2026-07-03",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "España arrasa con 9M y 59,6% en su victoria ante Austria en el Mundial; Dani Martínez ficha por RTVE para 'Hitster'; 'El Hormiguero' cierra temporada líder con 14,5%",
+  "alertas": {
+    "estrenos": [
+      {
+        "titular": "Dani Martínez ficha por RTVE para ponerse al frente del concurso musical 'Hitster'",
+        "cadena": "La 1",
+        "detalle": "El presentador deja Mediaset y se incorpora a RTVE para liderar este nuevo concurso musical",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/dani-martinez-ficha-por-rtve-para-ponerse-frente-concurso-musical-hitster_7010178_0.html"
+      },
+      {
+        "titular": "El monólogo de Manu Sánchez tras la victoria de España en el Mundial: 'Hitler era más austriaco que perder 3 a 0 contra España'",
+        "cadena": "",
+        "detalle": "Estreno en directo de 'El perro andaluz' justo después del partido de España ante Austria",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/monologo-manu-sanchez-tras-victoria-espana-mundial-hitler-era-mas-austriaco-que-perder-3-0-contra-espana_7010074_0.html"
+      }
+    ],
+    "deportes": [
+      {
+        "titular": "LO MÁS VISTO de ayer jueves 02 de julio de 2026 fue el partido ESPAÑA-AUSTRIA:1/16 de FUTBOL:COPA MUNDIAL",
+        "cadena": "La 1",
+        "detalle": "Emitido a las 21:00h. Logró 9.093.000 espectadores y 59,6% de cuota de pantalla",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-2-de-julio-2026/"
+      },
+      {
+        "titular": "La victoria de España frente a Austria arrasa con un 59,6% y más de 9 millones en La 1",
+        "cadena": "La 1",
+        "detalle": "El partido de dieciseisavos del Mundial consigue datos históricos en audiencia",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-jueves-2-julio-espana-austria-mundial-137631/"
+      }
+    ],
+    "especiales": [],
+    "entrevistas": [
+      {
+        "titular": "Yolanda Díaz, sobre Begoña Gómez: 'Es una mujer que tiene vida propia, no es solo la mujer del presidente'",
+        "cadena": "",
+        "detalle": "La vicepresidenta segunda del Gobierno ha elogiado las últimas cifras del paro y medidas de Sumar",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/yolanda-diaz-sobre-begona-gomez-es-una-mujer-que-tiene-vida-propia-no-es-solo-mujer-presidente_7009748_0.html"
+      }
+    ],
+    "parrilla": [
+      {
+        "titular": "Nuria Roca se despide de 'El Hormiguero' con una barbacoa en el plató",
+        "cadena": "Antena 3",
+        "detalle": "La temporada del programa de las noches de Antena 3 dice adiós hasta pasado el verano",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/nuria-roca-se-despide-hormiguero-con-una-barbacoa-plato_7009923_0.html"
+      },
+      {
+        "titular": "'El hormiguero' (13,5%) cierra temporada como líder frente a 'La revuelta' (10,8%)",
+        "cadena": "Antena 3",
+        "detalle": "El programa cierra su temporada manteniendo el liderazgo sobre su competidor",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-miercoles-1-julio-el-hormiguero-137620/"
+      }
+    ],
+    "records": [
+      {
+        "titular": "'El Hormiguero' cierra otra temporada de éxito y se mantiene como el programa diario más visto de la televisión",
+        "cadena": "Antena 3",
+        "detalle": "Ha registrado esta temporada una cuota media del 14,5% y una audiencia de 1.839.000 espectadores",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/hormiguero-cierra-otra-temporada-exito-se-mantiene-como-programa-diario-mas-visto-television_7009886_0.html"
+      }
+    ]
+  }
+}
