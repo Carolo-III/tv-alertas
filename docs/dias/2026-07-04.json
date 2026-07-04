@@ -1,0 +1,65 @@
+{
+  "fecha": "2026-07-04",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "España arrasa en el Mundial con 9 millones y 59,6% frente a Austria en La 1; 'Tu cara me suena' lidera el viernes con 17%; Dani Martínez ficha por RTVE para 'Hitster'; Telecinco estrena '¡De lunes a viernes!'",
+  "alertas": {
+    "estrenos": [
+      {
+        "titular": "Dani Martínez ficha por RTVE para ponerse al frente del concurso musical 'Hitster'",
+        "cadena": "La 1",
+        "detalle": "El presentador deja Mediaset y debuta en RTVE con nuevo concurso musical",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/dani-martinez-ficha-por-rtve-para-ponerse-frente-concurso-musical-hitster_7010178_0.html"
+      },
+      {
+        "titular": "Karmele Marchante, sobre '¡De lunes a viernes!', el nuevo programa de Telecinco: 'Libre de toxicidad y delincuencia'",
+        "cadena": "Telecinco",
+        "detalle": "Nuevo programa para las tardes de Telecinco con Santi Acosta, Bea Archidona, Claudia Chacón, Sebastián Gallego y Ángela Portero",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/karmele-marchante-sobre-lunes-viernes-nuevo-programa-telecinco-libre-toxicidad-delincuencia_7010500_0.html"
+      },
+      {
+        "titular": "El monólogo de Manu Sánchez tras la victoria de España en el Mundial: 'Hitler era más austriaco que perder 3 a 0 contra España'",
+        "cadena": "",
+        "detalle": "Manu Sánchez estrenó 'El perro andaluz' en directo justo después del partido España-Austria",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/monologo-manu-sanchez-tras-victoria-espana-mundial-hitler-era-mas-austriaco-que-perder-3-0-contra-espana_7010074_0.html"
+      }
+    ],
+    "deportes": [
+      {
+        "titular": "La victoria de España frente a Austria arrasa con un 59,6% y más de 9 millones en La 1",
+        "cadena": "La 1",
+        "detalle": "El partido España-Austria de 1/16 de final del Mundial logró 9.093.000 espectadores el jueves 2 de julio",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-jueves-2-julio-espana-austria-mundial-137631/"
+      },
+      {
+        "titular": "Audiencias 2 de julio 2026 - España-Austria: 1/16 de Final Copa Mundial",
+        "cadena": "La 1",
+        "detalle": "Lo más visto del día con 9.093.000 espectadores y 59,6% de cuota a las 21:00 horas",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-2-de-julio-2026/"
+      }
+    ],
+    "especiales": [],
+    "entrevistas": [],
+    "parrilla": [],
+    "records": [
+      {
+        "titular": "'Tu cara me suena' lidera el prime time con un 17% y La 1 se lleva el día gracias al fútbol",
+        "cadena": "Antena 3",
+        "detalle": "El programa logra liderar el viernes 3 de julio con 17% de share",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-viernes-3-julio-tu-cara-me-suena-137637/"
+      },
+      {
+        "titular": "Audiencias 03 de julio de 2026 - Antena 3 Noticias 1 lo más visto",
+        "cadena": "Antena 3",
+        "detalle": "El informativo de las 14:58 logró 2.098.000 espectadores y 23,6% de cuota",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-03-de-julio-de-2026/"
+      }
+    ]
+  }
+}
