@@ -1,0 +1,73 @@
+{
+  "fecha": "2026-07-05",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "España arrasa en el Mundial de fútbol con 59,6% y más de 9 millones; 'Tu cara me suena' lidera el viernes con 17%",
+  "alertas": {
+    "estrenos": [],
+    "deportes": [
+      {
+        "titular": "La victoria de España frente a Austria arrasa con un 59,6% y más de 9 millones en La 1",
+        "cadena": "La 1",
+        "detalle": "Partido del Mundial con dato histórico: 59,6% de share y más de 9 millones de espectadores",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-jueves-2-julio-espana-austria-mundial-137631/"
+      }
+    ],
+    "especiales": [
+      {
+        "titular": "Documental 'Rafa' sobre Rafa Nadal",
+        "cadena": "",
+        "detalle": "Documental especial sobre la figura de Rafa Nadal descrito como 'manifiesto vital'",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/nadal-cajal_7010519_3.html"
+      },
+      {
+        "titular": "Documental sobre Rocío Jurado",
+        "cadena": "",
+        "detalle": "Producción especial que homenajea la vida artística de Rocío Jurado, genera comentarios de la familia",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/rocio-flores-se-pronuncia-sobre-documental-rocio-jurado-creo-que-faltan-muchas-cosas_7010638_0.html"
+      }
+    ],
+    "entrevistas": [],
+    "parrilla": [
+      {
+        "titular": "Anna Bosch se jubila de TVE",
+        "cadena": "La 1",
+        "detalle": "La veterana periodista Anna Bosch se jubila tras su trayectoria en TVE",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/que-debemos-seguir-aprendiendo-anna-bosch_7010522_3.html"
+      },
+      {
+        "titular": "Ylenia Padilla no estará presente en '¡De lunes a viernes!'",
+        "cadena": "Telecinco",
+        "detalle": "Ausencia de colaboradora habitual por motivos de salud (pruebas digestivas)",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/ylenia-padilla-aclara-motivo-por-que-no-estara-presente-lunes-viernes-nada-estres_7010531_0.html"
+      }
+    ],
+    "records": [
+      {
+        "titular": "'Tu cara me suena' lidera el prime time con un 17%",
+        "cadena": "Antena 3",
+        "detalle": "El talent show lidera el viernes 3 de julio con 17% de share",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-viernes-3-julio-tu-cara-me-suena-137637/"
+      },
+      {
+        "titular": "La 1 se lleva el día gracias al fútbol",
+        "cadena": "La 1",
+        "detalle": "La 1 lidera la jornada del viernes impulsada por la retransmisión futbolística",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-viernes-3-julio-tu-cara-me-suena-137637/"
+      },
+      {
+        "titular": "ANTENA 3 NOTICIAS 1 lo más visto del viernes con 23,6%",
+        "cadena": "Antena 3",
+        "detalle": "El informativo de Antena 3 lidera con 2.098.000 espectadores y 23,6% de share",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-03-de-julio-de-2026/"
+      }
+    ]
+  }
+}
