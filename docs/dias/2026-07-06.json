@@ -1,0 +1,44 @@
+{
+  "fecha": "2026-07-06",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "El Brasil-Noruega del Mundial 2026 arrasa con 41,2% en La 1 y hunde a toda la competencia; el sábado el Paraguay-Francia también lideró con 32,5%",
+  "alertas": {
+    "estrenos": [],
+    "deportes": [
+      {
+        "titular": "El Brasil - Noruega del Mundial 2026 arrasa con un 41,2% y hunde a la competencia",
+        "cadena": "La 1",
+        "detalle": "Partido de octavos del Mundial de Fútbol 2026 logró 4.863.000 espectadores y 41,2% de cuota el domingo 5 de julio a las 22:00h",
+        "fuente": "Fórmula TV / Barlovento",
+        "url": "https://www.formulatv.com/noticias/audiencias-domingo-5-julio-137648/"
+      },
+      {
+        "titular": "Paraguay-Francia: 1/8 de Futbol Copa Mundial logra 32,5% en La 1",
+        "cadena": "La 1",
+        "detalle": "Partido de octavos del Mundial emitido el sábado 4 de julio a las 23:03h alcanzó 2.663.000 espectadores y 32,5% de cuota",
+        "fuente": "Barlovento",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-04-de-julio-de-2026/"
+      }
+    ],
+    "especiales": [
+      {
+        "titular": "'Saca tu Orgullo' pincha en La 1 con un 6,1%",
+        "cadena": "La 1",
+        "detalle": "Programa especial por el Orgullo LGTBI obtiene solo 6,1% el sábado 4 de julio, dato muy por debajo de lo esperado",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-sabado-4-julio-saca-tu-orgullo-fiesta-137642/"
+      }
+    ],
+    "entrevistas": [],
+    "parrilla": [],
+    "records": [
+      {
+        "titular": "'Fiesta' alcanza su mejor dato del año aprovechando el fracaso de 'Saca tu Orgullo'",
+        "cadena": "Telecinco",
+        "detalle": "El magacín de Telecinco logra su mejor audiencia de 2026 el sábado 4 de julio ante la debilidad de la competencia",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-sabado-4-julio-saca-tu-orgullo-fiesta-137642/"
+      }
+    ]
+  }
+}
