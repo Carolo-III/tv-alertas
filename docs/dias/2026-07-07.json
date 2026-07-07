@@ -1,0 +1,87 @@
+{
+  "fecha": "2026-07-07",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "España arrasa con 12,7 millones y 75% en octavos del Mundial (récord desde Eurocopa 2024); Telecinco estrena 'De lunes a viernes' con 9%; RTVE presenta nuevo 'Hasta el fin del mundo' con parejas inesperadas",
+  "alertas": {
+    "estrenos": [
+      {
+        "titular": "'De lunes a viernes' se estrena en Telecinco con un 9%",
+        "cadena": "Telecinco",
+        "detalle": "Estreno del nuevo programa con 9% de cuota",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-lunes-6-julio-de-lunes-a-viernes-137656/"
+      },
+      {
+        "titular": "María José Campanario, María del Monte, Borjamina... Las inesperadas parejas del nuevo 'Hasta el fin del mundo' de RTVE",
+        "cadena": "La 1",
+        "detalle": "Nueva edición del programa de aventuras con 14 participantes recorriendo más de 10.000 km",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/maria-jose-campanario-maria-monte-borjamina-las-inesperadas-parejas-nuevo-hasta-fin-mundo-rtve_7011391_0.html"
+      },
+      {
+        "titular": "Marc Giró despide su primera temporada en laSexta",
+        "cadena": "laSexta",
+        "detalle": "Final de primera temporada con Quim Gutiérrez, Roberto Leal y Joan Pradells (programa 11)",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/marc-giro-despide-su-primera-temporada-lasexta-con-quim-gutierrez-roberto-leal-culturista-joan-pradells_7011218_0.html"
+      }
+    ],
+    "deportes": [
+      {
+        "titular": "España pasa a cuartos del Mundial como lo más visto desde la final de la Eurocopa 2024: 12,7 millones y 75% de cuota",
+        "cadena": "La 1",
+        "detalle": "Portugal-España octavos del Mundial: 12,7M espectadores y 75% (suma de La1, DAZN Mundial, Teledeporte y La2Cat). El lunes 6/07 La1 logró 10.985.000 y 65%",
+        "fuente": "20minutos TV / Barlovento",
+        "url": "https://www.20minutos.es/television/espana-pasa-cuartos-mundial-como-mas-visto-desde-final-eurocopa-2024-12-7-millones-75-media_7011511_0.html"
+      },
+      {
+        "titular": "El Brasil - Noruega del Mundial 2026 arrasa con un 41,2% y hunde a la competencia",
+        "cadena": "La 1",
+        "detalle": "Partido de octavos del Mundial el domingo 5/07 con 4.863.000 espectadores y 41,2% de cuota",
+        "fuente": "Fórmula TV / Barlovento",
+        "url": "https://www.formulatv.com/noticias/audiencias-domingo-5-julio-137648/"
+      }
+    ],
+    "especiales": [],
+    "entrevistas": [
+      {
+        "titular": "Hiba Abouk y la dura infancia que pasó por su padre en 'Universo Calleja'",
+        "cadena": "Cuatro",
+        "detalle": "La actriz se abre sobre episodios complicados de su vida familiar durante su paso por China",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/hiba-abouk-dura-infancia-que-paso-por-su-padre-era-alcoholico-se-arruino_7011359_0.html"
+      },
+      {
+        "titular": "El 'youtuber' IlloJuan confiesa cuánto paga de impuestos con Jesús Calleja",
+        "cadena": "Cuatro",
+        "detalle": "El streamer se sincera sobre su relación con el dinero y si se plantea mudarse a Andorra",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/youtuber-illojuan-confiesa-cuanto-paga-impuestos-si-se-plantea-mudarse-andorra-son-objetivamente-altos_7011361_0.html"
+      },
+      {
+        "titular": "El pacto entre David Broncano y Manuel Turizo si España y Colombia llegan a la final del Mundial",
+        "cadena": "La 1",
+        "detalle": "El cantante colombiano visita 'La Revuelta' tras la victoria de España ante Portugal en octavos",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/pacto-entre-david-broncano-manuel-turizo-si-espana-colombia-llegan-final-mundial-con-una-condicion_7011362_0.html"
+      }
+    ],
+    "parrilla": [],
+    "records": [
+      {
+        "titular": "España pasa a cuartos del Mundial como lo más visto desde la final de la Eurocopa 2024: 12,7 millones y 75% de cuota",
+        "cadena": "La 1",
+        "detalle": "Nuevo hito de audiencia: lo más visto desde la final de la Eurocopa 2024, con 12,7M espectadores",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/espana-pasa-cuartos-mundial-como-mas-visto-desde-final-eurocopa-2024-12-7-millones-75-media_7011511_0.html"
+      },
+      {
+        "titular": "El Brasil - Noruega del Mundial 2026 arrasa con un 41,2% y hunde a la competencia",
+        "cadena": "La 1",
+        "detalle": "Dato destacado de 41,2% de cuota que anula la competencia en domingo",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-domingo-5-julio-137648/"
+      }
+    ]
+  }
+}
