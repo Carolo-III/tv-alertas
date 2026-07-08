@@ -1,0 +1,116 @@
+{
+  "fecha": "2026-07-08",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "El Mundial 2026 arrasa en audiencias con España-Portugal alcanzando 12,7M (75%) y Argentina-Egipto logrando 3,7M (39%); Telecinco estrena 'De lunes a viernes' con 9%; RTVE anuncia nuevo 'Hasta el fin del mundo'",
+  "alertas": {
+    "estrenos": [
+      {
+        "titular": "'De lunes a viernes' se estrena en Telecinco con un 9%",
+        "cadena": "Telecinco",
+        "detalle": "Nuevo programa diario debuta el lunes 6 de julio con 9% de cuota",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-lunes-6-julio-de-lunes-a-viernes-137656/"
+      },
+      {
+        "titular": "María José Campanario, María del Monte, Borjamina... Las inesperadas parejas del nuevo 'Hasta el fin del mundo' de RTVE",
+        "cadena": "La 1",
+        "detalle": "Nueva edición del reality de aventuras con 14 participantes recorriendo más de 10.000 km",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/maria-jose-campanario-maria-monte-borjamina-las-inesperadas-parejas-nuevo-hasta-fin-mundo-rtve_7011391_0.html"
+      },
+      {
+        "titular": "La nueva televisión, La Séptima TV, se podrá desde el 5 de noviembre con el lema 'Avanzar no es pensar igual, es saber escucharse'",
+        "cadena": "La Séptima TV",
+        "detalle": "Nuevo canal que emitirá 24 horas al día desde noviembre 2026",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/nueva-television-septima-tv-se-podra-desde-5-noviembre-con-lema-avanzar-no-es-pensar-igual-es-saber-escucharse_7011750_0.html"
+      }
+    ],
+    "deportes": [
+      {
+        "titular": "España pasa a cuartos del Mundial como lo más visto desde la final de la Eurocopa 2024: 12,7 millones y 75% de cuota",
+        "cadena": "La 1",
+        "detalle": "Partido Portugal-España el lunes 6 julio alcanza 12,7M espectadores y 75% de share sumando todas las plataformas (La 1, DAZN Mundial, Teledeporte, La2Cat)",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/espana-pasa-cuartos-mundial-como-mas-visto-desde-final-eurocopa-2024-12-7-millones-75-media_7011511_0.html"
+      },
+      {
+        "titular": "PORTUGAL-ESPAÑA:1/8 de FUTBOL:COPA MUNDIAL emitido en La1 a las 21:00 horas logró 10.985.000 espectadores y 65% de cuota",
+        "cadena": "La 1",
+        "detalle": "Octavos de final del Mundial 2026 el lunes 6 julio como lo más visto del día en La 1",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-06-de-julio-2026/"
+      },
+      {
+        "titular": "El Argentina - Egipto del Mundial 2026 barre en la tarde de La 1 con un 39% y 3,7 millones",
+        "cadena": "La 1",
+        "detalle": "Partido de octavos Argentina-Egipto el martes 7 julio a las 18:01h consigue 3,7M y 39% de share",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-martes-7-julio-argentina-egipto-mundial-137667/"
+      },
+      {
+        "titular": "ARGENTINA-EGIPTO:1/8 de FUTBOL:COPA MUNDIAL emitido en La1 a las 18:01 horas logró 3.757.000 espectadores y 39% de cuota",
+        "cadena": "La 1",
+        "detalle": "Lo más visto del martes 7 julio con partido de octavos del Mundial 2026",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-07-de-julio-2026/"
+      },
+      {
+        "titular": "El triple gol de TVE con el Mundial, el Tour y los Sanfermines",
+        "cadena": "La 1",
+        "detalle": "TVE maximiza su cobertura combinando Mundial de Fútbol, Tour de Francia y Sanfermines simultáneamente",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/triple-gol-tve-con-mundial-tour-los-sanfermines_7011552_3.html"
+      }
+    ],
+    "especiales": [],
+    "entrevistas": [
+      {
+        "titular": "Jon Sistiaga revela el curioso gesto de Felipe VI durante su participación en el documental de Miguel Ángel Blanco",
+        "cadena": "La 1",
+        "detalle": "El rey Felipe VI participó en documental sobre Miguel Ángel Blanco, rodaje en Zarzuela revelado en 'La Revuelta'",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/jon-sistiaga-revela-curioso-gesto-felipe-vi-durante-su-participacion-documental-miguel-angel-blanco_7011915_0.html"
+      }
+    ],
+    "parrilla": [
+      {
+        "titular": "'La Revuelta' cambia de teatro la temporada que viene a este otro de Madrid: 'Es la última vez de muchas cosas'",
+        "cadena": "La 1",
+        "detalle": "El programa de Broncano se traslada del Teatro Príncipe Gran Vía al Teatro Albéniz para próxima temporada",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/revuelta-cambia-teatro-temporada-que-viene-este-otro-madrid-es-ultima-vez-muchas-cosas_7011951_0.html"
+      },
+      {
+        "titular": "Marta Nebot anuncia que ha sido despedida de 'En boca de todos': 'No sé cómo tomármelo'",
+        "cadena": "Cuatro",
+        "detalle": "La colaboradora es despedida del programa presentado por Nacho Abad",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/marta-nebot-anuncia-que-ha-sido-despedida-boca-todos-no-se-como-tomarmelo_7011598_0.html"
+      },
+      {
+        "titular": "Sandra Aladro regresa a Telecinco: 'De vuelta. Divino déjà vu'",
+        "cadena": "Telecinco",
+        "detalle": "La periodista se incorpora como colaboradora de 'Vamos a ver' y 'El verano se mueve'",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/sandra-aladro-regresa-telecinco-vuelta-divino-deja-vu_7011616_0.html"
+      },
+      {
+        "titular": "El veredicto de Roberto Leal sobre la nueva prueba final de 'Pasapalabra' tras el fin del 'Rosco': 'Más emocionante'",
+        "cadena": "Antena 3",
+        "detalle": "Cambios en la prueba final del concurso, fin del tradicional Rosco sustituido por nueva mecánica",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/veredicto-roberto-leal-sobre-nueva-prueba-final-pasapalabra-tras-fin-rosco-mas-emocionante_7011917_0.html"
+      }
+    ],
+    "records": [
+      {
+        "titular": "España pasa a cuartos del Mundial como lo más visto desde la final de la Eurocopa 2024: 12,7 millones y 75% de cuota",
+        "cadena": "La 1",
+        "detalle": "Mejor dato de audiencia desde la final de la Eurocopa 2024, récord del Mundial 2026 en España",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/espana-pasa-cuartos-mundial-como-mas-visto-desde-final-eurocopa-2024-12-7-millones-75-media_7011511_0.html"
+      }
+    ]
+  }
+}
