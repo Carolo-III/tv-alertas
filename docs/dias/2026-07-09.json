@@ -1,0 +1,81 @@
+{
+  "fecha": "2026-07-09",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "El Mundial 2026 arrasa: Argentina-Egipto logra 39% en La 1, mientras Antena 3 confirma emisión de 'Tu cara me suena' pese al España-Bélgica del viernes",
+  "alertas": {
+    "estrenos": [
+      {
+        "titular": "Henar Álvarez confirma la renovación de 'Al cielo con ella' con un cierre de temporada muy especial",
+        "cadena": "La 1",
+        "detalle": "Confirmada segunda temporada del programa tras cierre exitoso de la primera",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/henar-alvarez-confirma-renovacion-cielo-con-ella-con-un-cierre-temporada-muy-especial-estamos-muy-orgullosas_7012336_0.html"
+      },
+      {
+        "titular": "'La Revuelta' cambia de teatro la temporada que viene a este otro de Madrid",
+        "cadena": "La 1",
+        "detalle": "El programa de Broncano pasa del Teatro Príncipe Gran Vía al Teatro Albéniz para la próxima temporada",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/revuelta-cambia-teatro-temporada-que-viene-este-otro-madrid-es-ultima-vez-muchas-cosas_7011951_0.html"
+      }
+    ],
+    "deportes": [
+      {
+        "titular": "El Argentina - Egipto del Mundial 2026 barre en la tarde de La 1 con un 39% y 3,7 millones",
+        "cadena": "La 1",
+        "detalle": "Partido de octavos de final del Mundial de fútbol logra 39% de share y 3.757.000 espectadores, lo más visto del martes 7 de julio",
+        "fuente": "Barlovento/Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-martes-7-julio-argentina-egipto-mundial-137667/"
+      },
+      {
+        "titular": "Antena 3 despeja las dudas sobre la segunda semifinal de 'Tu cara me suena' y confirma su emisión pese al España-Bélgica",
+        "cadena": "Antena 3",
+        "detalle": "Antena 3 mantiene la semifinal del talent pese a coincidir con el España-Bélgica de cuartos del Mundial el viernes",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/antena-3-despeja-las-dudas-sobre-segunda-semifinal-tu-cara-me-suena-confirma-su-emision-pese-espana-belgica_7012032_0.html"
+      },
+      {
+        "titular": "El triple gol de TVE con el Mundial, el Tour y los Sanfermines",
+        "cadena": "La 1",
+        "detalle": "TVE aprovecha la coincidencia de tres grandes eventos en directo: Mundial de fútbol, Tour de Francia y Sanfermines",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/triple-gol-tve-con-mundial-tour-los-sanfermines_7011552_3.html"
+      }
+    ],
+    "especiales": [
+      {
+        "titular": "Shakira, ante su regreso a España con su gira tras tres años: conexión en 'La Revuelta'",
+        "cadena": "La 1",
+        "detalle": "Primera videollamada de Shakira con Broncano para anunciar su residencia en Madrid entre septiembre y octubre de 2026",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/shakira-ante-su-regreso-espana-con-su-gira-tras-tres-anos-voy-tirar-casa-por-ventana_7012434_0.html"
+      }
+    ],
+    "entrevistas": [],
+    "parrilla": [
+      {
+        "titular": "Antena 3 confirma emisión de 'Tu cara me suena' pese al España-Bélgica del Mundial",
+        "cadena": "Antena 3",
+        "detalle": "La cadena mantiene su programación habitual compitiendo contra el partido de cuartos de final del Mundial el viernes",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/antena-3-despeja-las-dudas-sobre-segunda-semifinal-tu-cara-me-suena-confirma-su-emision-pese-espana-belgica_7012032_0.html"
+      }
+    ],
+    "records": [
+      {
+        "titular": "'El precio de Cantora' lidera con un 12,1% frente a 'Maestros de la costura' y '¡Salta!'",
+        "cadena": "Telecinco",
+        "detalle": "El especial sobre Cantora lidera el miércoles 8 de julio con 12,1% de share",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-miercoles-8-julio-el-precio-de-cantora-137678/"
+      },
+      {
+        "titular": "ANTENA 3 NOTICIAS 1 lo más visto del miércoles 8 de julio con 22,1% y 2.016.000 espectadores",
+        "cadena": "Antena 3",
+        "detalle": "El informativo de Antena 3 lidera el día con 22,1% de cuota y más de 2 millones de espectadores",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-08-de-julio-2026/"
+      }
+    ]
+  }
+}
