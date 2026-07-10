@@ -1,0 +1,81 @@
+{
+  "fecha": "2026-07-10",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "Francia-Marruecos arrasa con récord de 6,2M y 48,7%, mientras Mediaset demanda a Atresmedia por 'AlaZ' y 'El Grand Prix' regresa a La 1",
+  "alertas": {
+    "estrenos": [
+      {
+        "titular": "'El Grand Prix del Verano' regresa a La 1 con nuevas pruebas, 12 pueblos y el fichaje de Gorka Rodríguez",
+        "cadena": "La 1",
+        "detalle": "Regreso del concurso con Ramón García y Lalachus, fichaje de Gorka Rodríguez",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/grand-prix-verano-regresa-1-con-nuevas-pruebas-12-pueblos-fichaje-gorka-rodriguez_7013101_0.html"
+      },
+      {
+        "titular": "'La casa de los gemelos 3' confirma a sus cuatro primeros concursantes y anuncia un duelo entre España y Argentina",
+        "cadena": "",
+        "detalle": "Tercera temporada del reality con 6 españoles y 6 argentinos conviviendo en Marbella",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/casa-los-gemelos-3-confirma-sus-cuatro-primeros-concursantes-anuncia-un-duelo-entre-espana-argentina_7013140_0.html"
+      }
+    ],
+    "deportes": [
+      {
+        "titular": "El Francia - Marruecos no da opción a la competencia con más de 6,2 millones y un 48,7%",
+        "cadena": "La 1",
+        "detalle": "Partido cuartos de final Copa Mundial logra 6.247.000 espectadores y 48,7% de cuota",
+        "fuente": "Fórmula TV / Barlovento",
+        "url": "https://www.formulatv.com/noticias/audiencias-jueves-9-julio-francia-marruecos-137688/"
+      }
+    ],
+    "especiales": [],
+    "entrevistas": [
+      {
+        "titular": "El divertido momento de Shakira: una llamada inesperada en su conexión con Broncano y el 'cameo' de su asistente",
+        "cadena": "La 1",
+        "detalle": "Primera videollamada de Shakira en 'La Revuelta', habla de su próxima residencia en Madrid",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/divertido-momento-shakira-una-llamada-inesperada-su-conexion-con-broncano-cameo-su-asistente_7012435_0.html"
+      }
+    ],
+    "parrilla": [
+      {
+        "titular": "Las cadenas de televisión mueven 'banquillo' en verano: caras que cambian de hora, fichajes nuevos, programas contra el calor",
+        "cadena": "Varias",
+        "detalle": "Cambios generales en parrillas de verano: presentadores de vacaciones, sustitutos temporales, cambios de franja horaria",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/las-cadenas-television-mueven-banquillo-verano-caras-que-cambian-hora-fichajes-nuevos-programas-contra-calor_7012753_0.html"
+      },
+      {
+        "titular": "Mediaset anuncia que la productora de 'El Rosco' demandará a Atresmedia por 'AlaZ', la nueva prueba de 'Pasapalabra'",
+        "cadena": "Varias",
+        "detalle": "Conflicto legal entre Mediaset y Atresmedia por similitudes entre 'El Rosco' y nueva prueba 'AlaZ' de Pasapalabra",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/mediaset-anuncia-que-productora-rosco-demandara-atresmedia-por-alaz-nueva-prueba-pasapalabra_7012822_0.html"
+      },
+      {
+        "titular": "Mediaset reclama la marca 'Pasapalabra' a la Oficina de Propiedad Intelectual de la UE para poder volver a usar el nombre",
+        "cadena": "Telecinco",
+        "detalle": "Movimiento estratégico de Mediaset para recuperar derechos de marca 'Pasapalabra'",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/mediaset-reclama-marca-pasapalabra-oficina-propiedad-intelectual-ue-para-poder-volver-usar-nombre_7013053_0.html"
+      }
+    ],
+    "records": [
+      {
+        "titular": "Francia-Marruecos cuartos de final Mundial logra 6.247.000 espectadores y 48,7% de cuota",
+        "cadena": "La 1",
+        "detalle": "Lo más visto del día 09/07/2026 con audiencia excepcional para partido de cuartos de Mundial",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-09-de-julio-2026/"
+      },
+      {
+        "titular": "'El precio de Cantora' lidera con un 12,1% frente a 'Maestros de la costura' y '¡Salta!'",
+        "cadena": "Telecinco",
+        "detalle": "Lidera la noche del miércoles 8 de julio superando a la competencia",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-miercoles-8-julio-el-precio-de-cantora-137678/"
+      }
+    ]
+  }
+}
