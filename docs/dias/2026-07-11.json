@@ -1,0 +1,87 @@
+{
+  "fecha": "2026-07-11",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "España-Bélgica arrasa con récord histórico de 11,4M y 76,5% share en La1; polémica Mediaset vs Atresmedia por 'AlaZ' de Pasapalabra; regresa El Grand Prix del Verano",
+  "alertas": {
+    "estrenos": [
+      {
+        "titular": "'El Grand Prix del Verano' regresa a La 1 con nuevas pruebas, 12 pueblos y el fichaje de Gorka Rodríguez",
+        "cadena": "La 1",
+        "detalle": "Ramón García y Lalachus vuelven al frente del concurso con renovaciones",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/grand-prix-verano-regresa-1-con-nuevas-pruebas-12-pueblos-fichaje-gorka-rodriguez_7013101_0.html"
+      },
+      {
+        "titular": "'La casa de los gemelos 3' confirma a sus cuatro primeros concursantes y anuncia un duelo entre España y Argentina",
+        "cadena": "",
+        "detalle": "Reality con 6 españoles y 6 argentinos en Marbella",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/casa-los-gemelos-3-confirma-sus-cuatro-primeros-concursantes-anuncia-un-duelo-entre-espana-argentina_7013140_0.html"
+      }
+    ],
+    "deportes": [
+      {
+        "titular": "El España-Bélgica arrasa en televisión: logra una audiencia de 11,4 millones y un 76,5% de cuota de pantalla",
+        "cadena": "La 1",
+        "detalle": "Cuartos de final Copa Mundial, 15.930.000 espectadores únicos, minuto más visto a las 22:51h",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/espana-belgica-arrasa-television-logra-una-audiencia-11-4-millones-un-76-5-cuota-pantalla_7013438_0.html"
+      },
+      {
+        "titular": "Audiencias 10 de julio de 2026: ESPAÑA-BELGICA:1/4 de FUTBOL:COPA MUNDIAL logró 10.095.000 espectadores y 67,7% share",
+        "cadena": "La 1",
+        "detalle": "Fue lo más visto del viernes 10 julio, emitido a las 21:00h",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-10-de-julio-de-2026/"
+      },
+      {
+        "titular": "El Francia - Marruecos no da opción a la competencia con más de 6,2 millones y un 48,7%",
+        "cadena": "La 1",
+        "detalle": "Cuartos de final Copa Mundial emitido jueves 9 julio a las 22:00h",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-jueves-9-julio-francia-marruecos-137688/"
+      }
+    ],
+    "especiales": [],
+    "entrevistas": [],
+    "parrilla": [
+      {
+        "titular": "'Tu cara me suena': el éxito de aguantar su cita en directo frente a España en El Mundial",
+        "cadena": "Antena 3",
+        "detalle": "Semifinal mantuvo emisión en directo durante España-Bélgica (10M/67,7%)",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/tu-cara-me-suena-exito-aguantar-su-cita-directo-frente-espana-mundial_7013435_3.html"
+      },
+      {
+        "titular": "Mediaset reclama la marca 'Pasapalabra' a la Oficina de Propiedad Intelectual de la UE",
+        "cadena": "Mediaset",
+        "detalle": "Movimiento estratégico un día después de anunciar demanda contra 'AlaZ' de Atresmedia",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/mediaset-reclama-marca-pasapalabra-oficina-propiedad-intelectual-ue-para-poder-volver-usar-nombre_7013053_0.html"
+      },
+      {
+        "titular": "Mediaset demandará a Atresmedia por 'AlaZ', la nueva prueba de 'Pasapalabra'",
+        "cadena": "Varias",
+        "detalle": "Guerra legal: productora de 'El Rosco' considera 'AlaZ' muy parecida a su formato",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/las-diez-diferencias-entre-rosco-alaz-nueva-prueba-pasapalabra_7013234_0.html"
+      },
+      {
+        "titular": "Atresmedia responde a los ataques de Mediaset: 'Es una campaña contra nuestro éxito'",
+        "cadena": "Atresmedia",
+        "detalle": "Contraataque: acusa a Mediaset de intentar monopolizar juego del abecedario",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/atresmedia-responde-los-ataques-mediaset-contra-pasapalabra-prueba-alaz-es-una-campana-contra-nuestro-exito_7013247_0.html"
+      }
+    ],
+    "records": [
+      {
+        "titular": "'Tu cara me suena' aguanta en su semifinal con un 18% y más de 1,1 millones",
+        "cadena": "Antena 3",
+        "detalle": "Logra mantener audiencia considerable pese a competir contra España-Bélgica (11,4M)",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-viernes-10-julio-tu-cara-me-suena-137697/"
+      }
+    ]
+  }
+}
