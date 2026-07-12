@@ -1,0 +1,73 @@
+{
+  "fecha": "2026-07-12",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "España-Bélgica arrasa con récord histórico de 11,4M (76,5%), mientras 'Tu cara me suena' resiste en directo y estalla polémica por 'El Rosco' vs 'AlaZ' de Pasapalabra",
+  "alertas": {
+    "estrenos": [],
+    "deportes": [
+      {
+        "titular": "El España-Bélgica arrasa en televisión: logra una audiencia de 11,4 millones y un 76,5% de cuota de pantalla",
+        "cadena": "La 1",
+        "detalle": "Cuartos de final del Mundial de Fútbol. Alcanzó 15.930.000 espectadores únicos, minuto más visto a las 22:51h",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/espana-belgica-arrasa-television-logra-una-audiencia-11-4-millones-un-76-5-cuota-pantalla_7013438_0.html"
+      },
+      {
+        "titular": "ESPAÑA-BELGICA:1/4 de FUTBOL:COPA MUNDIAL logró 10.095.000 espectadores y 67,7% de cuota",
+        "cadena": "La 1",
+        "detalle": "Partido del 10 de julio a las 21:00h, fue lo más visto del día (dato alternativo de Barlovento)",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-10-de-julio-de-2026/"
+      },
+      {
+        "titular": "El Francia - Marruecos no da opción a la competencia con más de 6,2 millones y un 48,7%",
+        "cadena": "La 1",
+        "detalle": "Partido del Mundial del jueves 9 de julio, dominó la noche sin competencia",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-jueves-9-julio-francia-marruecos-137688/"
+      }
+    ],
+    "especiales": [
+      {
+        "titular": "El susto del edificio que casi colapsa en Nueva York: así se retransmitieron las 11 horas de alarma",
+        "cadena": "",
+        "detalle": "Cobertura especial de evento de actualidad internacional durante 11 horas continuas",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/susto-edificio-que-casi-colapsa-nueva-york-asi-se-retransmitieron-las-11-horas-alarma_7012688_3.html"
+      }
+    ],
+    "entrevistas": [],
+    "parrilla": [
+      {
+        "titular": "'Tu cara me suena': el éxito de aguantar su cita en directo frente a España en El Mundial",
+        "cadena": "Antena 3",
+        "detalle": "La semifinal mantuvo su emisión en directo compitiendo contra España-Bélgica (10M/67,7%)",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/tu-cara-me-suena-exito-aguantar-su-cita-directo-frente-espana-mundial_7013435_3.html"
+      },
+      {
+        "titular": "Telecinco contraataca: las claves para entender el galimatías del futuro de 'El Rosco'",
+        "cadena": "Telecinco",
+        "detalle": "Batalla legal y estratégica por recuperar 'El Rosco'. Mediaset demandará a Atresmedia por 'AlaZ' de Pasapalabra",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/clave-galimatias-rosco-pasapalabra_7013254_3.html"
+      },
+      {
+        "titular": "Las diez diferencias entre 'El Rosco' y 'AlaZ', la nueva prueba de 'Pasapalabra'",
+        "cadena": "Varias",
+        "detalle": "Polémica por similitud entre pruebas. Productora de 'El Rosco' demandará a Atresmedia",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/las-diez-diferencias-entre-rosco-alaz-nueva-prueba-pasapalabra_7013234_0.html"
+      }
+    ],
+    "records": [
+      {
+        "titular": "'Tu cara me suena' aguanta en su semifinal con un 18% y más de 1,1 millones",
+        "cadena": "Antena 3",
+        "detalle": "Notable resistencia en semifinal emitida en directo contra partido del Mundial",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-viernes-10-julio-tu-cara-me-suena-137697/"
+      }
+    ]
+  }
+}
