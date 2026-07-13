@@ -1,0 +1,59 @@
+{
+  "fecha": "2026-07-13",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "Fin de semana con batallas cinematográficas: '¿Es el enemigo?' lidera el domingo y 'El secreto de Adaline' el sábado, frente a la final de 'La Voz Kids'",
+  "alertas": {
+    "estrenos": [],
+    "deportes": [],
+    "especiales": [
+      {
+        "titular": "'El peor vecino del mundo' lidera el domingo frente a 'Una nueva vida' y '¿Es el enemigo?'",
+        "cadena": "Varias",
+        "detalle": "Batalla de cine en domingo con múltiples películas compitiendo",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-domingo-12-julio-es-el-enemigo-137706/"
+      },
+      {
+        "titular": "Final 'Último Asalto' de 'La Voz Kids' compite el sábado",
+        "cadena": "Antena 3",
+        "detalle": "Final del talent show infantil enfrenta competencia de cine",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-sabado-11-julio-el-secreto-de-adaline-137699/"
+      }
+    ],
+    "entrevistas": [
+      {
+        "titular": "Michael Raduga explica en Cuarto Milenio el hito de conectar mentes dormidas",
+        "cadena": "Cuatro",
+        "detalle": "CEO de REMspace habla sobre conexión de personas en sueños lúcidos tras cinco años de trabajo",
+        "fuente": "20minutos",
+        "url": "https://www.20minutos.es/television/michael-raduga-sobre-hito-conectar-mentes-dormidas-problema-es-duracion-los-suenos-lucidos_7013749_0.html"
+      }
+    ],
+    "parrilla": [
+      {
+        "titular": "Lorena García al frente de 'Espejo Público' en verano",
+        "cadena": "Antena 3",
+        "detalle": "Relevo veraniego en el magacín matinal, defiende que la actualidad no se va de vacaciones",
+        "fuente": "20minutos",
+        "url": "https://www.20minutos.es/television/lorena-garcia-frente-espejo-publico-actualidad-nos-ha-demostrado-desde-hace-varios-veranos-que-no-se-va-vacaciones_7009842_0.html"
+      },
+      {
+        "titular": "Telecinco contraataca por el futuro de 'El Rosco'",
+        "cadena": "Telecinco",
+        "detalle": "Batalla legal y estratégica por recuperar formato exitoso tipo Pasapalabra",
+        "fuente": "20minutos",
+        "url": "https://www.20minutos.es/television/clave-galimatias-rosco-pasapalabra_7013254_3.html"
+      }
+    ],
+    "records": [
+      {
+        "titular": "'El secreto de Adaline' lidera la noche del sábado frente al 'Último Asalto' de 'La Voz Kids'",
+        "cadena": "Varias",
+        "detalle": "Película cinematográfica supera a la final del talent show",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-sabado-11-julio-el-secreto-de-adaline-137699/"
+      }
+    ]
+  }
+}
