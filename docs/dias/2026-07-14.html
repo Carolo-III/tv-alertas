@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang='es'>
+<head>
+<meta charset='UTF-8'>
+<meta name='viewport' content='width=device-width, initial-scale=1.0'>
+<title>TV Alertas — Martes 14 de julio de 2026</title>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=DM+Sans:wght@300;400;500;600&display=swap');
+
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+:root {
+  --bg: #0a0a0b;
+  --bg2: #111113;
+  --bg3: #1a1a1d;
+  --border: #2a2a2e;
+  --text: #e8e8ec;
+  --text-muted: #6b6b78;
+  --accent: #e8c547;
+}
+
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: 'DM Sans', sans-serif;
+  font-size: 15px;
+  line-height: 1.6;
+  min-height: 100vh;
+}
+
+.site-header {
+  border-bottom: 1px solid var(--border);
+  padding: 20px 32px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  position: sticky;
+  top: 0;
+  background: rgba(10,10,11,0.95);
+  backdrop-filter: blur(8px);
+  z-index: 100;
+}
+
+.site-title {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 24px;
+  letter-spacing: 2px;
+  color: var(--accent);
+}
+
+.site-subtitle {
+  font-size: 12px;
+  color: var(--text-muted);
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+
+.nav-link {
+  color: var(--text-muted);
+  text-decoration: none;
+  font-size: 13px;
+  letter-spacing: 0.5px;
+  transition: color 0.2s;
+}
+.nav-link:hover { color: var(--accent); }
+
+main { max-width: 900px; margin: 0 auto; padding: 40px 24px; }
+
+.fecha-display {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 48px;
+  letter-spacing: 3px;
+  color: var(--text);
+  margin-bottom: 4px;
+}
+
+.resumen-ejecutivo {
+  font-size: 16px;
+  color: var(--text-muted);
+  margin-bottom: 40px;
+  padding-left: 16px;
+  border-left: 3px solid var(--accent);
+}
+
+.sin-alertas {
+  text-align: center;
+  padding: 80px 24px;
+  color: var(--text-muted);
+}
+
+.sin-alertas .icon { font-size: 48px; margin-bottom: 16px; }
+.sin-alertas h2 { font-family: 'Bebas Neue', sans-serif; font-size: 28px; letter-spacing: 2px; margin-bottom: 8px; color: var(--text); }
+
+.categoria-bloque { margin-bottom: 40px; }
+
+.categoria-header {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 16px;
+  padding-bottom: 8px;
+  border-bottom: 1px solid var(--border);
+}
+
+.categoria-icon { font-size: 20px; }
+
+.categoria-label {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 20px;
+  letter-spacing: 2px;
+}
+
+.categoria-count {
+  font-size: 12px;
+  padding: 2px 8px;
+  border-radius: 12px;
+  background: var(--bg3);
+  color: var(--text-muted);
+  font-weight: 500;
+}
+
+.alerta-card {
+  background: var(--bg2);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 16px 20px;
+  margin-bottom: 10px;
+  border-left: 3px solid transparent;
+  transition: border-color 0.2s, background 0.2s;
+}
+
+.alerta-card:hover { background: var(--bg3); }
+
+.alerta-titular {
+  font-weight: 600;
+  font-size: 15px;
+  margin-bottom: 4px;
+  color: var(--text);
+}
+
+.alerta-detalle {
+  font-size: 13px;
+  color: var(--text-muted);
+  margin-bottom: 6px;
+}
+
+.alerta-meta {
+  display: flex;
+  gap: 12px;
+  font-size: 12px;
+}
+
+.badge-cadena {
+  background: var(--bg3);
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  padding: 1px 7px;
+  color: var(--text-muted);
+}
+
+.badge-fuente { color: var(--text-muted); font-style: italic; }
+
+.alerta-link {
+  color: var(--text);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: border-color 0.2s, color 0.2s;
+}
+.alerta-link:hover { color: var(--accent); border-bottom-color: var(--accent); }
+
+.historico-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 12px;
+  margin-top: 24px;
+}
+
+.dia-card {
+  background: var(--bg2);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 16px;
+  text-decoration: none;
+  display: block;
+  transition: border-color 0.2s, background 0.2s;
+}
+
+.dia-card:hover { background: var(--bg3); border-color: var(--accent); }
+
+.dia-fecha {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 18px;
+  letter-spacing: 1px;
+  color: var(--text);
+  margin-bottom: 4px;
+}
+
+.dia-alertas { font-size: 12px; color: var(--text-muted); }
+
+.dia-dot {
+  display: inline-block;
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: var(--accent);
+  margin-right: 6px;
+  vertical-align: middle;
+}
+
+.dia-sin-alertas .dia-dot { background: var(--border); }
+
+footer {
+  border-top: 1px solid var(--border);
+  padding: 20px 32px;
+  text-align: center;
+  font-size: 12px;
+  color: var(--text-muted);
+  letter-spacing: 0.5px;
+}
+</style>
+</head>
+<body>
+<header class="site-header"><div><div class="site-title">TV ALERTAS</div><div class="site-subtitle">Monitor de televisión española</div></div><a href="../index.html" class="nav-link">← Histórico</a></header>
+<main>
+<div class="fecha-display">MARTES 14 DE JULIO DE 2026</div>
+<div class="resumen-ejecutivo">Grand Prix lidera el lunes con su estreno de temporada, recuperando juegos clásicos y batiendo récords de puntuación; La Revuelta anuncia su final de temporada para el 16 de julio; Mediaset promociona el regreso de El Rosco a Telecinco.</div>
+<div class="categoria-bloque"><div class="categoria-header"><span class="categoria-icon">🎬</span><span class="categoria-label" style="color:#e8c547">Estrenos</span><span class="categoria-count">4</span></div><div class="alerta-card" style="border-left-color:#e8c547"><div class="alerta-titular"><a href="https://www.20minutos.es/television/arranca-grand-prix-con-debut-gorka-rodriguez-junto-ramon-garcia-vamos-vivir-verano-nuestra-vida_7014198_0.html" target="_blank" rel="noopener" class="alerta-link">Arranca 'Grand Prix' con el debut de Gorka Rodríguez junto a Ramón García</a></div><div class='alerta-detalle'>Estreno de la nueva temporada del concurso con Ramón García y nuevo copresentador Gorka Rodríguez</div><div class="alerta-meta"><span class='badge-cadena'>La 1</span><span class='badge-fuente'>20minutos TV</span></div></div><div class="alerta-card" style="border-left-color:#e8c547"><div class="alerta-titular"><a href="https://www.20minutos.es/television/grand-prix-vuelve-por-todo-alto-con-regreso-dos-juegos-clasicos-hemos-recibido-miles-cartas-peticiones_7014199_0.html" target="_blank" rel="noopener" class="alerta-link">'Grand Prix' vuelve por todo lo alto con el regreso de dos juegos clásicos</a></div><div class='alerta-detalle'>Recupera la cucaña y Alicia en el País de las Caídillas tras miles de peticiones</div><div class="alerta-meta"><span class='badge-cadena'>La 1</span><span class='badge-fuente'>20minutos TV</span></div></div><div class="alerta-card" style="border-left-color:#e8c547"><div class="alerta-titular"><a href="https://www.20minutos.es/television/dog-house-programa-perros-sin-hogar-presentado-por-chenoa-se-reestrena-terminar-partido-espana_7014159_0.html" target="_blank" rel="noopener" class="alerta-link">'Dog House' se reestrena al terminar el partido de España</a></div><div class='alerta-detalle'>Chenoa presenta el regreso del programa de adopción de perros tras el partido de la selección</div><div class="alerta-meta"><span class='badge-cadena'>La 1</span><span class='badge-fuente'>20minutos TV</span></div></div><div class="alerta-card" style="border-left-color:#e8c547"><div class="alerta-titular"><a href="https://www.20minutos.es/television/mediaset-ya-promociona-regreso-rosco-telecinco_7014059_0.html" target="_blank" rel="noopener" class="alerta-link">Mediaset ya promociona el regreso de 'El Rosco' a Telecinco</a></div><div class='alerta-detalle'>Mediaset lanza teaser del nuevo rosco tras ataques a Atresmedia por Pasapalabra</div><div class="alerta-meta"><span class='badge-cadena'>Telecinco</span><span class='badge-fuente'>20minutos TV</span></div></div></div><div class="categoria-bloque"><div class="categoria-header"><span class="categoria-icon">📋</span><span class="categoria-label" style="color:#e87347">Cambios de parrilla</span><span class="categoria-count">2</span></div><div class="alerta-card" style="border-left-color:#e87347"><div class="alerta-titular"><a href="https://www.20minutos.es/television/ya-hay-fecha-para-final-temporada-revuelta-mundial-grand-prix-retrasan-adios_7014151_0.html" target="_blank" rel="noopener" class="alerta-link">Ya hay fecha para el final de la temporada de 'La Revuelta': el Mundial y el Grand Prix 'retrasan' el adiós</a></div><div class='alerta-detalle'>La 1 emitirá el último programa de Broncano el jueves 16 de julio, aplazado por Mundial y Grand Prix</div><div class="alerta-meta"><span class='badge-cadena'>La 1</span><span class='badge-fuente'>20minutos TV</span></div></div><div class="alerta-card" style="border-left-color:#e87347"><div class="alerta-titular"><a href="https://www.20minutos.es/television/lorena-garcia-frente-espejo-publico-actualidad-nos-ha-demostrado-desde-hace-varios-veranos-que-no-se-va-vacaciones_7009842_0.html" target="_blank" rel="noopener" class="alerta-link">Lorena García, al frente de 'Espejo Público'</a></div><div class='alerta-detalle'>Lorena García asume la presentación de Espejo Público en período estival</div><div class="alerta-meta"><span class='badge-cadena'>Antena 3</span><span class='badge-fuente'>20minutos TV</span></div></div></div><div class="categoria-bloque"><div class="categoria-header"><span class="categoria-icon">📊</span><span class="categoria-label" style="color:#47e87e">Récords</span><span class="categoria-count">3</span></div><div class="alerta-card" style="border-left-color:#47e87e"><div class="alerta-titular"><a href="https://www.formulatv.com/noticias/audiencias-lunes-13-julio-grand-prix-verano-137714/" target="_blank" rel="noopener" class="alerta-link">El 'Grand Prix' lidera y 'El mago del vino' en Cuatro supera a 'Jurassic World: Dominion'</a></div><div class='alerta-detalle'>Grand Prix lidera la noche del lunes 13 de julio con su estreno de temporada</div><div class="alerta-meta"><span class='badge-cadena'>La 1</span><span class='badge-fuente'>Fórmula TV</span></div></div><div class="alerta-card" style="border-left-color:#47e87e"><div class="alerta-titular"><a href="https://www.20minutos.es/television/ganador-noche-grand-prix-bate-records-programa-con-maximo-puntos_7014201_0.html" target="_blank" rel="noopener" class="alerta-link">El ganador de la noche de 'Grand Prix' bate récords en el programa con el máximo de puntos</a></div><div class='alerta-detalle'>Polinyà firma la mejor marca de la nueva edición con 17 puntos de diferencia sobre Cantalejo</div><div class="alerta-meta"><span class='badge-cadena'>La 1</span><span class='badge-fuente'>20minutos TV</span></div></div><div class="alerta-card" style="border-left-color:#47e87e"><div class="alerta-titular"><a href="https://www.formulatv.com/noticias/audiencias-domingo-12-julio-es-el-enemigo-137706/" target="_blank" rel="noopener" class="alerta-link">'¿Es el enemigo?' lidera el domingo frente a 'Una nueva vida' y 'El peor vecino del mundo'</a></div><div class='alerta-detalle'>La película lidera las audiencias del domingo 12 de julio</div><div class="alerta-meta"><span class='badge-fuente'>Fórmula TV</span></div></div></div>
+</main>
+<footer>Generado automáticamente · Fuentes: Barlovento, Fórmula TV, Vertele, DOS30</footer>
+</body>
+</html>

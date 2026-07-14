@@ -1,0 +1,79 @@
+{
+  "fecha": "2026-07-14",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "Grand Prix lidera el lunes con su estreno de temporada, recuperando juegos clásicos y batiendo récords de puntuación; La Revuelta anuncia su final de temporada para el 16 de julio; Mediaset promociona el regreso de El Rosco a Telecinco.",
+  "alertas": {
+    "estrenos": [
+      {
+        "titular": "Arranca 'Grand Prix' con el debut de Gorka Rodríguez junto a Ramón García",
+        "cadena": "La 1",
+        "detalle": "Estreno de la nueva temporada del concurso con Ramón García y nuevo copresentador Gorka Rodríguez",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/arranca-grand-prix-con-debut-gorka-rodriguez-junto-ramon-garcia-vamos-vivir-verano-nuestra-vida_7014198_0.html"
+      },
+      {
+        "titular": "'Grand Prix' vuelve por todo lo alto con el regreso de dos juegos clásicos",
+        "cadena": "La 1",
+        "detalle": "Recupera la cucaña y Alicia en el País de las Caídillas tras miles de peticiones",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/grand-prix-vuelve-por-todo-alto-con-regreso-dos-juegos-clasicos-hemos-recibido-miles-cartas-peticiones_7014199_0.html"
+      },
+      {
+        "titular": "'Dog House' se reestrena al terminar el partido de España",
+        "cadena": "La 1",
+        "detalle": "Chenoa presenta el regreso del programa de adopción de perros tras el partido de la selección",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/dog-house-programa-perros-sin-hogar-presentado-por-chenoa-se-reestrena-terminar-partido-espana_7014159_0.html"
+      },
+      {
+        "titular": "Mediaset ya promociona el regreso de 'El Rosco' a Telecinco",
+        "cadena": "Telecinco",
+        "detalle": "Mediaset lanza teaser del nuevo rosco tras ataques a Atresmedia por Pasapalabra",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/mediaset-ya-promociona-regreso-rosco-telecinco_7014059_0.html"
+      }
+    ],
+    "deportes": [],
+    "especiales": [],
+    "entrevistas": [],
+    "parrilla": [
+      {
+        "titular": "Ya hay fecha para el final de la temporada de 'La Revuelta': el Mundial y el Grand Prix 'retrasan' el adiós",
+        "cadena": "La 1",
+        "detalle": "La 1 emitirá el último programa de Broncano el jueves 16 de julio, aplazado por Mundial y Grand Prix",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/ya-hay-fecha-para-final-temporada-revuelta-mundial-grand-prix-retrasan-adios_7014151_0.html"
+      },
+      {
+        "titular": "Lorena García, al frente de 'Espejo Público'",
+        "cadena": "Antena 3",
+        "detalle": "Lorena García asume la presentación de Espejo Público en período estival",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/lorena-garcia-frente-espejo-publico-actualidad-nos-ha-demostrado-desde-hace-varios-veranos-que-no-se-va-vacaciones_7009842_0.html"
+      }
+    ],
+    "records": [
+      {
+        "titular": "El 'Grand Prix' lidera y 'El mago del vino' en Cuatro supera a 'Jurassic World: Dominion'",
+        "cadena": "La 1",
+        "detalle": "Grand Prix lidera la noche del lunes 13 de julio con su estreno de temporada",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-lunes-13-julio-grand-prix-verano-137714/"
+      },
+      {
+        "titular": "El ganador de la noche de 'Grand Prix' bate récords en el programa con el máximo de puntos",
+        "cadena": "La 1",
+        "detalle": "Polinyà firma la mejor marca de la nueva edición con 17 puntos de diferencia sobre Cantalejo",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/ganador-noche-grand-prix-bate-records-programa-con-maximo-puntos_7014201_0.html"
+      },
+      {
+        "titular": "'¿Es el enemigo?' lidera el domingo frente a 'Una nueva vida' y 'El peor vecino del mundo'",
+        "cadena": "",
+        "detalle": "La película lidera las audiencias del domingo 12 de julio",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-domingo-12-julio-es-el-enemigo-137706/"
+      }
+    ]
+  }
+}
