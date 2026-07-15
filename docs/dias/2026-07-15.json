@@ -1,0 +1,109 @@
+{
+  "fecha": "2026-07-15",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "Récord histórico: semifinal España-Francia del Mundial bate todos los registros con 12,7M (71,2%), Grand Prix regresa con éxito y Pedrerol abandona Atresmedia tras 13 años",
+  "alertas": {
+    "estrenos": [
+      {
+        "titular": "Arranca 'Grand Prix' con el debut de Gorka Rodríguez junto a Ramón García",
+        "cadena": "La 1",
+        "detalle": "Estreno de la nueva edición del concurso de los pueblos con Ramón García y un nuevo copresentador",
+        "fuente": "20minutos",
+        "url": "https://www.20minutos.es/television/arranca-grand-prix-con-debut-gorka-rodriguez-junto-ramon-garcia-vamos-vivir-verano-nuestra-vida_7014198_0.html"
+      },
+      {
+        "titular": "'Grand Prix' vuelve por todo lo alto con el regreso de dos juegos clásicos",
+        "cadena": "La 1",
+        "detalle": "Recupera la cucaña y Alicia en el País de las Caídillas, pruebas históricas del concurso",
+        "fuente": "20minutos",
+        "url": "https://www.20minutos.es/television/grand-prix-vuelve-por-todo-alto-con-regreso-dos-juegos-clasicos-hemos-recibido-miles-cartas-peticiones_7014199_0.html"
+      },
+      {
+        "titular": "Atresplayer estrenará próximamente las segundas temporadas de 'FoQ' y 'Perdiendo el juicio'",
+        "cadena": "Atresplayer",
+        "detalle": "La plataforma anuncia nuevas temporadas tras cerrar con casi 800.000 suscriptores",
+        "fuente": "20minutos",
+        "url": "https://www.20minutos.es/television/atresplayer-cierra-temporada-con-casi-800-000-suscriptores-24-millones-espectadores_7014528_0.html"
+      },
+      {
+        "titular": "Movistar Plus duplicará su producción propia y estrenará hasta 26 series al año",
+        "cadena": "Movistar Plus",
+        "detalle": "El equipo de Contenidos ha mantenido reuniones con cerca de 60 productoras para aumentar su catálogo",
+        "fuente": "20minutos",
+        "url": "https://www.20minutos.es/television/movistar-plus-duplicara-su-produccion-propia-estrenara-hasta-26-series-ano_7014349_0.html"
+      },
+      {
+        "titular": "Marta G. Montero ficha por Telemadrid tras volver a 'Malas Lenguas'",
+        "cadena": "Telemadrid",
+        "detalle": "La periodista se estrenó en 'El análisis: el diario de la Noche', que dirige Antonio Naranjo",
+        "fuente": "20minutos",
+        "url": "https://www.20minutos.es/television/marta-g-montero-ficha-por-telemadrid-tras-volver-malas-lenguas-no-tre-preocupes-aqui-no-voy-necesitar-disculparme_7014355_0.html"
+      }
+    ],
+    "deportes": [
+      {
+        "titular": "Partido FRANCIA-ESPAÑA: SF de FUTBOL COPA MUNDIAL logró 12.716.000 espectadores y 71,2% de cuota",
+        "cadena": "La 1",
+        "detalle": "Semifinal del Mundial emitida el 14 de julio a las 21:00 horas, lo más visto del día",
+        "fuente": "Barlovento",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-14-de-julio-2026/"
+      },
+      {
+        "titular": "El España-Francia, el más visto de la 'Roja' en la historia de los Mundiales solo por detrás de la prórroga de la final de 2010",
+        "cadena": "La 1",
+        "detalle": "La semifinal logra una audiencia de 14,6 millones de espectadores según 20minutos (cifra alternativa)",
+        "fuente": "20minutos",
+        "url": "https://www.20minutos.es/television/espana-francia-mas-visto-roja-historia-los-mundiales-solo-por-detras-prorroga-final-2010_7014767_0.html"
+      }
+    ],
+    "especiales": [
+      {
+        "titular": "El Francia - España y los Sanfermines llevan a La 1 a su mejor jornada del año con un 35,1%",
+        "cadena": "La 1",
+        "detalle": "Combinación de semifinal del Mundial y retransmisión de Sanfermines logra récord anual de la cadena",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-martes-14-julio-francia-espana-encierro-137724/"
+      }
+    ],
+    "entrevistas": [],
+    "parrilla": [
+      {
+        "titular": "El mensaje de despedida de Pedrerol después de 13 años en Atresmedia",
+        "cadena": "Atresmedia",
+        "detalle": "Josep Pedrerol y Atresmedia ponen fin a su vinculación profesional de mutuo acuerdo tras más de una década",
+        "fuente": "20minutos",
+        "url": "https://www.20minutos.es/television/mensaje-despedida-pedrerol-despues-13-anos-atresmedia-por-respeto-no-podemos-decir-donde-vamos-estar_7014757_0.html"
+      }
+    ],
+    "records": [
+      {
+        "titular": "El ganador de la noche de 'Grand Prix' bate récords en el programa con el máximo de puntos",
+        "cadena": "La 1",
+        "detalle": "Polinyà firmó la mejor marca de la nueva edición con diecisiete puntos sobre su rival Cantalejo",
+        "fuente": "20minutos",
+        "url": "https://www.20minutos.es/television/ganador-noche-grand-prix-bate-records-programa-con-maximo-puntos_7014201_0.html"
+      },
+      {
+        "titular": "El 'Grand Prix' lidera y 'El mago del vino' en Cuatro supera a 'Jurassic World: Dominion'",
+        "cadena": "Varias",
+        "detalle": "Grand Prix consigue liderazgo en su estreno y Cuatro logra victoria frente a competencia cinematográfica",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-lunes-13-julio-grand-prix-verano-137714/"
+      },
+      {
+        "titular": "La 1 logra su mejor jornada del año con un 35,1%",
+        "cadena": "La 1",
+        "detalle": "Récord anual de cuota de pantalla impulsado por semifinal del Mundial y Sanfermines",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-martes-14-julio-francia-espana-encierro-137724/"
+      },
+      {
+        "titular": "Semifinal España-Francia: 12,7M y 71,2%, segundo dato más alto de la Roja en Mundiales tras final 2010",
+        "cadena": "La 1",
+        "detalle": "Récord histórico solo superado por la prórroga de la final del Mundial de Sudáfrica",
+        "fuente": "Barlovento/20minutos",
+        "url": "https://www.20minutos.es/television/espana-francia-mas-visto-roja-historia-los-mundiales-solo-por-detras-prorroga-final-2010_7014767_0.html"
+      }
+    ]
+  }
+}
