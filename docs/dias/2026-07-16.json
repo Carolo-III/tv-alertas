@@ -1,0 +1,58 @@
+{
+  "fecha": "2026-07-16",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "España alcanza la final del Mundial 2026 con récord histórico de audiencia (12,7M - 71,2%) en La1, superando hitos deportivos previos; Pedrerol abandona Atresmedia tras 13 años",
+  "alertas": {
+    "estrenos": [],
+    "deportes": [
+      {
+        "titular": "Francia-España: Semifinal del Mundial 2026 - 12.716.000 espectadores y 71,2% de cuota",
+        "cadena": "La 1",
+        "detalle": "El España-Francia es el partido más visto de la Roja en la historia de los Mundiales solo por detrás de la prórroga de la final de 2010. Emisión martes 14 de julio a las 21:00h",
+        "fuente": "Barlovento Comunicación / 20minutos",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-14-de-julio-2026/"
+      },
+      {
+        "titular": "Inglaterra-Argentina: Semifinal del Mundial 2026 - 8.171.000 espectadores y 57% de cuota",
+        "cadena": "La 1",
+        "detalle": "Segunda semifinal del Mundial con gran seguimiento. Emisión miércoles 15 de julio a las 21:00h",
+        "fuente": "Barlovento Comunicación / Fórmula TV",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-15-de-julio-2026/"
+      },
+      {
+        "titular": "Encierro de San Fermín contribuye a mejor jornada del año de La 1",
+        "cadena": "La 1",
+        "detalle": "Los Sanfermines junto al Francia-España llevan a La 1 a su mejor jornada del año con un 35,1%",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-martes-14-julio-francia-espana-encierro-137724/"
+      }
+    ],
+    "especiales": [],
+    "entrevistas": [],
+    "parrilla": [
+      {
+        "titular": "Josep Pedrerol se despide de Atresmedia tras 13 años de vinculación",
+        "cadena": "Atresmedia",
+        "detalle": "Fin de mutuo acuerdo de la vinculación profesional de Pedrerol con Atresmedia. 'Por respeto no podemos decir dónde vamos a estar'",
+        "fuente": "20minutos",
+        "url": "https://www.20minutos.es/television/mensaje-despedida-pedrerol-despues-13-anos-atresmedia-por-respeto-no-podemos-decir-donde-vamos-estar_7014757_0.html"
+      }
+    ],
+    "records": [
+      {
+        "titular": "España-Francia: 14,6 millones de espectadores, récord histórico del Mundial",
+        "cadena": "La 1",
+        "detalle": "El partido más visto de la Roja en la historia de los Mundiales solo por detrás de la prórroga de la final de 2010. Logra 12.716.000 de media (otras fuentes hablan de 14,6M totales)",
+        "fuente": "20minutos / Barlovento",
+        "url": "https://www.20minutos.es/television/espana-francia-mas-visto-roja-historia-los-mundiales-solo-por-detras-prorroga-final-2010_7014767_0.html"
+      },
+      {
+        "titular": "La 1 alcanza su mejor jornada del año con 35,1% de share",
+        "cadena": "La 1",
+        "detalle": "Gracias a la combinación del partido Francia-España del Mundial y los Sanfermines",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-martes-14-julio-francia-espana-encierro-137724/"
+      }
+    ]
+  }
+}
