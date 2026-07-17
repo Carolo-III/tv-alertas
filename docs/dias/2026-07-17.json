@@ -1,0 +1,44 @@
+{
+  "fecha": "2026-07-17",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "La semifinal del Mundial Inglaterra-Argentina arrasa con 8,1M y 57% en La 1; 'Tu cara me suena' cierra edición con final en directo; 'La Revuelta' lidera cierre de temporada con 12,5%",
+  "alertas": {
+    "estrenos": [],
+    "deportes": [
+      {
+        "titular": "La semifinal entre Inglaterra y Argentina barre con más de 8 millones y un 57% en La 1",
+        "cadena": "La 1",
+        "detalle": "Semifinal del Mundial de Fútbol logró 8.171.000 espectadores y 57% de cuota el 15 de julio",
+        "fuente": "Fórmula TV / Barlovento",
+        "url": "https://www.formulatv.com/noticias/audiencias-miercoles-15-julio-semifinal-argentina-137734/"
+      }
+    ],
+    "especiales": [
+      {
+        "titular": "'Tu cara me suena' cierra su edición este viernes con una gran final en directo y cinco aspirantes al triunfo",
+        "cadena": "Antena 3",
+        "detalle": "Final en directo del talent show que ha liderado las noches de los viernes, emisión el 17 de julio a las 22:00h",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/tu-cara-me-suena-cierra-su-edicion-este-viernes-con-una-gran-final-directo-cinco-aspirantes-triunfo_7015363_0.html"
+      },
+      {
+        "titular": "El final de temporada de 'La revuelta' y 'El perro andaluz' lideran la noche con un 12,5%",
+        "cadena": "RTVE",
+        "detalle": "Cierres de temporada de ambos programas lideran la noche del jueves 16 de julio",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-jueves-16-julio-la-revuelta-137743/"
+      }
+    ],
+    "entrevistas": [],
+    "parrilla": [],
+    "records": [
+      {
+        "titular": "La semifinal entre Inglaterra y Argentina barre con más de 8 millones y un 57% en La 1",
+        "cadena": "La 1",
+        "detalle": "Récord absoluto con 8.171.000 espectadores y 57% de cuota para el partido de semifinal del Mundial",
+        "fuente": "Barlovento / Fórmula TV",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-15-de-julio-2026/"
+      }
+    ]
+  }
+}
