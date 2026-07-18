@@ -1,0 +1,58 @@
+{
+  "fecha": "2026-07-18",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "Final de 'Tu cara me suena 13' lidera con 21,8%; cierre de temporada de 'La Revuelta' y 'El perro andaluz' destacan con 12,5%",
+  "alertas": {
+    "estrenos": [],
+    "deportes": [
+      {
+        "titular": "'Estudio Estadio: Mundial' pincha en La 1",
+        "cadena": "La 1",
+        "detalle": "Programa especial del Mundial con audiencia por debajo de expectativas",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-viernes-17-julio-final-tu-cara-me-suena-137752/"
+      }
+    ],
+    "especiales": [
+      {
+        "titular": "'Tu cara me suena 13' lidera con un 21,8%",
+        "cadena": "Antena 3",
+        "detalle": "Final de temporada del talent show consigue liderazgo destacado",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-viernes-17-julio-final-tu-cara-me-suena-137752/"
+      },
+      {
+        "titular": "El final de temporada de 'La revuelta' y 'El perro andaluz' lideran la noche con un 12,5%",
+        "cadena": "RTVE",
+        "detalle": "Cierre conjunto de temporada de ambos programas con buen resultado",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-jueves-16-julio-la-revuelta-137743/"
+      },
+      {
+        "titular": "Reivindicación por la inclusividad en el cierre de 'La Revuelta' con el reparto de 'Haciendo amigos'",
+        "cadena": "RTVE",
+        "detalle": "Especial de cierre con Antonio Resines y actores con discapacidad intelectual",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/reivindicacion-por-inclusividad-cierre-revuelta-con-reparto-haciendo-amigos-estamos-cansados_7015668_0.html"
+      }
+    ],
+    "entrevistas": [],
+    "parrilla": [
+      {
+        "titular": "Martín Barreiro sustituirá a Marta Flich en 'Directo al grano' durante sus vacaciones",
+        "cadena": "laSexta",
+        "detalle": "El meteorólogo será copresentador temporal junto a Gonzalo Miró",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/martin-barreiro-sustituira-marta-flich-directo-grano-durante-sus-vacaciones-no-sabe-que-le-espera_7016116_0.html"
+      },
+      {
+        "titular": "Karlos Arguiñano anuncia cuándo tiene previsto retirarse de la televisión",
+        "cadena": "Antena 3",
+        "detalle": "El cocinero lleva cerca de cuatro décadas al frente de su programa",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/karlos-arguinano-anuncia-cuando-tiene-previsto-retirarse-television_7016129_0.html"
+      }
+    ],
+    "records": []
+  }
+}
