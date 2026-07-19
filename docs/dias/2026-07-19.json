@@ -1,0 +1,59 @@
+{
+  "fecha": "2026-07-19",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "Final de 'Tu cara me suena 13' arrasa con 21,8% mientras 'Estudio Estadio: Mundial' decepciona en La 1; 'La Revuelta' cierra temporada liderando con 12,5%",
+  "alertas": {
+    "estrenos": [],
+    "deportes": [
+      {
+        "titular": "'Estudio Estadio: Mundial' pincha en La 1",
+        "cadena": "La 1",
+        "detalle": "Retransmisión del Mundial con datos decepcionantes frente a la competencia",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-viernes-17-julio-final-tu-cara-me-suena-137752/"
+      }
+    ],
+    "especiales": [
+      {
+        "titular": "'Tu cara me suena 13' lidera con un 21,8%",
+        "cadena": "Antena 3",
+        "detalle": "Final de la decimotercera edición con J Kbello coronado campeón imitando a Hugh Jackman",
+        "fuente": "Fórmula TV / 20minutos",
+        "url": "https://www.formulatv.com/noticias/audiencias-viernes-17-julio-final-tu-cara-me-suena-137752/"
+      }
+    ],
+    "entrevistas": [],
+    "parrilla": [
+      {
+        "titular": "El desmontaje de 'La Revuelta': Broncano a la conquista de su tercer teatro",
+        "cadena": "La 1",
+        "detalle": "Se desmonta el teatro que ha sido sede del programa, cambio de ubicación para próxima temporada",
+        "fuente": "20minutos",
+        "url": "https://www.20minutos.es/television/desmontaje-revuelta-broncano-conquista-su-tercer-teatro_7012956_3.html"
+      },
+      {
+        "titular": "El final de temporada de 'La revuelta' lidera la noche con un 12,5%",
+        "cadena": "La 1",
+        "detalle": "Último programa de la temporada cierra con liderazgo en su franja",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-jueves-16-julio-la-revuelta-137743/"
+      }
+    ],
+    "records": [
+      {
+        "titular": "'Tu cara me suena 13' lidera con un 21,8%",
+        "cadena": "Antena 3",
+        "detalle": "Dato sobresaliente para la final del concurso de imitaciones",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-viernes-17-julio-final-tu-cara-me-suena-137752/"
+      },
+      {
+        "titular": "El final de temporada de 'La revuelta' y 'El perro andaluz' lideran la noche con un 12,5%",
+        "cadena": "La 1",
+        "detalle": "Liderazgo compartido en prime time del jueves",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-jueves-16-julio-la-revuelta-137743/"
+      }
+    ]
+  }
+}
