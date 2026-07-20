@@ -1,0 +1,43 @@
+{
+  "fecha": "2026-07-20",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "La final del Mundial España-Argentina arrasa con récord histórico de 15,7 millones (87,1%), segundo programa más visto de la historia de la TV española",
+  "alertas": {
+    "estrenos": [],
+    "deportes": [
+      {
+        "titular": "La victoria de España es el partido más visto de un Mundial y la segunda emisión más seguida de la historia de la televisión",
+        "cadena": "La 1",
+        "detalle": "Final Mundial España-Argentina: 15,7 millones (87,1%). En La 1: 13.396.000 espectadores (75,1%). Récord histórico.",
+        "fuente": "20minutos",
+        "url": "https://www.20minutos.es/television/victoria-espana-mundial-arrasa-television-con-audiencias-record-15-7-millones-espectadores_7016560_0.html"
+      },
+      {
+        "titular": "La 1 arrasa con un 45,5% gracias al España - Argentina de la final del Mundial 2026",
+        "cadena": "La 1",
+        "detalle": "Dato de audiencia del domingo 19 de julio con la final del Mundial, share del 45,5%",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-domingo-19-julio-espana-argentina-final-137765/"
+      },
+      {
+        "titular": "El festival de goles entre Francia e Inglaterra se queda con 2,79 millones y un 33,9%",
+        "cadena": "",
+        "detalle": "Semifinal del Mundial el sábado 18 de julio con 2,79 millones de espectadores y 33,9% de share",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-sabado-18-julio-francia-inglaterra-137759/"
+      }
+    ],
+    "especiales": [],
+    "entrevistas": [],
+    "parrilla": [],
+    "records": [
+      {
+        "titular": "La victoria de España es el partido más visto de un Mundial y la segunda emisión más seguida de la historia de la televisión",
+        "cadena": "La 1",
+        "detalle": "Segunda emisión más vista en la historia de la TV española con 15,7 millones de espectadores (87,1%)",
+        "fuente": "20minutos",
+        "url": "https://www.20minutos.es/television/victoria-espana-mundial-arrasa-television-con-audiencias-record-15-7-millones-espectadores_7016560_0.html"
+      }
+    ]
+  }
+}
