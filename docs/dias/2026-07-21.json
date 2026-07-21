@@ -1,0 +1,110 @@
+{
+  "fecha": "2026-07-21",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "España arrasa en audiencias con récord histórico: 15,7M vieron la final del Mundial (87,1%), siendo la segunda emisión más vista de la historia de la TV española",
+  "alertas": {
+    "estrenos": [
+      {
+        "titular": "Telecinco estrena 'El Camino de la verdad': padres e hijos recompondrán su relación mientras hacen el Camino de Santiago",
+        "cadena": "Telecinco",
+        "detalle": "Nuevo programa presentado por Luján Argüelles, estreno el 21 de julio",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/telecinco-estrena-camino-verdad-padres-hijos-recompondran-su-relacion-mientras-hacen-camino-santiago_7016914_0.html"
+      },
+      {
+        "titular": "'Drag Race España' estrena en septiembre su sexta edición con nuevas reinas y novedades inesperadas",
+        "cadena": "",
+        "detalle": "Confirmado el regreso del formato para septiembre tras exitosa quinta temporada",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/drag-race-espana-estrena-septiembre-su-sexta-edicion-con-nuevas-reinas-novedades-inesperadas_7016724_0.html"
+      }
+    ],
+    "deportes": [
+      {
+        "titular": "La 1 arrasa con un 45,5% gracias al España - Argentina de la final del Mundial 2026",
+        "cadena": "La 1",
+        "detalle": "Final del Mundial con 45,5% de cuota (datos del 19 julio)",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-domingo-19-julio-espana-argentina-final-137765/"
+      },
+      {
+        "titular": "EL PARTIDO + LA PRÓRROGA de la FINAL en La1, Teledeporte, La2 CAT y Dazn alcanzó 20.105.000 ESPECTADORES ÚNICOS",
+        "cadena": "Varias",
+        "detalle": "15,7M de media, 87,1% de cuota - récord histórico del Mundial (19 julio)",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-19-de-julio-de-2026/"
+      },
+      {
+        "titular": "La victoria de España es el partido más visto de un Mundial y la segunda emisión más seguida de la historia de la televisión",
+        "cadena": "La 1",
+        "detalle": "15,7M espectadores (87,1%). Solo en La 1: 13,4M de media y 75,1%",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/victoria-espana-mundial-arrasa-television-con-audiencias-record-15-7-millones-espectadores_7016560_0.html"
+      }
+    ],
+    "especiales": [
+      {
+        "titular": "LO MÁS VISTO de ayer lunes 20 de julio de 2026 fue IMPARABLES:UN EQUIPO DE LEYENDA",
+        "cadena": "La 1",
+        "detalle": "Programa especial celebración campeones. 4,15M espectadores y 36% de cuota",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-20-de-julio-2026/"
+      },
+      {
+        "titular": "La celebración de la Selección Española en Cibeles lidera con más de 4 millones y un 36%",
+        "cadena": "La 1",
+        "detalle": "Especial retransmisión celebración en Cibeles tras ganar el Mundial (20 julio)",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-lunes-20-julio-espana-cibeles-137776/"
+      }
+    ],
+    "entrevistas": [
+      {
+        "titular": "Hiba Abouk desmonta los bulos sobre su divorcio de Achraf Hakimi en 'Universo Calleja'",
+        "cadena": "",
+        "detalle": "Entrevista destacada con la actriz sobre su divorcio del futbolista",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/hiba-abouk-desmonta-los-bulos-sobre-su-divorcio-achraf-hakimi-fue-una-decision-muy-dura_7016972_0.html"
+      }
+    ],
+    "parrilla": [
+      {
+        "titular": "Pedrerol cierra para siempre 'El Chiringuito' en Atresmedia con un enigmático mensaje sobre su futuro",
+        "cadena": "Atresmedia",
+        "detalle": "Cierre definitivo del programa tras 13 años en el grupo",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/pedrerol-cierra-para-siempre-chiringuito-atresmedia-con-un-enigmatico-mensaje-sobre-su-futuro-nos-vemos_7017056_0.html"
+      },
+      {
+        "titular": "María Casado abandona 'Informativos Telecinco' por motivos personales",
+        "cadena": "Telecinco",
+        "detalle": "Presentadora del fin de semana se toma un respiro profesional",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/maria-casado-abandona-informativos-telecinco-por-motivos-personales-he-decidido-tomarme-un-respiro_7016843_0.html"
+      }
+    ],
+    "records": [
+      {
+        "titular": "La victoria de España es el partido más visto de un Mundial y la segunda emisión más seguida de la historia de la televisión",
+        "cadena": "La 1",
+        "detalle": "Récord histórico: 15,7M espectadores (87,1%), segunda emisión más vista de la historia de la TV española",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/victoria-espana-mundial-arrasa-television-con-audiencias-record-15-7-millones-espectadores_7016560_0.html"
+      },
+      {
+        "titular": "EL PARTIDO + LA PRÓRROGA de la FINAL alcanzó 20.105.000 ESPECTADORES ÚNICOS",
+        "cadena": "Varias",
+        "detalle": "20,1M espectadores únicos, récord absoluto de audiencia acumulada del Mundial",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-19-de-julio-de-2026/"
+      },
+      {
+        "titular": "La celebración de la Selección Española en Cibeles lidera con más de 4 millones y un 36%",
+        "cadena": "La 1",
+        "detalle": "Dato excepcional para una retransmisión de celebración (4,15M y 36%)",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-lunes-20-julio-espana-cibeles-137776/"
+      }
+    ]
+  }
+}
