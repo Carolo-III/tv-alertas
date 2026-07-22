@@ -1,0 +1,68 @@
+{
+  "fecha": "2026-07-22",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "La celebración de España en Cibeles tras ganar el Mundial arrasa con 4,1M y 36%, mientras Mediaset ficha a Pedrerol y El Chiringuito desde Atresmedia",
+  "alertas": {
+    "estrenos": [
+      {
+        "titular": "Mediaset anuncia el fichaje de Josep Pedrerol y 'El Chiringuito': 'No dejará indiferente a nadie'",
+        "cadena": "Mediaset",
+        "detalle": "Pedrerol y su equipo se incorporan al grupo Fuencarral tras cerrar su etapa en Atresmedia",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/mediaset-anuncua-fichaje-josep-pedrerol-chiringuito_7017163_0.html"
+      }
+    ],
+    "deportes": [
+      {
+        "titular": "Audiencias 20 de julio 2026. IMPARABLES:UN EQUIPO DE LEYENDA logró 4.152.000 espectadores y 36% de cuota",
+        "cadena": "La 1",
+        "detalle": "Celebración de la Selección Española en Cibeles tras ganar el Mundial, emitido el lunes 20 a las 21:00h",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-20-de-julio-2026/"
+      },
+      {
+        "titular": "La celebración de la Selección Española en Cibeles lidera con más de 4 millones y un 36%",
+        "cadena": "La 1",
+        "detalle": "Retransmisión de la celebración tras victoria en Mundial 2026",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-lunes-20-julio-espana-cibeles-137776/"
+      }
+    ],
+    "especiales": [
+      {
+        "titular": "Dónde se conquistan las grandes audiencias televisivas (después de ganar el Mundial)",
+        "cadena": "Varias",
+        "detalle": "Análisis sobre la estrategia de audiencias tras el triunfo de España en el Mundial 2026",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/donde-se-conquistan-las-grandes-audiencias-televisivas-despues-ganar-mundial_7017066_3.html"
+      }
+    ],
+    "entrevistas": [
+      {
+        "titular": "Hiba Abouk desmonta los bulos sobre su divorcio de Achraf Hakimi en 'Universo Calleja'",
+        "cadena": "",
+        "detalle": "La actriz explica su separación del futbolista en el programa de Jesús Calleja",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/hiba-abouk-desmonta-los-bulos-sobre-su-divorcio-achraf-hakimi-fue-una-decision-muy-dura_7016972_0.html"
+      }
+    ],
+    "parrilla": [
+      {
+        "titular": "Pedrerol cierra para siempre 'El Chiringuito' en Atresmedia con un enigmático mensaje: 'Nos vemos...'",
+        "cadena": "Atresmedia",
+        "detalle": "Despedida tras 13 años en el grupo, previo a su fichaje por Mediaset",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/pedrerol-cierra-para-siempre-chiringuito-atresmedia-con-un-enigmatico-mensaje-sobre-su-futuro-nos-vemos_7017056_0.html"
+      }
+    ],
+    "records": [
+      {
+        "titular": "'Dog House' lidera la noche y 'Código 10' supera a 'El camino de la verdad'",
+        "cadena": "Varias",
+        "detalle": "Datos destacados del martes 21 de julio con liderazgo de Dog House",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-martes-21-julio-dog-house-codigo-10-137785/"
+      }
+    ]
+  }
+}
