@@ -1,0 +1,59 @@
+{
+  "fecha": "2026-07-23",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "Estreno exitoso de 'Sandokán' lidera prime time en Telecinco con 11,4%; 'Dog House' domina su franja y continúa 'Maestros de la Costura Celebrity'",
+  "alertas": {
+    "estrenos": [
+      {
+        "titular": "El estreno de 'Sandokán' en Telecinco da la sorpresa y lidera el prime time con un 11,4%",
+        "cadena": "Telecinco",
+        "detalle": "Estreno destacado con Can Yaman liderando el miércoles 22 de julio en prime time",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-miercoles-22-julio-sandokan-can-yaman-137795/"
+      }
+    ],
+    "deportes": [],
+    "especiales": [
+      {
+        "titular": "Entre lágrimas y un gran fallo en la última despedida de 'Maestros de la costura': 'No cumple una norma básica'",
+        "cadena": "La 1",
+        "detalle": "Última despedida de la temporada celebrity del talent show de RTVE",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/entre-lagrimas-un-gran-fallo-ultima-despedida-maestros-costura-no-cumple-una-norma-basica_7017943_0.html"
+      },
+      {
+        "titular": "Un abrazo entre hermanos marca la repesca de 'Maestros de la Costura Celebrity': 'Volver aquí es un sueño'",
+        "cadena": "La 1",
+        "detalle": "Programa especial de repesca con Blanca Paloma, Jazz Vilá, Jorge Román y Mariola Fuentes",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/un-abrazo-entre-hermanos-marca-repesca-maestros-costura-celebrity-volver-aqui-es-un-sueno_7017941_0.html"
+      }
+    ],
+    "entrevistas": [],
+    "parrilla": [
+      {
+        "titular": "Carmen Corazzini, la sustituta de María Casado al frente de Informativos Telecinco que fue novia de Aless Lequio",
+        "cadena": "Telecinco",
+        "detalle": "Cambio de presentador en Informativos tras marcha de María Casado después de dos años",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/carmen-corazzini-sustituta-maria-casado-informativos-telecinco-novia-aless-lequio_5138577_0.html"
+      },
+      {
+        "titular": "La Séptima TV enumera en redes el contenido con el que no va a contar en su cadena: sin bote, formatos de ficción o bulos",
+        "cadena": "La Séptima TV",
+        "detalle": "Nueva cadena TDT que llegará el 5 de noviembre con lema 'Avanzar no es pensar igual, es saber escucharse'",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/septima-tv-enumera-redes-contenido-con-que-no-va-contar-su-cadena-sin-bote-formatos-ficcion-bulos_7017893_0.html"
+      }
+    ],
+    "records": [
+      {
+        "titular": "'Dog House' lidera la noche y 'Código 10' supera a 'El camino de la verdad'",
+        "cadena": "Varias",
+        "detalle": "Liderazgo nocturno de 'Dog House' el martes 21 de julio con victoria también de 'Código 10'",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-martes-21-julio-dog-house-codigo-10-137785/"
+      }
+    ]
+  }
+}
