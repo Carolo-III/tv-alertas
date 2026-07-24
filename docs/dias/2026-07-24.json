@@ -1,0 +1,45 @@
+{
+  "fecha": "2026-07-24",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "Sorprendente estreno de 'Sandokán' liderando en Telecinco (11,4%), finales de 'La Voz Kids' el fin de semana, y Carlos Latre confirma su salida de Mediaset",
+  "alertas": {
+    "estrenos": [
+      {
+        "titular": "El estreno de 'Sandokán' en Telecinco da la sorpresa y lidera el prime time con un 11,4%",
+        "cadena": "Telecinco",
+        "detalle": "Estreno exitoso de la serie protagonizada por Can Yaman que lidera el miércoles 22 de julio",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-miercoles-22-julio-sandokan-can-yaman-137795/"
+      }
+    ],
+    "deportes": [],
+    "especiales": [
+      {
+        "titular": "'La Voz Kids' vive su recta final cargada de sorpresas: la semifinal el viernes y la gran final el sábado",
+        "cadena": "Antena 3",
+        "detalle": "Emisión especial de semifinal y gran final de 'La Voz Kids' en el fin de semana del 25-26 julio",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/voz-kids-vive-su-recta-final-cargada-sorpresas-semifinal-viernes-gran-final-sabado_7018109_0.html"
+      }
+    ],
+    "entrevistas": [],
+    "parrilla": [
+      {
+        "titular": "Carlos Latre se marcha de Mediaset: 'Cuando termine Got Talent finaliza mi contrato'",
+        "cadena": "Telecinco",
+        "detalle": "El presentador confirma que abandona Mediaset al finalizar 'Got Talent', movimiento estratégico importante",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/carlos-latre-se-marcha-mediaset-cuando-termine-got-talent-finaliza-mi-contrato_7018359_0.html"
+      }
+    ],
+    "records": [
+      {
+        "titular": "'El perro andaluz' lidera la noche y 'Horizonte' sorprende con un 10,9% en Cuatro",
+        "cadena": "Cuatro",
+        "detalle": "Dato sorprendente de 'Horizonte' alcanzando 10,9% en el jueves 23 de julio",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-jueves-23-julio-el-perro-andaluz-la-1-137806/"
+      }
+    ]
+  }
+}
