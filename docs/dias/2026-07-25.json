@@ -1,0 +1,58 @@
+{
+  "fecha": "2026-07-25",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "Telecinco cancela 'Amor o lo que surja' por bajas audiencias; Carlos Sobera estrena 'Rueda la letra' con el Rosco; RTVE confirma Eurovisión Júnior 2026",
+  "alertas": {
+    "estrenos": [
+      {
+        "titular": "Carlos Sobera presentará 'Rueda la letra', que acogerá la prueba del 'Rosco' en Telecinco",
+        "cadena": "Telecinco",
+        "detalle": "Nuevo programa presentado por Carlos Sobera con la prueba del Rosco, dirigido por Rafa Guardiola (ex-director de Pasapalabra)",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/carlos-sobera-presentara-rueda-letra-que-acogera-prueba-rosco-telecinco_7018740_0.html"
+      },
+      {
+        "titular": "RTVE confirma su participación en Eurovisión Júnior 2026",
+        "cadena": "La 1",
+        "detalle": "RTVE anuncia oficialmente que participará en Eurovisión Júnior 2026, con más detalles la próxima semana",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/eurovision/rtve-confirma-su-participacion-eurovision-junior-2026_7018690_0.html"
+      },
+      {
+        "titular": "Comienza 'Drag Race México: Latina Royale': la temporada que reúne por primera vez a reinas latinas de distintas franquicias",
+        "cadena": "",
+        "detalle": "Nueva temporada especial que reúne por primera vez a once reinas latinas de diferentes franquicias",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/comienza-drag-race-mexico-latina-royale-temporada-que-reune-por-primera-vez-reinas-latinas-distintas-franquicias_7018640_0.html"
+      }
+    ],
+    "deportes": [],
+    "especiales": [],
+    "entrevistas": [],
+    "parrilla": [
+      {
+        "titular": "Telecinco cancela 'Amor o lo que surja' por bajos datos de audiencias",
+        "cadena": "Telecinco",
+        "detalle": "Cancelación del dating show presentado por Carlos Lozano, último programa el 31 de julio",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/telecinco-cancela-amor-que-surja-por-bajos-datos-audiencias_7018648_0.html"
+      }
+    ],
+    "records": [
+      {
+        "titular": "'La Voz Kids' lidera con un 14,9% en su semifinal y '¡De Viernes!' sube a un 12,2%",
+        "cadena": "Antena 3",
+        "detalle": "La Voz Kids consigue liderazgo en semifinal con 14,9%, mientras De Viernes sube a 12,2%",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-24-julio-la-voz-kids-semifinal-viernes-137814/"
+      },
+      {
+        "titular": "'El perro andaluz' lidera la noche y 'Horizonte' sorprende con un 10,9% en Cuatro",
+        "cadena": "Varias",
+        "detalle": "El perro andaluz lidera la noche del jueves y Horizonte logra un dato sorprendente de 10,9% en Cuatro",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-jueves-23-julio-el-perro-andaluz-la-1-137806/"
+      }
+    ]
+  }
+}
