@@ -1,0 +1,66 @@
+{
+  "fecha": "2026-07-26",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "Cancelación de 'Amor... o lo que surja' en Telecinco, semifinal exitosa de 'La Voz Kids' en Antena 3, y buena acogida del estreno 'Horizonte' en Cuatro",
+  "alertas": {
+    "estrenos": [
+      {
+        "titular": "José Miguel Contreras da detalles de La Séptima, el nuevo canal de televisión en España: 'La evolución es obligada'",
+        "cadena": "La Séptima",
+        "detalle": "Nuevo canal de televisión en desarrollo, liderado por el empresario detrás de Canal+ y LaSexta",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/jose-miguel-contreras-da-detalles-septima-nuevo-canal-television-espana-evolucion-es-obligada_7018827_0.html"
+      },
+      {
+        "titular": "'Horizonte' sorprende con un 10,9% en Cuatro",
+        "cadena": "Cuatro",
+        "detalle": "Estreno sorprendente que logra un notable 10,9% de cuota en Cuatro",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-jueves-23-julio-el-perro-andaluz-la-1-137806/"
+      }
+    ],
+    "deportes": [],
+    "especiales": [
+      {
+        "titular": "Eduardo Sánchez 'El Campanero' se convierte en el nuevo ganador de 'La Voz Kids'",
+        "cadena": "Antena 3",
+        "detalle": "Final de 'La Voz Kids' con Eduardo Sánchez del Equipo Orozco como ganador",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/eduardo-sanchez-campanero-se-convierte-nuevo-ganador-voz-kids_7018157_0.html"
+      },
+      {
+        "titular": "'La Voz Kids' lidera con un 14,9% en su semifinal",
+        "cadena": "Antena 3",
+        "detalle": "Semifinal del talent show infantil alcanza liderazgo con 14,9% de share",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-24-julio-la-voz-kids-semifinal-viernes-137814/"
+      }
+    ],
+    "entrevistas": [],
+    "parrilla": [
+      {
+        "titular": "Telecinco cancela 'Amor... o lo que surja': los errores de un programa que no parece de hoy",
+        "cadena": "Telecinco",
+        "detalle": "Cancelación del programa, emitirá su última entrega el próximo viernes",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/telecinco-cancela-amor-que-surja-los-errores-un-programa-que-no-parece-hoy_7018847_3.html"
+      }
+    ],
+    "records": [
+      {
+        "titular": "'¡De Viernes!' sube a un 12,2%",
+        "cadena": "Telecinco",
+        "detalle": "El programa nocturno registra subida notable en su audiencia",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-24-julio-la-voz-kids-semifinal-viernes-137814/"
+      },
+      {
+        "titular": "'El perro andaluz' lidera la noche",
+        "cadena": "La 1",
+        "detalle": "El programa de La 1 consigue el liderazgo en horario nocturno del jueves",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-jueves-23-julio-el-perro-andaluz-la-1-137806/"
+      }
+    ]
+  }
+}
