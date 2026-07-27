@@ -1,0 +1,73 @@
+{
+  "fecha": "2026-07-27",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "Día marcado por el fracaso del estreno de 'Romi' en Telecinco, la despedida de María Casado, la victoria de 'La Voz Kids' y cambios en la programación por el incendio de Madrid",
+  "alertas": {
+    "estrenos": [
+      {
+        "titular": "El estreno de 'Romi' fracasa en Telecinco",
+        "cadena": "Telecinco",
+        "detalle": "Nuevo programa estrena con malos datos de audiencia en prime time del domingo 26 de julio",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-domingo-26-julio-estreno-romi-137826/"
+      }
+    ],
+    "deportes": [],
+    "especiales": [
+      {
+        "titular": "Gonzalo Miró corta una angustiosa conexión con una reportera en mitad del incendio de Madrid",
+        "cadena": "laSexta",
+        "detalle": "Programa 'Directo al grano' con cobertura especial del incendio en Navas del Rey, Madrid",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/salir-ahi-no-merece-pena-gonzalo-miro-corta-una-angustiosa-conexion-con-una-reportera-mitad-incendio-madrid_7019066_0.html"
+      },
+      {
+        "titular": "Eduardo Sánchez 'El Campanero' se convierte en el nuevo ganador de 'La Voz Kids'",
+        "cadena": "Antena 3",
+        "detalle": "Gran final del talent show infantil con el ganador del Equipo Orozco",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/eduardo-sanchez-campanero-se-convierte-nuevo-ganador-voz-kids_7018157_0.html"
+      },
+      {
+        "titular": "María Casado se despide de 'Informativos Telecinco' entre lágrimas",
+        "cadena": "Telecinco",
+        "detalle": "La presentadora catalana emitió su último informativo el domingo con emotiva despedida",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/marai-casado-se-despide-informativos-telecinco-entre-lagrimas-espero-que-pronto-nos-volvamos-ver_7019159_0.html"
+      },
+      {
+        "titular": "La 'encerrona' de 'Antena 3 Noticias' a Matías Prats, sorprendido por sus nietos en pleno directo",
+        "cadena": "Antena 3",
+        "detalle": "Momento emotivo e inesperado en el informativo con la sorpresa familiar al presentador",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/encerrona-antena-3-noticias-matias-prats-sorprendido-por-sus-nietos-pleno-directo-ese-final-no-estaba-previsto_7019174_0.html"
+      }
+    ],
+    "entrevistas": [],
+    "parrilla": [
+      {
+        "titular": "Telecinco cancela 'Amor... o lo que surja'",
+        "cadena": "Telecinco",
+        "detalle": "El programa emitirá su última entrega el próximo viernes tras fracaso de audiencia",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/telecinco-cancela-amor-que-surja-los-errores-un-programa-que-no-parece-hoy_7018847_3.html"
+      }
+    ],
+    "records": [
+      {
+        "titular": "La gran final de 'La Voz Kids' lidera con un 15,4% y 'Malas lenguas noche' anota récord",
+        "cadena": "Antena 3",
+        "detalle": "Final del talent infantil consigue liderazgo del sábado 25 de julio con 15,4% de share",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-sabado-25-julio-final-la-voz-kids-137819/"
+      },
+      {
+        "titular": "'Misión hostil' lidera la noche en La 1",
+        "cadena": "La 1",
+        "detalle": "La película se impone en prime time del domingo 26 de julio ante el fracaso de 'Romi' en Telecinco",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-domingo-26-julio-estreno-romi-137826/"
+      }
+    ]
+  }
+}
