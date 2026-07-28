@@ -1,0 +1,88 @@
+{
+  "fecha": "2026-07-28",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "Grand Prix lidera con 16%, estreno de 'Romi' fracasa en Telecinco, María Casado se despide de los informativos, y cobertura especial de incendios en Madrid domina la actualidad",
+  "alertas": {
+    "estrenos": [
+      {
+        "titular": "El estreno de 'Romi' fracasa en Telecinco",
+        "cadena": "Telecinco",
+        "detalle": "Estreno del programa 'Romi' no alcanza los resultados esperados el domingo 26 de julio",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-domingo-26-julio-estreno-romi-137826/"
+      },
+      {
+        "titular": "'Las Berrocal' estrenará segunda temporada con apariciones como Alejandro Sanz o Can Yaman",
+        "cadena": "",
+        "detalle": "Segunda temporada llegará el 15 de septiembre con seis nuevos episodios y estreno doble",
+        "fuente": "20minutos",
+        "url": "https://www.20minutos.es/television/las-berrocal-estrenara-segunda-temporada-con-apariciones-como-alejandro-sanz-can-yaman_7019511_0.html"
+      },
+      {
+        "titular": "Meghan Markle aparece como jurado sustituta en 'MasterChef' y su marido, el príncipe Harry, le da una sorpresa en directo",
+        "cadena": "",
+        "detalle": "Aparición especial de Meghan Markle como jurado en MasterChef con sorpresa del príncipe Harry",
+        "fuente": "20minutos",
+        "url": "https://www.20minutos.es/television/meghan-markle-aparece-como-jurado-sustituta-masterchef-su-marido-principe-harry-le-da-una-sorpresa-directo_7019390_0.html"
+      }
+    ],
+    "deportes": [],
+    "especiales": [
+      {
+        "titular": "Cobertura especial de incendios en Madrid en programas informativos",
+        "cadena": "Varias",
+        "detalle": "Múltiples espacios (Y ahora Sonsoles, informativos) cubren incendios en Casillas, Navaluenga, San Martín de Valdeiglesias y otras localidades de Madrid",
+        "fuente": "20minutos",
+        "url": "https://www.20minutos.es/television/una-vecina-casillas-denuncia-aislamiento-municipio-son-nuestros-hogares-nuestra-vida-nuestra-infancia_7019515_0.html"
+      },
+      {
+        "titular": "Paul Newman da la sorpresa en La 2 con un 7,1%",
+        "cadena": "La 2",
+        "detalle": "Programación especial sobre Paul Newman obtiene resultado destacado del 7,1% en La 2",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-lunes-27-julio-grand-prix-paul-newman-137833/"
+      },
+      {
+        "titular": "María Casado se despide de 'Informativos Telecinco' entre lágrimas",
+        "cadena": "Telecinco",
+        "detalle": "La presentadora catalana presentó su último informativo en Telecinco el domingo, despedida emotiva en directo",
+        "fuente": "20minutos",
+        "url": "https://www.20minutos.es/television/marai-casado-se-despide-informativos-telecinco-entre-lagrimas-espero-que-pronto-nos-volvamos-ver_7019159_0.html"
+      }
+    ],
+    "entrevistas": [
+      {
+        "titular": "Liborio García reaparece 20 años después en 'Y ahora Sonsoles'",
+        "cadena": "Antena 3",
+        "detalle": "El que fuera presentador de formatos destacados cuenta su historia tras dos décadas fuera de la televisión",
+        "fuente": "20minutos",
+        "url": "https://www.20minutos.es/television/liborio-garcia-estrella-television-que-cayo-ostracismo-reaparece-20-anos-despues-no-contaban-conmigo-me-fui_7019664_0.html"
+      }
+    ],
+    "parrilla": [
+      {
+        "titular": "Laura Madrueño dejó 'Supervivientes': 'Salí llorando...'",
+        "cadena": "Telecinco",
+        "detalle": "La presentadora reconoce en 'Universo Calleja' los motivos de su salida del reality tras tres años de presión",
+        "fuente": "20minutos",
+        "url": "https://www.20minutos.es/television/razon-por-que-laura-madrueno-dejo-supervivientes-sali-llorando_7019626_0.html"
+      }
+    ],
+    "records": [
+      {
+        "titular": "El 'Grand Prix' lidera la noche con un 16%",
+        "cadena": "La 1",
+        "detalle": "Grand Prix obtiene liderazgo de la noche del lunes 27 de julio con 16% de cuota",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-lunes-27-julio-grand-prix-paul-newman-137833/"
+      },
+      {
+        "titular": "'Misión hostil' lidera la noche del domingo",
+        "cadena": "La 1",
+        "detalle": "La película 'Misión hostil' consigue liderar la noche del domingo 26 de julio en La 1",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-domingo-26-julio-estreno-romi-137826/"
+      }
+    ]
+  }
+}
