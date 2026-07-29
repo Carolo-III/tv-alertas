@@ -1,0 +1,66 @@
+{
+  "fecha": "2026-07-29",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "Telemadrid retrasa estreno por cobertura de incendios; laSexta renueva 'Cara al Show' 2ª temporada; 'Dog House' lidera martes con 12,7%; 'Grand Prix' gana lunes con 16%",
+  "alertas": {
+    "estrenos": [
+      {
+        "titular": "La Sexta renueva 'Cara al Show con Marc Giró' con una segunda temporada: 'Quien ríe el último ríe mejor'",
+        "cadena": "laSexta",
+        "detalle": "Renovación confirmada del late show de Marc Giró para segunda temporada",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/sexta-renueva-cara-show-con-marc-giro-con-una-segunda-temporada-quien-rie-ultimo-rie-mejor_7020234_0.html"
+      },
+      {
+        "titular": "'Drag Race España' presentará a las reinas de su sexta edición el 6 de septiembre con su mítico 'Meet the queens'",
+        "cadena": "",
+        "detalle": "Presentación de concursantes de la 6ª edición programada para el 6 de septiembre",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/drag-race-espana-presentara-las-reinas-su-sexta-edicion-6-septiembre-con-su-mitico-meet-the-queens_7019887_0.html"
+      }
+    ],
+    "deportes": [],
+    "especiales": [
+      {
+        "titular": "Los incendios obligan a Telemadrid a retrasar el estreno de 'El Gran Verano'",
+        "cadena": "Telemadrid",
+        "detalle": "Programa especial de verano pospuesto por cobertura de incendios forestales",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/los-incendios-obligan-telemadrid-retrasar-estreno-gran-verano_7019985_0.html"
+      }
+    ],
+    "entrevistas": [],
+    "parrilla": [
+      {
+        "titular": "'¡De Viernes!' echa el cierre en Telecinco y no volverá hasta septiembre",
+        "cadena": "Telecinco",
+        "detalle": "Pausa veraniega del programa, regreso programado para septiembre",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/viernes-echa-cierre-telecinco-no-volvera-hasta-septiembre_7019922_0.html"
+      },
+      {
+        "titular": "Los incendios obligan a Telemadrid a retrasar el estreno de 'El Gran Verano'",
+        "cadena": "Telemadrid",
+        "detalle": "Cambio en parrilla por cobertura especial de incendios forestales",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/los-incendios-obligan-telemadrid-retrasar-estreno-gran-verano_7019985_0.html"
+      }
+    ],
+    "records": [
+      {
+        "titular": "'Dog House' lidera con un 12,7% y 'Código 10' supera de nuevo a 'El camino de la verdad'",
+        "cadena": "Varias",
+        "detalle": "Dog House gana martes con 12,7%, Código 10 supera consistentemente a competidor de Telecinco",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-martes-28-julio-dog-house-codigo-10-137841/"
+      },
+      {
+        "titular": "El 'Grand Prix' lidera la noche con un 16% y Paul Newman da la sorpresa en La 2 con un 7,1%",
+        "cadena": "La 1",
+        "detalle": "Grand Prix gana el lunes con 16%, destacable 7,1% para película en La 2",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-lunes-27-julio-grand-prix-paul-newman-137833/"
+      }
+    ]
+  }
+}
