@@ -1,0 +1,66 @@
+{
+  "fecha": "2026-07-30",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "Carlos Latre anuncia su salida de Mediaset quedando 'libre'; La Sexta renueva 'Cara al Show' para segunda temporada; audiencias estables con competencia entre 'Dog House' (12,7%), 'Código 10' y formatos de prime time",
+  "alertas": {
+    "estrenos": [
+      {
+        "titular": "Prime Video confirma el estreno en otoño de series que reactivan universos narrativos: Carrie y otras franquicias",
+        "cadena": "",
+        "detalle": "El streaming rediseña grandes franquicias clásicas para conectar con la generación Z",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/cartastreamingeneira/reciclar-clasicos-para-una-nueva-generacion/"
+      }
+    ],
+    "deportes": [],
+    "especiales": [
+      {
+        "titular": "'El perro andaluz' se despide este jueves hasta septiembre anunciando quién será el artista español para Eurovisión Junior",
+        "cadena": "",
+        "detalle": "Programa de despedida con anuncio del representante español para Eurovisión Junior",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/perro-andaluz-se-despide-este-jueves-hasta-septiembre-hara-anunciando-quien-sera-artista-espanol-para-eurovision-junior_7020447_0.html"
+      }
+    ],
+    "entrevistas": [],
+    "parrilla": [
+      {
+        "titular": "Carlos Latre explica su salida de Mediaset: 'No abandono la cadena... pero estoy libre a partir de ahora'",
+        "cadena": "Mediaset",
+        "detalle": "El presentador anuncia que queda libre tras su etapa en Mediaset",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/carlos-latre-explica-su-salida-mediaset-no-abandono-cadena-pero-estoy-libre-partir-ahora_7020723_0.html"
+      },
+      {
+        "titular": "La Sexta renueva 'Cara al Show con Marc Giró' con una segunda temporada",
+        "cadena": "laSexta",
+        "detalle": "Confirmación de renovación del programa de Marc Giró para nueva temporada",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/sexta-renueva-cara-show-con-marc-giro-con-una-segunda-temporada-quien-rie-ultimo-rie-mejor_7020234_0.html"
+      }
+    ],
+    "records": [
+      {
+        "titular": "'Dog House' lidera con un 12,7% y 'Código 10' supera de nuevo a 'El camino de la verdad'",
+        "cadena": "Cuatro",
+        "detalle": "Dog House consigue liderazgo con 12,7%; Código 10 bate a El camino de la verdad el martes 28 julio",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-martes-28-julio-dog-house-codigo-10-137841/"
+      },
+      {
+        "titular": "'¡Salta!' y 'Maestros de la Costura' se reparten la noche y 'Sandokán' pierde interés",
+        "cadena": "Varias",
+        "detalle": "Competencia reñida en prime time del miércoles 29 julio; descenso de audiencia para Sandokán",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-miercoles-29-julio-maestros-costura-137850/"
+      },
+      {
+        "titular": "ANTENA 3 NOTICIAS 1 lidera dos días consecutivos con 2.003.000 (23,3%) y 2.026.000 (22,3%)",
+        "cadena": "Antena 3",
+        "detalle": "Antena 3 Noticias 1 fue lo más visto tanto el 28 como el 29 de julio con más de 2 millones de espectadores",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-29-de-julio-de-2026/"
+      }
+    ]
+  }
+}
