@@ -1,0 +1,72 @@
+{
+  "fecha": "2026-07-31",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "Despedida estival de 'El perro andaluz' como líder (13,2%), llegada de 'El Chiringuito' a Mediaset con fecha confirmada y nueva miniserie de Chiquito en RTVE",
+  "alertas": {
+    "estrenos": [
+      {
+        "titular": "Chiquito de la Calzada tendrá su propia miniserie en RTVE",
+        "cadena": "La 1",
+        "detalle": "Miniserie biográfica sobre el cómico, desde su infancia hasta su éxito nacional",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/chiquito-calzada-tendra-su-propia-miniserie-rtve_7020977_0.html"
+      },
+      {
+        "titular": "Pedrerol, ante la llegada del 'Chiringuito' a Mediaset, que ya tiene fecha y horarios",
+        "cadena": "Mediaset",
+        "detalle": "El programa deportivo desembarca en Mediaset con fecha y horarios ya confirmados",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/pedrerol-ante-llegada-chiringuito-mediaset-que-ya-tiene-fecha-horarios-queremos-tener-un-debate-que-no-sea-toxico_7020920_0.html"
+      }
+    ],
+    "deportes": [],
+    "especiales": [],
+    "entrevistas": [],
+    "parrilla": [
+      {
+        "titular": "'El perro andaluz' se despide como líder con un 13,2% y 'Súper Gómez' no convence en Cuatro",
+        "cadena": "La 1",
+        "detalle": "Despedida de temporada del programa de La 1 con liderazgo de audiencia (13,2%)",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-jueves-30-julio-el-perro-andaluz-137862/"
+      },
+      {
+        "titular": "Gonzalo Miró y Ane Ibarzabal se ponen al frente de 'Malas Lenguas' durante las vacaciones de Jesús Cintora",
+        "cadena": "laSexta",
+        "detalle": "Relevo temporal en el programa durante el periodo estival",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/gonzalo-miro-ane-ibarzabal-se-ponen-frente-malas-lenguas-durante-las-vacaciones-jesus-cintora_7020970_0.html"
+      },
+      {
+        "titular": "Carlos Latre explica su salida de Mediaset: 'No abandono la cadena... pero estoy libre a partir de ahora'",
+        "cadena": "Mediaset",
+        "detalle": "El presentador queda libre tras su vinculación con la cadena",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/carlos-latre-explica-su-salida-mediaset-no-abandono-cadena-pero-estoy-libre-partir-ahora_7020723_0.html"
+      },
+      {
+        "titular": "La Séptima ofrece a Javier Ruiz ser el primer director de su historia y descarta otros rostros",
+        "cadena": "",
+        "detalle": "Movimiento estratégico en la nueva cadena para fichar a Javier Ruiz como director",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/septima-ofrece-javier-ruiz-ser-primer-director-su-historia-descarta-otros-rostros-no-se-puede-rechazar_7020830_0.html"
+      }
+    ],
+    "records": [
+      {
+        "titular": "'¡Salta!' y 'Maestros de la Costura' se reparten la noche y 'Sandokán' pierde interés",
+        "cadena": "Varias",
+        "detalle": "Batalla nocturna entre formatos con descenso de audiencia de 'Sandokán'",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-miercoles-29-julio-maestros-costura-137850/"
+      },
+      {
+        "titular": "'Súper Gómez' no convence en Cuatro",
+        "cadena": "Cuatro",
+        "detalle": "Bajo rendimiento del programa en su emisión",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-jueves-30-julio-el-perro-andaluz-137862/"
+      }
+    ]
+  }
+}
