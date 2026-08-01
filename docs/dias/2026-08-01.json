@@ -1,0 +1,115 @@
+{
+  "fecha": "2026-08-01",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "Telecinco cancela 'Amor... ¡O lo que surja!', 'El perro andaluz' se despide líder con 13.2%, 'Horizonte' arrasa con 13.5% y crisis migratoria de Ceuta genera cobertura especial en informativos.",
+  "alertas": {
+    "estrenos": [
+      {
+        "titular": "Inés Hernand llega con 'Ordena tu vida' para mostrar cuántas cosas inútiles somos capaces de acumular en una casa",
+        "cadena": "",
+        "detalle": "Nuevo programa presentado por Inés Hernand sobre organización del hogar",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/ines-hernand-llega-con-ordena-tu-vida-para-mostrar-cuantas-cosas-inutiles-somos-capaces-acumular-una-casa_7021385_0.html"
+      },
+      {
+        "titular": "'Súper Gómez' no convence en Cuatro",
+        "cadena": "Cuatro",
+        "detalle": "Estreno o emisión de 'Súper Gómez' con resultados discretos",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-jueves-30-julio-el-perro-andaluz-137862/"
+      }
+    ],
+    "deportes": [],
+    "especiales": [
+      {
+        "titular": "El testimonio de Ana, una ceutí embarazada de ocho meses: 'Estoy preocupada, no se puede salir a la calle'. En Ceuta se vive uno de los momentos más complicados de su historia después de que unas 60.000 personas hayan cruzado ilegalmente la frontera",
+        "cadena": "",
+        "detalle": "Cobertura especial de la crisis migratoria de Ceuta con testimonios directos",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/testimonio-ana-una-ceuti-embarazada-ocho-meses-estoy-preocupada-no-se-puede-salir-calle_7021534_0.html"
+      },
+      {
+        "titular": "Mohamed, uno de los inmigrantes que ha llegado a Ceuta: 'Prefiero jugarme la vida en el mar que vivir en Marruecos'",
+        "cadena": "",
+        "detalle": "Programas especiales con testimonios sobre la crisis migratoria en Ceuta",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/mohamed-uno-los-inmigrantes-que-ha-llegado-ceuta-prefiero-jugarme-vida-mar-que-vivir-marruecos_7021372_0.html"
+      },
+      {
+        "titular": "El portavoz de JUPOL, sobre la crisis migratoria de Ceuta: 'Los policías no podían ni asegurar su integridad física'",
+        "cadena": "",
+        "detalle": "Cobertura de la crisis migratoria de Ceuta con análisis policial",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/portavoz-jupol-sobre-crisis-migratoria-ceuta-los-policias-no-podian-ni-asegurar-su-integridad-fisica_7021308_0.html"
+      },
+      {
+        "titular": "'El verano se mueve' adelanta su emisión y lo celebra con un programa dedicado a las ex de Kiko Rivera: 'Contraatacan'",
+        "cadena": "Telecinco",
+        "detalle": "Programa especial adelantado con temática específica sobre las exparejas de Kiko Rivera",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/verano-se-mueve-adelanta-su-emision-celebra-con-un-programa-dedicado-las-ex-kiko-rivera-contraatacan_7021496_0.html"
+      },
+      {
+        "titular": "'El perro andaluz' se despide como líder con un 13,2%",
+        "cadena": "La 1",
+        "detalle": "Programa especial de despedida de 'El perro andaluz' con récord de audiencia",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-jueves-30-julio-el-perro-andaluz-137862/"
+      }
+    ],
+    "entrevistas": [],
+    "parrilla": [
+      {
+        "titular": "Adiós al programa de citas de Carlos Lozano, 'Amor o lo que surja': Telecinco lo cancela hoy mismo",
+        "cadena": "Telecinco",
+        "detalle": "Cancelación inmediata del programa de citas presentado por Carlos Lozano",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/adios-programa-citas-carlos-lozano-amor-que-surja-telecinco-cancela-hoy-mismo_7021275_0.html"
+      },
+      {
+        "titular": "Indignación en redes por el abrupto final de 'Amor... ¡O lo que surja': '¿Esto se va a terminar así?'. La emisión transcurrió con absoluta normalidad. Se ofreció un episodio previamente grabado y, una vez concluido, la cadena enlazó directamente con 'El verano se mueve'",
+        "cadena": "Telecinco",
+        "detalle": "Final repentino sin despedida formal del programa, sustituido inmediatamente por 'El verano se mueve'",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/indignacion-redes-por-abrupto-final-amor-que-surja-esto-se-va-terminar-asi_7021473_0.html"
+      },
+      {
+        "titular": "Patricia Pardo se despide de 'Vamos a ver' hasta septiembre: 'Quien lleva la corona es el público, gracias por la confianza'. La presentadora será sustituida por Verónica Dulanto y Jano Mecha durante el mes de agosto",
+        "cadena": "Telecinco",
+        "detalle": "Cambio de presentadores en 'Vamos a ver' durante agosto, sustitución temporal",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/patricia-pardo-se-despide-vamos-ver-hasta-septiembre-quien-lleva-corona-es-publico-gracias-por-confianza_7021405_0.html"
+      },
+      {
+        "titular": "'El verano se mueve' adelanta su emisión",
+        "cadena": "Telecinco",
+        "detalle": "Adelanto de horario de emisión del programa por sustitución de 'Amor... ¡O lo que surja!'",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/verano-se-mueve-adelanta-su-emision-celebra-con-un-programa-dedicado-las-ex-kiko-rivera-contraatacan_7021496_0.html"
+      }
+    ],
+    "records": [
+      {
+        "titular": "'Horizonte' lidera la noche con un 13,5% y Cuatro empata con Telecinco",
+        "cadena": "La 1",
+        "detalle": "Liderazgo destacado de 'Horizonte' con 13.5% en prime time del viernes",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-viernes-31-julio-horizonte-lidera-137871/"
+      },
+      {
+        "titular": "'El perro andaluz' se despide como líder con un 13,2%",
+        "cadena": "La 1",
+        "detalle": "Despedida exitosa del programa con liderazgo de audiencia en su último programa",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-jueves-30-julio-el-perro-andaluz-137862/"
+      },
+      {
+        "titular": "Cuatro empata con Telecinco",
+        "cadena": "Varias",
+        "detalle": "Empate inusual entre Cuatro y Telecinco en audiencias del viernes",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-viernes-31-julio-horizonte-lidera-137871/"
+      }
+    ]
+  }
+}
