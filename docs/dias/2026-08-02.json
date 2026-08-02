@@ -1,0 +1,74 @@
+{
+  "fecha": "2026-08-02",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "La 1 arrasa en julio gracias al Mundial de fútbol con récords históricos; Canal Sur ficha a María Casado para nuevo talent; Ana Rosa interrumpe vacaciones por evento especial en Ceuta",
+  "alertas": {
+    "estrenos": [
+      {
+        "titular": "María Casado ficha por 'La Gran Audición', la nueva apuesta de Canal Sur, tras despedirse de Telecinco",
+        "cadena": "Canal Sur",
+        "detalle": "Nuevo talent show de entretenimiento con fichaje estrella procedente de Telecinco",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/maria-casado-ficha-por-gran-audicion-nueva-apuesta-canal-sur-tras-despedirse-telecinco_7021648_0.html"
+      },
+      {
+        "titular": "'Súper Gómez' no convence en Cuatro",
+        "cadena": "Cuatro",
+        "detalle": "Estreno o debut reciente del programa que no está funcionando en audiencias",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-jueves-30-julio-el-perro-andaluz-137862/"
+      }
+    ],
+    "deportes": [
+      {
+        "titular": "El Mundial de fútbol corona a La 1 de TVE como cadena líder con 18,8% de cuota en julio",
+        "cadena": "La 1",
+        "detalle": "La 1 líder de julio por retransmisión del Mundial; la final España-Argentina alcanzó 14,4M de espectadores",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/mundial-futbol-corona-1-tve-como-cadena-lider-con-18-8-cuota-julio_7021583_0.html"
+      }
+    ],
+    "especiales": [
+      {
+        "titular": "Ana Rosa Quintana interrumpe sus vacaciones para ser corresponsal desde Ceuta",
+        "cadena": "Telecinco",
+        "detalle": "Evento de actualidad en Ceuta que motiva desplazamiento especial y conexiones en directo en varios programas",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/ana-rosa-quintana-interrumpe-sus-vacaciones-para-ser-corresponsal-desde-ceuta_7021686_0.html"
+      }
+    ],
+    "entrevistas": [],
+    "parrilla": [
+      {
+        "titular": "'El perro andaluz' se despide como líder con un 13,2%",
+        "cadena": "La 1",
+        "detalle": "Final o despedida de programa que cierra como líder en su franja",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-jueves-30-julio-el-perro-andaluz-137862/"
+      },
+      {
+        "titular": "Los errores de imagen de Telecinco con 'El Rosco' (que no pueden llamar 'El Rosco')",
+        "cadena": "Telecinco",
+        "detalle": "Problemas con la adaptación de una prueba emblemática en nuevo programa",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/los-errores-imagen-telecinco-con-rosco-que-no-pueden-llamar-rosco_7021097_3.html"
+      }
+    ],
+    "records": [
+      {
+        "titular": "La prórroga de la final del Mundial entre España y Argentina alcanzó 14.425.000 espectadores y 77,6% de cuota",
+        "cadena": "La 1",
+        "detalle": "Récord de audiencia del mes de julio con cifras históricas en la final del Mundial",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/mundial-futbol-corona-1-tve-como-cadena-lider-con-18-8-cuota-julio_7021583_0.html"
+      },
+      {
+        "titular": "'Horizonte' lidera la noche con un 13,5% y Cuatro empata con Telecinco",
+        "cadena": "Varias",
+        "detalle": "Empate entre Cuatro y Telecinco; liderazgo de 'Horizonte'",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-viernes-31-julio-horizonte-lidera-137871/"
+      }
+    ]
+  }
+}
