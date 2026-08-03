@@ -1,0 +1,59 @@
+{
+  "fecha": "2026-08-03",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "La 1 logra su mejor julio en 20 años con un 18,8% gracias al fútbol; 'Grand Prix' baja en audiencia mientras 'Malas lenguas noche' crece al 7,9%",
+  "alertas": {
+    "estrenos": [
+      {
+        "titular": "Gonzalo Miró y Ane Ibarzabal se ponen al frente de 'Malas Lenguas' durante el verano",
+        "cadena": "La 1",
+        "detalle": "Nuevos presentadores sustituyen el formato durante período estival, RTVE apuesta por rostro de mayor proyección",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/gonzalo-miro-ane-ibarzabal-se-ponen-frente-malas-lenguas-durante-verano_7021792_0.html"
+      }
+    ],
+    "deportes": [
+      {
+        "titular": "La 1 se dispara al 18,8% de audiencia en julio gracias al fútbol, su mejor dato de los últimos 20 años",
+        "cadena": "La 1",
+        "detalle": "Resultado mensual histórico impulsado por retransmisiones futbolísticas, mejor julio en dos décadas",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/1-se-dispara-18-8-audiencia-julio-gracias-futbol-su-mejor-dato-los-ultimos-20-anos_7021854_0.html"
+      }
+    ],
+    "especiales": [],
+    "entrevistas": [],
+    "parrilla": [
+      {
+        "titular": "Los errores de imagen de Telecinco con 'El Rosco' (que no pueden llamar 'El Rosco')",
+        "cadena": "Telecinco",
+        "detalle": "Problemas de imagen en recuperación de prueba icónica, dificultades con derechos de nombre",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/los-errores-imagen-telecinco-con-rosco-que-no-pueden-llamar-rosco_7021097_3.html"
+      },
+      {
+        "titular": "'Malas lenguas noche' se dispara a un 7,9% y planta cara al resto de ofertas del prime time",
+        "cadena": "La 1",
+        "detalle": "Versión nocturna crece significativamente en audiencia compitiendo en prime time",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-sabado-1-agosto-malas-lenguas-noche-137878/"
+      }
+    ],
+    "records": [
+      {
+        "titular": "El 'Grand Prix' lidera la noche del domingo perdiendo casi 5 puntos con un 11,1%",
+        "cadena": "La 1",
+        "detalle": "Aunque líder, sufre caída notable de casi 5 puntos respecto a entregas anteriores",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-domingo-2-agosto-grand-prix-noche-137884/"
+      },
+      {
+        "titular": "La 1 se dispara al 18,8% de audiencia en julio gracias al fútbol, su mejor dato de los últimos 20 años",
+        "cadena": "La 1",
+        "detalle": "Récord histórico mensual: mejor julio en 20 años con 18,8% de share",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/1-se-dispara-18-8-audiencia-julio-gracias-futbol-su-mejor-dato-los-ultimos-20-anos_7021854_0.html"
+      }
+    ]
+  }
+}
