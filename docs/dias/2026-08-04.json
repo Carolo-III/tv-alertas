@@ -1,0 +1,59 @@
+{
+  "fecha": "2026-08-04",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "La 1 logra su mejor dato en 20 años con un 18,8% en julio gracias al fútbol; Grand Prix lidera en prime time aunque pierde audiencia; Jesús Cintora se despide de Malas Lenguas",
+  "alertas": {
+    "estrenos": [],
+    "deportes": [
+      {
+        "titular": "La 1 se dispara al 18,8% de audiencia en julio gracias al fútbol, su mejor dato de los últimos 20 años",
+        "cadena": "La 1",
+        "detalle": "Récord histórico de share mensual impulsado por retransmisiones futbolísticas",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/1-se-dispara-18-8-audiencia-julio-gracias-futbol-su-mejor-dato-los-ultimos-20-anos_7021854_0.html"
+      }
+    ],
+    "especiales": [],
+    "entrevistas": [
+      {
+        "titular": "Unas imágenes del pasado ponen en aprietos a Terelu Campos tras su entrevista en 'De Viernes'",
+        "cadena": "Telecinco",
+        "detalle": "Entrevista destacada a Terelu Campos genera controversia y análisis posterior en De lunes a viernes",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/unas-imagenes-pasado-ponen-aprietos-terelu-campos-tras-su-entrevista-viernes-videoteca-no-miente_7022209_0.html"
+      }
+    ],
+    "parrilla": [
+      {
+        "titular": "Jesús Cintora se despide de 'Malas Lenguas' y da la bienvenida a sus sustitutos presentando",
+        "cadena": "laSexta",
+        "detalle": "Cambio de presentador en programa de debate, Cintora deja el espacio",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/jesus-cintora-se-despide-malas-lenguas-da-bienvenida-sus-sustitutos-presentando_7022304_0.html"
+      },
+      {
+        "titular": "El 'Grand Prix' vuelve a liderar y 'Punto Nemo' en Cuatro supera a 'Romi' en Telecinco",
+        "cadena": "Varias",
+        "detalle": "Batalla de audiencias en prime time del lunes, movimientos competitivos entre cadenas",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-lunes-3-agosto-grand-prix-punto-nemo-137892/"
+      }
+    ],
+    "records": [
+      {
+        "titular": "La 1 se dispara al 18,8% de audiencia en julio gracias al fútbol, su mejor dato de los últimos 20 años",
+        "cadena": "La 1",
+        "detalle": "Récord histórico de 20 años en share mensual (18,8%) impulsado por fútbol",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/1-se-dispara-18-8-audiencia-julio-gracias-futbol-su-mejor-dato-los-ultimos-20-anos_7021854_0.html"
+      },
+      {
+        "titular": "El 'Grand Prix' lidera la noche del domingo perdiendo casi 5 puntos con un 11,1%",
+        "cadena": "La 1",
+        "detalle": "Grand Prix lidera pero registra caída significativa de audiencia (-5 puntos hasta 11,1%)",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-domingo-2-agosto-grand-prix-noche-137884/"
+      }
+    ]
+  }
+}
