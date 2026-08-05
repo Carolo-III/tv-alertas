@@ -1,0 +1,50 @@
+{
+  "fecha": "2026-08-05",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "Grand Prix lidera con éxito en prime time, Dog House empata con En tierra lejana, y movimientos en La 1 con salida de Javier Ruiz y cambios de presentadores",
+  "alertas": {
+    "estrenos": [],
+    "deportes": [],
+    "especiales": [],
+    "entrevistas": [],
+    "parrilla": [
+      {
+        "titular": "Juego de presentadores en La 1: la marcha de Javier Ruiz mueve a Jesús Cintora y el verano, a Gonzalo Miró, entre otros cambios",
+        "cadena": "La 1",
+        "detalle": "Salida de Javier Ruiz provoca movimientos de presentadores con Jesús Cintora y Gonzalo Miró en verano",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/juego-presentadores-1-marcha-javier-ruiz-mueve-jesus-cintora-verano-gonzalo-miro-entre-otros-cambios_7021935_0.html"
+      },
+      {
+        "titular": "Jesús Cintora se despide de 'Malas Lenguas' y da la bienvenida a sus sustitutos presentando",
+        "cadena": "La 1",
+        "detalle": "Jesús Cintora abandona Malas Lenguas y presenta a sus sustitutos",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/jesus-cintora-se-despide-malas-lenguas-da-bienvenida-sus-sustitutos-presentando_7022304_0.html"
+      },
+      {
+        "titular": "El último capítulo del 'culebrón' de 'El Rosco': no se llamará así en Telecinco y aún no tiene nombre",
+        "cadena": "Telecinco",
+        "detalle": "El Rosco cambia de nombre en Telecinco pero aún está por confirmar",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/ultimo-capitulo-culebron-rosco-no-se-llamara-asi-telecinco-aun-no-tiene-nombre-pesar-los-rumores_7022383_0.html"
+      }
+    ],
+    "records": [
+      {
+        "titular": "El 'Grand Prix' vuelve a liderar y 'Punto Nemo' en Cuatro supera a 'Romi' en Telecinco",
+        "cadena": "La 1",
+        "detalle": "Grand Prix lidera la noche del lunes, con Punto Nemo superando a Romi",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-lunes-3-agosto-grand-prix-punto-nemo-137892/"
+      },
+      {
+        "titular": "'En tierra lejana' en Antena 3 y 'Dog House' en La 1 se reparten la noche del martes",
+        "cadena": "Varias",
+        "detalle": "Empate técnico en prime time entre Antena 3 y La 1 el martes",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-martes-4-agosto-dog-house-tierra-lejana-137901/"
+      }
+    ]
+  }
+}
