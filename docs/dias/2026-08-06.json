@@ -1,0 +1,51 @@
+{
+  "fecha": "2026-08-06",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "Yolanda Ramos estrenará 'Me Resbala' en La 1; '¡Salta!' lidera la noche del miércoles en Antena 3 con un 9,1%",
+  "alertas": {
+    "estrenos": [
+      {
+        "titular": "Yolanda Ramos presentará el programa de humor 'Me Resbala' en La 1",
+        "cadena": "La 1",
+        "detalle": "Nuevo programa de humor conducido por Yolanda Ramos",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/yolanda-ramos-presentara-programa-humor-me-resbala-1_7022892_0.html"
+      },
+      {
+        "titular": "Un tatuaje provoca la filtración de la identidad de una concursante de 'Supervivientes All Stars 3'",
+        "cadena": "Telecinco",
+        "detalle": "Nueva edición de Supervivientes All Stars con filtraciones previas al estreno",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/un-tatuaje-provoca-filtracion-identidad-una-concursante-supervivientes-all-stars-3_7023111_0.html"
+      }
+    ],
+    "deportes": [
+      {
+        "titular": "Sorpresa con la visita de la Selección Española Femenina en 'Dog House'",
+        "cadena": "La 1",
+        "detalle": "La Selección Española Femenina participa en el programa de adopción canina",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/sorpresa-con-visita-seleccion-espanola-femenina-dog-house-no-puedo-entender-que-los-abandonen_7022661_0.html"
+      }
+    ],
+    "especiales": [],
+    "entrevistas": [],
+    "parrilla": [],
+    "records": [
+      {
+        "titular": "'¡Salta!' sube en Antena 3 y lidera la noche del miércoles con un 9,1%",
+        "cadena": "Antena 3",
+        "detalle": "El programa consigue liderar la noche y registra subida de audiencia",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-miercoles-5-agosto-salta-antena-3-137910/"
+      },
+      {
+        "titular": "'En tierra lejana' en Antena 3 y 'Dog House' en La 1 se reparten la noche del martes",
+        "cadena": "Varias",
+        "detalle": "Empate técnico en audiencias entre ambos programas el martes",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-martes-4-agosto-dog-house-tierra-lejana-137901/"
+      }
+    ]
+  }
+}
