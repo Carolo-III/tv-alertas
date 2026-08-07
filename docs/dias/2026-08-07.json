@@ -1,0 +1,37 @@
+{
+  "fecha": "2026-08-07",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "RTVE traslada 'Cine de barrio' a La 2 sin presentador; estreno discreto de 'Ordena tu vida' con Inés Hernand; '¡Salta!' lidera en Antena 3",
+  "alertas": {
+    "estrenos": [
+      {
+        "titular": "'Ordena tu vida' se estrena discreto en La 1 y no puede con 'Padre no hay más que uno'",
+        "cadena": "La 1",
+        "detalle": "Estreno del nuevo programa de Inés Hernand con datos discretos de audiencia frente a la película en competencia",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-jueves-6-agosto-ordena-tu-vida-hernand-137920/"
+      }
+    ],
+    "deportes": [],
+    "especiales": [],
+    "entrevistas": [],
+    "parrilla": [
+      {
+        "titular": "RTVE cambia por completo 'Cine de barrio': no tendrá presentador y se va a La 2",
+        "cadena": "RTVE",
+        "detalle": "Cambio radical del veterano programa: traslado de La 1 a La 2 y eliminación de la figura del presentador",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/rtve-cambia-por-completo-cine-barrio-no-tendra-presentador-se-va-2_7023448_0.html"
+      }
+    ],
+    "records": [
+      {
+        "titular": "'¡Salta!' sube en Antena 3 y lidera la noche del miércoles con un 9,1%",
+        "cadena": "Antena 3",
+        "detalle": "El programa mejora datos y lidera la noche del miércoles alcanzando un 9,1% de cuota",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-miercoles-5-agosto-salta-antena-3-137910/"
+      }
+    ]
+  }
+}
