@@ -1,0 +1,66 @@
+{
+  "fecha": "2026-08-08",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "RTVE mueve su parrilla: 'Cine de barrio' se traslada a La 2 sin presentador, Silvia Intxaurrondo regresa a 'La Hora' y 'Ordena tu vida' debuta discreto en La 1",
+  "alertas": {
+    "estrenos": [
+      {
+        "titular": "'Ordena tu vida' se estrena discreto en La 1 y no puede con 'Padre no hay más que uno'",
+        "cadena": "La 1",
+        "detalle": "Debut del programa presentado por Inés Hernand con audiencias discretas en prime time",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-jueves-6-agosto-ordena-tu-vida-hernand-137920/"
+      }
+    ],
+    "deportes": [
+      {
+        "titular": "La emotiva despedida de Julia Luna, comentarista de natación de RTVE, tras 38 años de carrera",
+        "cadena": "La 1",
+        "detalle": "Retirada de una de las voces míticas de las retransmisiones deportivas de RTVE",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/emotiva-despedida-julia-luna-comentarista-natacion-rtve-tras-38-anos-carrera-hasta-siempre_7023751_0.html"
+      }
+    ],
+    "especiales": [],
+    "entrevistas": [],
+    "parrilla": [
+      {
+        "titular": "RTVE cambia por completo 'Cine de barrio': no tendrá presentador y se va a La 2",
+        "cadena": "La 1 / La 2",
+        "detalle": "Cambio estratégico completo: traslado de cadena y eliminación de presentador",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/rtve-cambia-por-completo-cine-barrio-no-tendra-presentador-se-va-2_7023448_0.html"
+      },
+      {
+        "titular": "Silvia Intxaurrondo regresa a 'La Hora de La 1' y Aida Bao pasa a 'Mañaneros 360' con Adela González",
+        "cadena": "La 1",
+        "detalle": "Movimientos de presentadores en la parrilla matinal de RTVE",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/otro-movimiento-1-silvia-intxaurrondo-regresa-hora-1-aida-bao-pasa-mananeros-360-con-adela-gonzalez_7023586_0.html"
+      },
+      {
+        "titular": "Javier Ruiz se despide de 'Mañaneros' y La 1 entre aplausos",
+        "cadena": "La 1",
+        "detalle": "Salida del presentador del programa matinal de RTVE",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/javier-ruiz-se-despide-mananeros-1-entre-aplausos-un-orgullo-servirles-esta-trinchera_7023681_0.html"
+      },
+      {
+        "titular": "'¡Salta!' sube en Antena 3 y lidera la noche del miércoles con un 9,1%",
+        "cadena": "Antena 3",
+        "detalle": "Mejora de audiencias del programa en prime time",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-miercoles-5-agosto-salta-antena-3-137910/"
+      }
+    ],
+    "records": [
+      {
+        "titular": "ANTENA 3 NOTICIAS 1 es lo más visto del 06 de agosto con 1.800.000 espectadores y 20,7% de share",
+        "cadena": "Antena 3",
+        "detalle": "Liderazgo informativo con cifras destacadas. Antena 3 cadena más vista del día con 12,5%",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-06-de-agosto-2026/"
+      }
+    ]
+  }
+}
