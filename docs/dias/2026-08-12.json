@@ -1,0 +1,66 @@
+{
+  "fecha": "2026-08-12",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "Crisis migratoria en Ceuta genera especiales informativos; continúa 'Grand Prix' con buena respuesta; terremoto en Colombia afecta a 'OT USA' en su final",
+  "alertas": {
+    "estrenos": [
+      {
+        "titular": "Jesús Cintora se pronuncia sobre su salto a 'Mañaneros 360'",
+        "cadena": "La 1",
+        "detalle": "Jesús Cintora se incorpora a 'Mañaneros 360' junto a Adela González, nuevo formato matinal",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/jesus-cintora-se-pronuncia-sobre-su-salto-mananeros-360-intentaremos-contar-las-cosas-haciendo-servicio-publico-con-rigor_7024789_0.html"
+      }
+    ],
+    "deportes": [],
+    "especiales": [
+      {
+        "titular": "Una médica de Ceuta, desesperada por la crisis migratoria: 'Esto es una catástrofe humanitaria'",
+        "cadena": "Varias",
+        "detalle": "Crisis migratoria en Ceuta con más de 4.000 urgencias en tres días genera coberturas especiales informativas",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/una-medica-ceuta-desesperada-por-crisis-migratoria-esto-es-una-catastrofe-humanitaria-necesitamos-ayuda_7024698_0.html"
+      },
+      {
+        "titular": "El terremoto de Colombia obliga a evacuar a los concursantes de 'OT USA' a pocas horas de la final",
+        "cadena": "",
+        "detalle": "Terremoto en Colombia afecta la final de 'OT USA', obligando a evacuar el plató horas antes de la gala decisiva",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/terremoto-colombia-obliga-evacuar-los-concursantes-ot-usa-pocas-horas-final-esta-temblando-ay-no-vamos_7024513_0.html"
+      },
+      {
+        "titular": "Orlando, de turismo en Colombia durante el terremoto: 'Mi hotel quedó inservible'",
+        "cadena": "Varias",
+        "detalle": "Cobertura especial del terremoto en Colombia con testimonios de españoles afectados",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/orlando-turismo-colombia-durante-terremoto-mi-hotel-quedo-inservible-cualquier-momento-se-puede-caer_7024653_0.html"
+      }
+    ],
+    "entrevistas": [
+      {
+        "titular": "Tensión entre Pablo Fernández y Luis Rubiales en 'En boca de todos': '¡Usted es un delincuente!'",
+        "cadena": "Cuatro",
+        "detalle": "Enfrentamiento entre el portavoz de Podemos Pablo Fernández y el expresidente de la RFEF Luis Rubiales",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/tension-entre-pablo-fernandez-luis-rubiales-boca-todos-usted-es-un-delincuente_7024644_0.html"
+      }
+    ],
+    "parrilla": [],
+    "records": [
+      {
+        "titular": "'En tierra lejana' en Antena 3 sube a un 11,8% y lidera frente a 'Dog House' en La 1",
+        "cadena": "Antena 3",
+        "detalle": "La serie turca 'En tierra lejana' sube y lidera el martes 11 de agosto con 11,8% frente a 'Dog House'",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-martes-11-agosto-en-tierra-lejana-137956/"
+      },
+      {
+        "titular": "El 'Grand Prix' y 'En tierra lejana' se reparten la noche del lunes sin llegar al millón",
+        "cadena": "Varias",
+        "detalle": "Tanto 'Grand Prix' como 'En tierra lejana' quedan por debajo del millón de espectadores el lunes 10 de agosto",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-lunes-10-agosto-grand-prix-137947/"
+      }
+    ]
+  }
+}
