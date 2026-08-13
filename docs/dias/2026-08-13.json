@@ -1,0 +1,58 @@
+{
+  "fecha": "2026-08-13",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "El eclipse solar del 12 de agosto generó un récord histórico en La 1 con 'Aquí la Tierra' (27,3%), mientras 'En tierra lejana' consolida liderazgo en Antena 3",
+  "alertas": {
+    "estrenos": [
+      {
+        "titular": "RTVE lanza la vuelta de 'Los archivos secretos del NO-DO' con imágenes inéditas del 23-F y otras censuradas por el franquismo",
+        "cadena": "La 1",
+        "detalle": "Nueva temporada del programa documental con material inédito del golpe de Estado y censura franquista",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/rtve-lanza-vuelta-los-archivos-secretos-no-do-con-imagenes-ineditas-23-f-otras-censuradas-por-franquismo_7025127_0.html"
+      },
+      {
+        "titular": "El explosivo vídeo de Marc Giró para promocionar la segunda temporada de 'Cara al show'",
+        "cadena": "laSexta",
+        "detalle": "Renovación confirmada del programa de Marc Giró en laSexta con campaña promocional",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/explosivo-video-marc-giro-para-promocionar-segunda-temporada-cara-show-con-tanta-fibra_7025172_0.html"
+      }
+    ],
+    "deportes": [],
+    "especiales": [
+      {
+        "titular": "El 'Aquí la Tierra' sobre el eclipse solar lidera en La 1 con más de 2 millones y un 27,3%",
+        "cadena": "La 1",
+        "detalle": "Programa especial dedicado al eclipse solar del 12 de agosto con cobertura extendida",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-miercoles-12-agosto-eclipse-solar-137964/"
+      },
+      {
+        "titular": "La NASA alquiló el pueblo burgalés de Villalibado para observar el eclipse",
+        "cadena": "",
+        "detalle": "Cobertura mediática del evento astronómico con presencia de científicos de la NASA en España",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/juan-empresario-villalibado-pueblo-burgales-alquilado-por-nasa-para-ver-eclipse-no-daba-credito-que-venian-aqui_7025095_0.html"
+      }
+    ],
+    "entrevistas": [],
+    "parrilla": [],
+    "records": [
+      {
+        "titular": "El 'Aquí la Tierra' sobre el eclipse solar lidera en La 1 con más de 2 millones y un 27,3%",
+        "cadena": "La 1",
+        "detalle": "Dato excepcional para el magazine, muy superior a su media habitual gracias al fenómeno del eclipse",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-miercoles-12-agosto-eclipse-solar-137964/"
+      },
+      {
+        "titular": "'En tierra lejana' en Antena 3 sube a un 11,8% y lidera frente a 'Dog House' en La 1",
+        "cadena": "Antena 3",
+        "detalle": "La serie turca consolida su liderazgo en prime time del martes 11 de agosto",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-martes-11-agosto-en-tierra-lejana-137956/"
+      }
+    ]
+  }
+}
