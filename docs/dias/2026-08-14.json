@@ -1,0 +1,36 @@
+{
+  "fecha": "2026-08-14",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "El eclipse solar disparó el consumo televisivo con 7,8 millones de espectadores, liderado por La 1 con un 28,6% de cuota.",
+  "alertas": {
+    "estrenos": [],
+    "deportes": [],
+    "especiales": [
+      {
+        "titular": "El eclipse disparó el consumo de televisión, con una audiencia de 7,8 millones de personas",
+        "cadena": "La 1",
+        "detalle": "La 1 lideró con un 28,6% de cuota en el tramo 20:30-20:45h durante la cobertura del eclipse solar, seguida de Cuatro y laSexta",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/eclipse-disparo-consumo-television-con-una-audiencia-7-8-millones-personas_7025377_0.html"
+      },
+      {
+        "titular": "El 'Aquí la Tierra' sobre el eclipse solar lidera en La 1 con más de 2 millones y un 27,3%",
+        "cadena": "La 1",
+        "detalle": "El programa 'Aquí la Tierra' dedicado al eclipse solar alcanzó más de 2 millones de espectadores con 27,3% de cuota",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-miercoles-12-agosto-eclipse-solar-137964/"
+      }
+    ],
+    "entrevistas": [],
+    "parrilla": [],
+    "records": [
+      {
+        "titular": "El eclipse disparó el consumo de televisión, con una audiencia de 7,8 millones de personas",
+        "cadena": "Varias",
+        "detalle": "Dato destacado de consumo televisivo total durante el evento del eclipse solar, liderado por La 1",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/eclipse-disparo-consumo-television-con-una-audiencia-7-8-millones-personas_7025377_0.html"
+      }
+    ]
+  }
+}
