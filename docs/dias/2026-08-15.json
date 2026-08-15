@@ -1,0 +1,44 @@
+{
+  "fecha": "2026-08-15",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "Eclipse solar genera programa especial líder en La 1 con más de 2M; 'Ordena tu vida' gana el jueves con ajustada victoria sobre cine; 15 de agosto registra consumo mínimo histórico",
+  "alertas": {
+    "estrenos": [],
+    "deportes": [],
+    "especiales": [
+      {
+        "titular": "El 'Aquí la Tierra' sobre el eclipse solar lidera en La 1 con más de 2 millones y un 27,3%",
+        "cadena": "La 1",
+        "detalle": "Programa especial sobre eclipse solar alcanza más de 2M de espectadores con 27,3% de cuota",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-miercoles-12-agosto-eclipse-solar-137964/"
+      },
+      {
+        "titular": "El día que nadie ve la tele. El 15 de agosto.",
+        "cadena": "Varias",
+        "detalle": "Consumo televisivo mínimo histórico coincidiendo con festivo de agosto",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/dia-que-nadie-ve-tele_7020425_3.html"
+      }
+    ],
+    "entrevistas": [],
+    "parrilla": [
+      {
+        "titular": "'Ordena tu vida' (9,1%) lidera por la mínima frente a 'Padre no hay más que uno 2' (8,9%)",
+        "cadena": "Varias",
+        "detalle": "Disputa ajustada por el liderazgo del jueves 13 agosto entre programa y cine",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-jueves-13-agosto-ordena-tu-vida-137969/"
+      }
+    ],
+    "records": [
+      {
+        "titular": "ANTENA 3 NOTICIAS 1 es lo más visto de ayer gracias a 1.758.000 espectadores y el 21% de cuota",
+        "cadena": "Antena 3",
+        "detalle": "Antena 3 lidera el día con 12,1% de cuota; su informativo más visto con 1,7M y 21%",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-13-de-agosto-2026/"
+      }
+    ]
+  }
+}
