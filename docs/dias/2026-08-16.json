@@ -1,0 +1,36 @@
+{
+  "fecha": "2026-08-16",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "Eclipse solar dispara 'Aquí la Tierra' a récord con 2M y 27,3%; crisis migratoria en Ceuta provoca cobertura especial de TVE",
+  "alertas": {
+    "estrenos": [],
+    "deportes": [],
+    "especiales": [
+      {
+        "titular": "El 'Aquí la Tierra' sobre el eclipse solar lidera en La 1 con más de 2 millones y un 27,3%",
+        "cadena": "La 1",
+        "detalle": "Programa especial sobre eclipse solar alcanza cifras excepcionales por evento astronómico",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-miercoles-12-agosto-eclipse-solar-137964/"
+      },
+      {
+        "titular": "Las autoridades marroquíes piden a TVE y EFE que abandonen Castillejos antes de impedir la entrada de migrantes a Ceuta",
+        "cadena": "TVE",
+        "detalle": "Cobertura especial de crisis migratoria en Ceuta con incidentes en frontera marroquí",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/las-autoridades-marroquies-piden-tve-efe-que-abandonen-castillejos-antes-impedir-entrada-migrantes-ceuta_7026089_0.html"
+      }
+    ],
+    "entrevistas": [],
+    "parrilla": [],
+    "records": [
+      {
+        "titular": "El 'Aquí la Tierra' sobre el eclipse solar lidera en La 1 con más de 2 millones y un 27,3%",
+        "cadena": "La 1",
+        "detalle": "Dato muy por encima de la media habitual del programa por cobertura de eclipse solar",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-miercoles-12-agosto-eclipse-solar-137964/"
+      }
+    ]
+  }
+}
