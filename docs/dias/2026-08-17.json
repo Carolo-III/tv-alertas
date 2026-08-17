@@ -1,0 +1,52 @@
+{
+  "fecha": "2026-08-17",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "Mediaset estrena 'El Chiringuito' en Energy y Cuatro; 'Robin Hood' lidera el domingo con récord de audiencia; TVE sube calificación de 'MasterChef' por quejas",
+  "alertas": {
+    "estrenos": [
+      {
+        "titular": "Mediaset estrena este lunes 'El Chiringuito' en Energy y Cuatro",
+        "cadena": "Cuatro",
+        "detalle": "Estreno del programa deportivo en Energy (lunes a jueves) y Cuatro (domingos a las 00:00h)",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/mediaset-estrena-este-lunes-chiringuito-energy-cuatro_7026244_0.html"
+      }
+    ],
+    "deportes": [],
+    "especiales": [
+      {
+        "titular": "'El Grand Prix' concluye este lunes sus duelos clasificatorios con los pueblos de Muros y Blanca",
+        "cadena": "La 1",
+        "detalle": "Último programa clasificatorio antes de semifinales, con Mario Vaquerizo y Lourdes Maldonado como padrinos",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/grand-prix-concluye-este-lunes-sus-duelos-clasificatorios-con-los-pueblos-muros-blanca_7026173_0.html"
+      }
+    ],
+    "entrevistas": [],
+    "parrilla": [
+      {
+        "titular": "'MasterChef' eleva su calificación a +12 tras las quejas recibidas por la Defensora de la Audiencia por contenido sexual",
+        "cadena": "La 1",
+        "detalle": "Cambio de calificación por edad tras quejas sobre contenido inapropiado; decisión tomada por TVE tras recomendación de la Defensora",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/masterchef-eleva-su-calificacion-12-tras-las-quejas-recibidas-por-defensora-audiencia-por-contenido-sexual_7026195_0.html"
+      }
+    ],
+    "records": [
+      {
+        "titular": "\"Robin Hood\" supera el millón en La 1 y lidera la noche del domingo con un 12,1%",
+        "cadena": "La 1",
+        "detalle": "La película consigue más de 1 millón de espectadores y liderazgo en prime time dominical",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-domingo-16-agosto-robin-hood-137986/"
+      },
+      {
+        "titular": "\"Mañana es hoy\" (11,3%), con Carmen Machi, lleva a Telecinco a liderar la noche del sábado",
+        "cadena": "Telecinco",
+        "detalle": "La película con Carmen Machi logra el liderazgo del sábado en prime time",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-sabado-15-agosto-pelicula-carmen-machi-137981/"
+      }
+    ]
+  }
+}
