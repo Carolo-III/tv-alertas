@@ -1,0 +1,50 @@
+{
+  "fecha": "2026-08-18",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "Grand Prix lidera con más de 1 millón; Alba Carrillo ficha por La Séptima; La Revuelta anuncia regreso en nuevo teatro",
+  "alertas": {
+    "estrenos": [
+      {
+        "titular": "Alba Carrillo ficha por La Séptima y presentará el primer programa confirmado por la cadena junto a Marta Márquez",
+        "cadena": "La Séptima",
+        "detalle": "Primera confirmación de programación de la nueva cadena con Alba Carrillo y Marta Márquez como presentadoras",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/alba-carrillo-ficha-por-septima-presentara-primer-programa-confirmado-por-cadena-junto-marta-marquez_7026434_0.html"
+      },
+      {
+        "titular": "'La Revuelta' anuncia ya su regreso, que será en un nuevo teatro y un escenario secreto: 'Es un sitio espectacular, más grande'",
+        "cadena": "La 1",
+        "detalle": "Regreso del programa de Broncano con nuevo escenario de mayor tamaño",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/revuelta-anuncia-ya-su-regreso-que-sera-un-nuevo-teatro-un-escenario-secreto-es-un-sitio-espectacular-mas-grande_7026356_0.html"
+      }
+    ],
+    "deportes": [],
+    "especiales": [],
+    "entrevistas": [],
+    "parrilla": [],
+    "records": [
+      {
+        "titular": "El 'Grand Prix' supera el millón de espectadores y lidera con un 13,8%",
+        "cadena": "La 1",
+        "detalle": "El programa de Ramón García logra más de 1 millón de espectadores y liderazgo del lunes 17 de agosto",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-lunes-17-agosto-grand-prix-137995/"
+      },
+      {
+        "titular": "'Robin Hood' supera el millón en La 1 y lidera la noche del domingo con un 12,1%",
+        "cadena": "La 1",
+        "detalle": "La película logra más de 1 millón de espectadores y liderazgo del domingo 16 de agosto",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-domingo-16-agosto-robin-hood-137986/"
+      },
+      {
+        "titular": "ANTENA 3 NOTICIAS 1 es lo más visto con 1.897.000 espectadores y 22,6% de cuota",
+        "cadena": "Antena 3",
+        "detalle": "Informativo récord del lunes 17 de agosto con casi 1,9 millones de espectadores",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-17-de-agosto-2026/"
+      }
+    ]
+  }
+}
