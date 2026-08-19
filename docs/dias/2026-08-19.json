@@ -1,0 +1,58 @@
+{
+  "fecha": "2026-08-19",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "El Grand Prix lidera con 13,8% y más de 1M de espectadores; Y Ahora Sonsoles anuncia su quinta temporada; fallece el mago Juan Tamariz",
+  "alertas": {
+    "estrenos": [
+      {
+        "titular": "Inés Ballester regresa con encuentros en cuatro peluquerías que combinan peinados con historias personales",
+        "cadena": "Á Punt y Telemadrid",
+        "detalle": "Nuevo programa 'Historias de la Peluquería' con 10 episodios en cadenas autonómicas",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/ines-ballester-regresa-con-encuentros-cuatro-peluquerias-que-combinan-peinados-con-historias-personales_7026836_0.html"
+      },
+      {
+        "titular": "'Y ahora Sonsoles' prepara su regreso en su quinta temporada",
+        "cadena": "Antena 3",
+        "detalle": "Anuncio de regreso de quinta temporada con campaña promocional inspirada en 'El diablo viste de Prada'",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/ahora-sonsoles-prepara-su-regreso-su-quinta-temporada-diablo-viste-prada-sonsoles-versus-meryl-streep_7026745_0.html"
+      }
+    ],
+    "deportes": [],
+    "especiales": [
+      {
+        "titular": "Una periodista de 'Al Rojo Vivo' explica cómo ha vivido el terremoto de Granada",
+        "cadena": "laSexta",
+        "detalle": "Cobertura especial de terremoto en Granada con reportera en directo",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/una-periodista-rojo-vivo-explica-como-ha-vivido-terremoto-granada-me-tiembla-todo-cuerpo_7026882_0.html"
+      },
+      {
+        "titular": "Adiós a Juan Tamariz: su frase vigente con la que nos hizo pensar desde el 'Un, dos, tres...'",
+        "cadena": "La 1",
+        "detalle": "Fallecimiento del mago Juan Tamariz a los 83 años, recordado por su participación en programas emblemáticos",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/adios-juan-tamariz-frase-vigente-con-que-nos-hizo-pensar-todos-un-dos-tres_7027079_3.html"
+      }
+    ],
+    "entrevistas": [],
+    "parrilla": [],
+    "records": [
+      {
+        "titular": "El 'Grand Prix' supera el millón de espectadores y lidera con un 13,8%",
+        "cadena": "La 1",
+        "detalle": "Dato destacado de audiencia para el regreso del programa mítico superando el millón de espectadores",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-lunes-17-agosto-grand-prix-137995/"
+      },
+      {
+        "titular": "'En tierra lejana' sube de nuevo en Antena 3 y lidera con un 12,5%",
+        "cadena": "Antena 3",
+        "detalle": "La serie turca continúa su buena racha y lidera la noche del martes",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-martes-18-agosto-en-tierra-lejana-138005/"
+      }
+    ]
+  }
+}
