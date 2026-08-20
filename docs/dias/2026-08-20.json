@@ -1,0 +1,43 @@
+{
+  "fecha": "2026-08-20",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "Jornada rutinaria con liderazgo de Antena 3 Noticias en audiencias y continuidad de la serie 'En tierra lejana' que sube y lidera con 12,5%",
+  "alertas": {
+    "estrenos": [],
+    "deportes": [],
+    "especiales": [
+      {
+        "titular": "Una vecina de Granada lleva tres noches durmiendo en su coche por los terremotos",
+        "cadena": "",
+        "detalle": "Cobertura televisiva de los terremotos en Granada, evento de actualidad con impacto social",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/una-vecina-granada-lleva-tres-noches-durmiendo-su-coche-por-los-terremotos-esto-es-como-una-pelicula-terror_7027236_0.html"
+      },
+      {
+        "titular": "Los familiares de Hugo, el menor asesinado en Isla Cristina: 'Iba a comprar a la tienda, como cualquiera'",
+        "cadena": "",
+        "detalle": "Cobertura televisiva del caso de asesinato del menor Hugo en Isla Cristina, suceso de gran impacto mediático",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/los-familiares-hugo-menor-asesinado-isla-cristina-iba-comprar-tienda-como-cualquiera_7027305_0.html"
+      }
+    ],
+    "entrevistas": [],
+    "parrilla": [
+      {
+        "titular": "'Maestros de la costura Celebrity' y '¡Salta!' se reparten la noche del miércoles",
+        "cadena": "Varias",
+        "detalle": "Competencia entre programas en prime time del miércoles 19 de agosto",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-miercoles-19-agosto-maestros-costura-138013/"
+      },
+      {
+        "titular": "'En tierra lejana' sube de nuevo en Antena 3 y lidera con un 12,5% frente a 'Dog House'",
+        "cadena": "Antena 3",
+        "detalle": "La serie 'En tierra lejana' continúa su tendencia al alza y mantiene liderazgo en su franja",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-martes-18-agosto-en-tierra-lejana-138005/"
+      }
+    ],
+    "records": []
+  }
+}
