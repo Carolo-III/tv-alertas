@@ -1,0 +1,43 @@
+{
+  "fecha": "2026-08-21",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "Antena 3 Noticias 1 domina el prime time dos noches consecutivas con más de 1,8M; 'Ordena tu vida' lidera el jueves por la mínima",
+  "alertas": {
+    "estrenos": [],
+    "deportes": [],
+    "especiales": [],
+    "entrevistas": [],
+    "parrilla": [
+      {
+        "titular": "'Maestros de la costura Celebrity' y '¡Salta!' se reparten la noche del miércoles",
+        "cadena": "Varias",
+        "detalle": "Competencia ajustada entre programas en prime time del miércoles 19 de agosto",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-miercoles-19-agosto-maestros-costura-138013/"
+      }
+    ],
+    "records": [
+      {
+        "titular": "ANTENA 3 NOTICIAS 1 es lo más visto del 20 de agosto con 1.981.000 espectadores y 23,5% de cuota",
+        "cadena": "Antena 3",
+        "detalle": "Antena 3 consigue ser la cadena más vista del día con 12,3% de cuota global",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-20-de-agosto-2026/"
+      },
+      {
+        "titular": "ANTENA 3 NOTICIAS 1 es lo más visto del 19 de agosto con 1.872.000 espectadores y 22% de cuota",
+        "cadena": "Antena 3",
+        "detalle": "Las Temáticas de Pago lideran el día con 12,7% de cuota global",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-19-de-agosto-2026/"
+      },
+      {
+        "titular": "'Ordena tu vida' logra liderar por la mínima frente a 'Padre no hay más que uno 3'",
+        "cadena": "",
+        "detalle": "Victoria ajustada en prime time del jueves 20 de agosto entre programa y cine",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-jueves-20-agosto-ordena-tu-vida-lidera-138021/"
+      }
+    ]
+  }
+}
