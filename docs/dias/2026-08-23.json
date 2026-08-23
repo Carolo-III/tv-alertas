@@ -1,0 +1,35 @@
+{
+  "fecha": "2026-08-23",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "Antena 3 Noticias 1 lidera el viernes con 1,7M y 21,8%, mientras Antena 3 gana el día con 12,3% de cuota",
+  "alertas": {
+    "estrenos": [],
+    "deportes": [],
+    "especiales": [],
+    "entrevistas": [],
+    "parrilla": [],
+    "records": [
+      {
+        "titular": "ANTENA 3 NOTICIAS 1 es lo más visto del viernes 21 de agosto con 1.744.000 espectadores y 21,8%",
+        "cadena": "Antena 3",
+        "detalle": "Antena 3 Noticias 1 lidera la jornada y Antena 3 es la cadena más vista del día con 12,3% de cuota",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-21-de-agosto-2026/"
+      },
+      {
+        "titular": "'First Dates', 'Mamá o papá' y 'Viaje al centro de la tele' se reparten la noche del viernes",
+        "cadena": "Varias",
+        "detalle": "Competencia destacada en prime time del viernes entre múltiples ofertas",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-viernes-21-agosto-first-dates-mama-papa-138027/"
+      },
+      {
+        "titular": "'Ordena tu vida' logra liderar por la mínima frente a 'Padre no hay más que uno 3'",
+        "cadena": "",
+        "detalle": "Liderazgo ajustado en la noche del jueves 20 de agosto",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-jueves-20-agosto-ordena-tu-vida-lidera-138021/"
+      }
+    ]
+  }
+}
