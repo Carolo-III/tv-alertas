@@ -1,0 +1,21 @@
+{
+  "fecha": "2026-08-24",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "Fin de semana tranquilo con liderazgo de informativos de Antena 3; destaca el buen dato de 'La amiga estupenda' en La 2 con 8,5% superando a 'El Chiringuito'.",
+  "alertas": {
+    "estrenos": [],
+    "deportes": [],
+    "especiales": [],
+    "entrevistas": [],
+    "parrilla": [],
+    "records": [
+      {
+        "titular": "'La amiga estupenda' sorprende en La 2 con un 8,5% y supera a 'El Chiringuito' en Cuatro",
+        "cadena": "La 2",
+        "detalle": "Dato sorpresivo para La 2, superando a programa de Cuatro en competencia directa",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-domingo-23-agosto-la-amiga-estupenda-138036/"
+      }
+    ]
+  }
+}
