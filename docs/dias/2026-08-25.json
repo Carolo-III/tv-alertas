@@ -1,0 +1,50 @@
+{
+  "fecha": "2026-08-25",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "Telecinco presenta 'Rueda la letra', nuevo concurso de Carlos Sobera, y confirma 'Supervivientes All Stars 3' con Albert Barranco y Lola Ortiz; 'La amiga estupenda' sorprende en La 2 con un 8,5%",
+  "alertas": {
+    "estrenos": [
+      {
+        "titular": "Telecinco presenta 'Rueda la letra', el nuevo concurso de Carlos Sobera, y confirma el logo para la prueba de 'El Rosco'",
+        "cadena": "Telecinco",
+        "detalle": "Nuevo concurso presentado por Carlos Sobera con prueba final tipo 'El Rosco'",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/telecinco-presenta-rueda-letra-nuevo-concurso-carlos-sobera-confirma-logo-para-prueba-rosco_7028779_0.html"
+      },
+      {
+        "titular": "Albert Barranco regresa a Telecinco como concursante de 'Supervivientes All Stars 3'",
+        "cadena": "Telecinco",
+        "detalle": "Nueva edición de 'Supervivientes All Stars' con Albert Barranco, Alma Bollo, Damián Quintero y María Jesús Ruiz",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/albert-barranco-regresa-telecinco-como-concursante-supervivientes-all-stars-3_7028791_0.html"
+      },
+      {
+        "titular": "Lola Ortiz, extronista de 'Mujeres, Hombres y Viceversa', participará en 'Supervivientes All Stars'",
+        "cadena": "Telecinco",
+        "detalle": "Lola Ortiz se incorpora al casting de 'Supervivientes All Stars 3'",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/lola-ortiz-extronista-mujeres-hombres-viceversa-participara-supervivientes-all-stars_7028796_0.html"
+      }
+    ],
+    "deportes": [],
+    "especiales": [],
+    "entrevistas": [],
+    "parrilla": [],
+    "records": [
+      {
+        "titular": "'La amiga estupenda' sorprende en La 2 con un 8,5% y supera a 'El Chiringuito' en Cuatro",
+        "cadena": "La 2",
+        "detalle": "Dato sorprendente para La 2 que supera a programa de Cuatro el domingo 23 de agosto",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-domingo-23-agosto-la-amiga-estupenda-138036/"
+      },
+      {
+        "titular": "El 'Gran Prix' cae a un 10,7% en su semifinal y es superado por 'En tierra lejana'",
+        "cadena": "La 1",
+        "detalle": "Caída del 'Gran Prix' en semifinal al 10,7% el lunes 24 de agosto, superado por la competencia",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-lunes-24-agosto-grand-prix-cae-138045/"
+      }
+    ]
+  }
+}
