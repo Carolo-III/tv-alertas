@@ -1,0 +1,58 @@
+{
+  "fecha": "2026-08-26",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "Supervivientes All Stars 3 confirma concursantes, Risto Mejide anuncia regreso a Todo es Mentira, salida de Carlota Reig de laSexta tras 20 años, y En tierra lejana lidera audiencias con 14%",
+  "alertas": {
+    "estrenos": [
+      {
+        "titular": "'Supervivientes All Stars 3' ya tiene lista de concursantes confirmados: María Jesús Ruiz, Lola Ortiz, Alma Bollo, Albert Barranco...",
+        "cadena": "Telecinco",
+        "detalle": "Nueva edición de All Stars con casting confirmado",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/supervivientes-all-stars-3-ya-tiene-lista-concursantes-confirmados-maria-jesus-ruiz-lola-ortiz-alma-bollo-albert-barranco_7029180_0.html"
+      },
+      {
+        "titular": "Risto Mejide se convierte en Odiseo para anunciar su regreso a 'Todo es Mentira': 'Se acabó la calma'",
+        "cadena": "Cuatro",
+        "detalle": "Anuncio del regreso de Risto Mejide al programa tras pausa veraniega",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/risto-mejide-se-convierte-odiseo-para-anunciar-su-regreso-todo-es-mentira-se-acabo-calma_7029130_0.html"
+      }
+    ],
+    "deportes": [],
+    "especiales": [],
+    "entrevistas": [],
+    "parrilla": [
+      {
+        "titular": "Carlota Reig abandona La Sexta tras 20 años en Deportes: 'Toca cerrar una etapa increíble y buscar nuevas aventuras'",
+        "cadena": "laSexta",
+        "detalle": "Salida de presentadora de deportes tras dos décadas en la cadena",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/carlota-reig-abandona-sexta-tras-20-anos-deportes-toca-cerrar-una-etapa-increible-buscar-nuevas-aventuras_7029036_0.html"
+      },
+      {
+        "titular": "El 'Gran Prix' cae a un 10,7% en su semifinal y es superado por 'En tierra lejana'",
+        "cadena": "La 1",
+        "detalle": "Caída del Gran Prix en semifinal, dato por debajo de su competencia",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-lunes-24-agosto-grand-prix-cae-138045/"
+      }
+    ],
+    "records": [
+      {
+        "titular": "'En tierra lejana', líder indiscutible de la noche con un 14% frente a 'Dog House'",
+        "cadena": "Antena 3",
+        "detalle": "Liderazgo destacado en prime time del martes 25 agosto con 14% de cuota",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-martes-25-agosto-en-tierra-lejana-138058/"
+      },
+      {
+        "titular": "ANTENA 3 NOTICIAS 1 es lo más visto del día con 2.088.000 espectadores y 23,3% de cuota",
+        "cadena": "Antena 3",
+        "detalle": "Informativo líder absoluto del martes 25 agosto, Antena 3 cadena más vista del día con 13%",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-25-de-agosto-2026/"
+      }
+    ]
+  }
+}
