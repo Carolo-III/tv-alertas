@@ -1,13 +1,72 @@
 {
   "fecha": "2026-08-26",
-  "hay_alertas": false,
-  "resumen_ejecutivo": "Error en análisis — revisar log",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "Antena 3 lidera audiencias en agosto; confirmado 'Supervivientes All Stars 3' con casting completo; Risto Mejide regresa a 'Todo es Mentira'; y Carlota Reig abandona laSexta tras 20 años.",
   "alertas": {
-    "estrenos": [],
+    "estrenos": [
+      {
+        "titular": "'Supervivientes All Stars 3' ya tiene lista de concursantes confirmados: Rosa Benito, María Jesús Ruiz, Lola Ortiz, Alma Bollo, Albert Barranco...",
+        "cadena": "Telecinco",
+        "detalle": "Tercera edición All Stars con casting completo confirmado, incluye Rosa Benito y otros concursantes destacados",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/supervivientes-all-stars-3-ya-tiene-lista-concursantes-confirmados-maria-jesus-ruiz-lola-ortiz-alma-bollo-albert-barranco_7029180_0.html"
+      },
+      {
+        "titular": "Telecinco se busca las mañas para no decir 'El Rosco' en la presentación de su nuevo programa: 'La prueba final más famosa'",
+        "cadena": "Telecinco",
+        "detalle": "Nuevo programa en Telecinco inspirado en formato de rosco, presentación sin mencionar el nombre original",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/telecinco-se-busca-las-manas-para-no-decir-rosco-presentacion-su-nuevo-programa-prueba-final-mas-famosa_7029484_0.html"
+      }
+    ],
     "deportes": [],
     "especiales": [],
     "entrevistas": [],
-    "parrilla": [],
-    "records": []
+    "parrilla": [
+      {
+        "titular": "Risto Mejide se convierte en Odiseo para anunciar su regreso a 'Todo es Mentira': 'Se acabó la calma'",
+        "cadena": "Cuatro",
+        "detalle": "Regreso de Risto Mejide a Todo es Mentira tras pausa veraniega, anuncio teatralizado",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/risto-mejide-se-convierte-odiseo-para-anunciar-su-regreso-todo-es-mentira-se-acabo-calma_7029130_0.html"
+      },
+      {
+        "titular": "Carlota Reig abandona La Sexta tras 20 años en Deportes: 'Toca cerrar una etapa increíble y buscar nuevas aventuras'",
+        "cadena": "laSexta",
+        "detalle": "Salida de figura histórica del área de deportes de laSexta tras dos décadas en la cadena",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/carlota-reig-abandona-sexta-tras-20-anos-deportes-toca-cerrar-una-etapa-increible-buscar-nuevas-aventuras_7029036_0.html"
+      }
+    ],
+    "records": [
+      {
+        "titular": "'En tierra lejana', líder indiscutible de la noche con un 14% frente a 'Dog House'",
+        "cadena": "La 1",
+        "detalle": "Liderazgo claro de la ficción turca en prime time del martes 25 de agosto con 14% de cuota",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-martes-25-agosto-en-tierra-lejana-138058/"
+      },
+      {
+        "titular": "El 'Gran Prix' cae a un 10,7% en su semifinal y es superado por 'En tierra lejana'",
+        "cadena": "La 1",
+        "detalle": "Descenso notable del Gran Prix en semifinal, quedando por debajo del 11% y siendo superado por la competencia",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-lunes-24-agosto-grand-prix-cae-138045/"
+      },
+      {
+        "titular": "ANTENA 3 NOTICIAS 1 es lo más visto con 2.088.000 espectadores y 23,3% el día 25 de agosto",
+        "cadena": "Antena 3",
+        "detalle": "Antena 3 Noticias 1 lidera audiencias con más de 2 millones de espectadores y la cadena es líder del día con 13%",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-25-de-agosto-2026/"
+      },
+      {
+        "titular": "ANTENA 3 NOTICIAS 1 es lo más visto con 1.917.000 espectadores y 21,4% el día 24 de agosto",
+        "cadena": "Antena 3",
+        "detalle": "Antena 3 Noticias 1 lidera el día con casi 2 millones de espectadores, aunque el día lo ganan las Temáticas de Pago con 12,5%",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-24-de-agosto-2026/"
+      }
+    ]
   }
 }
