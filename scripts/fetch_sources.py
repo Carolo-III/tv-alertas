@@ -49,10 +49,6 @@ SCRAPE_SOURCES = [
         "url": "https://www.dos30.com/actualidad/",
     },
     {
-        "nombre": "Vertele",
-        "url": "https://www.eldiario.es/vertele/audiencias-tv/",
-    },
-    {
         "nombre": "Fórmula TV — Portada",
         "url": "https://www.formulatv.com/",
     },
