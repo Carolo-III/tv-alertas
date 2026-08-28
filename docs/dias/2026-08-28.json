@@ -1,0 +1,87 @@
+{
+  "fecha": "2026-08-28",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "Ana Rosa y Susanna Griso arrancan temporada con especiales desde Ceuta por crisis migratoria; importantes fichajes en tardes (Gema López a 'Y ahora Sonsoles') y cambios en RTVE ('Cine de Barrio' se traslada a La 2 con nuevo formato).",
+  "alertas": {
+    "estrenos": [
+      {
+        "titular": "Luján Argüelles ficha por La Séptima para presentar un programa de actualidad",
+        "cadena": "La Séptima",
+        "detalle": "Nuevo programa de actualidad en las mañanas de los fines de semana",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/lujan-argueelles-ficha-por-septima-para-presentar-un-programa-actualidad_7030099_0.html"
+      },
+      {
+        "titular": "'La isla de las tentaciones' muestra un adelanto de su nueva temporada",
+        "cadena": "Telecinco",
+        "detalle": "Presentación de solteros y adelanto de la 11ª edición del reality",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/isla-las-tentaciones-muestra-un-adelanto-su-nueva-temporada-con-infidelidades-lagrimas-carreras-por-playa_7030251_0.html"
+      },
+      {
+        "titular": "Asraf Beno, confirmado como nuevo concursante de 'Supervivientes All Stars 3'",
+        "cadena": "Telecinco",
+        "detalle": "Nuevo fichaje para la tercera edición de All Stars",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/asraf-beno-confirmado-como-nuevo-concursante-supervivientes-all-stars-3_7030158_0.html"
+      }
+    ],
+    "deportes": [],
+    "especiales": [
+      {
+        "titular": "Ana Rosa Quintana y Susanna Griso arrancarán la temporada con programas especiales desde Ceuta",
+        "cadena": "Varias",
+        "detalle": "Ambas presentadoras se trasladan a Ceuta para cubrir la crisis migratoria al inicio de temporada",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/ana-rosa-quintana-susanna-griso-arrancaran-temporada-con-programas-especiales-desde-ceuta_7030006_0.html"
+      },
+      {
+        "titular": "Susanna Griso conecta con 'Espejo Público' para valorar la situación de Ceuta",
+        "cadena": "Antena 3",
+        "detalle": "Especial desde Ceuta el próximo lunes por la crisis migratoria",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/susanna-griso-conecta-con-espejo-publico-para-valorar-situacion-ceuta-creo-que-problema-esta-muy-lejos-resolverse_7030389_0.html"
+      },
+      {
+        "titular": "'Maestros de la costura Celebrity' corona a su ganadora, que destinará el premio a las víctimas de la DANA",
+        "cadena": "La 1",
+        "detalle": "Final del programa con Beatriz Luengo como ganadora, premio destinado a víctimas de la DANA",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/maestros-costura-celebrity-corona-su-ganadora-que-destinara-premio-las-victimas-dana_7029992_0.html"
+      }
+    ],
+    "entrevistas": [],
+    "parrilla": [
+      {
+        "titular": "'Y ahora Sonsoles' ficha a Gema López, que competirá con sus excompañeros de 'Sálvame', y a Samantha Vallejo-Nágera",
+        "cadena": "Antena 3",
+        "detalle": "Importante fichaje para las tardes, Gema López compaginará con 'Espejo Público'",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/ahora-sonsoles-ficha-una-excolaboradora-salvame-que-competira-contra-sus-antiguos-companeros_7030026_0.html"
+      },
+      {
+        "titular": "RTVE anuncia el nuevo 'Cine de Barrio': en La 2, con un nuevo formato, sin presentador y más colaboradores",
+        "cadena": "La 2",
+        "detalle": "Cambio de cadena y formato para programa histórico tras casi 30 años en emisión",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/rtve-anuncia-nuevo-cine-barrio-2-con-un-nuevo-formato-sin-presentador-mas-colaboradores_7029878_0.html"
+      }
+    ],
+    "records": [
+      {
+        "titular": "La final de 'Maestros de la costura Celebrity' lidera la noche con poco más de medio millón",
+        "cadena": "La 1",
+        "detalle": "Dato llamativo: solo medio millón de espectadores para una final de programa",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-miercoles-26-agosto-maestros-costura-138071/"
+      },
+      {
+        "titular": "ANTENA 3 NOTICIAS 1 es lo más visto de ayer con 2.072.000 espectadores y 23,3%",
+        "cadena": "Antena 3",
+        "detalle": "Liderazgo destacado del informativo principal del día 27 de agosto",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-27-de-agosto-2026/"
+      }
+    ]
+  }
+}
