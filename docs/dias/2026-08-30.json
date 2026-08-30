@@ -1,0 +1,50 @@
+{
+  "fecha": "2026-08-30",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "Mediaset retira 'El show de Paz' por falta de audiencia; Antena 3 Noticias domina el fin de semana; 'La amiga estupenda' mejora pero no lidera en La 1",
+  "alertas": {
+    "estrenos": [],
+    "deportes": [],
+    "especiales": [],
+    "entrevistas": [],
+    "parrilla": [
+      {
+        "titular": "Mediaset retira de la parrilla 'El show de Paz' a partir de septiembre ante la falta de audiencia",
+        "cadena": "Telecinco",
+        "detalle": "Cancelación definitiva del programa a partir del 31 de agosto por bajo rendimiento. Nuevos cambios en parrilla de septiembre",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/mediaset-retira-parrilla-show-paz-partir-septiembre-ante-falta-audiencia_7030620_0.html"
+      }
+    ],
+    "records": [
+      {
+        "titular": "ANTENA 3 NOTICIAS 1 FIN DE SEMANA es lo más visto con 1.788.000 espectadores y 22% de cuota",
+        "cadena": "Antena 3",
+        "detalle": "Liderazgo del sábado 29 de agosto con sus noticias del fin de semana",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-29-de-agosto-2026/"
+      },
+      {
+        "titular": "ANTENA 3 NOTICIAS 1 es lo más visto con 1.872.000 espectadores y 21,8% de cuota",
+        "cadena": "Antena 3",
+        "detalle": "Liderazgo del viernes 28 de agosto con su informativo de sobremesa",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-28-de-agosto-2026/"
+      },
+      {
+        "titular": "'La amiga estupenda' mejora en La 1 pero no consigue liderar frente a 'Atrapa un millón'",
+        "cadena": "La 1",
+        "detalle": "La serie mejora datos pero pierde el liderazgo del sábado noche ante la competencia",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-29-agosto-la-amiga-estupenda-la-1-138096/"
+      },
+      {
+        "titular": "'La familia Benetón' en Antena 3, líder de la noche del viernes con un 10,4%",
+        "cadena": "Antena 3",
+        "detalle": "La película lidera el prime time del viernes en Antena 3",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-viernes-28-agosto-la-familia-beneton-138092/"
+      }
+    ]
+  }
+}
