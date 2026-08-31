@@ -1,0 +1,87 @@
+{
+  "fecha": "2026-08-31",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "Inicio de temporada televisiva con cobertura especial de la crisis migratoria en Ceuta, estrenos confirmados de 'La Revuelta' y 'La Mesa', y nueva imagen para informativos de RTVE",
+  "alertas": {
+    "estrenos": [
+      {
+        "titular": "'La Revuelta' ya tiene fecha de regreso y lo hará tratando de 'distraernos de los escándalos del Gobierno'",
+        "cadena": "La 1",
+        "detalle": "Regreso confirmado del programa de Broncano con fecha definida para nueva temporada",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/revuelta-ya-tiene-fecha-regreso-hara-tratando-distraernos-los-escandalos-gobierno_7031116_0.html"
+      },
+      {
+        "titular": "El nuevo programa de Cristina Pardo que llega tras 'El Hormiguero': 'La Mesa' es como el coche fantástico, no le faltan prestaciones",
+        "cadena": "Antena 3",
+        "detalle": "Estreno de nuevo programa de Cristina Pardo en late night tras El Hormiguero",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/nuevo-programa-cristina-pardo-que-llega-tras-hormiguero-mesa-es-como-coche-fantastico-no-le-faltan-prestaciones_7031090_0.html"
+      },
+      {
+        "titular": "Sarah Santaolalla ficha por La Séptima para presentar su propio programa: 'Os necesito más cerca que nunca'",
+        "cadena": "La Séptima",
+        "detalle": "La comunicadora confirma su fichaje por la nueva cadena con programa propio",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/sarah-santaolalla-ficha-por-septima-para-presentar-su-propio-programa-os-necesito-mas-cerca-que-nunca_7030742_0.html"
+      },
+      {
+        "titular": "Damián Quintero, campeón del mundo de karate, nuevo concursante confirmado de 'Supervivientes All Stars 3'",
+        "cadena": "Telecinco",
+        "detalle": "Confirmación de nuevo concursante para la tercera edición del reality All Stars",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/damian-quintero-campeon-mundo-karate-nuevo-concursante-confirmado-superviviente-all-stars-3_7031038_0.html"
+      },
+      {
+        "titular": "Los informativos de RTVE estrenan nueva imagen para apostar por la identidad común en sus telediarios",
+        "cadena": "La 1",
+        "detalle": "Cambio de imagen corporativa en informativos con apuesta por dinamismo y nuevas tecnologías",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/los-informativos-rtve-estrenan-nueva-imagen-para-apostar-por-identidad-comun-sus-telediarios_7031025_0.html"
+      }
+    ],
+    "deportes": [],
+    "especiales": [
+      {
+        "titular": "Comienza la temporada en la tele: Silvia Intxaurrondo, Susanna Griso y Ana Rosa Quintana arrancan centradas en Ceuta",
+        "cadena": "Varias",
+        "detalle": "Inicio de temporada televisiva con despliegue especial por crisis migratoria en Ceuta en principales magazines matinales",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/comienza-temporada-tele-silvia-intxaurrondo-susanna-griso-ana-rosa-quintana-arrancan-centradas-ceuta_7030340_0.html"
+      },
+      {
+        "titular": "Susanna Griso, desde la playa de El Trampolín: 'Es la imagen de la vergüenza, esto no es propio del primer mundo'",
+        "cadena": "Antena 3",
+        "detalle": "Cobertura especial desde Ceuta de la crisis migratoria en Espejo Público con 33 millones de euros en pérdidas",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/susanna-griso-desde-playa-trampolin-es-imagen-vergueenza-esto-no-es-propio-primer-mundo_7031013_0.html"
+      }
+    ],
+    "entrevistas": [],
+    "parrilla": [
+      {
+        "titular": "Arde el plató de 'Maestros de la costura' en Madrid y se salva el de 'MasterChef'",
+        "cadena": "La 1",
+        "detalle": "Incendio en NonStop Studios calcina instalaciones de Maestros de la costura, afectando potencialmente la producción",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/arde-plato-maestros-costura-madrid-se-salva-masterchef_7030748_0.html"
+      }
+    ],
+    "records": [
+      {
+        "titular": "'Kraven the Hunter' no da opción a la competencia con un 13,9% y superando el millón",
+        "cadena": "",
+        "detalle": "El filme logra liderazgo destacado en prime time dominical con más de un millón de espectadores",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-domingo-30-agosto-kraven-the-hunter-138104/"
+      },
+      {
+        "titular": "'La amiga estupenda' mejora en La 1 pero no consigue liderar frente a 'Atrapa un millón'",
+        "cadena": "La 1",
+        "detalle": "La serie mejora datos pero queda por debajo de la competencia de Antena 3",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-29-agosto-la-amiga-estupenda-la-1-138096/"
+      }
+    ]
+  }
+}

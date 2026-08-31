@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang='es'>
+<head>
+<meta charset='UTF-8'>
+<meta name='viewport' content='width=device-width, initial-scale=1.0'>
+<title>TV Alertas — Lunes 31 de agosto de 2026</title>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=DM+Sans:wght@300;400;500;600&display=swap');
+
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+:root {
+  --bg: #0a0a0b;
+  --bg2: #111113;
+  --bg3: #1a1a1d;
+  --border: #2a2a2e;
+  --text: #e8e8ec;
+  --text-muted: #6b6b78;
+  --accent: #e8c547;
+}
+
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: 'DM Sans', sans-serif;
+  font-size: 15px;
+  line-height: 1.6;
+  min-height: 100vh;
+}
+
+.site-header {
+  border-bottom: 1px solid var(--border);
+  padding: 20px 32px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  position: sticky;
+  top: 0;
+  background: rgba(10,10,11,0.95);
+  backdrop-filter: blur(8px);
+  z-index: 100;
+}
+
+.site-title {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 24px;
+  letter-spacing: 2px;
+  color: var(--accent);
+}
+
+.site-subtitle {
+  font-size: 12px;
+  color: var(--text-muted);
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+
+.nav-link {
+  color: var(--text-muted);
+  text-decoration: none;
+  font-size: 13px;
+  letter-spacing: 0.5px;
+  transition: color 0.2s;
+}
+.nav-link:hover { color: var(--accent); }
+
+main { max-width: 900px; margin: 0 auto; padding: 40px 24px; }
+
+.fecha-display {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 48px;
+  letter-spacing: 3px;
+  color: var(--text);
+  margin-bottom: 4px;
+}
+
+.resumen-ejecutivo {
+  font-size: 16px;
+  color: var(--text-muted);
+  margin-bottom: 40px;
+  padding-left: 16px;
+  border-left: 3px solid var(--accent);
+}
+
+.sin-alertas {
+  text-align: center;
+  padding: 80px 24px;
+  color: var(--text-muted);
+}
+
+.sin-alertas .icon { font-size: 48px; margin-bottom: 16px; }
+.sin-alertas h2 { font-family: 'Bebas Neue', sans-serif; font-size: 28px; letter-spacing: 2px; margin-bottom: 8px; color: var(--text); }
+
+.categoria-bloque { margin-bottom: 40px; }
+
+.categoria-header {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 16px;
+  padding-bottom: 8px;
+  border-bottom: 1px solid var(--border);
+}
+
+.categoria-icon { font-size: 20px; }
+
+.categoria-label {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 20px;
+  letter-spacing: 2px;
+}
+
+.categoria-count {
+  font-size: 12px;
+  padding: 2px 8px;
+  border-radius: 12px;
+  background: var(--bg3);
+  color: var(--text-muted);
+  font-weight: 500;
+}
+
+.alerta-card {
+  background: var(--bg2);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 16px 20px;
+  margin-bottom: 10px;
+  border-left: 3px solid transparent;
+  transition: border-color 0.2s, background 0.2s;
+}
+
+.alerta-card:hover { background: var(--bg3); }
+
+.alerta-titular {
+  font-weight: 600;
+  font-size: 15px;
+  margin-bottom: 4px;
+  color: var(--text);
+}
+
+.alerta-detalle {
+  font-size: 13px;
+  color: var(--text-muted);
+  margin-bottom: 6px;
+}
+
+.alerta-meta {
+  display: flex;
+  gap: 12px;
+  font-size: 12px;
+}
+
+.badge-cadena {
+  background: var(--bg3);
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  padding: 1px 7px;
+  color: var(--text-muted);
+}
+
+.badge-fuente { color: var(--text-muted); font-style: italic; }
+
+.alerta-link {
+  color: var(--text);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: border-color 0.2s, color 0.2s;
+}
+.alerta-link:hover { color: var(--accent); border-bottom-color: var(--accent); }
+
+.historico-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 12px;
+  margin-top: 24px;
+}
+
+.dia-card {
+  background: var(--bg2);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 16px;
+  text-decoration: none;
+  display: block;
+  transition: border-color 0.2s, background 0.2s;
+}
+
+.dia-card:hover { background: var(--bg3); border-color: var(--accent); }
+
+.dia-fecha {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 18px;
+  letter-spacing: 1px;
+  color: var(--text);
+  margin-bottom: 4px;
+}
+
+.dia-alertas { font-size: 12px; color: var(--text-muted); }
+
+.dia-dot {
+  display: inline-block;
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: var(--accent);
+  margin-right: 6px;
+  vertical-align: middle;
+}
+
+.dia-sin-alertas .dia-dot { background: var(--border); }
+
+footer {
+  border-top: 1px solid var(--border);
+  padding: 20px 32px;
+  text-align: center;
+  font-size: 12px;
+  color: var(--text-muted);
+  letter-spacing: 0.5px;
+}
+</style>
+</head>
+<body>
+<header class="site-header"><div><div class="site-title">TV ALERTAS</div><div class="site-subtitle">Monitor de televisión española</div></div><a href="../index.html" class="nav-link">← Histórico</a></header>
+<main>
+<div class="fecha-display">LUNES 31 DE AGOSTO DE 2026</div>
+<div class="resumen-ejecutivo">Inicio de temporada televisiva con cobertura especial de la crisis migratoria en Ceuta, estrenos confirmados de 'La Revuelta' y 'La Mesa', y nueva imagen para informativos de RTVE</div>
+<div class="categoria-bloque"><div class="categoria-header"><span class="categoria-icon">🎬</span><span class="categoria-label" style="color:#e8c547">Estrenos</span><span class="categoria-count">5</span></div><div class="alerta-card" style="border-left-color:#e8c547"><div class="alerta-titular"><a href="https://www.20minutos.es/television/revuelta-ya-tiene-fecha-regreso-hara-tratando-distraernos-los-escandalos-gobierno_7031116_0.html" target="_blank" rel="noopener" class="alerta-link">'La Revuelta' ya tiene fecha de regreso y lo hará tratando de 'distraernos de los escándalos del Gobierno'</a></div><div class='alerta-detalle'>Regreso confirmado del programa de Broncano con fecha definida para nueva temporada</div><div class="alerta-meta"><span class='badge-cadena'>La 1</span><span class='badge-fuente'>20minutos TV</span></div></div><div class="alerta-card" style="border-left-color:#e8c547"><div class="alerta-titular"><a href="https://www.20minutos.es/television/nuevo-programa-cristina-pardo-que-llega-tras-hormiguero-mesa-es-como-coche-fantastico-no-le-faltan-prestaciones_7031090_0.html" target="_blank" rel="noopener" class="alerta-link">El nuevo programa de Cristina Pardo que llega tras 'El Hormiguero': 'La Mesa' es como el coche fantástico, no le faltan prestaciones</a></div><div class='alerta-detalle'>Estreno de nuevo programa de Cristina Pardo en late night tras El Hormiguero</div><div class="alerta-meta"><span class='badge-cadena'>Antena 3</span><span class='badge-fuente'>20minutos TV</span></div></div><div class="alerta-card" style="border-left-color:#e8c547"><div class="alerta-titular"><a href="https://www.20minutos.es/television/sarah-santaolalla-ficha-por-septima-para-presentar-su-propio-programa-os-necesito-mas-cerca-que-nunca_7030742_0.html" target="_blank" rel="noopener" class="alerta-link">Sarah Santaolalla ficha por La Séptima para presentar su propio programa: 'Os necesito más cerca que nunca'</a></div><div class='alerta-detalle'>La comunicadora confirma su fichaje por la nueva cadena con programa propio</div><div class="alerta-meta"><span class='badge-cadena'>La Séptima</span><span class='badge-fuente'>20minutos TV</span></div></div><div class="alerta-card" style="border-left-color:#e8c547"><div class="alerta-titular"><a href="https://www.20minutos.es/television/damian-quintero-campeon-mundo-karate-nuevo-concursante-confirmado-superviviente-all-stars-3_7031038_0.html" target="_blank" rel="noopener" class="alerta-link">Damián Quintero, campeón del mundo de karate, nuevo concursante confirmado de 'Supervivientes All Stars 3'</a></div><div class='alerta-detalle'>Confirmación de nuevo concursante para la tercera edición del reality All Stars</div><div class="alerta-meta"><span class='badge-cadena'>Telecinco</span><span class='badge-fuente'>20minutos TV</span></div></div><div class="alerta-card" style="border-left-color:#e8c547"><div class="alerta-titular"><a href="https://www.20minutos.es/television/los-informativos-rtve-estrenan-nueva-imagen-para-apostar-por-identidad-comun-sus-telediarios_7031025_0.html" target="_blank" rel="noopener" class="alerta-link">Los informativos de RTVE estrenan nueva imagen para apostar por la identidad común en sus telediarios</a></div><div class='alerta-detalle'>Cambio de imagen corporativa en informativos con apuesta por dinamismo y nuevas tecnologías</div><div class="alerta-meta"><span class='badge-cadena'>La 1</span><span class='badge-fuente'>20minutos TV</span></div></div></div><div class="categoria-bloque"><div class="categoria-header"><span class="categoria-icon">⭐</span><span class="categoria-label" style="color:#e847a3">Especiales / Galas</span><span class="categoria-count">2</span></div><div class="alerta-card" style="border-left-color:#e847a3"><div class="alerta-titular"><a href="https://www.20minutos.es/television/comienza-temporada-tele-silvia-intxaurrondo-susanna-griso-ana-rosa-quintana-arrancan-centradas-ceuta_7030340_0.html" target="_blank" rel="noopener" class="alerta-link">Comienza la temporada en la tele: Silvia Intxaurrondo, Susanna Griso y Ana Rosa Quintana arrancan centradas en Ceuta</a></div><div class='alerta-detalle'>Inicio de temporada televisiva con despliegue especial por crisis migratoria en Ceuta en principales magazines matinales</div><div class="alerta-meta"><span class='badge-cadena'>Varias</span><span class='badge-fuente'>20minutos TV</span></div></div><div class="alerta-card" style="border-left-color:#e847a3"><div class="alerta-titular"><a href="https://www.20minutos.es/television/susanna-griso-desde-playa-trampolin-es-imagen-vergueenza-esto-no-es-propio-primer-mundo_7031013_0.html" target="_blank" rel="noopener" class="alerta-link">Susanna Griso, desde la playa de El Trampolín: 'Es la imagen de la vergüenza, esto no es propio del primer mundo'</a></div><div class='alerta-detalle'>Cobertura especial desde Ceuta de la crisis migratoria en Espejo Público con 33 millones de euros en pérdidas</div><div class="alerta-meta"><span class='badge-cadena'>Antena 3</span><span class='badge-fuente'>20minutos TV</span></div></div></div><div class="categoria-bloque"><div class="categoria-header"><span class="categoria-icon">📋</span><span class="categoria-label" style="color:#e87347">Cambios de parrilla</span><span class="categoria-count">1</span></div><div class="alerta-card" style="border-left-color:#e87347"><div class="alerta-titular"><a href="https://www.20minutos.es/television/arde-plato-maestros-costura-madrid-se-salva-masterchef_7030748_0.html" target="_blank" rel="noopener" class="alerta-link">Arde el plató de 'Maestros de la costura' en Madrid y se salva el de 'MasterChef'</a></div><div class='alerta-detalle'>Incendio en NonStop Studios calcina instalaciones de Maestros de la costura, afectando potencialmente la producción</div><div class="alerta-meta"><span class='badge-cadena'>La 1</span><span class='badge-fuente'>20minutos TV</span></div></div></div><div class="categoria-bloque"><div class="categoria-header"><span class="categoria-icon">📊</span><span class="categoria-label" style="color:#47e87e">Récords</span><span class="categoria-count">2</span></div><div class="alerta-card" style="border-left-color:#47e87e"><div class="alerta-titular"><a href="https://www.formulatv.com/noticias/audiencias-domingo-30-agosto-kraven-the-hunter-138104/" target="_blank" rel="noopener" class="alerta-link">'Kraven the Hunter' no da opción a la competencia con un 13,9% y superando el millón</a></div><div class='alerta-detalle'>El filme logra liderazgo destacado en prime time dominical con más de un millón de espectadores</div><div class="alerta-meta"><span class='badge-fuente'>Fórmula TV</span></div></div><div class="alerta-card" style="border-left-color:#47e87e"><div class="alerta-titular"><a href="https://www.formulatv.com/noticias/audiencias-29-agosto-la-amiga-estupenda-la-1-138096/" target="_blank" rel="noopener" class="alerta-link">'La amiga estupenda' mejora en La 1 pero no consigue liderar frente a 'Atrapa un millón'</a></div><div class='alerta-detalle'>La serie mejora datos pero queda por debajo de la competencia de Antena 3</div><div class="alerta-meta"><span class='badge-cadena'>La 1</span><span class='badge-fuente'>Fórmula TV</span></div></div></div>
+</main>
+<footer>Generado automáticamente · Fuentes: Barlovento, Fórmula TV, Vertele, DOS30</footer>
+</body>
+</html>
