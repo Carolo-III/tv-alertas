@@ -1,0 +1,122 @@
+{
+  "fecha": "2026-09-01",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "Antena 3 recupera el liderazgo mensual tras el Mundial, mientras Iker Jiménez arranca temporada en Cuatro desde Ceuta con fuerte seguimiento y 'Grand Prix' marca mínimo en semifinal",
+  "alertas": {
+    "estrenos": [
+      {
+        "titular": "'Horizonte' vuelve fuerte en Cuatro desde Ceuta",
+        "cadena": "Cuatro",
+        "detalle": "Nueva temporada de 'Horizonte' arranca con Iker Jiménez en Ceuta cubriendo la crisis migratoria, obtiene buenos resultados de audiencia",
+        "fuente": "Fórmula TV / 20minutos",
+        "url": "https://www.formulatv.com/noticias/audiencias-lunes-31-agosto-horizonte-grand-prix-138117/"
+      },
+      {
+        "titular": "'El Hormiguero' confirma la fecha de estreno de su nueva temporada en Antena 3",
+        "cadena": "Antena 3",
+        "detalle": "El programa de Pablo Motos vuelve con su 21ª temporada, fecha de estreno confirmada",
+        "fuente": "20minutos",
+        "url": "https://www.20minutos.es/television/hormiguero-confirma-fecha-estreno-su-nueva-temporada-antena-3_7031215_0.html"
+      },
+      {
+        "titular": "'La Revuelta' ya tiene fecha de regreso",
+        "cadena": "La 1",
+        "detalle": "El programa regresa con fecha confirmada tratando de distraer de los escándalos del Gobierno",
+        "fuente": "20minutos",
+        "url": "https://www.20minutos.es/television/revuelta-ya-tiene-fecha-regreso-hara-tratando-distraernos-los-escandalos-gobierno_7031116_0.html"
+      },
+      {
+        "titular": "El nuevo programa de Cristina Pardo que llega tras 'El Hormiguero': 'La Mesa'",
+        "cadena": "Antena 3",
+        "detalle": "Nuevo programa 'La Mesa' conducido por Cristina Pardo se estrena tras 'El Hormiguero'",
+        "fuente": "20minutos",
+        "url": "https://www.20minutos.es/television/nuevo-programa-cristina-pardo-que-llega-tras-hormiguero-mesa-es-como-coche-fantastico-no-le-faltan-prestaciones_7031090_0.html"
+      },
+      {
+        "titular": "'¡Ahora caigo!' regresa a Antena 3 con Arturo Valls cinco años después de su final",
+        "cadena": "Antena 3",
+        "detalle": "El concurso con trampillas volverá en un nuevo horario con cuatro programas especiales tras cinco años fuera de antena",
+        "fuente": "20minutos",
+        "url": "https://www.20minutos.es/television/ahora-caigo-regresa-antena-3-con-arturo-valls-cinco-anos-despues-su-final_7031186_0.html"
+      },
+      {
+        "titular": "Gonzo regresa con un especial de 'Salvados' sobre Rita Barberá",
+        "cadena": "laSexta",
+        "detalle": "Especial de 'Salvados' hará el retrato definitivo de la controvertida Rita Barberá",
+        "fuente": "20minutos",
+        "url": "https://www.20minutos.es/television/gonzo-regresa-con-un-especial-salvados-que-hara-retrato-definitivo-controvertida-rita-barbera_7031348_0.html"
+      },
+      {
+        "titular": "Federico Jiménez Losantos se estrena como nuevo colaborador en 'El programa de Ana Rosa'",
+        "cadena": "Telecinco",
+        "detalle": "El presidente de 'Libertad Digital' debuta como colaborador comentando la situación en Ceuta",
+        "fuente": "20minutos",
+        "url": "https://www.20minutos.es/television/federico-jimenez-losantos-se-estrena-como-nuevo-colaborador-programa-ana-rosa_7031460_0.html"
+      }
+    ],
+    "deportes": [],
+    "especiales": [
+      {
+        "titular": "Iker Jiménez arranca la nueva temporada de 'Horizonte' desde Ceuta: crisis migratoria",
+        "cadena": "Cuatro",
+        "detalle": "Programa especial desde Ceuta cubriendo la crisis migratoria en la playa de El Trampolín con más de 3.000 personas acampadas",
+        "fuente": "20minutos / Fórmula TV",
+        "url": "https://www.20minutos.es/television/iker-jimenez-arranca-nueva-temporada-horizonte-desde-ceuta-es-inconcebible_7031251_0.html"
+      },
+      {
+        "titular": "Susanna Griso, desde la playa de El Trampolín: crisis en Ceuta",
+        "cadena": "Antena 3",
+        "detalle": "Cobertura especial desde Ceuta de la crisis migratoria, con pérdidas que ascienden a 33 millones de euros desde el 30 de julio",
+        "fuente": "20minutos",
+        "url": "https://www.20minutos.es/television/susanna-griso-desde-playa-trampolin-es-imagen-vergueenza-esto-no-es-propio-primer-mundo_7031013_0.html"
+      },
+      {
+        "titular": "'Grand Prix' ya conoce a sus finalistas tras semifinal entre Altura y Quintanar del Rey",
+        "cadena": "La 1",
+        "detalle": "La gran final queda confirmada para el miércoles 2 de septiembre tras la última semifinal",
+        "fuente": "20minutos",
+        "url": "https://www.20minutos.es/television/grand-prix-ya-conoce-sus-finalistas-tras-ultimo-enfrentamiento-entre-altura-quintanar-rey_7031256_0.html"
+      },
+      {
+        "titular": "Ana Rosa Quintana celebra la emisión del programa 5.000 de 'El programa de AR'",
+        "cadena": "Telecinco",
+        "detalle": "El matinal de Telecinco alcanza la emisión número 5.000, hito celebrado por la presentadora",
+        "fuente": "20minutos",
+        "url": "https://www.20minutos.es/television/ana-rosa-quintana-celebra-emision-programa-5-000-programa-ar-gracias-por-acompanarnos_7031518_0.html"
+      }
+    ],
+    "entrevistas": [],
+    "parrilla": [
+      {
+        "titular": "Antena 3 recupera el liderazgo de las audiencias en agosto tras la excepción del Mundial en La 1 de julio",
+        "cadena": "Antena 3",
+        "detalle": "Antena 3 vuelve a liderar tras el mes de julio dominado por La 1 gracias al Mundial",
+        "fuente": "20minutos / DOS30",
+        "url": "https://www.20minutos.es/television/antena-3-recupera-liderazgo-las-audiencias-tras-excepcion-mundial-1_7031039_0.html"
+      },
+      {
+        "titular": "Los informativos de RTVE estrenan nueva imagen para apostar por la identidad común",
+        "cadena": "La 1",
+        "detalle": "La televisión pública renueva la imagen de sus Telediarios apostando por dinamismo y nuevas tecnologías",
+        "fuente": "20minutos",
+        "url": "https://www.20minutos.es/television/los-informativos-rtve-estrenan-nueva-imagen-para-apostar-por-identidad-comun-sus-telediarios_7031025_0.html"
+      }
+    ],
+    "records": [
+      {
+        "titular": "'Grand Prix' anota mínimo en su segunda semifinal",
+        "cadena": "La 1",
+        "detalle": "El programa marca mínimo de audiencia en la semifinal entre Altura y Quintanar del Rey",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-lunes-31-agosto-horizonte-grand-prix-138117/"
+      },
+      {
+        "titular": "ANTENA 3 NOTICIAS 1 FIN DE SEMANA es lo más visto del 30 de agosto con 1.641.000 espectadores y 19,6%",
+        "cadena": "Antena 3",
+        "detalle": "Lidera el día con 1.641.000 espectadores y 19,6% de cuota, siendo el programa más visto",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-30-de-agosto-2026/"
+      }
+    ]
+  }
+}
