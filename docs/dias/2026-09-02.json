@@ -1,0 +1,94 @@
+{
+  "fecha": "2026-09-02",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "Antena 3 recupera el liderazgo tras el Mundial; Telecinco apuesta por realitys 5 días/semana; regreso fuerte de 'Horizonte' con crisis de Ceuta; desgaste de 'Grand Prix' en semifinales",
+  "alertas": {
+    "estrenos": [
+      {
+        "titular": "Gonzo regresa con un especial de 'Salvados' que hará el retrato definitivo de la controvertida Rita Barberá",
+        "cadena": "laSexta",
+        "detalle": "Regreso de Salvados con especial sobre Rita Barberá",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/gonzo-regresa-con-un-especial-salvados-que-hara-retrato-definitivo-controvertida-rita-barbera_7031348_0.html"
+      },
+      {
+        "titular": "Todo al 'reality': Telecinco irá cinco días a la semana con 'Supervivientes' y 'La isla de las tentaciones', que ya tienen fecha de estreno",
+        "cadena": "Telecinco",
+        "detalle": "Telecinco programa realitys 5 días/semana con fechas confirmadas",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/todo-reality-telecinco-ira-cinco-dias-semana-con-supervivientes-isla-las-tentaciones-que-ya-tienen-fecha-estreno_7031457_0.html"
+      },
+      {
+        "titular": "Federico Jiménez Losantos se estrena como nuevo colaborador en 'El programa de Ana Rosa'",
+        "cadena": "Telecinco",
+        "detalle": "Debut de Federico Jiménez Losantos como colaborador en programa matinal",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/federico-jimenez-losantos-se-estrena-como-nuevo-colaborador-programa-ana-rosa_7031460_0.html"
+      }
+    ],
+    "deportes": [],
+    "especiales": [
+      {
+        "titular": "'Código 10' desvela que el Gobierno recibió avisos el 28 y 29 de julio del riesgo de asalto a la frontera en Ceuta",
+        "cadena": "Cuatro",
+        "detalle": "Programa especial sobre crisis migratoria en Ceuta con documentación inédita",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/codigo-10-desvela-aviso-que-recibio-gobierno-dias-antes-30-julio-ceuta-entraran-miles-migrantes_7031754_0.html"
+      },
+      {
+        "titular": "'Horizonte' vuelve fuerte en Cuatro y el 'Grand Prix' anota mínimo en su segunda semifinal",
+        "cadena": "Cuatro",
+        "detalle": "Regreso destacado de Horizonte cubriendo crisis de Ceuta",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-lunes-31-agosto-horizonte-grand-prix-138117/"
+      },
+      {
+        "titular": "'Horizonte' y 'Código 10' lideran la noche y Cuatro se acerca a Telecinco en el martes",
+        "cadena": "Cuatro",
+        "detalle": "Programas especiales sobre Ceuta dominan audiencia nocturna",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-martes-1-septiembre-horizonte-codigo-10-138128/"
+      }
+    ],
+    "entrevistas": [],
+    "parrilla": [
+      {
+        "titular": "Antena 3 recupera el liderazgo de las audiencias en agosto tras la excepción del Mundial en La 1 de julio",
+        "cadena": "Antena 3",
+        "detalle": "Antena 3 vuelve a liderar tras el impacto del Mundial en La 1",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/antena-3-recupera-liderazgo-las-audiencias-tras-excepcion-mundial-1_7031039_0.html"
+      },
+      {
+        "titular": "Por qué se desgasta la audiencia de 'El Grand Prix' (justo cuando debería crecer)",
+        "cadena": "La 1",
+        "detalle": "Desgaste de audiencia de Grand Prix en fase de semifinales",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/por-que-se-desgasta-audiencia-grand-prix_7031339_3.html"
+      }
+    ],
+    "records": [
+      {
+        "titular": "Ana Rosa Quintana celebra la emisión del programa 5.000 de 'El programa de AR'",
+        "cadena": "Telecinco",
+        "detalle": "Hito histórico: programa 5.000 del matinal de Ana Rosa",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/ana-rosa-quintana-celebra-emision-programa-5-000-programa-ar-gracias-por-acompanarnos_7031518_0.html"
+      },
+      {
+        "titular": "'Horizonte' y 'Código 10' lideran la noche y Cuatro se acerca a Telecinco",
+        "cadena": "Cuatro",
+        "detalle": "Cuatro alcanza niveles de audiencia cercanos a Telecinco con programas de Ceuta",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-martes-1-septiembre-horizonte-codigo-10-138128/"
+      },
+      {
+        "titular": "'Grand Prix' anota mínimo en su segunda semifinal",
+        "cadena": "La 1",
+        "detalle": "Mínimo histórico de audiencia en semifinales de Grand Prix",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-lunes-31-agosto-horizonte-grand-prix-138117/"
+      }
+    ]
+  }
+}
