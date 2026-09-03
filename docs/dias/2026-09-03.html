@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang='es'>
+<head>
+<meta charset='UTF-8'>
+<meta name='viewport' content='width=device-width, initial-scale=1.0'>
+<title>TV Alertas — Jueves 3 de septiembre de 2026</title>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=DM+Sans:wght@300;400;500;600&display=swap');
+
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+:root {
+  --bg: #0a0a0b;
+  --bg2: #111113;
+  --bg3: #1a1a1d;
+  --border: #2a2a2e;
+  --text: #e8e8ec;
+  --text-muted: #6b6b78;
+  --accent: #e8c547;
+}
+
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: 'DM Sans', sans-serif;
+  font-size: 15px;
+  line-height: 1.6;
+  min-height: 100vh;
+}
+
+.site-header {
+  border-bottom: 1px solid var(--border);
+  padding: 20px 32px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  position: sticky;
+  top: 0;
+  background: rgba(10,10,11,0.95);
+  backdrop-filter: blur(8px);
+  z-index: 100;
+}
+
+.site-title {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 24px;
+  letter-spacing: 2px;
+  color: var(--accent);
+}
+
+.site-subtitle {
+  font-size: 12px;
+  color: var(--text-muted);
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+
+.nav-link {
+  color: var(--text-muted);
+  text-decoration: none;
+  font-size: 13px;
+  letter-spacing: 0.5px;
+  transition: color 0.2s;
+}
+.nav-link:hover { color: var(--accent); }
+
+main { max-width: 900px; margin: 0 auto; padding: 40px 24px; }
+
+.fecha-display {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 48px;
+  letter-spacing: 3px;
+  color: var(--text);
+  margin-bottom: 4px;
+}
+
+.resumen-ejecutivo {
+  font-size: 16px;
+  color: var(--text-muted);
+  margin-bottom: 40px;
+  padding-left: 16px;
+  border-left: 3px solid var(--accent);
+}
+
+.sin-alertas {
+  text-align: center;
+  padding: 80px 24px;
+  color: var(--text-muted);
+}
+
+.sin-alertas .icon { font-size: 48px; margin-bottom: 16px; }
+.sin-alertas h2 { font-family: 'Bebas Neue', sans-serif; font-size: 28px; letter-spacing: 2px; margin-bottom: 8px; color: var(--text); }
+
+.categoria-bloque { margin-bottom: 40px; }
+
+.categoria-header {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 16px;
+  padding-bottom: 8px;
+  border-bottom: 1px solid var(--border);
+}
+
+.categoria-icon { font-size: 20px; }
+
+.categoria-label {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 20px;
+  letter-spacing: 2px;
+}
+
+.categoria-count {
+  font-size: 12px;
+  padding: 2px 8px;
+  border-radius: 12px;
+  background: var(--bg3);
+  color: var(--text-muted);
+  font-weight: 500;
+}
+
+.alerta-card {
+  background: var(--bg2);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 16px 20px;
+  margin-bottom: 10px;
+  border-left: 3px solid transparent;
+  transition: border-color 0.2s, background 0.2s;
+}
+
+.alerta-card:hover { background: var(--bg3); }
+
+.alerta-titular {
+  font-weight: 600;
+  font-size: 15px;
+  margin-bottom: 4px;
+  color: var(--text);
+}
+
+.alerta-detalle {
+  font-size: 13px;
+  color: var(--text-muted);
+  margin-bottom: 6px;
+}
+
+.alerta-meta {
+  display: flex;
+  gap: 12px;
+  font-size: 12px;
+}
+
+.badge-cadena {
+  background: var(--bg3);
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  padding: 1px 7px;
+  color: var(--text-muted);
+}
+
+.badge-fuente { color: var(--text-muted); font-style: italic; }
+
+.alerta-link {
+  color: var(--text);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: border-color 0.2s, color 0.2s;
+}
+.alerta-link:hover { color: var(--accent); border-bottom-color: var(--accent); }
+
+.historico-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 12px;
+  margin-top: 24px;
+}
+
+.dia-card {
+  background: var(--bg2);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 16px;
+  text-decoration: none;
+  display: block;
+  transition: border-color 0.2s, background 0.2s;
+}
+
+.dia-card:hover { background: var(--bg3); border-color: var(--accent); }
+
+.dia-fecha {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 18px;
+  letter-spacing: 1px;
+  color: var(--text);
+  margin-bottom: 4px;
+}
+
+.dia-alertas { font-size: 12px; color: var(--text-muted); }
+
+.dia-dot {
+  display: inline-block;
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: var(--accent);
+  margin-right: 6px;
+  vertical-align: middle;
+}
+
+.dia-sin-alertas .dia-dot { background: var(--border); }
+
+footer {
+  border-top: 1px solid var(--border);
+  padding: 20px 32px;
+  text-align: center;
+  font-size: 12px;
+  color: var(--text-muted);
+  letter-spacing: 0.5px;
+}
+</style>
+</head>
+<body>
+<header class="site-header"><div><div class="site-title">TV ALERTAS</div><div class="site-subtitle">Monitor de televisión española</div></div><a href="../index.html" class="nav-link">← Histórico</a></header>
+<main>
+<div class="fecha-display">JUEVES 3 DE SEPTIEMBRE DE 2026</div>
+<div class="resumen-ejecutivo">Estreno de 'La Mesa' con Cristina Pardo lidera en Antena 3 frente a la final de 'Grand Prix' en La 1; estrenos confirmados de 'Rueda la letra' en Telecinco y regreso de 'El perro andaluz' y 'Hasta el fin del mundo' en RTVE</div>
+<div class="categoria-bloque"><div class="categoria-header"><span class="categoria-icon">🎬</span><span class="categoria-label" style="color:#e8c547">Estrenos</span><span class="categoria-count">5</span></div><div class="alerta-card" style="border-left-color:#e8c547"><div class="alerta-titular"><a href="https://www.formulatv.com/noticias/audiencias-miercoles-2-septiembre-estreno-la-mesa-138137/" target="_blank" rel="noopener" class="alerta-link">El estreno de 'La Mesa' en Antena 3 lidera frente a la final del 'Grand Prix' en La 1</a></div><div class='alerta-detalle'>Debut del nuevo programa de Cristina Pardo que consigue liderar su franja</div><div class="alerta-meta"><span class='badge-cadena'>Antena 3</span><span class='badge-fuente'>Fórmula TV</span></div></div><div class="alerta-card" style="border-left-color:#e8c547"><div class="alerta-titular"><a href="https://www.20minutos.es/television/rueda-letra-arranca-telecinco-con-dos-veteranos-concursantes-pasapalabra-fran-gonzalez-lilit-cazador_7032140_0.html" target="_blank" rel="noopener" class="alerta-link">'Rueda la letra' arranca en Telecinco con dos veteranos concursantes de 'Pasapalabra': Fran González y Lilit</a></div><div class='alerta-detalle'>Nuevo concurso que se estrena el lunes 7 de septiembre a las 19:00 horas, esquivando a 'Pasapalabra'</div><div class="alerta-meta"><span class='badge-cadena'>Telecinco</span><span class='badge-fuente'>20minutos TV</span></div></div><div class="alerta-card" style="border-left-color:#e8c547"><div class="alerta-titular"><a href="https://www.20minutos.es/television/perro-andaluz-regresa-1-con-una-segunda-temporada-que-habra-nuevas-secciones-nuevo-colaborador_7032120_0.html" target="_blank" rel="noopener" class="alerta-link">'El perro andaluz' regresa a La 1 con una segunda temporada en la que habrá nuevas secciones y nuevo colaborador</a></div><div class='alerta-detalle'>Manu Sánchez retoma su programa este jueves en prime time con novedades</div><div class="alerta-meta"><span class='badge-cadena'>La 1</span><span class='badge-fuente'>20minutos TV</span></div></div><div class="alerta-card" style="border-left-color:#e8c547"><div class="alerta-titular"><a href="https://www.20minutos.es/television/rtve-muestra-primer-avance-segunda-temporada-hasta-fin-mundo_7032413_0.html" target="_blank" rel="noopener" class="alerta-link">RTVE muestra el primer avance de la segunda temporada de 'Hasta el fin del mundo'</a></div><div class='alerta-detalle'>Nueva edición del reality presentado por Paula Vázquez con concursantes confirmados</div><div class="alerta-meta"><span class='badge-cadena'>La 1</span><span class='badge-fuente'>20minutos TV</span></div></div><div class="alerta-card" style="border-left-color:#e8c547"><div class="alerta-titular"><a href="https://www.20minutos.es/television/isla-las-tentaciones-11-confirma-sus-parejas-entre-las-que-se-encuentra-nacho-borbon-primo-rey-felipe-vi-su-novia_7032099_0.html" target="_blank" rel="noopener" class="alerta-link">'La isla de las tentaciones 11' confirma sus parejas, entre las que se encuentra Nacho de Borbón, primo del rey Felipe VI</a></div><div class='alerta-detalle'>Nueva edición del reality con la participación del finalista de 'Supervivientes 2022' y su novia Náyades</div><div class="alerta-meta"><span class='badge-cadena'>Telecinco</span><span class='badge-fuente'>20minutos TV</span></div></div></div><div class="categoria-bloque"><div class="categoria-header"><span class="categoria-icon">⭐</span><span class="categoria-label" style="color:#e847a3">Especiales / Galas</span><span class="categoria-count">2</span></div><div class="alerta-card" style="border-left-color:#e847a3"><div class="alerta-titular"><a href="https://www.20minutos.es/television/grand-prix-ya-tiene-ganador-tras-un-empate-historico-que-deja-ramon-garcia-sin-palabras-es-practicamente-imposible_7032231_0.html" target="_blank" rel="noopener" class="alerta-link">'Grand Prix' ya tiene ganador tras un empate histórico que deja a Ramón García sin palabras: 'Es prácticamente imposible'</a></div><div class='alerta-detalle'>Gala final del concurso veraniego de RTVE con un empate histórico en una de las pruebas</div><div class="alerta-meta"><span class='badge-cadena'>La 1</span><span class='badge-fuente'>20minutos TV</span></div></div><div class="alerta-card" style="border-left-color:#e847a3"><div class="alerta-titular"><a href="https://www.20minutos.es/television/tension-maxima-para-un-reportero-horizonte-manifestacion-por-ceuta-he-sufrido-por-mi-companero_7032228_0.html" target="_blank" rel="noopener" class="alerta-link">Tensión máxima para un reportero de 'Horizonte' en la manifestación por Ceuta: 'He sufrido por mi compañero'</a></div><div class='alerta-detalle'>Cobertura especial de las cargas policiales en la manifestación sobre la crisis de Ceuta</div><div class="alerta-meta"><span class='badge-cadena'>Cuatro</span><span class='badge-fuente'>20minutos TV</span></div></div></div><div class="categoria-bloque"><div class="categoria-header"><span class="categoria-icon">🎙️</span><span class="categoria-label" style="color:#a347e8">Entrevistas</span><span class="categoria-count">2</span></div><div class="alerta-card" style="border-left-color:#a347e8"><div class="alerta-titular"><a href="https://www.20minutos.es/television/inma-moral-vuelve-television-casi-tres-decadas-despues-trabajando-una-farmacia-yo-no-he-dejado-nada_7032246_0.html" target="_blank" rel="noopener" class="alerta-link">Inma del Moral reaparece en televisión casi tres décadas después y revela que trabaja en una farmacia</a></div><div class='alerta-detalle'>La actriz estrella de los 90 reaparece en 'La Mesa' junto a Cristina Pardo</div><div class="alerta-meta"><span class='badge-cadena'>Antena 3</span><span class='badge-fuente'>20minutos TV</span></div></div><div class="alerta-card" style="border-left-color:#a347e8"><div class="alerta-titular"><a href="https://www.20minutos.es/television/jose-luis-martinez-almeida-llama-directo-susanna-griso-hay-alcaldes-socialistas-contra-las-ordenes-psoe_7031986_0.html" target="_blank" rel="noopener" class="alerta-link">José Luis Martínez-Almeida llama en directo a Susanna Griso: 'Hay alcaldes socialistas en contra de las órdenes del PSOE'</a></div><div class='alerta-detalle'>El alcalde de Madrid interviene en 'Espejo Público' sobre la crisis de Ceuta</div><div class="alerta-meta"><span class='badge-cadena'>Antena 3</span><span class='badge-fuente'>20minutos TV</span></div></div></div><div class="categoria-bloque"><div class="categoria-header"><span class="categoria-icon">📋</span><span class="categoria-label" style="color:#e87347">Cambios de parrilla</span><span class="categoria-count">2</span></div><div class="alerta-card" style="border-left-color:#e87347"><div class="alerta-titular"><a href="https://www.20minutos.es/television/noor-ben-yessef-las-mananas-antena-3-ficha-por-septima-para-tener-un-programa-propio-prime-time_7032067_0.html" target="_blank" rel="noopener" class="alerta-link">Noor Ben Yessef, de las mañanas de Antena 3, ficha por La Séptima para tener un programa propio en 'prime time'</a></div><div class='alerta-detalle'>La colaboradora abandona las mañanas de Antena 3 para liderar un programa en prime time en La Séptima</div><div class="alerta-meta"><span class='badge-cadena'>Antena 3</span><span class='badge-fuente'>20minutos TV</span></div></div><div class="alerta-card" style="border-left-color:#e87347"><div class="alerta-titular"><a href="https://www.20minutos.es/television/david-broncano-sobre-su-futuro-tve-segun-que-suceda-las-elecciones-me-podria-reemplazar-morante-puebla_7032315_0.html" target="_blank" rel="noopener" class="alerta-link">Broncano, sobre su futuro en TVE: 'No nos engañemos, sabemos lo que podría pasar'</a></div><div class='alerta-detalle'>El presentador de 'La Revuelta' bromea con que el próximo mes de septiembre podría no estar en la cadena pública</div><div class="alerta-meta"><span class='badge-cadena'>La 1</span><span class='badge-fuente'>20minutos TV</span></div></div></div><div class="categoria-bloque"><div class="categoria-header"><span class="categoria-icon">📊</span><span class="categoria-label" style="color:#47e87e">Récords</span><span class="categoria-count">1</span></div><div class="alerta-card" style="border-left-color:#47e87e"><div class="alerta-titular"><a href="https://www.formulatv.com/noticias/audiencias-martes-1-septiembre-horizonte-codigo-10-138128/" target="_blank" rel="noopener" class="alerta-link">'Horizonte' y 'Código 10' lideran la noche y Cuatro se acerca a Telecinco en el martes</a></div><div class='alerta-detalle'>Cuatro consigue acercarse a Telecinco en audiencia gracias al tirón de sus programas de actualidad</div><div class="alerta-meta"><span class='badge-cadena'>Cuatro</span><span class='badge-fuente'>Fórmula TV</span></div></div></div>
+</main>
+<footer>Generado automáticamente · Fuentes: Barlovento, Fórmula TV, Vertele, DOS30</footer>
+</body>
+</html>

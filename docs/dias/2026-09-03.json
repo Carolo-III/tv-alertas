@@ -1,0 +1,102 @@
+{
+  "fecha": "2026-09-03",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "Estreno de 'La Mesa' con Cristina Pardo lidera en Antena 3 frente a la final de 'Grand Prix' en La 1; estrenos confirmados de 'Rueda la letra' en Telecinco y regreso de 'El perro andaluz' y 'Hasta el fin del mundo' en RTVE",
+  "alertas": {
+    "estrenos": [
+      {
+        "titular": "El estreno de 'La Mesa' en Antena 3 lidera frente a la final del 'Grand Prix' en La 1",
+        "cadena": "Antena 3",
+        "detalle": "Debut del nuevo programa de Cristina Pardo que consigue liderar su franja",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-miercoles-2-septiembre-estreno-la-mesa-138137/"
+      },
+      {
+        "titular": "'Rueda la letra' arranca en Telecinco con dos veteranos concursantes de 'Pasapalabra': Fran González y Lilit",
+        "cadena": "Telecinco",
+        "detalle": "Nuevo concurso que se estrena el lunes 7 de septiembre a las 19:00 horas, esquivando a 'Pasapalabra'",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/rueda-letra-arranca-telecinco-con-dos-veteranos-concursantes-pasapalabra-fran-gonzalez-lilit-cazador_7032140_0.html"
+      },
+      {
+        "titular": "'El perro andaluz' regresa a La 1 con una segunda temporada en la que habrá nuevas secciones y nuevo colaborador",
+        "cadena": "La 1",
+        "detalle": "Manu Sánchez retoma su programa este jueves en prime time con novedades",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/perro-andaluz-regresa-1-con-una-segunda-temporada-que-habra-nuevas-secciones-nuevo-colaborador_7032120_0.html"
+      },
+      {
+        "titular": "RTVE muestra el primer avance de la segunda temporada de 'Hasta el fin del mundo'",
+        "cadena": "La 1",
+        "detalle": "Nueva edición del reality presentado por Paula Vázquez con concursantes confirmados",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/rtve-muestra-primer-avance-segunda-temporada-hasta-fin-mundo_7032413_0.html"
+      },
+      {
+        "titular": "'La isla de las tentaciones 11' confirma sus parejas, entre las que se encuentra Nacho de Borbón, primo del rey Felipe VI",
+        "cadena": "Telecinco",
+        "detalle": "Nueva edición del reality con la participación del finalista de 'Supervivientes 2022' y su novia Náyades",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/isla-las-tentaciones-11-confirma-sus-parejas-entre-las-que-se-encuentra-nacho-borbon-primo-rey-felipe-vi-su-novia_7032099_0.html"
+      }
+    ],
+    "deportes": [],
+    "especiales": [
+      {
+        "titular": "'Grand Prix' ya tiene ganador tras un empate histórico que deja a Ramón García sin palabras: 'Es prácticamente imposible'",
+        "cadena": "La 1",
+        "detalle": "Gala final del concurso veraniego de RTVE con un empate histórico en una de las pruebas",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/grand-prix-ya-tiene-ganador-tras-un-empate-historico-que-deja-ramon-garcia-sin-palabras-es-practicamente-imposible_7032231_0.html"
+      },
+      {
+        "titular": "Tensión máxima para un reportero de 'Horizonte' en la manifestación por Ceuta: 'He sufrido por mi compañero'",
+        "cadena": "Cuatro",
+        "detalle": "Cobertura especial de las cargas policiales en la manifestación sobre la crisis de Ceuta",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/tension-maxima-para-un-reportero-horizonte-manifestacion-por-ceuta-he-sufrido-por-mi-companero_7032228_0.html"
+      }
+    ],
+    "entrevistas": [
+      {
+        "titular": "Inma del Moral reaparece en televisión casi tres décadas después y revela que trabaja en una farmacia",
+        "cadena": "Antena 3",
+        "detalle": "La actriz estrella de los 90 reaparece en 'La Mesa' junto a Cristina Pardo",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/inma-moral-vuelve-television-casi-tres-decadas-despues-trabajando-una-farmacia-yo-no-he-dejado-nada_7032246_0.html"
+      },
+      {
+        "titular": "José Luis Martínez-Almeida llama en directo a Susanna Griso: 'Hay alcaldes socialistas en contra de las órdenes del PSOE'",
+        "cadena": "Antena 3",
+        "detalle": "El alcalde de Madrid interviene en 'Espejo Público' sobre la crisis de Ceuta",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/jose-luis-martinez-almeida-llama-directo-susanna-griso-hay-alcaldes-socialistas-contra-las-ordenes-psoe_7031986_0.html"
+      }
+    ],
+    "parrilla": [
+      {
+        "titular": "Noor Ben Yessef, de las mañanas de Antena 3, ficha por La Séptima para tener un programa propio en 'prime time'",
+        "cadena": "Antena 3",
+        "detalle": "La colaboradora abandona las mañanas de Antena 3 para liderar un programa en prime time en La Séptima",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/noor-ben-yessef-las-mananas-antena-3-ficha-por-septima-para-tener-un-programa-propio-prime-time_7032067_0.html"
+      },
+      {
+        "titular": "Broncano, sobre su futuro en TVE: 'No nos engañemos, sabemos lo que podría pasar'",
+        "cadena": "La 1",
+        "detalle": "El presentador de 'La Revuelta' bromea con que el próximo mes de septiembre podría no estar en la cadena pública",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/david-broncano-sobre-su-futuro-tve-segun-que-suceda-las-elecciones-me-podria-reemplazar-morante-puebla_7032315_0.html"
+      }
+    ],
+    "records": [
+      {
+        "titular": "'Horizonte' y 'Código 10' lideran la noche y Cuatro se acerca a Telecinco en el martes",
+        "cadena": "Cuatro",
+        "detalle": "Cuatro consigue acercarse a Telecinco en audiencia gracias al tirón de sus programas de actualidad",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-martes-1-septiembre-horizonte-codigo-10-138128/"
+      }
+    ]
+  }
+}
