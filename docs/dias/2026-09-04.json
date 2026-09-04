@@ -1,0 +1,101 @@
+{
+  "fecha": "2026-09-04",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "Antena 3 domina audiencias con el estreno exitoso de 'La Mesa' y récord de 'Horizonte'; regresa 'De viernes' con Anabel Pantoja; acuerdo histórico entre Atresmedia y Netflix.",
+  "alertas": {
+    "estrenos": [
+      {
+        "titular": "El estreno de 'La Mesa' en Antena 3 lidera frente a la final del 'Grand Prix' en La 1",
+        "cadena": "Antena 3",
+        "detalle": "Nuevo programa presentado por Cristina Pardo que lidera en su estreno superando a la final del Grand Prix",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-miercoles-2-septiembre-estreno-la-mesa-138137/"
+      },
+      {
+        "titular": "Carlos Sobera arranca 'Rueda la letra': 'Igual el lunes, antes de empezar, le pongo un mensaje a Roberto Leal: ¿Estás acojonado?'",
+        "cadena": "Antena 3",
+        "detalle": "Carlos Sobera estrena nuevo concurso compitiendo directamente con 'Pasapalabra' de Roberto Leal",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/carlos-sobera-arranca-rueda-letra-igual-lunes-antes-empezar-le-pongo-un-mensaje-roberto-leal-estas-acojonado_7032571_0.html"
+      },
+      {
+        "titular": "RTVE muestra el primer avance de la segunda temporada de 'Hasta el fin del mundo'",
+        "cadena": "La 1",
+        "detalle": "Segunda temporada del reality presentado por Paula Vázquez con nuevo enfoque en estrategias de juego",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/rtve-muestra-primer-avance-segunda-temporada-hasta-fin-mundo_7032413_0.html"
+      },
+      {
+        "titular": "Anabel Pantoja rompe su silencio en televisión como primera invitada del regreso de 'De viernes'",
+        "cadena": "Telecinco",
+        "detalle": "Regreso de 'De viernes' el 4 de septiembre con Anabel Pantoja como primera invitada estelar",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/anabel-pantoja-rompe-su-silencio-television-como-primera-invitada-regreso-viernes-tengo-derecho-sentarme_7032597_0.html"
+      }
+    ],
+    "deportes": [],
+    "especiales": [
+      {
+        "titular": "Ramón García despide el verano tras la final del 'Grand Prix'",
+        "cadena": "La 1",
+        "detalle": "Final del Grand Prix del verano enfrentándose al estreno de 'La Mesa' en Antena 3",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/ramon-garcia-despide-verano-tras-final-grand-prix-programa-es-vuestro-no-nuestro_7032232_0.html"
+      }
+    ],
+    "entrevistas": [],
+    "parrilla": [
+      {
+        "titular": "'El Hormiguero', 'El Intermedio', 'Sueños de libertad', 'Pasapalabra' y 'Equipo de investigación' podrán verse en Netflix",
+        "cadena": "Antena 3",
+        "detalle": "Acuerdo histórico entre Atresmedia y Netflix para distribuir sus programas más exitosos en streaming",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/hormiguero-intermedio-suenos-libertad-pasapalabra-equipo-investigacion-podran-verse-netflix_7032918_0.html"
+      },
+      {
+        "titular": "Carlos Latre regresa a Antena 3 de manos de 'El Hormiguero', que trae una histórica novedad respecto a Trancas y Barrancas",
+        "cadena": "Antena 3",
+        "detalle": "Regreso de Carlos Latre a Antena 3 con novedad histórica en El Hormiguero",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/carlos-latre-regresa-antena-3-manos-hormiguero-que-trae-una-historica-novedad-respecto-trancas-barrancas_7032795_0.html"
+      },
+      {
+        "titular": "Belén Esteban estaría negociando un contrato con Mediaset que incluiría participar en 'GH VIP', 'De viernes' y otros programas",
+        "cadena": "Telecinco",
+        "detalle": "Posible regreso de Belén Esteban a Mediaset con participación en múltiples programas estrella",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/belen-esteban-estaria-negociando-un-contrato-con-mediaset-que-incluiria-participar-gh-vip-viernes-otros-programas_7032928_0.html"
+      },
+      {
+        "titular": "Cristina Pedroche renueva su contrato con Atresmedia para afrontar nuevos proyectos dentro del grupo",
+        "cadena": "Antena 3",
+        "detalle": "Renovación de contrato de Cristina Pedroche tras 16 años vinculada a Atresmedia",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/cristina-pedroche-renueva-su-contrato-con-atresmedia-para-afrontar-nuevos-proyectos-dentro-grupo_7032573_0.html"
+      }
+    ],
+    "records": [
+      {
+        "titular": "'Horizonte' lidera la noche con récord y Cuatro supera a Telecinco en el día",
+        "cadena": "Cuatro",
+        "detalle": "Récord de audiencia para 'Horizonte' y Cuatro supera a Telecinco en audiencia diaria",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-jueves-3-septiembre-horizonte-record-138146/"
+      },
+      {
+        "titular": "ANTENA 3 NOTICIAS 1 es lo más visto con 2.058.000 espectadores y 23,3% de cuota",
+        "cadena": "Antena 3",
+        "detalle": "Antena 3 lidera como cadena más vista del día con 12,7% de cuota (2 de septiembre)",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-02-de-septiembre-2026/"
+      },
+      {
+        "titular": "ANTENA 3 NOTICIAS 1 es lo más visto con 1.996.000 espectadores y 22,4% de cuota",
+        "cadena": "Antena 3",
+        "detalle": "Antena 3 mantiene liderazgo como cadena más vista del día con 12,7% de cuota (3 de septiembre)",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-03-de-septiembre-2026/"
+      }
+    ]
+  }
+}
