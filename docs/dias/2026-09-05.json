@@ -1,0 +1,109 @@
+{
+  "fecha": "2026-09-05",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "Antena 3 estrena 'Una fiesta de muerte 2', Telecinco regresa con 'De Viernes' liderando y lanza 'Rueda la letra', y 'Horizonte' consigue récord de audiencia",
+  "alertas": {
+    "estrenos": [
+      {
+        "titular": "Antena 3 estrena este sábado la segunda entrega de 'Una fiesta de muerte', con famosos tratando de desentrañar un 'asesinato'",
+        "cadena": "Antena 3",
+        "detalle": "Estreno de la segunda temporada del formato de entretenimiento este sábado",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/antena-3-estrena-este-sabado-segunda-entrega-una-fiesta-muerte-con-famosos-tratando-desentranar-un-asesinato_7033032_0.html"
+      },
+      {
+        "titular": "Carlos Sobera arranca 'Rueda la letra': 'Igual el lunes, antes de empezar, le pongo un mensaje a Roberto Leal: ¿Estás acojonado?'",
+        "cadena": "Telecinco",
+        "detalle": "Estreno del nuevo formato de rosco presentado por Carlos Sobera, competencia directa de 'Pasapalabra'",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/carlos-sobera-arranca-rueda-letra-igual-lunes-antes-empezar-le-pongo-un-mensaje-roberto-leal-estas-acojonado_7032571_0.html"
+      },
+      {
+        "titular": "Sandra Barneda, ante el estreno de 'LIDLT 11': 'Hay carreras e incluso algún placaje... me da mucha pena, yo también correría'",
+        "cadena": "Telecinco",
+        "detalle": "Estreno de la undécima edición del reality 'La Isla de las Tentaciones'",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/sandra-barneda-ante-estreno-lidlt-11-hay-carreras-incluso-algun-placaje-me-da-mucha-pena-yo-tambien-correria_7032983_0.html"
+      },
+      {
+        "titular": "Gonzo vuelve con un 'Salvados' sobre Rita Barberá: 'Su historia representa cómo es la política y el final de una época'",
+        "cadena": "laSexta",
+        "detalle": "Regreso de 'Salvados' con programa especial sobre Rita Barberá",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/gonzo-vuelve-con-un-salvados-sobre-rita-barbera-su-historia-representa-como-es-politica-final-una-epoca_7032961_0.html"
+      },
+      {
+        "titular": "'El Hormiguero', 'El Intermedio', 'Sueños de libertad', 'Pasapalabra' y 'Equipo de investigación' podrán verse en Netflix",
+        "cadena": "Antena 3",
+        "detalle": "Acuerdo estratégico para ofrecer programas de Antena 3 en streaming tras emisión",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/hormiguero-intermedio-suenos-libertad-pasapalabra-equipo-investigacion-podran-netflix_7032918_0.html"
+      }
+    ],
+    "deportes": [],
+    "especiales": [
+      {
+        "titular": "'Premios Juventud' culmina su primera edición europea en Marbella con más de 1,5 millones de alcance en TVE",
+        "cadena": "La 1",
+        "detalle": "Primera edición europea del evento retransmitida por TVE desde Starlite Marbella",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/premios-juventud-culmina-su-primera-edicion-europea-marbella-con-mas-1-5-millones-alcance-tve_7032944_0.html"
+      }
+    ],
+    "entrevistas": [
+      {
+        "titular": "Ana Rosa Quintana anuncia la visita de Santiago Abascal a 'El programa de Ana Rosa'",
+        "cadena": "Telecinco",
+        "detalle": "El líder de Vox acudirá al matinal para comentar la crisis migratoria de Ceuta",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/ana-rosa-quintana-anuncia-visita-santiago-abascal-programa-ana-rosa_7032957_0.html"
+      },
+      {
+        "titular": "Anabel Pantoja rompe su silencio tras meses alejada de la televisión: 'Hace mucho tiempo que no soy yo'",
+        "cadena": "Telecinco",
+        "detalle": "Regreso televisivo de Anabel Pantoja tras su alejamiento de los medios",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/anabel-pantoja-rompe-su-silencio-tras-meses-alejada-television-hace-mucho-tiempo-que-no-soy-yo_7033136_0.html"
+      }
+    ],
+    "parrilla": [
+      {
+        "titular": "La táctica de Telecinco con 'Rueda la letra': el retorno del rosco como arma",
+        "cadena": "Telecinco",
+        "detalle": "Movimiento estratégico de Telecinco para competir con 'Pasapalabra' en el access prime time",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/tactica-telecinco-con-rueda-letra-retorno-rosco-como-arma_7032763_3.html"
+      },
+      {
+        "titular": "Belén Esteban estaría negociando un contrato con Mediaset que incluiría participar en 'GH VIP', 'De viernes' y otros programas",
+        "cadena": "Telecinco",
+        "detalle": "Posible fichaje de Belén Esteban por Mediaset para múltiples programas",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/belen-esteban-estaria-negociando-un-contrato-con-mediaset-que-incluiria-participar-gh-vip-viernes-otros-programas_7032928_0.html"
+      },
+      {
+        "titular": "Carlos Latre regresa a Antena 3 de manos de 'El Hormiguero', que trae una histórica novedad respecto a Trancas y Barrancas",
+        "cadena": "Antena 3",
+        "detalle": "Regreso de Carlos Latre a Antena 3 con novedad histórica en 'El Hormiguero'",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/carlos-latre-regresa-antena-3-manos-hormiguero-que-trae-una-historica-novedad-respecto-trancas-barrancas_7032795_0.html"
+      }
+    ],
+    "records": [
+      {
+        "titular": "'¡De Viernes!' lidera en su regreso con un 11% con la visita de Anabel Pantoja",
+        "cadena": "Telecinco",
+        "detalle": "Liderazgo en la noche del viernes 4 de septiembre con 11% de cuota",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-viernes-4-septiembre-de-viernes-anabel-138152/"
+      },
+      {
+        "titular": "'Horizonte' lidera la noche con récord y Cuatro supera a Telecinco en el día",
+        "cadena": "Cuatro",
+        "detalle": "Récord de audiencia de 'Horizonte' y Cuatro consigue superar a Telecinco en el jueves 3 de septiembre",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-jueves-3-septiembre-horizonte-record-138146/"
+      }
+    ]
+  }
+}
