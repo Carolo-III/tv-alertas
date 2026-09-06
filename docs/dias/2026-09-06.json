@@ -1,0 +1,59 @@
+{
+  "fecha": "2026-09-06",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "Regreso destacado de '¡De Viernes!' con Anabel Pantoja (11%), estreno de la segunda entrega de 'Una fiesta de muerte' en Antena 3, y Telecinco apuesta por 'Rueda la letra' como estrategia de remonte.",
+  "alertas": {
+    "estrenos": [
+      {
+        "titular": "Antena 3 estrena este sábado la segunda entrega de 'Una fiesta de muerte', con famosos tratando de desentrañar un 'asesinato'",
+        "cadena": "Antena 3",
+        "detalle": "Segunda entrega del formato de entretenimiento con famosos investigando un asesinato ficticio",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/antena-3-estrena-este-sabado-segunda-entrega-una-fiesta-muerte-con-famosos-tratando-desentranar-un-asesinato_7033032_0.html"
+      }
+    ],
+    "deportes": [],
+    "especiales": [],
+    "entrevistas": [
+      {
+        "titular": "'¡De Viernes!' lidera en su regreso con un 11% con la visita de Anabel Pantoja",
+        "cadena": "Telecinco",
+        "detalle": "Regreso del programa con entrevista destacada a Anabel Pantoja, logrando liderazgo con 11% de share",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-viernes-4-septiembre-de-viernes-anabel-138152/"
+      }
+    ],
+    "parrilla": [
+      {
+        "titular": "La táctica de Telecinco con 'Rueda la letra': el retorno del rosco como arma",
+        "cadena": "Telecinco",
+        "detalle": "Estrategia de Telecinco para remontar audiencia con el regreso del formato de rosco",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/tactica-telecinco-con-rueda-letra-retorno-rosco-como-arma_7032763_3.html"
+      }
+    ],
+    "records": [
+      {
+        "titular": "'Odio el verano' en Telecinco lidera frente a 'Una fiesta de muerte' y 'La amiga estupenda'",
+        "cadena": "Telecinco",
+        "detalle": "Liderazgo del sábado 5 de septiembre con la película 'Odio el verano' superando a la competencia",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-sabado-5-septiembre-odio-el-verano-138155/"
+      },
+      {
+        "titular": "ANTENA 3 NOTICIAS 1 FIN DE SEMANA es lo más visto con 1.851.000 espectadores y 22% de share",
+        "cadena": "Antena 3",
+        "detalle": "Liderazgo del informativo de fin de semana del 5 de septiembre",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-05-de-septiembre-2026/"
+      },
+      {
+        "titular": "ANTENA 3 NOTICIAS 1 es lo más visto con 2.089.000 espectadores y 24,1% de share",
+        "cadena": "Antena 3",
+        "detalle": "Liderazgo del informativo del 4 de septiembre, con las temáticas de pago como cadena más vista del día (13,6%)",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-04-de-septiembre-2026/"
+      }
+    ]
+  }
+}
