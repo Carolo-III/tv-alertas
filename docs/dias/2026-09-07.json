@@ -1,0 +1,72 @@
+{
+  "fecha": "2026-09-07",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "Regreso de temporada con batalla directa entre El Hormiguero (T21) y La Revuelta, estreno de la turca 'El Secreto' en Antena 3, y cambio relevante en Cuatro: Roberto Arce deja la edición diaria para ser sustituido por su hijo Diego.",
+  "alertas": {
+    "estrenos": [
+      {
+        "titular": "Vuelve 'El Hormiguero': Carlos Alsina y Rafa Latorre abren la temporada 21 del programa de Antena 3",
+        "cadena": "Antena 3",
+        "detalle": "Regreso de temporada 21 de El Hormiguero con invitados destacados: Alsina, Latorre, Luis de la Fuente, Paula Echevarría y Ester Expósito",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/vuelve-hormiguero-carlos-alsina-rafa-latorre-abren-temporada-21-programa-antena-3_7033594_0.html"
+      },
+      {
+        "titular": "Vuelve el duelo más esperado de la tele: 'El Hormiguero' y 'La Revuelta' regresan a la par",
+        "cadena": "Antena 3 / La 1",
+        "detalle": "Regreso simultáneo de ambos programas marcando el inicio de la batalla por el access prime time",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/vuelve-duelo-mas-esperado-tele-hormiguero-revuelta-regresan-par_7032872_0.html"
+      },
+      {
+        "titular": "'El Secreto' en Antena 3 lidera en su estreno con un 12,5% y más de un millón",
+        "cadena": "Antena 3",
+        "detalle": "Estreno exitoso de la serie turca 'El Secreto' con 12,5% de share y más de 1 millón de espectadores",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-domingo-6-septiembre-el-secreto-turca-138156/"
+      },
+      {
+        "titular": "La Séptima presenta su canal: 'Queremos ser la televisión del siglo XXI, todo el tiempo en directo'",
+        "cadena": "La Séptima",
+        "detalle": "Presentación oficial del nuevo canal de José Miguel Contreras que arrancará emisiones el 5 de noviembre",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/septima-presenta-su-canal-queremos-ser-television-siglo-xxi-todo-tiempo-directo_7033687_0.html"
+      }
+    ],
+    "deportes": [],
+    "especiales": [],
+    "entrevistas": [],
+    "parrilla": [
+      {
+        "titular": "La emotiva despedida de Roberto Arce de 'Noticias Cuatro', que será sustituido por su hijo: 'No es una despedida cualquiera'",
+        "cadena": "Cuatro / Telecinco",
+        "detalle": "Roberto Arce pasa a la edición de fin de semana de Informativos Telecinco junto a Carmen Corazzini, su hijo Diego Arce se incorpora a Noticias Cuatro",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/emotiva-despedida-roberto-arce-noticias-cuatro-que-sera-sustituido-por-su-hijo-no-es-una-despedida-cualquiera_7033646_0.html"
+      },
+      {
+        "titular": "Verónica Sanz abandona laSexta después de siete años y ficha por La Séptima",
+        "cadena": "laSexta / La Séptima",
+        "detalle": "Movimiento significativo de presentadora tras 7 años en laSexta hacia el nuevo canal que arranca en noviembre",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/veronica-sanz-abandona-lasexta-despues-siete-anos-ficha-por-septima_7033377_0.html"
+      },
+      {
+        "titular": "Fernando Díaz de la Guardia vuelve a la tele tres años después de sufrir una parálisis facial",
+        "cadena": "",
+        "detalle": "Regreso del comunicador tras tres años de ausencia por problemas de salud",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/fernando-diaz-guardia-vuelve-tele-tres-anos-despues-sufrir-una-paralisis-facial-las-secuelas-no-me-impiden_7033370_0.html"
+      }
+    ],
+    "records": [
+      {
+        "titular": "'Odio el verano' en Telecinco lidera frente a 'Una fiesta de muerte' y 'La amiga estupenda'",
+        "cadena": "Telecinco",
+        "detalle": "Liderazgo de la película 'Odio el verano' en el prime time del sábado 5 de septiembre",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-sabado-5-septiembre-odio-el-verano-138155/"
+      }
+    ]
+  }
+}
