@@ -1,0 +1,101 @@
+{
+  "fecha": "2026-09-08",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "Pedro Sánchez protagoniza la semana con entrevistas en laSexta ('El Intermedio') y TVE ('Mañaneros'); 'El Hormiguero' vence a 'La Revuelta' en el regreso; Telecinco estrena 'Rueda la letra' y 'La isla de las tentaciones 11'; Antena 3 lidera con informativos y estrena serie turca 'El Secreto'.",
+  "alertas": {
+    "estrenos": [
+      {
+        "titular": "'La isla de las tentaciones 11' se estrena a la baja",
+        "cadena": "Telecinco",
+        "detalle": "Estreno de nueva temporada del reality con audiencias por debajo de lo esperado",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-lunes-7-septiembre-la-isla-tentaciones-138169/"
+      },
+      {
+        "titular": "'El Secreto' en Antena 3 lidera en su estreno con un 12,5% y más de un millón",
+        "cadena": "Antena 3",
+        "detalle": "Estreno exitoso de serie turca el domingo 6 de septiembre con 12,5% de cuota",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-domingo-6-septiembre-el-secreto-turca-138156/"
+      },
+      {
+        "titular": "Así ha sido el primer 'Rosco' de 'Rueda la letra' en Telecinco",
+        "cadena": "Telecinco",
+        "detalle": "Estreno del formato tipo 'Pasapalabra' presentado por Carlos Sobera a las 19:00",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/asi-ha-sido-primer-rosco-rueda-letra-telecinco-vuelta-hijo-prodigo-casa_7033890_0.html"
+      },
+      {
+        "titular": "Sandra Barneda presenta 'Supervivientes All Stars' con novedades",
+        "cadena": "Telecinco",
+        "detalle": "Estreno jueves 21:45h con formato renovado que incluye dos capitanes no concursantes",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/sandra-barneda-gente-se-siente-identificada-porque-todos-hemos-puesto-los-cuernos-nos-los-han-puesto_7034139_0.html"
+      },
+      {
+        "titular": "Cómo sintonizar La Séptima, el nuevo canal de televisión que llega a España",
+        "cadena": "La Séptima",
+        "detalle": "Nuevo canal impulsado por José Miguel Contreras arrancará emisiones el 5 de noviembre",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/septima-comienza-emisiones-5-noviembre-como-sintonizar-nuevo-canal-televisor_7034031_0.html"
+      }
+    ],
+    "deportes": [],
+    "especiales": [],
+    "entrevistas": [
+      {
+        "titular": "Pedro Sánchez visitará 'El Intermedio' del Gran Wyoming el próximo lunes 14 de septiembre",
+        "cadena": "laSexta",
+        "detalle": "Entrevista al Presidente del Gobierno confirmada para el 14 de septiembre",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/pedro-sanchez-visitara-intermedio-gran-wyoming-proximo-lunes-14-septiembre_7034129_0.html"
+      },
+      {
+        "titular": "El Consejo de Informativos de TVE rechaza que Pedro Sánchez sea entrevistado en 'Mañaneros'",
+        "cadena": "La 1",
+        "detalle": "Entrevista al Presidente por Jesús Cintora y Esther Palomera genera controversia interna en RTVE",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/consejo-informativos-tve-rechaza-que-pedro-sanchez-sea-entrevistado-mananeros-es-una-gravedad-extrema_7034093_0.html"
+      }
+    ],
+    "parrilla": [
+      {
+        "titular": "'El Hormiguero' vence con comodidad a 'La Revuelta' en su regreso de las vacaciones",
+        "cadena": "Antena 3",
+        "detalle": "Regreso de vacaciones: 'El Hormiguero' 17,9% vs 'La Revuelta' 13,1% el lunes 7 de septiembre",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/hormiguero-vence-con-comodidad-revuelta-su-regreso-las-vacaciones_7033975_0.html"
+      },
+      {
+        "titular": "Matías Prats, nuevo fichaje de 'El Chiringuito' en Mediaset con doble labor",
+        "cadena": "Mediaset",
+        "detalle": "Incorporación de Matías Prats a 'El Chiringuito' con funciones duales",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/matias-prats-nuevo-fichaje-chiringuito-mediaset-aunque-tendra-doble-labor_7034017_0.html"
+      },
+      {
+        "titular": "Marta Riesco cubre la ausencia de Alba Carrillo en 'El sótano club'",
+        "cadena": "Ten",
+        "detalle": "Alba Carrillo ausente del programa por estar en FesTVal de Vitoria presentando La Séptima",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/marta-riesco-cubre-ausencia-alba-carrillo-sotano-club-dejad-que-disfrute-esta-silla_7033769_0.html"
+      }
+    ],
+    "records": [
+      {
+        "titular": "ANTENA 3 NOTICIAS 1 es lo más visto con 2.022.000 espectadores y 22,1% el lunes 7 de septiembre",
+        "cadena": "Antena 3",
+        "detalle": "Antena 3 lidera el día como cadena más vista con 14,6% de cuota",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-07-de-septiembre-2026/"
+      },
+      {
+        "titular": "ANTENA 3 NOTICIAS 1 FIN DE SEMANA lidera el domingo 6 con 1.881.000 y 20,7%",
+        "cadena": "Antena 3",
+        "detalle": "Informativo líder del domingo, aunque el día lo ganan las Temáticas de Pago con 17,1%",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-06-de-septiembre-2026/"
+      }
+    ]
+  }
+}
