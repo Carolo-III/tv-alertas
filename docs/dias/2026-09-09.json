@@ -1,0 +1,117 @@
+{
+  "fecha": "2026-09-09",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "Pedro Sánchez concederá entrevistas en laSexta ('El Intermedio', 14/09) y TVE ('Mañaneros'), generando controversia interna; 'La isla de las tentaciones 11' se estrena a la baja; conflicto legal entre Atresmedia/ITV y Mediaset por 'Rueda la letra'; cambios en 'Pasapalabra' por abandono de concursante.",
+  "alertas": {
+    "estrenos": [
+      {
+        "titular": "'La isla de las tentaciones 11' se estrena a la baja y 'El hormiguero' supera a 'La revuelta'",
+        "cadena": "Telecinco",
+        "detalle": "El estreno de la nueva temporada del reality no alcanza las cifras esperadas en su debut",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-lunes-7-septiembre-la-isla-tentaciones-138169/"
+      },
+      {
+        "titular": "La Séptima, el nuevo canal de televisión que llega a España. Arrancará sus emisiones el 5 de noviembre",
+        "cadena": "La Séptima",
+        "detalle": "Nuevo canal impulsado por José Miguel Contreras comenzará emisiones en noviembre",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/septima-comienza-emisiones-5-noviembre-como-sintonizar-nuevo-canal-televisor_7034031_0.html"
+      }
+    ],
+    "deportes": [
+      {
+        "titular": "La pulla de Pablo Motos a la FIFA por las imágenes del Mundial: 'No he puesto el gol de Ferrán porque nos cobraban mucho dinero'",
+        "cadena": "Antena 3",
+        "detalle": "Polémica en 'El Hormiguero' por el coste de los derechos de imágenes del Mundial de fútbol",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/pulla-pablo-motos-fifa-por-las-imagenes-mundial-no-he-puesto-gol-ferran-porque-nos-cobraban-mucho-dinero_7034672_0.html"
+      }
+    ],
+    "especiales": [
+      {
+        "titular": "Pablo Motos arranca 'El Hormiguero' con una crítica a Sánchez y la crisis en Ceuta: 'El Gobierno se ha acorralado con sus mentiras'",
+        "cadena": "Antena 3",
+        "detalle": "El programa aborda la crisis migratoria en Ceuta y critica la gestión gubernamental",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/pablo-motos-arranca-hormiguero-con-una-critica-sanchez-crisis-ceuta-gobierno-se-ha-acorralado-con-sus-mentiras_7034167_0.html"
+      },
+      {
+        "titular": "El testigo que estuvo en el supuesto grupo de WhatsApp de la entrada masiva a Ceuta, en 'Código 10': 'Quemaremos todo'",
+        "cadena": "Cuatro",
+        "detalle": "Programa especial con testimonio sobre la crisis migratoria en Ceuta",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/testigo-que-estuvo-supuesto-grupo-whatsapp-entrada-masiva-ceuta-codigo-10-quemaremos-todo_7034409_0.html"
+      },
+      {
+        "titular": "Estados Unidos alertó al CNI de una 'invasión', según Roberto Macedonio: 'Detectaron un flujo migratorio inusual'",
+        "cadena": "Cuatro",
+        "detalle": "Conexión desde Washington en 'Código 10' sobre el papel de EEUU en la crisis de Ceuta",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/estados-unidos-alerto-cni-una-invasion-segun-roberto-macedonio-detectaron-un-flujo-migratorio-inusual_7034404_0.html"
+      }
+    ],
+    "entrevistas": [
+      {
+        "titular": "Pedro Sánchez visitará 'El Intermedio' del Gran Wyoming el próximo lunes 14 de septiembre",
+        "cadena": "laSexta",
+        "detalle": "El presidente del Gobierno concederá entrevista en el programa de Wyoming",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/pedro-sanchez-visitara-intermedio-gran-wyoming-proximo-lunes-14-septiembre_7034129_0.html"
+      },
+      {
+        "titular": "El Consejo de Informativos de TVE rechaza que Pedro Sánchez sea entrevistado en 'Mañaneros': 'Es de una gravedad extrema'",
+        "cadena": "La 1",
+        "detalle": "Polémica interna en RTVE por la entrevista de Sánchez en el matinal presentado por Cintora y Palomera",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/consejo-informativos-tve-rechaza-que-pedro-sanchez-sea-entrevistado-mananeros-es-una-gravedad-extrema_7034093_0.html"
+      },
+      {
+        "titular": "Henar Álvarez, sobre entrevistar a la reina Letizia y a Leonor: 'Estaría contentísima, le preguntaría cómo está la universidad'",
+        "cadena": "La 1",
+        "detalle": "La presentadora de 'Hable con ella' muestra interés por entrevistar a miembros de la Familia Real",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/henar-alvarez-sobre-entrevistar-reina-letizia-leonor-estaria-contentisima-le-preguntaria-como-esta-universidad_7034585_0.html"
+      }
+    ],
+    "parrilla": [
+      {
+        "titular": "Javier Alonso, concursante de 'Pasapalabra', abandona el programa por 'motivos personales'. Regresa Moisés Laguardia",
+        "cadena": "Antena 3",
+        "detalle": "Cambio de concursante en el programa: sale Javier Alonso y vuelve Moisés Laguardia",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/javier-alonso-concursante-pasapalabra-abandona-programa-por-motivos-personales_7034341_0.html"
+      },
+      {
+        "titular": "La emotiva despedida de Chenoa de 'Dog House', en su cierre de temporada: 'Algunas personas han vuelto a sonreír'",
+        "cadena": "La 1",
+        "detalle": "Cierre de la segunda temporada del programa hasta su regreso",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/emotiva-despedida-chenoa-dog-house-su-cierre-temporada-algunas-personas-han-vuelto-sonreir_7034408_0.html"
+      },
+      {
+        "titular": "Atresmedia e ITV Studios preparan acciones legales contra Mediaset y 'Rueda la letra' por su parecido con 'Pasapalabra'",
+        "cadena": "Varias",
+        "detalle": "Conflicto legal entre cadenas por presunto plagio del formato de concurso",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/atresmedia-itv-estudios-preparan-acciones-legales-contra-mediaset-rueda-letra-por-su-parecido-con-pasapalabra_7034293_0.html"
+      },
+      {
+        "titular": "'Rueda la Letra' cae a un 8% en su segundo programa",
+        "cadena": "Telecinco",
+        "detalle": "Bajada de audiencia del nuevo concurso de Mediaset en su segundo día",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-martes-8-septiembre-rueda-la-letra-138184/"
+      }
+    ],
+    "records": [
+      {
+        "titular": "'El Hormiguero' supera a 'La Revuelta' en el lunes 7 de septiembre",
+        "cadena": "Antena 3",
+        "detalle": "El programa de Motos gana la batalla del access al de Broncano en la jornada",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-lunes-7-septiembre-la-isla-tentaciones-138169/"
+      }
+    ]
+  }
+}
