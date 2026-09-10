@@ -1,0 +1,88 @@
+{
+  "fecha": "2026-09-10",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "Javier Bardem debuta en La Revuelta, estrena El túnel con audiencia destacada, y arranca Supervivientes All Stars 3 en Telecinco",
+  "alertas": {
+    "estrenos": [
+      {
+        "titular": "Buen estreno de 'El túnel' en una noche repartida liderada por 'La isla de las tentaciones'",
+        "cadena": "Varias",
+        "detalle": "Nueva serie El túnel estrena con buen dato de audiencia en noche liderada por La isla de las tentaciones",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-miercoles-9-septiembre-estreno-el-tunel-138193/"
+      },
+      {
+        "titular": "Saltos del helicóptero, primer 'Duelo de capitanes' y nominaciones: así será el estreno de 'Supervivientes All Stars 3'",
+        "cadena": "Telecinco",
+        "detalle": "Este jueves arranca la tercera edición de Supervivientes All Stars con antiguos concursantes",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/saltos-helicoptero-primer-duelo-capitanes-nominaciones-asi-sera-estreno-supervivientes-all-stars-3_7034876_0.html"
+      },
+      {
+        "titular": "Flooxer presenta 'Baddie' y 'La deuda', series en vertical, hechas para el móvil con mensajes para jóvenes y estrellas de las redes",
+        "cadena": "Flooxer",
+        "detalle": "Nuevas series en formato vertical para móvil dirigidas al público joven",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/flooxer-presenta-baddie-deuda-series-vertical-hechas-para-movil-con-mensajes-para-jovenes-estrellas-las-redes_7034753_0.html"
+      }
+    ],
+    "deportes": [],
+    "especiales": [
+      {
+        "titular": "Patricia Pardo interrumpe la conexión con Giovanna González en el funeral de Harald V: 'No sabía que estabas en un momento así'",
+        "cadena": "Telecinco",
+        "detalle": "Cobertura especial del funeral del rey Harald V de Noruega con asistencia de Felipe VI y la familia real española",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/patricia-pardo-interrumpe-conexion-con-giovanna-gonzalez-funeral-harald-v-no-sabia-que-estabas-un-momento-asi_7034710_0.html"
+      }
+    ],
+    "entrevistas": [
+      {
+        "titular": "'La Revuelta' recibe este jueves a un invitado bomba: Javier Bardem concederá por primera vez una entrevista a Broncano",
+        "cadena": "La 1",
+        "detalle": "Javier Bardem concede por primera vez una entrevista a Broncano para presentar su película Búnker junto a Penélope Cruz",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/revuelta-recibe-este-jueves-un-invitado-bomba-javier-bardem-que-concede-por-primera-vez-una-entrevista-broncano_7035081_0.html"
+      },
+      {
+        "titular": "Óscar Puente responde a Cristina Pardo si alguien debe dimitir por la situación de Ceuta: 'Los sacrificios, en el altar'",
+        "cadena": "laSexta",
+        "detalle": "El ministro Óscar Puente aborda en entrevista la crisis de Ceuta y defiende la gestión del Gobierno",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/debe-dimitir-alguien-por-situacion-ceuta-oscar-puente-responde-mesa_7034913_0.html"
+      }
+    ],
+    "parrilla": [
+      {
+        "titular": "'La ruleta de la suerte' ficha al primer 'azafato' de su historia para sustituir a Laura Moure",
+        "cadena": "Antena 3",
+        "detalle": "Brian, exconcursante, sustituye a Laura Moure durante su baja maternal, primera vez con azafato masculino",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/ruleta-suerte-ficha-primer-azafato-su-historia-para-sustituir-laura-moure_7034929_0.html"
+      },
+      {
+        "titular": "'Rueda la Letra' cae a un 8% en su segundo programa y 'El Secreto' lidera la noche",
+        "cadena": "Varias",
+        "detalle": "Fuerte caída de audiencia del programa Rueda la Letra en su segunda emisión",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-martes-8-septiembre-rueda-la-letra-138184/"
+      }
+    ],
+    "records": [
+      {
+        "titular": "ANTENA 3 NOTICIAS 1 (Antena3) es lo más visto de ayer gracias a 2.068.000 espectadores como promedio y el 22,5 % de cuota de pantalla",
+        "cadena": "Antena 3",
+        "detalle": "Antena 3 Noticias 1 lidera con 2.068.000 espectadores (22,5%), Antena 3 cadena más vista del día (12,9%)",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-09-de-septiembre-2026/"
+      },
+      {
+        "titular": "ANTENA 3 NOTICIAS 1 (Antena3) es lo más visto de ayer gracias a 1.972.000 espectadores como promedio y el 21,2 % de cuota de pantalla",
+        "cadena": "Antena 3",
+        "detalle": "Antena 3 Noticias 1 lidera con 1.972.000 espectadores (21,2%), Antena 3 cadena más vista del día (13,6%)",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-08-de-septiembre-2026/"
+      }
+    ]
+  }
+}
