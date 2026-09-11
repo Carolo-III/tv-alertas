@@ -1,0 +1,94 @@
+{
+  "fecha": "2026-09-11",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "Supervivientes All Stars 3 arranca con buen dato (15,6%), Anna Simon regresa a Zapeando tras 6 años, y Albert Rivera estrena sección fija en Espejo Público.",
+  "alertas": {
+    "estrenos": [
+      {
+        "titular": "'Supervivientes All Stars 3' lidera en su estreno en Telecinco con un 15,6%",
+        "cadena": "Telecinco",
+        "detalle": "El reality arranca con 15,6% de cuota de pantalla en su primera emisión",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-jueves-10-septiembre-supervivientes-138205/"
+      },
+      {
+        "titular": "Buen estreno de 'El túnel' en una noche repartida liderada por 'La isla de las tentaciones'",
+        "cadena": "Varias",
+        "detalle": "Nueva serie 'El túnel' debuta con datos positivos el miércoles 9 de septiembre",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-miercoles-9-septiembre-estreno-el-tunel-138193/"
+      },
+      {
+        "titular": "Albert Rivera llama al 'teléfono rojo' de 'Espejo Público' y anuncia su nueva sección: 'Ciudadano Rivera'",
+        "cadena": "Antena 3",
+        "detalle": "El expolitico estrena el lunes sección fija 'Ciudadano Rivera' en el magazine matinal",
+        "fuente": "20minutos",
+        "url": "https://www.20minutos.es/television/albert-rivera-llama-telefono-rojo-espejo-publico-anuncia-su-nueva-seccion-ciudadano-rivera_7035658_0.html"
+      },
+      {
+        "titular": "Anna Simon regresa a 'Zapeando' y lo celebra cantando su particular versión de 'Volver': 'Me gusta mucho haber vuelto'",
+        "cadena": "laSexta",
+        "detalle": "Anna Simon vuelve a Zapeando tras 6 años de ausencia del programa",
+        "fuente": "20minutos",
+        "url": "https://www.20minutos.es/television/anna-simon-regresa-zapeando-celebra-cantando-su-particular-version-volver-me-gusta-mucho-haber-vuelto_7035265_0.html"
+      }
+    ],
+    "deportes": [],
+    "especiales": [
+      {
+        "titular": "25 años de los atentados del 11 de septiembre: así cambió la forma de enfrentarnos al terror",
+        "cadena": "Varias",
+        "detalle": "Cobertura especial del 25 aniversario del 11-S en medios televisivos",
+        "fuente": "20minutos",
+        "url": "https://www.20minutos.es/television/25-anos-los-atentados-11-septiembre-como-cambio-forma-enfrentarnos-terror_7035420_3.html"
+      },
+      {
+        "titular": "'Horizonte' gana un día más de emisión por sus datos de audiencia, aunque no será presentado por Iker Jiménez y Carmen Porter",
+        "cadena": "Cuatro",
+        "detalle": "El programa amplía a viernes en access con Beatriz Talegón y Paco Pérez Caballero por buenos resultados",
+        "fuente": "20minutos",
+        "url": "https://www.20minutos.es/television/horizonte-gana-un-dia-mas-emision-por-sus-datos-audiencia-aunque-no-sera-presentado-por-iker-jimenez-carmen-porter_7035293_0.html"
+      }
+    ],
+    "entrevistas": [
+      {
+        "titular": "Bardem recuerda en 'La Revuelta' cómo fue su primera cita con Penélope Cruz: 'En Londres viendo a los Rolling Stones y a Prince'",
+        "cadena": "La 1",
+        "detalle": "Javier Bardem visita por primera vez La Revuelta para presentar 'El ser querido', preseleccionada para los Oscar",
+        "fuente": "20minutos",
+        "url": "https://www.20minutos.es/television/bardem-recuerda-revuelta-como-fue-su-primera-cita-con-penelope-cruz-londres-viendo-los-rolling-stones-prince_7035396_0.html"
+      },
+      {
+        "titular": "Ester Expósito revela en 'El Hormiguero' qué cualidades le parecen sexis: 'Que esté comprometido con las causas sociales'",
+        "cadena": "Antena 3",
+        "detalle": "La actriz visita El Hormiguero para presentar su nueva película 'Enfrentados: Marfil'",
+        "fuente": "20minutos",
+        "url": "https://www.20minutos.es/television/ester-exposito-expone-hormiguero-que-busca-conocer-alguien-que-este-comprometido-con-las-causas-sociales_7035393_0.html"
+      },
+      {
+        "titular": "Isa Pantoja, sobre su relación con su madre y su hermano: 'Tengo pensamientos muy oscuros, estoy mal todos los días lloro'",
+        "cadena": "Telecinco",
+        "detalle": "Entrevista especial en De Viernes donde revelará el estado de las relaciones familiares",
+        "fuente": "20minutos",
+        "url": "https://www.20minutos.es/television/isa-pantoja-sobre-su-relacion-con-su-madre-su-hermano-tengo-pensamientos-muy-oscuros-estoy-mal-todos-los-dias-lloro_7035684_0.html"
+      }
+    ],
+    "parrilla": [],
+    "records": [
+      {
+        "titular": "ANTENA 3 NOTICIAS 1 (Antena3) es lo más visto de ayer gracias a 2.010.000 espectadores como promedio y el 22,6 % de cuota de pantalla",
+        "cadena": "Antena 3",
+        "detalle": "Informativo del 10 de septiembre con 2.010.000 y 22,6%, Antena 3 lidera el día con 14%",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-10-de-septiembre-2026/"
+      },
+      {
+        "titular": "'El Hormiguero' gana a 'La Revuelta' a pesar de la visita de Bardem y 'Supervivientes' regresa con un estreno modesto",
+        "cadena": "Antena 3",
+        "detalle": "El Hormiguero vence con 13,8% frente al 12% de La Revuelta con Javier Bardem",
+        "fuente": "20minutos",
+        "url": "https://www.20minutos.es/television/hormiguero-gana-revuelta-pesar-visita-bardem-supervivientes-regresa-con-un-estreno-modesto_7035508_0.html"
+      }
+    ]
+  }
+}

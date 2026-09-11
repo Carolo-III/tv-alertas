@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang='es'>
+<head>
+<meta charset='UTF-8'>
+<meta name='viewport' content='width=device-width, initial-scale=1.0'>
+<title>TV Alertas — Viernes 11 de septiembre de 2026</title>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=DM+Sans:wght@300;400;500;600&display=swap');
+
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+:root {
+  --bg: #0a0a0b;
+  --bg2: #111113;
+  --bg3: #1a1a1d;
+  --border: #2a2a2e;
+  --text: #e8e8ec;
+  --text-muted: #6b6b78;
+  --accent: #e8c547;
+}
+
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: 'DM Sans', sans-serif;
+  font-size: 15px;
+  line-height: 1.6;
+  min-height: 100vh;
+}
+
+.site-header {
+  border-bottom: 1px solid var(--border);
+  padding: 20px 32px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  position: sticky;
+  top: 0;
+  background: rgba(10,10,11,0.95);
+  backdrop-filter: blur(8px);
+  z-index: 100;
+}
+
+.site-title {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 24px;
+  letter-spacing: 2px;
+  color: var(--accent);
+}
+
+.site-subtitle {
+  font-size: 12px;
+  color: var(--text-muted);
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+
+.nav-link {
+  color: var(--text-muted);
+  text-decoration: none;
+  font-size: 13px;
+  letter-spacing: 0.5px;
+  transition: color 0.2s;
+}
+.nav-link:hover { color: var(--accent); }
+
+main { max-width: 900px; margin: 0 auto; padding: 40px 24px; }
+
+.fecha-display {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 48px;
+  letter-spacing: 3px;
+  color: var(--text);
+  margin-bottom: 4px;
+}
+
+.resumen-ejecutivo {
+  font-size: 16px;
+  color: var(--text-muted);
+  margin-bottom: 40px;
+  padding-left: 16px;
+  border-left: 3px solid var(--accent);
+}
+
+.sin-alertas {
+  text-align: center;
+  padding: 80px 24px;
+  color: var(--text-muted);
+}
+
+.sin-alertas .icon { font-size: 48px; margin-bottom: 16px; }
+.sin-alertas h2 { font-family: 'Bebas Neue', sans-serif; font-size: 28px; letter-spacing: 2px; margin-bottom: 8px; color: var(--text); }
+
+.categoria-bloque { margin-bottom: 40px; }
+
+.categoria-header {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 16px;
+  padding-bottom: 8px;
+  border-bottom: 1px solid var(--border);
+}
+
+.categoria-icon { font-size: 20px; }
+
+.categoria-label {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 20px;
+  letter-spacing: 2px;
+}
+
+.categoria-count {
+  font-size: 12px;
+  padding: 2px 8px;
+  border-radius: 12px;
+  background: var(--bg3);
+  color: var(--text-muted);
+  font-weight: 500;
+}
+
+.alerta-card {
+  background: var(--bg2);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 16px 20px;
+  margin-bottom: 10px;
+  border-left: 3px solid transparent;
+  transition: border-color 0.2s, background 0.2s;
+}
+
+.alerta-card:hover { background: var(--bg3); }
+
+.alerta-titular {
+  font-weight: 600;
+  font-size: 15px;
+  margin-bottom: 4px;
+  color: var(--text);
+}
+
+.alerta-detalle {
+  font-size: 13px;
+  color: var(--text-muted);
+  margin-bottom: 6px;
+}
+
+.alerta-meta {
+  display: flex;
+  gap: 12px;
+  font-size: 12px;
+}
+
+.badge-cadena {
+  background: var(--bg3);
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  padding: 1px 7px;
+  color: var(--text-muted);
+}
+
+.badge-fuente { color: var(--text-muted); font-style: italic; }
+
+.alerta-link {
+  color: var(--text);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: border-color 0.2s, color 0.2s;
+}
+.alerta-link:hover { color: var(--accent); border-bottom-color: var(--accent); }
+
+.historico-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 12px;
+  margin-top: 24px;
+}
+
+.dia-card {
+  background: var(--bg2);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 16px;
+  text-decoration: none;
+  display: block;
+  transition: border-color 0.2s, background 0.2s;
+}
+
+.dia-card:hover { background: var(--bg3); border-color: var(--accent); }
+
+.dia-fecha {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 18px;
+  letter-spacing: 1px;
+  color: var(--text);
+  margin-bottom: 4px;
+}
+
+.dia-alertas { font-size: 12px; color: var(--text-muted); }
+
+.dia-dot {
+  display: inline-block;
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: var(--accent);
+  margin-right: 6px;
+  vertical-align: middle;
+}
+
+.dia-sin-alertas .dia-dot { background: var(--border); }
+
+footer {
+  border-top: 1px solid var(--border);
+  padding: 20px 32px;
+  text-align: center;
+  font-size: 12px;
+  color: var(--text-muted);
+  letter-spacing: 0.5px;
+}
+</style>
+</head>
+<body>
+<header class="site-header"><div><div class="site-title">TV ALERTAS</div><div class="site-subtitle">Monitor de televisión española</div></div><a href="../index.html" class="nav-link">← Histórico</a></header>
+<main>
+<div class="fecha-display">VIERNES 11 DE SEPTIEMBRE DE 2026</div>
+<div class="resumen-ejecutivo">Supervivientes All Stars 3 arranca con buen dato (15,6%), Anna Simon regresa a Zapeando tras 6 años, y Albert Rivera estrena sección fija en Espejo Público.</div>
+<div class="categoria-bloque"><div class="categoria-header"><span class="categoria-icon">🎬</span><span class="categoria-label" style="color:#e8c547">Estrenos</span><span class="categoria-count">4</span></div><div class="alerta-card" style="border-left-color:#e8c547"><div class="alerta-titular"><a href="https://www.formulatv.com/noticias/audiencias-jueves-10-septiembre-supervivientes-138205/" target="_blank" rel="noopener" class="alerta-link">'Supervivientes All Stars 3' lidera en su estreno en Telecinco con un 15,6%</a></div><div class='alerta-detalle'>El reality arranca con 15,6% de cuota de pantalla en su primera emisión</div><div class="alerta-meta"><span class='badge-cadena'>Telecinco</span><span class='badge-fuente'>Fórmula TV</span></div></div><div class="alerta-card" style="border-left-color:#e8c547"><div class="alerta-titular"><a href="https://www.formulatv.com/noticias/audiencias-miercoles-9-septiembre-estreno-el-tunel-138193/" target="_blank" rel="noopener" class="alerta-link">Buen estreno de 'El túnel' en una noche repartida liderada por 'La isla de las tentaciones'</a></div><div class='alerta-detalle'>Nueva serie 'El túnel' debuta con datos positivos el miércoles 9 de septiembre</div><div class="alerta-meta"><span class='badge-cadena'>Varias</span><span class='badge-fuente'>Fórmula TV</span></div></div><div class="alerta-card" style="border-left-color:#e8c547"><div class="alerta-titular"><a href="https://www.20minutos.es/television/albert-rivera-llama-telefono-rojo-espejo-publico-anuncia-su-nueva-seccion-ciudadano-rivera_7035658_0.html" target="_blank" rel="noopener" class="alerta-link">Albert Rivera llama al 'teléfono rojo' de 'Espejo Público' y anuncia su nueva sección: 'Ciudadano Rivera'</a></div><div class='alerta-detalle'>El expolitico estrena el lunes sección fija 'Ciudadano Rivera' en el magazine matinal</div><div class="alerta-meta"><span class='badge-cadena'>Antena 3</span><span class='badge-fuente'>20minutos</span></div></div><div class="alerta-card" style="border-left-color:#e8c547"><div class="alerta-titular"><a href="https://www.20minutos.es/television/anna-simon-regresa-zapeando-celebra-cantando-su-particular-version-volver-me-gusta-mucho-haber-vuelto_7035265_0.html" target="_blank" rel="noopener" class="alerta-link">Anna Simon regresa a 'Zapeando' y lo celebra cantando su particular versión de 'Volver': 'Me gusta mucho haber vuelto'</a></div><div class='alerta-detalle'>Anna Simon vuelve a Zapeando tras 6 años de ausencia del programa</div><div class="alerta-meta"><span class='badge-cadena'>laSexta</span><span class='badge-fuente'>20minutos</span></div></div></div><div class="categoria-bloque"><div class="categoria-header"><span class="categoria-icon">⭐</span><span class="categoria-label" style="color:#e847a3">Especiales / Galas</span><span class="categoria-count">2</span></div><div class="alerta-card" style="border-left-color:#e847a3"><div class="alerta-titular"><a href="https://www.20minutos.es/television/25-anos-los-atentados-11-septiembre-como-cambio-forma-enfrentarnos-terror_7035420_3.html" target="_blank" rel="noopener" class="alerta-link">25 años de los atentados del 11 de septiembre: así cambió la forma de enfrentarnos al terror</a></div><div class='alerta-detalle'>Cobertura especial del 25 aniversario del 11-S en medios televisivos</div><div class="alerta-meta"><span class='badge-cadena'>Varias</span><span class='badge-fuente'>20minutos</span></div></div><div class="alerta-card" style="border-left-color:#e847a3"><div class="alerta-titular"><a href="https://www.20minutos.es/television/horizonte-gana-un-dia-mas-emision-por-sus-datos-audiencia-aunque-no-sera-presentado-por-iker-jimenez-carmen-porter_7035293_0.html" target="_blank" rel="noopener" class="alerta-link">'Horizonte' gana un día más de emisión por sus datos de audiencia, aunque no será presentado por Iker Jiménez y Carmen Porter</a></div><div class='alerta-detalle'>El programa amplía a viernes en access con Beatriz Talegón y Paco Pérez Caballero por buenos resultados</div><div class="alerta-meta"><span class='badge-cadena'>Cuatro</span><span class='badge-fuente'>20minutos</span></div></div></div><div class="categoria-bloque"><div class="categoria-header"><span class="categoria-icon">🎙️</span><span class="categoria-label" style="color:#a347e8">Entrevistas</span><span class="categoria-count">3</span></div><div class="alerta-card" style="border-left-color:#a347e8"><div class="alerta-titular"><a href="https://www.20minutos.es/television/bardem-recuerda-revuelta-como-fue-su-primera-cita-con-penelope-cruz-londres-viendo-los-rolling-stones-prince_7035396_0.html" target="_blank" rel="noopener" class="alerta-link">Bardem recuerda en 'La Revuelta' cómo fue su primera cita con Penélope Cruz: 'En Londres viendo a los Rolling Stones y a Prince'</a></div><div class='alerta-detalle'>Javier Bardem visita por primera vez La Revuelta para presentar 'El ser querido', preseleccionada para los Oscar</div><div class="alerta-meta"><span class='badge-cadena'>La 1</span><span class='badge-fuente'>20minutos</span></div></div><div class="alerta-card" style="border-left-color:#a347e8"><div class="alerta-titular"><a href="https://www.20minutos.es/television/ester-exposito-expone-hormiguero-que-busca-conocer-alguien-que-este-comprometido-con-las-causas-sociales_7035393_0.html" target="_blank" rel="noopener" class="alerta-link">Ester Expósito revela en 'El Hormiguero' qué cualidades le parecen sexis: 'Que esté comprometido con las causas sociales'</a></div><div class='alerta-detalle'>La actriz visita El Hormiguero para presentar su nueva película 'Enfrentados: Marfil'</div><div class="alerta-meta"><span class='badge-cadena'>Antena 3</span><span class='badge-fuente'>20minutos</span></div></div><div class="alerta-card" style="border-left-color:#a347e8"><div class="alerta-titular"><a href="https://www.20minutos.es/television/isa-pantoja-sobre-su-relacion-con-su-madre-su-hermano-tengo-pensamientos-muy-oscuros-estoy-mal-todos-los-dias-lloro_7035684_0.html" target="_blank" rel="noopener" class="alerta-link">Isa Pantoja, sobre su relación con su madre y su hermano: 'Tengo pensamientos muy oscuros, estoy mal todos los días lloro'</a></div><div class='alerta-detalle'>Entrevista especial en De Viernes donde revelará el estado de las relaciones familiares</div><div class="alerta-meta"><span class='badge-cadena'>Telecinco</span><span class='badge-fuente'>20minutos</span></div></div></div><div class="categoria-bloque"><div class="categoria-header"><span class="categoria-icon">📊</span><span class="categoria-label" style="color:#47e87e">Récords</span><span class="categoria-count">2</span></div><div class="alerta-card" style="border-left-color:#47e87e"><div class="alerta-titular"><a href="https://barloventocomunicacion.es/audiencias-diarias/audiencias-10-de-septiembre-2026/" target="_blank" rel="noopener" class="alerta-link">ANTENA 3 NOTICIAS 1 (Antena3) es lo más visto de ayer gracias a 2.010.000 espectadores como promedio y el 22,6 % de cuota de pantalla</a></div><div class='alerta-detalle'>Informativo del 10 de septiembre con 2.010.000 y 22,6%, Antena 3 lidera el día con 14%</div><div class="alerta-meta"><span class='badge-cadena'>Antena 3</span><span class='badge-fuente'>Barlovento Comunicación</span></div></div><div class="alerta-card" style="border-left-color:#47e87e"><div class="alerta-titular"><a href="https://www.20minutos.es/television/hormiguero-gana-revuelta-pesar-visita-bardem-supervivientes-regresa-con-un-estreno-modesto_7035508_0.html" target="_blank" rel="noopener" class="alerta-link">'El Hormiguero' gana a 'La Revuelta' a pesar de la visita de Bardem y 'Supervivientes' regresa con un estreno modesto</a></div><div class='alerta-detalle'>El Hormiguero vence con 13,8% frente al 12% de La Revuelta con Javier Bardem</div><div class="alerta-meta"><span class='badge-cadena'>Antena 3</span><span class='badge-fuente'>20minutos</span></div></div></div>
+</main>
+<footer>Generado automáticamente · Fuentes: Barlovento, Fórmula TV, Vertele, DOS30</footer>
+</body>
+</html>
