@@ -1,0 +1,73 @@
+{
+  "fecha": "2026-09-12",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "Supervivientes All Stars 3 estrena con liderazgo (15,6%), mientras Rueda la Letra cierra su primera semana con mínimo en Telecinco y Albert Rivera anuncia nueva sección en Espejo Público",
+  "alertas": {
+    "estrenos": [
+      {
+        "titular": "Albert Rivera llama al 'teléfono rojo' de 'Espejo Público' y anuncia su nueva sección: 'Ciudadano Rivera'",
+        "cadena": "Antena 3",
+        "detalle": "Albert Rivera estrena nueva sección 'Ciudadano Rivera' en Espejo Público desde el lunes",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/albert-rivera-llama-telefono-rojo-espejo-publico-anuncia-su-nueva-seccion-ciudadano-rivera_7035658_0.html"
+      },
+      {
+        "titular": "'Supervivientes All Stars 3' lidera en su estreno en Telecinco con un 15,6%",
+        "cadena": "Telecinco",
+        "detalle": "Supervivientes All Stars regresa con estreno que obtiene liderazgo con 15,6% de cuota",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-jueves-10-septiembre-supervivientes-138205/"
+      },
+      {
+        "titular": "Marc Giró, el reencuentro de la tele con la fuerza del cabaret. Así volvió 'Cara al show' a La Sexta, ahora en los miércoles a las 11 de la noche",
+        "cadena": "laSexta",
+        "detalle": "Cara al show regresa a laSexta con nuevo horario: miércoles a las 23:00h",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/marc-giro-reencuentro-tele-con-fuerza-cabaret_7035624_3.html"
+      }
+    ],
+    "deportes": [],
+    "especiales": [],
+    "entrevistas": [
+      {
+        "titular": "Javier Bardem responde a las preguntas clásicas de 'La Revuelta'",
+        "cadena": "La 1",
+        "detalle": "Javier Bardem visita La Revuelta y responde a las preguntas míticas sobre dinero y vida personal",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/javier-bardem-responde-las-preguntas-clasicas-revuelta-mas-que-nunca-imagine_7035530_0.html"
+      },
+      {
+        "titular": "Jesús Vázquez recuerda a Pedro Zerolo con una frase que todavía conserva",
+        "cadena": "La 1",
+        "detalle": "Jesús Vázquez repasa su nueva etapa en TVE y habla de salud mental en entrevista personal",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/jesus-vazquez-recuerda-pedro-zerolo-con-una-frase-que-todavia-conserva-yo-no-quepo-tu-modelo-espana_7035432_0.html"
+      }
+    ],
+    "parrilla": [
+      {
+        "titular": "'Rueda la Letra' cierra su primera semana con mínimo en Telecinco",
+        "cadena": "Telecinco",
+        "detalle": "El nuevo concurso de Telecinco registra mínimo al cerrar su primera semana de emisión",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-viernes-11-septiembre-rueda-la-letra-138214/"
+      },
+      {
+        "titular": "Protestas de los trabajadores de TVE tras la entrevista a Sánchez: ¡Stop injerencias en los informativos! ¡Contra la externalización!",
+        "cadena": "La 1",
+        "detalle": "Consejo de informativos protesta por externalización de información y critica estrategia de dar noticias a programas externos",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/consejo-informativos-tve-protesta-contra-externalizacion-informacion_7035716_0.html"
+      }
+    ],
+    "records": [
+      {
+        "titular": "'El Hormiguero' gana a 'La Revuelta' a pesar de la visita de Bardem y 'Supervivientes' regresa con un estreno modesto",
+        "cadena": "Antena 3",
+        "detalle": "El Hormiguero vence a La Revuelta con 13,8% frente a 12% pese a la visita de Javier Bardem",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/hormiguero-gana-revuelta-pesar-visita-bardem-supervivientes-regresa-con-un-estreno-modesto_7035508_0.html"
+      }
+    ]
+  }
+}
