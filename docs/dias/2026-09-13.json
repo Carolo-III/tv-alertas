@@ -1,0 +1,73 @@
+{
+  "fecha": "2026-09-13",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "Antena 3 domina el fin de semana con sus informativos mientras 'Rueda la Letra' sufre en Telecinco marcando mínimos, y la F1 en Madrid decepciona en audiencia",
+  "alertas": {
+    "estrenos": [
+      {
+        "titular": "Marc Giró, el reencuentro de la tele con la fuerza del cabaret",
+        "cadena": "laSexta",
+        "detalle": "'Cara al show' regresa a laSexta los miércoles a las 23:00h",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/marc-giro-reencuentro-tele-con-fuerza-cabaret_7035624_3.html"
+      }
+    ],
+    "deportes": [
+      {
+        "titular": "La Clasificación de la Fórmula 1 en Madrid pincha y 'Rueda la Letra' marca un nuevo mínimo",
+        "cadena": "Varias",
+        "detalle": "La clasificación del GP de F1 en Madrid no alcanza las expectativas de audiencia el sábado",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-sabado-12-septiembre-clasificacion-f1-138220/"
+      }
+    ],
+    "especiales": [],
+    "entrevistas": [],
+    "parrilla": [
+      {
+        "titular": "El sabio veredicto de mi abuela sobre 'Rueda la letra'",
+        "cadena": "Telecinco",
+        "detalle": "Tendencia negativa en audiencias en su primera semana, la prueba del rosco no funciona como gancho",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/veredicto-sabiduria-mi-abuela-sobre-rueda-letra_7035795_3.html"
+      },
+      {
+        "titular": "Cristina Saavedra, periodista, un año después de su salida de laSexta: 'No entraba en los planes'",
+        "cadena": "laSexta",
+        "detalle": "La periodista reflexiona sobre su salida apresurada de laSexta hace un año",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/cristina-saavedra-periodista-un-ano-despues-su-salida-lasexta-no-entraba-los-planes_7036045_0.html"
+      }
+    ],
+    "records": [
+      {
+        "titular": "ANTENA 3 NOTICIAS 1 FIN DE SEMANA es lo más visto",
+        "cadena": "Antena 3",
+        "detalle": "Lidera el sábado con 1.780.000 espectadores y 21,1% de share, siendo lo más visto del día",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-12-de-septiembre-2026/"
+      },
+      {
+        "titular": "ANTENA 3 NOTICIAS 1 es lo más visto",
+        "cadena": "Antena 3",
+        "detalle": "Lidera el viernes con 1.976.000 espectadores y 22,8% de share. Antena 3 es la cadena más vista del día con 12,9%",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-11-de-septiembre-2026/"
+      },
+      {
+        "titular": "'Rueda la Letra' cierra su primera semana con mínimo en Telecinco",
+        "cadena": "Telecinco",
+        "detalle": "El programa marca mínimo histórico en su primera semana de emisión el viernes",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-viernes-11-septiembre-rueda-la-letra-138214/"
+      },
+      {
+        "titular": "La Clasificación de la Fórmula 1 en Madrid pincha",
+        "cadena": "Varias",
+        "detalle": "Datos decepcionantes para la clasificación del GP de Madrid el sábado",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-sabado-12-septiembre-clasificacion-f1-138220/"
+      }
+    ]
+  }
+}
