@@ -1,0 +1,52 @@
+{
+  "fecha": "2026-09-14",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "Fin de semana marcado por la Fórmula 1 en Madrid (16,9% el domingo en Telecinco), doble entrevista política de alta relevancia (Pedro Sánchez en El Intermedio vs Juan Vivas en El Hormiguero) y nuevo mínimo de 'Rueda la Letra'",
+  "alertas": {
+    "estrenos": [
+      {
+        "titular": "Iker Jiménez estrenó temporada de 'Cuarto Milenio' con reportaje en Corea del Sur",
+        "cadena": "Cuatro",
+        "detalle": "Nueva temporada con reportaje en zona desmilitarizada de Corea",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/iker-jimenez-se-queda-sin-palabras-corea-sur-hay-robots-con-piel_7036232_0.html"
+      }
+    ],
+    "deportes": [
+      {
+        "titular": "La Fórmula 1 desde el Madring lidera la tarde con un 16,9% en Telecinco",
+        "cadena": "Telecinco",
+        "detalle": "Gran Premio de Madrid lideró el domingo con 16,9% de cuota",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-domingo-13-septiembre-formula-1-madring-138226/"
+      },
+      {
+        "titular": "La Clasificación de la Fórmula 1 en Madrid pincha",
+        "cadena": "Telecinco",
+        "detalle": "La sesión de clasificación del sábado obtuvo peor resultado de lo esperado",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-sabado-12-septiembre-clasificacion-f1-138220/"
+      }
+    ],
+    "especiales": [],
+    "entrevistas": [
+      {
+        "titular": "'El Hormiguero' y 'El Intermedio' se contraprograman: uno entrevista a Juan Vivas y el otro a Pedro Sánchez",
+        "cadena": "Antena 3 / laSexta",
+        "detalle": "Duelo de entrevistas políticas de alto nivel el lunes: Pedro Sánchez en El Intermedio vs Juan Vivas en El Hormiguero",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/hormiguero-intermedio-se-contraprograman-uno-entrevista-juan-vivas-otro-pedro-sanchez_7036420_0.html"
+      }
+    ],
+    "parrilla": [],
+    "records": [
+      {
+        "titular": "'Rueda la Letra' marca un nuevo mínimo",
+        "cadena": "Telecinco",
+        "detalle": "El programa continúa con tendencia negativa y marca nuevo dato mínimo en su primera semana",
+        "fuente": "Fórmula TV / 20minutos TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-sabado-12-septiembre-clasificacion-f1-138220/"
+      }
+    ]
+  }
+}
