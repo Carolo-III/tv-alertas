@@ -1,0 +1,59 @@
+{
+  "fecha": "2026-09-15",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "Pedro Sánchez protagoniza la batalla del access: 'El Intermedio' supera a 'Horizonte' y planta cara a 'La Revuelta'. F1 desde Madring lidera la tarde del domingo.",
+  "alertas": {
+    "estrenos": [
+      {
+        "titular": "Telemadrid estrena 'La huella del crimen', un nuevo 'true crime' que investiga en directo los casos más impactantes de España",
+        "cadena": "Telemadrid",
+        "detalle": "Nuevo programa con demostraciones de medicina forense, balística y ciberseguridad en directo",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/telemadrid-estrena-huella-crimen-un-nuevo-true-crime-que-investiga-directo-los-casos-mas-impactantes-espana_7036573_0.html"
+      },
+      {
+        "titular": "'Congelados', el programa de Àngel Llàcer que pone a prueba la cara de póker de los famosos",
+        "cadena": "",
+        "detalle": "Nuevo formato presentado por Àngel Llàcer sobre control facial de famosos",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/congelados-programa-angel-llacer-que-pone-prueba-cara-poker-los-famosos_7036595_0.html"
+      }
+    ],
+    "deportes": [
+      {
+        "titular": "La Fórmula 1 desde el Madring lidera la tarde con un 16,9% en Telecinco",
+        "cadena": "Telecinco",
+        "detalle": "La F1 desde Madring consigue el liderazgo de la tarde del domingo con 16,9% de cuota",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-domingo-13-septiembre-formula-1-madring-138226/"
+      }
+    ],
+    "especiales": [],
+    "entrevistas": [
+      {
+        "titular": "'El Hormiguero' y 'El Intermedio' se contraprograman este lunes: uno entrevista a Juan Vivas y el otro a Pedro Sánchez",
+        "cadena": "Antena 3 / laSexta",
+        "detalle": "Batalla de entrevistas políticas: Juan Vivas en 'El Hormiguero' vs Pedro Sánchez en 'El Intermedio'",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/hormiguero-intermedio-se-contraprograman-uno-entrevista-juan-vivas-otro-pedro-sanchez_7036420_0.html"
+      },
+      {
+        "titular": "'El intermedio' supera a 'Horizonte' y planta cara a 'La revuelta' con Pedro Sánchez",
+        "cadena": "laSexta",
+        "detalle": "La entrevista a Pedro Sánchez permite a 'El Intermedio' superar a 'Horizonte' y competir con 'La Revuelta'",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-14-septiembre-intermedio-pedro-sanchez-138242/"
+      }
+    ],
+    "parrilla": [],
+    "records": [
+      {
+        "titular": "ANTENA 3 NOTICIAS 1 es lo más visto con 2.221.000 espectadores y 24,5% de cuota el lunes 14 de septiembre",
+        "cadena": "Antena 3",
+        "detalle": "Antena 3 Noticias 1 lidera con más de 2,2 millones de espectadores. Antena 3 es la cadena más vista del día con 15% de cuota",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-14-de-septiembre-2026/"
+      }
+    ]
+  }
+}
