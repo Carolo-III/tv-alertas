@@ -1,0 +1,65 @@
+{
+  "fecha": "2026-09-16",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "Pedro Sánchez entrevistado en El Intermedio consigue buena audiencia; 'En tierra lejana' lidera con 14,3% frente a 'Supervivientes All Stars'; continúa la cobertura especial de la crisis en Ceuta",
+  "alertas": {
+    "estrenos": [],
+    "deportes": [],
+    "especiales": [
+      {
+        "titular": "Un equipo de 'Horizonte' es apedreado en Ceuta: 'Idos de allí, llamad a la Policía'",
+        "cadena": "Cuatro",
+        "detalle": "Cobertura especial de la crisis en Ceuta con incidentes en directo durante la emisión",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/un-equipo-horizonte-es-apedreado-ceuta-idos-alli-llamad-policia_7037339_0.html"
+      },
+      {
+        "titular": "Ceuta esquiva un nuevo intento de entrada masiva, según el jefe de Comunicaciones de la Policía Local: 'La amenaza sigue ahí'",
+        "cadena": "Cuatro",
+        "detalle": "Seguimiento de la crisis de Ceuta en 'Código 10' con declaraciones del jefe de Comunicaciones de Policía Local",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/ceuta-esquiva-un-nuevo-intento-entrada-masiva-segun-jefe-comunicaciones-policia-local-amenaza-sigue-ahi_7037252_0.html"
+      }
+    ],
+    "entrevistas": [
+      {
+        "titular": "'El Intermedio' supera a 'Horizonte' y planta cara a 'La Revuelta' con Pedro Sánchez",
+        "cadena": "laSexta",
+        "detalle": "Entrevista al presidente del Gobierno Pedro Sánchez consigue buena audiencia frente a la competencia",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-14-septiembre-intermedio-pedro-sanchez-138242/"
+      },
+      {
+        "titular": "'El Hormiguero' se impone en audiencia con su entrevista a Juan Vivas, frente a la de Pedro Sánchez en 'El Intermedio'",
+        "cadena": "Antena 3",
+        "detalle": "Entrevista al presidente de Ceuta Juan Vivas en contexto de crisis migratoria supera en audiencia a la entrevista de Sánchez",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/hormiguero-se-impone-audiencia-con-su-entrevista-juan-vivas-frente-pedro-sanchez-intermedio_7037105_0.html"
+      }
+    ],
+    "parrilla": [],
+    "records": [
+      {
+        "titular": "'En tierra lejana' sube y lidera frente a 'Supervivientes All Stars' con un 14,3%",
+        "cadena": "La 1",
+        "detalle": "La ficción turca se impone en prime time del martes con 14,3% frente al reality de Telecinco",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-martes-15-septiembre-en-tierra-lejena-138252/"
+      },
+      {
+        "titular": "ANTENA 3 NOTICIAS 1 es lo más visto de ayer gracias a 2.122.000 espectadores y el 23,7% de cuota",
+        "cadena": "Antena 3",
+        "detalle": "Antena 3 Noticias 1 lidera el día 15 de septiembre con 2,1M y 23,7%; Antena3 cadena más vista con 14,5%",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-15-de-septiembre-2026/"
+      },
+      {
+        "titular": "ANTENA 3 NOTICIAS 1 es lo más visto de ayer gracias a 2.221.000 espectadores y el 24,5% de cuota",
+        "cadena": "Antena 3",
+        "detalle": "Antena 3 Noticias 1 lidera el día 14 de septiembre con 2,2M y 24,5%; Antena3 cadena más vista con 15%",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-14-de-septiembre-2026/"
+      }
+    ]
+  }
+}
