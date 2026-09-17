@@ -1,0 +1,102 @@
+{
+  "fecha": "2026-09-17",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "La isla de las tentaciones lidera con 14% mientras Supervivientes All Stars sigue en emisión; Cristina Tárrega se incorpora a Antena 3 tras 20 años en Telecinco",
+  "alertas": {
+    "estrenos": [
+      {
+        "titular": "Chicote y 'Pesadilla en la cocina' vuelven con fantasma incorporado",
+        "cadena": "laSexta",
+        "detalle": "Regreso del formato de Chicote con nuevo episodio que incluye aparición paranormal en cámara de seguridad",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/chicote-pesadilla-cocina-vuelven-con-fantasma-incorporado-aparece-unas-tomas-una-camara-seguridad_7037589_0.html"
+      },
+      {
+        "titular": "Cristina Tárrega aparecerá en Antena 3 tras veinte años siendo una habitual de Telecinco",
+        "cadena": "Antena 3",
+        "detalle": "Fichaje destacado: la presentadora abandona Telecinco tras dos décadas para incorporarse a Antena 3",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/cristina-tarrega-aparecera-antena-3-tras-veinte-siendo-una-habitual-telecinco_7037637_0.html"
+      }
+    ],
+    "deportes": [],
+    "especiales": [
+      {
+        "titular": "Un equipo de 'Horizonte' es apedreado en Ceuta: 'Idos de allí, llamad a la Policía'",
+        "cadena": "Cuatro",
+        "detalle": "Cobertura especial de la crisis en Ceuta con incidentes de seguridad durante emisión en directo",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/un-equipo-horizonte-es-apedreado-ceuta-idos-alli-llamad-policia_7037339_0.html"
+      },
+      {
+        "titular": "Rafa Latorre, sobre la ausencia del Gobierno en la crisis de Ceuta",
+        "cadena": "laSexta",
+        "detalle": "Comentarios sobre la gestión gubernamental de la crisis de Ceuta en programación de actualidad",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/rafa-latorre-sobre-ausencia-gobierno-crisis-ceuta-moncloa-se-quedo-una-roomba-pasando-por-las-moquetas_7037411_0.html"
+      }
+    ],
+    "entrevistas": [
+      {
+        "titular": "Ada Colau, sin rodeos: 'Eliminaría el ministerio de Vivienda porque es fake'",
+        "cadena": "",
+        "detalle": "Entrevista a la exalcaldesa de Barcelona en 'Cara al Show' con declaraciones polémicas sobre política y vivienda",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/ada-colau-sin-rodeos-eliminaria-ministerio-vivienda-porque-es-fake_7037756_0.html"
+      },
+      {
+        "titular": "Pablo López habla en 'El Hormiguero' del objeto que se lleva a los hoteles cuando está de gira",
+        "cadena": "Antena 3",
+        "detalle": "El artista presenta su nuevo disco 'El Cuarto' tras seis años sin publicar",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/pablo-lopez-habla-hormiguero-objeto-que-se-lleva-los-hoteles-cuando-esta-gira-no-me-he-traido-milagro_7037729_0.html"
+      }
+    ],
+    "parrilla": [
+      {
+        "titular": "Ricardo Castella se ausenta de 'La Revuelta' y contratan a un sustituto que se hace pasar por él",
+        "cadena": "La 1",
+        "detalle": "El programa de Broncano sustituye temporalmente a Ricardo Castella con el actor Javier Losán",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/ricardo-castella-se-ausenta-revuelta-contratan-un-sustituto-que-se-hace-pasar-por-algo-se-ha-hecho_7037539_0.html"
+      },
+      {
+        "titular": "Silvia Intxaurrondo gana el juicio a RTVE, que tendrá que regularizar su situación laboral y adaptar su salario",
+        "cadena": "La 1",
+        "detalle": "La presentadora mantiene su contrato de más de 250.000 euros tras ganar el litigio contra RTVE",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/silvia-intxaurrondo-gana-juicio-rtve-mantiene-su-sueldo-mas-250-000-euros_7037388_0.html"
+      }
+    ],
+    "records": [
+      {
+        "titular": "'La isla de las tentaciones' sube a un 14% y lidera frente a 'El túnel' y 'La Mesa'",
+        "cadena": "Telecinco",
+        "detalle": "El reality de parejas alcanza 14% de share liderando la noche del miércoles 16 de septiembre",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-miercoles-16-septiembre-tentaciones-138260/"
+      },
+      {
+        "titular": "'En tierra lejana' sube y lidera frente a 'Supervivientes All Stars' con un 14,3%",
+        "cadena": "La 1",
+        "detalle": "La serie de La 1 lidera el martes 15 de septiembre con 14,3% frente al reality de Telecinco",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-martes-15-septiembre-en-tierra-lejena-138252/"
+      },
+      {
+        "titular": "ANTENA 3 NOTICIAS 1 es lo más visto con 2.083.000 espectadores y 23,8%",
+        "cadena": "Antena 3",
+        "detalle": "Antena 3 es la cadena líder del día 16 de septiembre con 13,8% de cuota total",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-16-de-septiembre-2026/"
+      },
+      {
+        "titular": "ANTENA 3 NOTICIAS 1 lidera con 2.122.000 espectadores y 23,7%",
+        "cadena": "Antena 3",
+        "detalle": "Antena 3 lidera el día 15 de septiembre con 14,5% de cuota total diaria",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-15-de-septiembre-2026/"
+      }
+    ]
+  }
+}

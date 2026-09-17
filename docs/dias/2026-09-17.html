@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang='es'>
+<head>
+<meta charset='UTF-8'>
+<meta name='viewport' content='width=device-width, initial-scale=1.0'>
+<title>TV Alertas — Jueves 17 de septiembre de 2026</title>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=DM+Sans:wght@300;400;500;600&display=swap');
+
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+:root {
+  --bg: #0a0a0b;
+  --bg2: #111113;
+  --bg3: #1a1a1d;
+  --border: #2a2a2e;
+  --text: #e8e8ec;
+  --text-muted: #6b6b78;
+  --accent: #e8c547;
+}
+
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: 'DM Sans', sans-serif;
+  font-size: 15px;
+  line-height: 1.6;
+  min-height: 100vh;
+}
+
+.site-header {
+  border-bottom: 1px solid var(--border);
+  padding: 20px 32px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  position: sticky;
+  top: 0;
+  background: rgba(10,10,11,0.95);
+  backdrop-filter: blur(8px);
+  z-index: 100;
+}
+
+.site-title {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 24px;
+  letter-spacing: 2px;
+  color: var(--accent);
+}
+
+.site-subtitle {
+  font-size: 12px;
+  color: var(--text-muted);
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+
+.nav-link {
+  color: var(--text-muted);
+  text-decoration: none;
+  font-size: 13px;
+  letter-spacing: 0.5px;
+  transition: color 0.2s;
+}
+.nav-link:hover { color: var(--accent); }
+
+main { max-width: 900px; margin: 0 auto; padding: 40px 24px; }
+
+.fecha-display {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 48px;
+  letter-spacing: 3px;
+  color: var(--text);
+  margin-bottom: 4px;
+}
+
+.resumen-ejecutivo {
+  font-size: 16px;
+  color: var(--text-muted);
+  margin-bottom: 40px;
+  padding-left: 16px;
+  border-left: 3px solid var(--accent);
+}
+
+.sin-alertas {
+  text-align: center;
+  padding: 80px 24px;
+  color: var(--text-muted);
+}
+
+.sin-alertas .icon { font-size: 48px; margin-bottom: 16px; }
+.sin-alertas h2 { font-family: 'Bebas Neue', sans-serif; font-size: 28px; letter-spacing: 2px; margin-bottom: 8px; color: var(--text); }
+
+.categoria-bloque { margin-bottom: 40px; }
+
+.categoria-header {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 16px;
+  padding-bottom: 8px;
+  border-bottom: 1px solid var(--border);
+}
+
+.categoria-icon { font-size: 20px; }
+
+.categoria-label {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 20px;
+  letter-spacing: 2px;
+}
+
+.categoria-count {
+  font-size: 12px;
+  padding: 2px 8px;
+  border-radius: 12px;
+  background: var(--bg3);
+  color: var(--text-muted);
+  font-weight: 500;
+}
+
+.alerta-card {
+  background: var(--bg2);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 16px 20px;
+  margin-bottom: 10px;
+  border-left: 3px solid transparent;
+  transition: border-color 0.2s, background 0.2s;
+}
+
+.alerta-card:hover { background: var(--bg3); }
+
+.alerta-titular {
+  font-weight: 600;
+  font-size: 15px;
+  margin-bottom: 4px;
+  color: var(--text);
+}
+
+.alerta-detalle {
+  font-size: 13px;
+  color: var(--text-muted);
+  margin-bottom: 6px;
+}
+
+.alerta-meta {
+  display: flex;
+  gap: 12px;
+  font-size: 12px;
+}
+
+.badge-cadena {
+  background: var(--bg3);
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  padding: 1px 7px;
+  color: var(--text-muted);
+}
+
+.badge-fuente { color: var(--text-muted); font-style: italic; }
+
+.alerta-link {
+  color: var(--text);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: border-color 0.2s, color 0.2s;
+}
+.alerta-link:hover { color: var(--accent); border-bottom-color: var(--accent); }
+
+.historico-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 12px;
+  margin-top: 24px;
+}
+
+.dia-card {
+  background: var(--bg2);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 16px;
+  text-decoration: none;
+  display: block;
+  transition: border-color 0.2s, background 0.2s;
+}
+
+.dia-card:hover { background: var(--bg3); border-color: var(--accent); }
+
+.dia-fecha {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 18px;
+  letter-spacing: 1px;
+  color: var(--text);
+  margin-bottom: 4px;
+}
+
+.dia-alertas { font-size: 12px; color: var(--text-muted); }
+
+.dia-dot {
+  display: inline-block;
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: var(--accent);
+  margin-right: 6px;
+  vertical-align: middle;
+}
+
+.dia-sin-alertas .dia-dot { background: var(--border); }
+
+footer {
+  border-top: 1px solid var(--border);
+  padding: 20px 32px;
+  text-align: center;
+  font-size: 12px;
+  color: var(--text-muted);
+  letter-spacing: 0.5px;
+}
+</style>
+</head>
+<body>
+<header class="site-header"><div><div class="site-title">TV ALERTAS</div><div class="site-subtitle">Monitor de televisión española</div></div><a href="../index.html" class="nav-link">← Histórico</a></header>
+<main>
+<div class="fecha-display">JUEVES 17 DE SEPTIEMBRE DE 2026</div>
+<div class="resumen-ejecutivo">La isla de las tentaciones lidera con 14% mientras Supervivientes All Stars sigue en emisión; Cristina Tárrega se incorpora a Antena 3 tras 20 años en Telecinco</div>
+<div class="categoria-bloque"><div class="categoria-header"><span class="categoria-icon">🎬</span><span class="categoria-label" style="color:#e8c547">Estrenos</span><span class="categoria-count">2</span></div><div class="alerta-card" style="border-left-color:#e8c547"><div class="alerta-titular"><a href="https://www.20minutos.es/television/chicote-pesadilla-cocina-vuelven-con-fantasma-incorporado-aparece-unas-tomas-una-camara-seguridad_7037589_0.html" target="_blank" rel="noopener" class="alerta-link">Chicote y 'Pesadilla en la cocina' vuelven con fantasma incorporado</a></div><div class='alerta-detalle'>Regreso del formato de Chicote con nuevo episodio que incluye aparición paranormal en cámara de seguridad</div><div class="alerta-meta"><span class='badge-cadena'>laSexta</span><span class='badge-fuente'>20minutos TV</span></div></div><div class="alerta-card" style="border-left-color:#e8c547"><div class="alerta-titular"><a href="https://www.20minutos.es/television/cristina-tarrega-aparecera-antena-3-tras-veinte-siendo-una-habitual-telecinco_7037637_0.html" target="_blank" rel="noopener" class="alerta-link">Cristina Tárrega aparecerá en Antena 3 tras veinte años siendo una habitual de Telecinco</a></div><div class='alerta-detalle'>Fichaje destacado: la presentadora abandona Telecinco tras dos décadas para incorporarse a Antena 3</div><div class="alerta-meta"><span class='badge-cadena'>Antena 3</span><span class='badge-fuente'>20minutos TV</span></div></div></div><div class="categoria-bloque"><div class="categoria-header"><span class="categoria-icon">⭐</span><span class="categoria-label" style="color:#e847a3">Especiales / Galas</span><span class="categoria-count">2</span></div><div class="alerta-card" style="border-left-color:#e847a3"><div class="alerta-titular"><a href="https://www.20minutos.es/television/un-equipo-horizonte-es-apedreado-ceuta-idos-alli-llamad-policia_7037339_0.html" target="_blank" rel="noopener" class="alerta-link">Un equipo de 'Horizonte' es apedreado en Ceuta: 'Idos de allí, llamad a la Policía'</a></div><div class='alerta-detalle'>Cobertura especial de la crisis en Ceuta con incidentes de seguridad durante emisión en directo</div><div class="alerta-meta"><span class='badge-cadena'>Cuatro</span><span class='badge-fuente'>20minutos TV</span></div></div><div class="alerta-card" style="border-left-color:#e847a3"><div class="alerta-titular"><a href="https://www.20minutos.es/television/rafa-latorre-sobre-ausencia-gobierno-crisis-ceuta-moncloa-se-quedo-una-roomba-pasando-por-las-moquetas_7037411_0.html" target="_blank" rel="noopener" class="alerta-link">Rafa Latorre, sobre la ausencia del Gobierno en la crisis de Ceuta</a></div><div class='alerta-detalle'>Comentarios sobre la gestión gubernamental de la crisis de Ceuta en programación de actualidad</div><div class="alerta-meta"><span class='badge-cadena'>laSexta</span><span class='badge-fuente'>20minutos TV</span></div></div></div><div class="categoria-bloque"><div class="categoria-header"><span class="categoria-icon">🎙️</span><span class="categoria-label" style="color:#a347e8">Entrevistas</span><span class="categoria-count">2</span></div><div class="alerta-card" style="border-left-color:#a347e8"><div class="alerta-titular"><a href="https://www.20minutos.es/television/ada-colau-sin-rodeos-eliminaria-ministerio-vivienda-porque-es-fake_7037756_0.html" target="_blank" rel="noopener" class="alerta-link">Ada Colau, sin rodeos: 'Eliminaría el ministerio de Vivienda porque es fake'</a></div><div class='alerta-detalle'>Entrevista a la exalcaldesa de Barcelona en 'Cara al Show' con declaraciones polémicas sobre política y vivienda</div><div class="alerta-meta"><span class='badge-fuente'>20minutos TV</span></div></div><div class="alerta-card" style="border-left-color:#a347e8"><div class="alerta-titular"><a href="https://www.20minutos.es/television/pablo-lopez-habla-hormiguero-objeto-que-se-lleva-los-hoteles-cuando-esta-gira-no-me-he-traido-milagro_7037729_0.html" target="_blank" rel="noopener" class="alerta-link">Pablo López habla en 'El Hormiguero' del objeto que se lleva a los hoteles cuando está de gira</a></div><div class='alerta-detalle'>El artista presenta su nuevo disco 'El Cuarto' tras seis años sin publicar</div><div class="alerta-meta"><span class='badge-cadena'>Antena 3</span><span class='badge-fuente'>20minutos TV</span></div></div></div><div class="categoria-bloque"><div class="categoria-header"><span class="categoria-icon">📋</span><span class="categoria-label" style="color:#e87347">Cambios de parrilla</span><span class="categoria-count">2</span></div><div class="alerta-card" style="border-left-color:#e87347"><div class="alerta-titular"><a href="https://www.20minutos.es/television/ricardo-castella-se-ausenta-revuelta-contratan-un-sustituto-que-se-hace-pasar-por-algo-se-ha-hecho_7037539_0.html" target="_blank" rel="noopener" class="alerta-link">Ricardo Castella se ausenta de 'La Revuelta' y contratan a un sustituto que se hace pasar por él</a></div><div class='alerta-detalle'>El programa de Broncano sustituye temporalmente a Ricardo Castella con el actor Javier Losán</div><div class="alerta-meta"><span class='badge-cadena'>La 1</span><span class='badge-fuente'>20minutos TV</span></div></div><div class="alerta-card" style="border-left-color:#e87347"><div class="alerta-titular"><a href="https://www.20minutos.es/television/silvia-intxaurrondo-gana-juicio-rtve-mantiene-su-sueldo-mas-250-000-euros_7037388_0.html" target="_blank" rel="noopener" class="alerta-link">Silvia Intxaurrondo gana el juicio a RTVE, que tendrá que regularizar su situación laboral y adaptar su salario</a></div><div class='alerta-detalle'>La presentadora mantiene su contrato de más de 250.000 euros tras ganar el litigio contra RTVE</div><div class="alerta-meta"><span class='badge-cadena'>La 1</span><span class='badge-fuente'>20minutos TV</span></div></div></div><div class="categoria-bloque"><div class="categoria-header"><span class="categoria-icon">📊</span><span class="categoria-label" style="color:#47e87e">Récords</span><span class="categoria-count">4</span></div><div class="alerta-card" style="border-left-color:#47e87e"><div class="alerta-titular"><a href="https://www.formulatv.com/noticias/audiencias-miercoles-16-septiembre-tentaciones-138260/" target="_blank" rel="noopener" class="alerta-link">'La isla de las tentaciones' sube a un 14% y lidera frente a 'El túnel' y 'La Mesa'</a></div><div class='alerta-detalle'>El reality de parejas alcanza 14% de share liderando la noche del miércoles 16 de septiembre</div><div class="alerta-meta"><span class='badge-cadena'>Telecinco</span><span class='badge-fuente'>Fórmula TV</span></div></div><div class="alerta-card" style="border-left-color:#47e87e"><div class="alerta-titular"><a href="https://www.formulatv.com/noticias/audiencias-martes-15-septiembre-en-tierra-lejena-138252/" target="_blank" rel="noopener" class="alerta-link">'En tierra lejana' sube y lidera frente a 'Supervivientes All Stars' con un 14,3%</a></div><div class='alerta-detalle'>La serie de La 1 lidera el martes 15 de septiembre con 14,3% frente al reality de Telecinco</div><div class="alerta-meta"><span class='badge-cadena'>La 1</span><span class='badge-fuente'>Fórmula TV</span></div></div><div class="alerta-card" style="border-left-color:#47e87e"><div class="alerta-titular"><a href="https://barloventocomunicacion.es/audiencias-diarias/audiencias-16-de-septiembre-2026/" target="_blank" rel="noopener" class="alerta-link">ANTENA 3 NOTICIAS 1 es lo más visto con 2.083.000 espectadores y 23,8%</a></div><div class='alerta-detalle'>Antena 3 es la cadena líder del día 16 de septiembre con 13,8% de cuota total</div><div class="alerta-meta"><span class='badge-cadena'>Antena 3</span><span class='badge-fuente'>Barlovento Comunicación</span></div></div><div class="alerta-card" style="border-left-color:#47e87e"><div class="alerta-titular"><a href="https://barloventocomunicacion.es/audiencias-diarias/audiencias-15-de-septiembre-2026/" target="_blank" rel="noopener" class="alerta-link">ANTENA 3 NOTICIAS 1 lidera con 2.122.000 espectadores y 23,7%</a></div><div class='alerta-detalle'>Antena 3 lidera el día 15 de septiembre con 14,5% de cuota total diaria</div><div class="alerta-meta"><span class='badge-cadena'>Antena 3</span><span class='badge-fuente'>Barlovento Comunicación</span></div></div></div>
+</main>
+<footer>Generado automáticamente · Fuentes: Barlovento, Fórmula TV, Vertele, DOS30</footer>
+</body>
+</html>
