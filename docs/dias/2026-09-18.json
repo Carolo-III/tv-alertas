@@ -1,0 +1,59 @@
+{
+  "fecha": "2026-09-18",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "MasterChef Junior abandona RTVE para emitirse en Disney+; 'Supervivientes All Stars' cae a mínimo del 14%; continúan los buenos datos de 'La isla de las tentaciones'",
+  "alertas": {
+    "estrenos": [
+      {
+        "titular": "Chicote y 'Pesadilla en la cocina' vuelven con fantasma incorporado",
+        "cadena": "laSexta",
+        "detalle": "Nueva temporada de 'Pesadilla en la cocina' con un episodio especial que incluye apariciones en cámaras de seguridad",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/chicote-pesadilla-cocina-vuelven-con-fantasma-incorporado-aparece-unas-tomas-una-camara-seguridad_7037589_0.html"
+      }
+    ],
+    "deportes": [],
+    "especiales": [],
+    "entrevistas": [
+      {
+        "titular": "Ada Colau, sin rodeos: 'Eliminaría el ministerio de Vivienda porque es fake'",
+        "cadena": "",
+        "detalle": "Entrevista a la exalcaldesa de Barcelona en 'Cara al Show' con declaraciones sobre Aznar, Netanyahu y Vox",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/ada-colau-sin-rodeos-eliminaria-ministerio-vivienda-porque-es-fake_7037756_0.html"
+      }
+    ],
+    "parrilla": [
+      {
+        "titular": "'MasterChef Junior' se desvincula de RTVE y emitirá su temporada 12 en Disney+",
+        "cadena": "La 1",
+        "detalle": "Movimiento estratégico importante: el programa abandona La 1 tras años de emisión y se traslada a la plataforma Disney+",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/masterchef-junior-se-desvincula-rtve-emitira-su-temporada-12-disney_7038303_0.html"
+      },
+      {
+        "titular": "Las protestas garífunas mueven 'Supervivientes' a una nueva localización lejos de los Cayos Cochinos",
+        "cadena": "Telecinco",
+        "detalle": "Cambio de localización del reality por protestas de la comunidad garífuna",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/las-protestas-garifunas-mueven-supervivientes-una-nueva-localizacion-lejos-los-cayos-cochinos_7038387_0.html"
+      }
+    ],
+    "records": [
+      {
+        "titular": "'Supervivientes All Stars' cae a un 14% y 'Horizonte' se mantiene como segunda opción",
+        "cadena": "Telecinco",
+        "detalle": "Caída significativa de audiencia del reality a un 14%, dato negativo para el programa",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-jueves-17-septiembre-supervivientes-138268/"
+      },
+      {
+        "titular": "'La isla de las tentaciones' sube a un 14% y lidera frente a 'El túnel' y 'La Mesa'",
+        "cadena": "Telecinco",
+        "detalle": "El reality consigue liderar su franja con un 14% de cuota, mejorando sus datos",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-miercoles-16-septiembre-tentaciones-138260/"
+      }
+    ]
+  }
+}
