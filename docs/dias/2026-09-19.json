@@ -1,0 +1,74 @@
+{
+  "fecha": "2026-09-19",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "Regreso exitoso de 'La Voz' liderando el viernes, 'MasterChef Junior' abandona RTVE para ir a Disney+, y estreno del documental 'Lorca, las horas perdidas' en La 1",
+  "alertas": {
+    "estrenos": [
+      {
+        "titular": "'La Voz' lidera en su regreso en Antena 3 y 'Lorca, las horas perdidas' destaca en La 1",
+        "cadena": "Antena 3 / La 1",
+        "detalle": "Regreso exitoso de 'La Voz' liderando audiencias el viernes, mientras que el documental 'Lorca, las horas perdidas' destaca en La 1",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-viernes-18-septiembre-la-voz-lorca-138274/"
+      },
+      {
+        "titular": "El documental 'Diana Unheard' contará con audios inéditos de Lady Di en los que habla sobre Carlos, Camila y el expríncipe Andrés",
+        "cadena": "",
+        "detalle": "Documental con audios inéditos de cinco horas de Lady Di revelando conversaciones sobre la familia real británica",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/documental-diana-unheard-contara-con-audios-ineditos-lady-di-los-que-habla-sobre-carlos-camila-exprincipe-andres_7038291_0.html"
+      }
+    ],
+    "deportes": [],
+    "especiales": [
+      {
+        "titular": "Miguel Poveda celebra el poema oculto de Lorca que puso en duda a los expertos",
+        "cadena": "",
+        "detalle": "Programa especial sobre el manuscrito inédito de Lorca comprado en anticuario alemán, tras la polémica sobre su autenticidad",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/miguel-poveda-celebra-poema-oculto-lorca-que-puso-duda-los-expertos-por-fin-se-puede-celebrar-tras-tantas-vueltas_7038271_0.html"
+      }
+    ],
+    "entrevistas": [
+      {
+        "titular": "Julio Iglesias Jr. recuerda en 'El Hormiguero' la devoción que sentía su padre por Tamara Falcó",
+        "cadena": "Antena 3",
+        "detalle": "Entrevista con Julio Iglesias Jr. donde habla de su infancia y la relación de su padre con Tamara Falcó",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/julio-iglesias-jr-recuerda-hormiguero-devocion-que-sentia-su-padre-por-tamara-falco-queria-mas-que-nosotros_7038709_0.html"
+      }
+    ],
+    "parrilla": [
+      {
+        "titular": "'MasterChef Junior' se desvincula de RTVE y emitirá su temporada 12 en Disney+",
+        "cadena": "La 1",
+        "detalle": "Cambio estratégico importante: MasterChef Junior abandona La 1 tras años en antena para mudarse a plataforma Disney+",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/masterchef-junior-se-desvincula-rtve-emitira-su-temporada-12-disney_7038303_0.html"
+      },
+      {
+        "titular": "Las protestas garífunas mueven 'Supervivientes' a una nueva localización lejos de los Cayos Cochinos",
+        "cadena": "Telecinco",
+        "detalle": "Cambio de ubicación del reality por protestas locales, afectando la producción del programa",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/las-protestas-garifunas-mueven-supervivientes-una-nueva-localizacion-lejos-los-cayos-cochinos_7038387_0.html"
+      }
+    ],
+    "records": [
+      {
+        "titular": "'Supervivientes All Stars' cae a un 14% y 'Horizonte' se mantiene como segunda opción",
+        "cadena": "Telecinco",
+        "detalle": "Caída notable de audiencia de Supervivientes All Stars hasta el 14%, dato llamativo para el reality estrella",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-jueves-17-septiembre-supervivientes-138268/"
+      },
+      {
+        "titular": "ANTENA 3 NOTICIAS 1 es lo más visto de ayer gracias a 2.229.000 espectadores y el 24,9 % de cuota",
+        "cadena": "Antena 3",
+        "detalle": "Antena 3 Noticias 1 lidera con casi 2,3 millones y 24,9%, siendo Antena 3 la cadena más vista del día con 14,5%",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-18-de-septiembre-2026/"
+      }
+    ]
+  }
+}
