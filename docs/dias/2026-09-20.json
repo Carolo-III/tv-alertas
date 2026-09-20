@@ -1,0 +1,58 @@
+{
+  "fecha": "2026-09-20",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "Antena 3 domina con el regreso de 'La Voz' en viernes y lidera audiencias de fin de semana; La 1 destaca con 'Lorca, las horas perdidas'",
+  "alertas": {
+    "estrenos": [
+      {
+        "titular": "Atresplayer estrena este domingo 'A la deriva', la nueva serie de ficción protagonizada por Paula Echeverría",
+        "cadena": "Antena 3 (Atresplayer)",
+        "detalle": "Drama ambientado en los años 70 sobre marineros que regresan tras ser dados por muertos",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/atresplayer-estrena-este-domingo-deriva-nueva-serie-ficcion-protagonizada-por-paula-echeverria_7038859_0.html"
+      },
+      {
+        "titular": "'La Voz' lidera en su regreso en Antena 3",
+        "cadena": "Antena 3",
+        "detalle": "Regreso del talent show con liderazgo en viernes 18 de septiembre",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-viernes-18-septiembre-la-voz-lorca-138274/"
+      }
+    ],
+    "deportes": [],
+    "especiales": [
+      {
+        "titular": "'Lorca, las horas perdidas' destaca en La 1",
+        "cadena": "La 1",
+        "detalle": "Programa especial sobre Lorca con buen rendimiento en viernes 18 de septiembre",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-viernes-18-septiembre-la-voz-lorca-138274/"
+      }
+    ],
+    "entrevistas": [],
+    "parrilla": [],
+    "records": [
+      {
+        "titular": "ANTENA 3 NOTICIAS 1 es lo más visto del viernes con 2.229.000 espectadores y 24,9% de cuota",
+        "cadena": "Antena 3",
+        "detalle": "Antena 3 cadena más vista del día con 14,5% de cuota de pantalla",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-18-de-septiembre-2026/"
+      },
+      {
+        "titular": "ANTENA 3 NOTICIAS 1 FIN DE SEMANA es lo más visto del sábado con 1.750.000 espectadores y 21,7%",
+        "cadena": "Antena 3",
+        "detalle": "Temáticas de Pago lideran el día como conjunto con 17% de cuota",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-19-de-septiembre-2026/"
+      },
+      {
+        "titular": "'La ruleta de la suerte noche' lidera con un 10,6% y Cuatro supera a Telecinco",
+        "cadena": "Cuatro",
+        "detalle": "Dato relevante: Cuatro por encima de Telecinco en sábado 19 de septiembre",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-sabado-19-septiembre-ruleta-suerte-138279/"
+      }
+    ]
+  }
+}
