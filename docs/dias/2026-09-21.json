@@ -1,0 +1,58 @@
+{
+  "fecha": "2026-09-21",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "Fin de semana con liderazgo de 'San Andrés' en prime time, 'La Revuelta' cambia estrategia anunciando invitados, y Cuatro supera a Telecinco el sábado.",
+  "alertas": {
+    "estrenos": [],
+    "deportes": [],
+    "especiales": [],
+    "entrevistas": [
+      {
+        "titular": "'La Revuelta' cambia de estrategia y comienza a anunciar sus invitados: José Mota y Malú",
+        "cadena": "La 1",
+        "detalle": "El programa de Broncano cambia de estrategia comunicativa y anuncia próximas entrevistas destacadas",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/revuelta-cambia-estrategia-comienza-anunciar-sus-invitados-jose-mota-malu_7039351_0.html"
+      },
+      {
+        "titular": "Las reflexiones (serias) de Joaquín Reyes en 'Salvados'",
+        "cadena": "laSexta",
+        "detalle": "Entrevista destacada al cómico con confesiones personales y profesionales",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/las-reflexiones-serias-joaquin-reyes-salvados-soy-catolico-practicante_7038885_3.html"
+      }
+    ],
+    "parrilla": [
+      {
+        "titular": "'La ruleta de la suerte noche' lidera con un 10,6% y Cuatro supera a Telecinco",
+        "cadena": "Cuatro",
+        "detalle": "Cuatro consigue superar a Telecinco en audiencia el sábado 19 de septiembre",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-sabado-19-septiembre-ruleta-suerte-138279/"
+      }
+    ],
+    "records": [
+      {
+        "titular": "'San Andrés' lidera frente a 'El Secreto' y 'Supervivientes All Stars'",
+        "cadena": "Antena 3",
+        "detalle": "La ficción se impone en el prime time del domingo 20 de septiembre",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-domingo-20-septiembre-san-andres-lidera-138289/"
+      },
+      {
+        "titular": "ANTENA 3 NOTICIAS 1 FIN DE SEMANA lidera con 1.716.000 espectadores y 19,1%",
+        "cadena": "Antena 3",
+        "detalle": "Lo más visto del domingo 20 de septiembre, con fuerte resultado del informativo",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-20-de-septiembre-2026/"
+      },
+      {
+        "titular": "ANTENA 3 NOTICIAS 1 FIN DE SEMANA logra 1.750.000 espectadores y 21,7%",
+        "cadena": "Antena 3",
+        "detalle": "Lo más visto del sábado 19 de septiembre, con excelente desempeño del informativo",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-19-de-septiembre-2026/"
+      }
+    ]
+  }
+}
