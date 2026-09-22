@@ -1,0 +1,88 @@
+{
+  "fecha": "2026-09-22",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "Antena 3 domina con récord de audiencia en noticias (23,7%), mientras La 1 lidera la ficción con 'En tierra lejana' y Telecinco mantiene sus realities.",
+  "alertas": {
+    "estrenos": [
+      {
+        "titular": "José Mota se estrena como director con 'Arriba Tutto'",
+        "cadena": "",
+        "detalle": "El cómico presenta en La Revuelta su debut cinematográfico como director",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/sorprendente-respuesta-jose-mota-revuelta-pregunta-sexo-eyacular-te-resta-vida_7039559_0.html"
+      }
+    ],
+    "deportes": [],
+    "especiales": [
+      {
+        "titular": "Cristina Pedroche vuelve a 'Zapeando' tras siete meses de ausencia",
+        "cadena": "laSexta",
+        "detalle": "La colaboradora regresa al programa después de una ausencia prolongada por decisión personal",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/cristina-pedroche-vuelve-zapeando-siete-meses-despues-explica-su-ausencia-es-un-privilegio-poder-elegir-esta-situacion_7039666_0.html"
+      }
+    ],
+    "entrevistas": [
+      {
+        "titular": "Ferran Torres en 'El Hormiguero' habla de su gol en la segunda Copa del Mundo de España",
+        "cadena": "Antena 3",
+        "detalle": "El futbolista visitó el programa para hablar de su trayectoria y el gol que dio la victoria del Mundial",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/ferran-torres-pablo-motos-recuerdan-hormiguero-su-encuentro-ibiza-compartimos-una-noche-muy-feliz-larga_7039562_0.html"
+      },
+      {
+        "titular": "Tamara Gorro regresa a televisión y se emociona al hablar de su enfermedad en 'Y ahora Sonsoles'",
+        "cadena": "Antena 3",
+        "detalle": "La influencer se abre en canal sobre su situación de salud tras su ausencia televisiva",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/tamara-gorro-regresa-television-se-rompe-hablar-su-dura-enfermedad-tengo-miedo_7039600_0.html"
+      }
+    ],
+    "parrilla": [
+      {
+        "titular": "'La Revuelta' cambia de estrategia y comienza a anunciar sus invitados: José Mota y Malú",
+        "cadena": "La 1",
+        "detalle": "El programa de Broncano modifica su política de comunicación y ahora anuncia previamente a sus invitados",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/revuelta-cambia-estrategia-comienza-anunciar-sus-invitados-jose-mota-malu_7039351_0.html"
+      },
+      {
+        "titular": "Laura Moure se despide de 'La ruleta de la suerte' por su baja de maternidad",
+        "cadena": "Antena 3",
+        "detalle": "La azafata se despide temporalmente del programa para su maternidad",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/ruleta-suerte-despide-con-un-regalo-laura-moure-empezar-su-baja-maternidad-te-estaremos-esperando_7039691_0.html"
+      },
+      {
+        "titular": "El presidente de RTVE propondrá al Consejo que España siga sin participar en Eurovisión",
+        "cadena": "La 1",
+        "detalle": "Decisión estratégica sobre la participación española en el festival europeo",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/presidente-rtve-propondra-consejo-que-espana-siga-sin-participar-eurovision_7039741_0.html"
+      }
+    ],
+    "records": [
+      {
+        "titular": "ANTENA 3 NOTICIAS 1 logra récord con 2.208.000 espectadores y 23,7% de cuota",
+        "cadena": "Antena 3",
+        "detalle": "El informativo lidera el día con cifras excepcionales, consolidando a Antena 3 como cadena más vista (14,5%)",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-21-de-septiembre-2026/"
+      },
+      {
+        "titular": "'En tierra lejana' mantiene el liderazgo pese a la mejoría de 'La isla de las tentaciones'",
+        "cadena": "La 1",
+        "detalle": "La ficción de La 1 continúa dominando frente a la competencia de Telecinco",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-lunes-21-septiembre-en-tierra-lejana-138300/"
+      },
+      {
+        "titular": "'San Andrés' lidera frente a 'El Secreto' y 'Supervivientes All Stars'",
+        "cadena": "La 1",
+        "detalle": "La serie domina el domingo frente a la competencia de Antena 3 y Telecinco",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-domingo-20-septiembre-san-andres-lidera-138289/"
+      }
+    ]
+  }
+}
