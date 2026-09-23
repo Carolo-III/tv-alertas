@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang='es'>
+<head>
+<meta charset='UTF-8'>
+<meta name='viewport' content='width=device-width, initial-scale=1.0'>
+<title>TV Alertas — Miércoles 23 de septiembre de 2026</title>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=DM+Sans:wght@300;400;500;600&display=swap');
+
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+:root {
+  --bg: #0a0a0b;
+  --bg2: #111113;
+  --bg3: #1a1a1d;
+  --border: #2a2a2e;
+  --text: #e8e8ec;
+  --text-muted: #6b6b78;
+  --accent: #e8c547;
+}
+
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: 'DM Sans', sans-serif;
+  font-size: 15px;
+  line-height: 1.6;
+  min-height: 100vh;
+}
+
+.site-header {
+  border-bottom: 1px solid var(--border);
+  padding: 20px 32px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  position: sticky;
+  top: 0;
+  background: rgba(10,10,11,0.95);
+  backdrop-filter: blur(8px);
+  z-index: 100;
+}
+
+.site-title {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 24px;
+  letter-spacing: 2px;
+  color: var(--accent);
+}
+
+.site-subtitle {
+  font-size: 12px;
+  color: var(--text-muted);
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+
+.nav-link {
+  color: var(--text-muted);
+  text-decoration: none;
+  font-size: 13px;
+  letter-spacing: 0.5px;
+  transition: color 0.2s;
+}
+.nav-link:hover { color: var(--accent); }
+
+main { max-width: 900px; margin: 0 auto; padding: 40px 24px; }
+
+.fecha-display {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 48px;
+  letter-spacing: 3px;
+  color: var(--text);
+  margin-bottom: 4px;
+}
+
+.resumen-ejecutivo {
+  font-size: 16px;
+  color: var(--text-muted);
+  margin-bottom: 40px;
+  padding-left: 16px;
+  border-left: 3px solid var(--accent);
+}
+
+.sin-alertas {
+  text-align: center;
+  padding: 80px 24px;
+  color: var(--text-muted);
+}
+
+.sin-alertas .icon { font-size: 48px; margin-bottom: 16px; }
+.sin-alertas h2 { font-family: 'Bebas Neue', sans-serif; font-size: 28px; letter-spacing: 2px; margin-bottom: 8px; color: var(--text); }
+
+.categoria-bloque { margin-bottom: 40px; }
+
+.categoria-header {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 16px;
+  padding-bottom: 8px;
+  border-bottom: 1px solid var(--border);
+}
+
+.categoria-icon { font-size: 20px; }
+
+.categoria-label {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 20px;
+  letter-spacing: 2px;
+}
+
+.categoria-count {
+  font-size: 12px;
+  padding: 2px 8px;
+  border-radius: 12px;
+  background: var(--bg3);
+  color: var(--text-muted);
+  font-weight: 500;
+}
+
+.alerta-card {
+  background: var(--bg2);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 16px 20px;
+  margin-bottom: 10px;
+  border-left: 3px solid transparent;
+  transition: border-color 0.2s, background 0.2s;
+}
+
+.alerta-card:hover { background: var(--bg3); }
+
+.alerta-titular {
+  font-weight: 600;
+  font-size: 15px;
+  margin-bottom: 4px;
+  color: var(--text);
+}
+
+.alerta-detalle {
+  font-size: 13px;
+  color: var(--text-muted);
+  margin-bottom: 6px;
+}
+
+.alerta-meta {
+  display: flex;
+  gap: 12px;
+  font-size: 12px;
+}
+
+.badge-cadena {
+  background: var(--bg3);
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  padding: 1px 7px;
+  color: var(--text-muted);
+}
+
+.badge-fuente { color: var(--text-muted); font-style: italic; }
+
+.alerta-link {
+  color: var(--text);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: border-color 0.2s, color 0.2s;
+}
+.alerta-link:hover { color: var(--accent); border-bottom-color: var(--accent); }
+
+.historico-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 12px;
+  margin-top: 24px;
+}
+
+.dia-card {
+  background: var(--bg2);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 16px;
+  text-decoration: none;
+  display: block;
+  transition: border-color 0.2s, background 0.2s;
+}
+
+.dia-card:hover { background: var(--bg3); border-color: var(--accent); }
+
+.dia-fecha {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 18px;
+  letter-spacing: 1px;
+  color: var(--text);
+  margin-bottom: 4px;
+}
+
+.dia-alertas { font-size: 12px; color: var(--text-muted); }
+
+.dia-dot {
+  display: inline-block;
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: var(--accent);
+  margin-right: 6px;
+  vertical-align: middle;
+}
+
+.dia-sin-alertas .dia-dot { background: var(--border); }
+
+footer {
+  border-top: 1px solid var(--border);
+  padding: 20px 32px;
+  text-align: center;
+  font-size: 12px;
+  color: var(--text-muted);
+  letter-spacing: 0.5px;
+}
+</style>
+</head>
+<body>
+<header class="site-header"><div><div class="site-title">TV ALERTAS</div><div class="site-subtitle">Monitor de televisión española</div></div><a href="../index.html" class="nav-link">← Histórico</a></header>
+<main>
+<div class="fecha-display">MIÉRCOLES 23 DE SEPTIEMBRE DE 2026</div>
+<div class="resumen-ejecutivo">RTVE propone seguir sin participar en Eurovisión 2027; La 1 adelanta el final de 'El túnel' con dobles capítulos; 'En tierra lejana' lidera audiencias frente a realities de competencia</div>
+<div class="categoria-bloque"><div class="categoria-header"><span class="categoria-icon">🎬</span><span class="categoria-label" style="color:#e8c547">Estrenos</span><span class="categoria-count">3</span></div><div class="alerta-card" style="border-left-color:#e8c547"><div class="alerta-titular"><a href="https://www.20minutos.es/television/raphael-camilo-seran-los-protagonistas-los-especiales-musicales-navidad-1_7040053_0.html" target="_blank" rel="noopener" class="alerta-link">Raphael y Camilo serán los protagonistas de los especiales musicales de Navidad de La 1</a></div><div class='alerta-detalle'>La 1 anuncia especiales navideños con Raphael (veterano recurrente desde 1965) y Camilo como sorpresa</div><div class="alerta-meta"><span class='badge-cadena'>La 1</span><span class='badge-fuente'>20minutos TV</span></div></div><div class="alerta-card" style="border-left-color:#e8c547"><div class="alerta-titular"><a href="https://www.20minutos.es/television/quien-brain-perez-sustituto-laura-moure-azafato-ruleta-suerte_7040228_0.html" target="_blank" rel="noopener" class="alerta-link">Quién es Brain Pérez, el sustituto de Laura Moure como azafato en 'La Ruleta de la Suerte'</a></div><div class='alerta-detalle'>Brain Pérez sustituye a Laura Moure como azafato en 'La Ruleta de la Suerte' durante su baja por maternidad</div><div class="alerta-meta"><span class='badge-cadena'>Antena 3</span><span class='badge-fuente'>20minutos TV</span></div></div><div class="alerta-card" style="border-left-color:#e8c547"><div class="alerta-titular"><a href="https://www.20minutos.es/television/cristina-pedroche-vuelve-zapeando-siete-meses-despues-explica-su-ausencia-es-un-privilegio-poder-elegir-esta-situacion_7039666_0.html" target="_blank" rel="noopener" class="alerta-link">Cristina Pedroche vuelve a 'Zapeando' siete meses después</a></div><div class='alerta-detalle'>Pedroche regresa a 'Zapeando' tras siete meses de ausencia para promocionar 'Congelados'</div><div class="alerta-meta"><span class='badge-cadena'>laSexta</span><span class='badge-fuente'>20minutos TV</span></div></div></div><div class="categoria-bloque"><div class="categoria-header"><span class="categoria-icon">⭐</span><span class="categoria-label" style="color:#e847a3">Especiales / Galas</span><span class="categoria-count">1</span></div><div class="alerta-card" style="border-left-color:#e847a3"><div class="alerta-titular"><a href="https://www.20minutos.es/television/benidorm-fest-2027-se-celebrara-23-30-enero_7039968_0.html" target="_blank" rel="noopener" class="alerta-link">El Benidorm Fest 2027 se celebrará del 23 al 30 de enero</a></div><div class='alerta-detalle'>La sexta edición del festival de La 1 adelanta su emisión a enero</div><div class="alerta-meta"><span class='badge-cadena'>La 1</span><span class='badge-fuente'>20minutos TV</span></div></div></div><div class="categoria-bloque"><div class="categoria-header"><span class="categoria-icon">🎙️</span><span class="categoria-label" style="color:#a347e8">Entrevistas</span><span class="categoria-count">4</span></div><div class="alerta-card" style="border-left-color:#a347e8"><div class="alerta-titular"><a href="https://www.20minutos.es/television/malu-descoloca-broncano-con-su-respuesta-sobre-sexo-necesitaria-una-auditoria_7040268_0.html" target="_blank" rel="noopener" class="alerta-link">Malú descoloca a Broncano con su respuesta sobre el sexo en 'La Revuelta'</a></div><div class='alerta-detalle'>Malú visita 'La Revuelta' para promocionar su 'Quince Tour' con declaraciones destacadas</div><div class="alerta-meta"><span class='badge-cadena'>La 1</span><span class='badge-fuente'>20minutos TV</span></div></div><div class="alerta-card" style="border-left-color:#a347e8"><div class="alerta-titular"><a href="https://www.20minutos.es/television/pepa-charro-cuenta-hormiguero-como-le-gustaria-vivir-cuando-sea-mayor-todos-desnudos-una-comuna_7040077_0.html" target="_blank" rel="noopener" class="alerta-link">Pepa Charro cuenta en 'El Hormiguero' cómo le gustaría vivir cuando sea mayor</a></div><div class='alerta-detalle'>Pepa Charro y Julián López visitan 'El Hormiguero' para presentar la obra '53 domingos'</div><div class="alerta-meta"><span class='badge-cadena'>Antena 3</span><span class='badge-fuente'>20minutos TV</span></div></div><div class="alerta-card" style="border-left-color:#a347e8"><div class="alerta-titular"><a href="https://www.20minutos.es/television/ferran-torres-pablo-motos-recuerdan-hormiguero-su-encuentro-ibiza-compartimos-una-noche-muy-feliz-larga_7039562_0.html" target="_blank" rel="noopener" class="alerta-link">Ferran Torres y Pablo Motos recuerdan en 'El Hormiguero' su encuentro en Ibiza</a></div><div class='alerta-detalle'>El futbolista habla de su trayectoria y el gol que dio a España la victoria en su segunda copa del Mundo</div><div class="alerta-meta"><span class='badge-cadena'>Antena 3</span><span class='badge-fuente'>20minutos TV</span></div></div><div class="alerta-card" style="border-left-color:#a347e8"><div class="alerta-titular"><a href="https://www.20minutos.es/television/tamara-gorro-regresa-television-se-rompe-hablar-su-dura-enfermedad-tengo-miedo_7039600_0.html" target="_blank" rel="noopener" class="alerta-link">Tamara Gorro regresa a televisión y se rompe al hablar de su enfermedad en 'Y ahora Sonsoles'</a></div><div class='alerta-detalle'>La influencer se abre en canal sobre su enfermedad en el programa de Sonsoles Ónega</div><div class="alerta-meta"><span class='badge-cadena'>Antena 3</span><span class='badge-fuente'>20minutos TV</span></div></div></div><div class="categoria-bloque"><div class="categoria-header"><span class="categoria-icon">📋</span><span class="categoria-label" style="color:#e87347">Cambios de parrilla</span><span class="categoria-count">3</span></div><div class="alerta-card" style="border-left-color:#e87347"><div class="alerta-titular"><a href="https://www.20minutos.es/television/1-adelanta-final-tunel-que-tendra-doble-capitulo-entregara-los-150-000-euros-premio_7039928_0.html" target="_blank" rel="noopener" class="alerta-link">La 1 acelera el final de 'El túnel', que tendrá doble capítulo y entregará los 150.000 euros</a></div><div class='alerta-detalle'>La 1 adelanta el final de 'El túnel' con semifinal el 22 y final el 23 de septiembre, ambos tras 'La Revuelta'</div><div class="alerta-meta"><span class='badge-cadena'>La 1</span><span class='badge-fuente'>20minutos TV</span></div></div><div class="alerta-card" style="border-left-color:#e87347"><div class="alerta-titular"><a href="https://www.20minutos.es/television/boca-todos-amplia-su-horario-cuatro-empezara-mas-temprano-con-nuevos-rivales-parrilla_7039907_0.html" target="_blank" rel="noopener" class="alerta-link">'En boca de todos' amplía su horario en Cuatro y empezará más temprano</a></div><div class='alerta-detalle'>El programa amplía su horario en Cuatro con nuevo inicio más temprano y nuevos rivales en parrilla</div><div class="alerta-meta"><span class='badge-cadena'>Cuatro</span><span class='badge-fuente'>20minutos TV</span></div></div><div class="alerta-card" style="border-left-color:#e87347"><div class="alerta-titular"><a href="https://www.20minutos.es/television/presidente-rtve-propondra-consejo-que-espana-siga-sin-participar-eurovision_7039741_0.html" target="_blank" rel="noopener" class="alerta-link">El presidente de RTVE propondrá al Consejo que España siga sin participar en Eurovisión</a></div><div class='alerta-detalle'>RTVE continuará fuera de Eurovisión; la UER manifiesta decepción y espera su regreso futura</div><div class="alerta-meta"><span class='badge-cadena'>La 1</span><span class='badge-fuente'>20minutos TV</span></div></div></div><div class="categoria-bloque"><div class="categoria-header"><span class="categoria-icon">📊</span><span class="categoria-label" style="color:#47e87e">Récords</span><span class="categoria-count">3</span></div><div class="alerta-card" style="border-left-color:#47e87e"><div class="alerta-titular"><a href="https://www.formulatv.com/noticias/audiencias-martes-22-septiembre-horizonte-138311/" target="_blank" rel="noopener" class="alerta-link">'Horizonte' supera 'La revuelta' y 'En tierra lejana' es lo más visto de la noche</a></div><div class='alerta-detalle'>'Horizonte' bate a 'La Revuelta' el martes 22; 'En tierra lejana' lidera la noche</div><div class="alerta-meta"><span class='badge-cadena'>Varias</span><span class='badge-fuente'>Fórmula TV</span></div></div><div class="alerta-card" style="border-left-color:#47e87e"><div class="alerta-titular"><a href="https://www.formulatv.com/noticias/audiencias-lunes-21-septiembre-en-tierra-lejana-138300/" target="_blank" rel="noopener" class="alerta-link">'En tierra lejana' mantiene el liderazgo pese a la mejoría de 'La isla de las tentaciones'</a></div><div class='alerta-detalle'>'En tierra lejana' conserva el liderazgo del lunes 21 a pesar de la recuperación de 'La isla de las tentaciones'</div><div class="alerta-meta"><span class='badge-cadena'>Varias</span><span class='badge-fuente'>Fórmula TV</span></div></div><div class="alerta-card" style="border-left-color:#47e87e"><div class="alerta-titular"><a href="https://barloventocomunicacion.es/audiencias-diarias/audiencias-22-de-septiembre-2026/" target="_blank" rel="noopener" class="alerta-link">ANTENA 3 NOTICIAS 1 es lo más visto del 22 de septiembre con 2.277.000 y 24,8%</a></div><div class='alerta-detalle'>Antena 3 Noticias 1 logra 2.277.000 espectadores (24,8%); Antena 3 es la cadena más vista del día con 14,6%</div><div class="alerta-meta"><span class='badge-cadena'>Antena 3</span><span class='badge-fuente'>Barlovento Comunicación</span></div></div></div>
+</main>
+<footer>Generado automáticamente · Fuentes: Barlovento, Fórmula TV, Vertele, DOS30</footer>
+</body>
+</html>

@@ -1,0 +1,116 @@
+{
+  "fecha": "2026-09-23",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "RTVE propone seguir sin participar en Eurovisión 2027; La 1 adelanta el final de 'El túnel' con dobles capítulos; 'En tierra lejana' lidera audiencias frente a realities de competencia",
+  "alertas": {
+    "estrenos": [
+      {
+        "titular": "Raphael y Camilo serán los protagonistas de los especiales musicales de Navidad de La 1",
+        "cadena": "La 1",
+        "detalle": "La 1 anuncia especiales navideños con Raphael (veterano recurrente desde 1965) y Camilo como sorpresa",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/raphael-camilo-seran-los-protagonistas-los-especiales-musicales-navidad-1_7040053_0.html"
+      },
+      {
+        "titular": "Quién es Brain Pérez, el sustituto de Laura Moure como azafato en 'La Ruleta de la Suerte'",
+        "cadena": "Antena 3",
+        "detalle": "Brain Pérez sustituye a Laura Moure como azafato en 'La Ruleta de la Suerte' durante su baja por maternidad",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/quien-brain-perez-sustituto-laura-moure-azafato-ruleta-suerte_7040228_0.html"
+      },
+      {
+        "titular": "Cristina Pedroche vuelve a 'Zapeando' siete meses después",
+        "cadena": "laSexta",
+        "detalle": "Pedroche regresa a 'Zapeando' tras siete meses de ausencia para promocionar 'Congelados'",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/cristina-pedroche-vuelve-zapeando-siete-meses-despues-explica-su-ausencia-es-un-privilegio-poder-elegir-esta-situacion_7039666_0.html"
+      }
+    ],
+    "deportes": [],
+    "especiales": [
+      {
+        "titular": "El Benidorm Fest 2027 se celebrará del 23 al 30 de enero",
+        "cadena": "La 1",
+        "detalle": "La sexta edición del festival de La 1 adelanta su emisión a enero",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/benidorm-fest-2027-se-celebrara-23-30-enero_7039968_0.html"
+      }
+    ],
+    "entrevistas": [
+      {
+        "titular": "Malú descoloca a Broncano con su respuesta sobre el sexo en 'La Revuelta'",
+        "cadena": "La 1",
+        "detalle": "Malú visita 'La Revuelta' para promocionar su 'Quince Tour' con declaraciones destacadas",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/malu-descoloca-broncano-con-su-respuesta-sobre-sexo-necesitaria-una-auditoria_7040268_0.html"
+      },
+      {
+        "titular": "Pepa Charro cuenta en 'El Hormiguero' cómo le gustaría vivir cuando sea mayor",
+        "cadena": "Antena 3",
+        "detalle": "Pepa Charro y Julián López visitan 'El Hormiguero' para presentar la obra '53 domingos'",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/pepa-charro-cuenta-hormiguero-como-le-gustaria-vivir-cuando-sea-mayor-todos-desnudos-una-comuna_7040077_0.html"
+      },
+      {
+        "titular": "Ferran Torres y Pablo Motos recuerdan en 'El Hormiguero' su encuentro en Ibiza",
+        "cadena": "Antena 3",
+        "detalle": "El futbolista habla de su trayectoria y el gol que dio a España la victoria en su segunda copa del Mundo",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/ferran-torres-pablo-motos-recuerdan-hormiguero-su-encuentro-ibiza-compartimos-una-noche-muy-feliz-larga_7039562_0.html"
+      },
+      {
+        "titular": "Tamara Gorro regresa a televisión y se rompe al hablar de su enfermedad en 'Y ahora Sonsoles'",
+        "cadena": "Antena 3",
+        "detalle": "La influencer se abre en canal sobre su enfermedad en el programa de Sonsoles Ónega",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/tamara-gorro-regresa-television-se-rompe-hablar-su-dura-enfermedad-tengo-miedo_7039600_0.html"
+      }
+    ],
+    "parrilla": [
+      {
+        "titular": "La 1 acelera el final de 'El túnel', que tendrá doble capítulo y entregará los 150.000 euros",
+        "cadena": "La 1",
+        "detalle": "La 1 adelanta el final de 'El túnel' con semifinal el 22 y final el 23 de septiembre, ambos tras 'La Revuelta'",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/1-adelanta-final-tunel-que-tendra-doble-capitulo-entregara-los-150-000-euros-premio_7039928_0.html"
+      },
+      {
+        "titular": "'En boca de todos' amplía su horario en Cuatro y empezará más temprano",
+        "cadena": "Cuatro",
+        "detalle": "El programa amplía su horario en Cuatro con nuevo inicio más temprano y nuevos rivales en parrilla",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/boca-todos-amplia-su-horario-cuatro-empezara-mas-temprano-con-nuevos-rivales-parrilla_7039907_0.html"
+      },
+      {
+        "titular": "El presidente de RTVE propondrá al Consejo que España siga sin participar en Eurovisión",
+        "cadena": "La 1",
+        "detalle": "RTVE continuará fuera de Eurovisión; la UER manifiesta decepción y espera su regreso futura",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/presidente-rtve-propondra-consejo-que-espana-siga-sin-participar-eurovision_7039741_0.html"
+      }
+    ],
+    "records": [
+      {
+        "titular": "'Horizonte' supera 'La revuelta' y 'En tierra lejana' es lo más visto de la noche",
+        "cadena": "Varias",
+        "detalle": "'Horizonte' bate a 'La Revuelta' el martes 22; 'En tierra lejana' lidera la noche",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-martes-22-septiembre-horizonte-138311/"
+      },
+      {
+        "titular": "'En tierra lejana' mantiene el liderazgo pese a la mejoría de 'La isla de las tentaciones'",
+        "cadena": "Varias",
+        "detalle": "'En tierra lejana' conserva el liderazgo del lunes 21 a pesar de la recuperación de 'La isla de las tentaciones'",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-lunes-21-septiembre-en-tierra-lejana-138300/"
+      },
+      {
+        "titular": "ANTENA 3 NOTICIAS 1 es lo más visto del 22 de septiembre con 2.277.000 y 24,8%",
+        "cadena": "Antena 3",
+        "detalle": "Antena 3 Noticias 1 logra 2.277.000 espectadores (24,8%); Antena 3 es la cadena más vista del día con 14,6%",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-22-de-septiembre-2026/"
+      }
+    ]
+  }
+}
