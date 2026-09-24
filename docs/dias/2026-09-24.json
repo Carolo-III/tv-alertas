@@ -1,0 +1,95 @@
+{
+  "fecha": "2026-09-24",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "laSexta cambia parrilla con especial sobre vivienda; 'En tierra lejana' lidera la noche; Brian Pérez debuta como azafato en 'La Ruleta'; Belén Esteban vuelve a Telecinco",
+  "alertas": {
+    "estrenos": [
+      {
+        "titular": "Quién es Brian Pérez, el sustituto de Laura Moure como azafato en 'La Ruleta de la Suerte'",
+        "cadena": "Antena 3",
+        "detalle": "Brian Pérez se estrena como azafato sustituyendo a Laura Moure durante su baja por maternidad",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/quien-brain-perez-sustituto-laura-moure-azafato-ruleta-suerte_7040228_0.html"
+      },
+      {
+        "titular": "Belén Esteban vuelve a Telecinco",
+        "cadena": "Telecinco",
+        "detalle": "Regreso de Belén Esteban a la cadena tras su ausencia",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/belen-esteban-vuelve-telecinco_7040388_0.html"
+      }
+    ],
+    "deportes": [],
+    "especiales": [
+      {
+        "titular": "La Sexta cambia este jueves 'Pesadilla en la cocina' por un especial de 'El Objetivo' dedicado a la vivienda",
+        "cadena": "laSexta",
+        "detalle": "Programa especial sobre la crisis de vivienda sustituye emisión regular de 'Pesadilla en la cocina'",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/sexta-cambia-este-jueves-pesadilla-cocina-por-un-especial-objetivo-dedicado-vivienda_7040835_0.html"
+      }
+    ],
+    "entrevistas": [
+      {
+        "titular": "Pedro Alonso comparte en 'La Revuelta' su rutina de meditación",
+        "cadena": "La 1",
+        "detalle": "Pedro Alonso visita 'La Revuelta' para promocionar 'El Juicio' en Prime Video",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/pedro-alonso-comparte-revuelta-su-rutina-meditacion-me-cambio-vida_7040599_0.html"
+      },
+      {
+        "titular": "Bertín Osborne sorprende en 'El Hormiguero' con sus dotes de ballet",
+        "cadena": "Antena 3",
+        "detalle": "Bertín Osborne acude a 'El Hormiguero' para hablar de sus nuevos proyectos",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/bertin-osborne-demuestra-hormiguero-sus-dotes-ballet-los-pies-45-grados-para-pas-bourree-una-tijereta_7040601_0.html"
+      },
+      {
+        "titular": "Malú descoloca a Broncano con su respuesta sobre el sexo",
+        "cadena": "La 1",
+        "detalle": "Malú visita 'La Revuelta' y responde a las preguntas clásicas de Broncano",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/malu-descoloca-broncano-con-su-respuesta-sobre-sexo-necesitaria-una-auditoria_7040268_0.html"
+      }
+    ],
+    "parrilla": [
+      {
+        "titular": "La Sexta cambia este jueves 'Pesadilla en la cocina' por un especial de 'El Objetivo' dedicado a la vivienda",
+        "cadena": "laSexta",
+        "detalle": "Cambio de programación: especial sobre vivienda sustituye programa habitual",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/sexta-cambia-este-jueves-pesadilla-cocina-por-un-especial-objetivo-dedicado-vivienda_7040835_0.html"
+      },
+      {
+        "titular": "'Salvados', obligado a rectificar una información vertida en su especial sobre Rita Barberá",
+        "cadena": "laSexta",
+        "detalle": "Rectificación obligada tras información incorrecta sobre Rita Barberá y el caso Taula",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/salvados-obligado-rectificar-una-informacion-vertida-su-especial-sobre-rita-barbera_7040435_0.html"
+      }
+    ],
+    "records": [
+      {
+        "titular": "'Horizonte' supera 'La revuelta' y 'En tierra lejana' es lo más visto de la noche",
+        "cadena": "Varias",
+        "detalle": "'Horizonte' supera a 'La Revuelta' en audiencia; 'En tierra lejana' lidera la noche del martes 22",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-martes-22-septiembre-horizonte-138311/"
+      },
+      {
+        "titular": "'En tierra lejana' mantiene el liderazgo pese a la mejoría de 'La isla de las tentaciones'",
+        "cadena": "Varias",
+        "detalle": "'En tierra lejana' líder del lunes 21; 'La isla de las tentaciones' mejora datos",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-lunes-21-septiembre-en-tierra-lejana-138300/"
+      },
+      {
+        "titular": "Audiencias 22 de septiembre 2026",
+        "cadena": "Antena 3",
+        "detalle": "Antena 3 Noticias 1 lidera con 2.277.000 espectadores (24,8%); Antena 3 cadena más vista del día con 14,6%",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-22-de-septiembre-2026/"
+      }
+    ]
+  }
+}
