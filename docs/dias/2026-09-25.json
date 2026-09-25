@@ -1,0 +1,81 @@
+{
+  "fecha": "2026-09-25",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "Atresmedia recupera 'Compañeros' 25 años después; cambio de parrilla en laSexta por especial sobre vivienda; Antena 3 Noticias 1 líder del día anterior con 25,3%",
+  "alertas": {
+    "estrenos": [
+      {
+        "titular": "Atresmedia recupera 'Compañeros' 25 años después de su final con Antonio Hortelano y Eva Santolaria como primeros confirmados",
+        "cadena": "Antena 3",
+        "detalle": "Regreso de la icónica serie tras 25 años, producción conjunta Atresmedia-Globomedia-Filmax",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/atresmedia-recupera-companeros-25-anos-despues-su-final-con-antonio-hortelano-eva-santolaria-como-primeros-confirmados_7041034_0.html"
+      },
+      {
+        "titular": "Atresplayer estrena la sexta edición de 'Drag Race España' con un giro inédito en la mecánica, un potente 'casting' y nuevo plató",
+        "cadena": "Antena 3",
+        "detalle": "Nueva temporada con Chanel como jurado invitada en el estreno y cambios en la mecánica del programa",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/atresplayer-estrena-sexta-edicion-drag-race-espana-con-un-giro-inedito-mecanica-un-potente-casting-nuevo-plato_7040986_0.html"
+      }
+    ],
+    "deportes": [],
+    "especiales": [
+      {
+        "titular": "La Sexta cambia este jueves 'Pesadilla en la cocina' por un especial de 'El Objetivo' dedicado a la vivienda",
+        "cadena": "laSexta",
+        "detalle": "Programa especial sobre vivienda sustituye emisión habitual, motivado por actualidad del caso Maricarmen",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/sexta-cambia-este-jueves-pesadilla-cocina-por-un-especial-objetivo-dedicado-vivienda_7040835_0.html"
+      },
+      {
+        "titular": "El conmovedor reportaje de Andrea Ropero y 'El Intermedio' desde la casa de Maricarmen",
+        "cadena": "laSexta",
+        "detalle": "Reportaje especial sobre el desahucio de Maricarmen con gran impacto emocional",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/conmovedor-reportaje-andrea-ropero-intemerdio-desde-casa-maricarmen-me-he-puesto-llorar-inenarrable_7040782_0.html"
+      }
+    ],
+    "entrevistas": [
+      {
+        "titular": "Amenábar recuerda en 'El Hormiguero' su reacción al enterarse de que iba a trabajar con Tom Cruise",
+        "cadena": "Antena 3",
+        "detalle": "Director de cine visita programa para celebrar 30 aniversario del estreno de 'Tesis'",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/amenabar-recuerda-hormiguero-su-reaccion-enterarse-que-iba-trabajar-con-tom-cruise-mi-nivel-ingles-era-fatal_7041131_0.html"
+      }
+    ],
+    "parrilla": [
+      {
+        "titular": "Belén Esteban, sobre su vuelta a Telecinco: 'Estoy un poco nerviosa'",
+        "cadena": "Telecinco",
+        "detalle": "Regreso de la colaboradora a Mediaset en 'De viernes' tras ausencia",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/belen-esteban-sobre-su-vuelta-telecinco-estoy-un-poco-nerviosa_7041015_0.html"
+      }
+    ],
+    "records": [
+      {
+        "titular": "ANTENA 3 NOTICIAS 1 es lo más visto de ayer gracias a 2.231.000 espectadores y el 25,3 % de cuota",
+        "cadena": "Antena 3",
+        "detalle": "Liderazgo del día 24 septiembre con datos destacados, Antena 3 cadena más vista con 14% de cuota",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-24-de-septiembre-2026/"
+      },
+      {
+        "titular": "'Supervivientes All Stars' sube y lidera y 'Horizonte' se mantiene como segunda opción",
+        "cadena": "Telecinco",
+        "detalle": "Reality lidera la noche del jueves 24 septiembre con subida de audiencia",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-jueves-24-septiembre-supervivientes-138326/"
+      },
+      {
+        "titular": "'El túnel: avanza y gana' se despide con un 11,1% y 'El intermedio' sube a un 8,7%",
+        "cadena": "Varias",
+        "detalle": "Final de programa con datos notables y subida de 'El Intermedio' en contexto del caso Maricarmen",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-miercoles-23-septiembre-desahucio-138320/"
+      }
+    ]
+  }
+}
