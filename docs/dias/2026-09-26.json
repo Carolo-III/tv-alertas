@@ -1,0 +1,102 @@
+{
+  "fecha": "2026-09-26",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "Belén Esteban lidera la noche del viernes con su regreso a Telecinco en 'De Viernes' alcanzando un 18,7% de share.",
+  "alertas": {
+    "estrenos": [
+      {
+        "titular": "Aida Bao y Aitor Albizua presentarán el nuevo programa de fin de semana de La 1: 'Cosas Nuestras'",
+        "cadena": "La 1",
+        "detalle": "Nuevo programa de fin de semana en La 1 con Aida Bao y Aitor Albizua",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/aida-bao-aitor-albizua-presentaran-nuevo-programa-fin-semana-1-cosas-nuestras_7041473_0.html"
+      },
+      {
+        "titular": "Atresplayer estrena la sexta edición de 'Drag Race España' con un giro inédito en la mecánica, un potente 'casting' y nuevo plató",
+        "cadena": "Atresplayer",
+        "detalle": "Nueva temporada de 'Drag Race España' con novedades en mecánica y plató, con Chanel como jurado invitada",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/atresplayer-estrena-sexta-edicion-drag-race-espana-con-un-giro-inedito-mecanica-un-potente-casting-nuevo-plato_7040986_0.html"
+      },
+      {
+        "titular": "Frank Cuesta anuncia que prepara un programa con su mujer y sus hijos: 'Tenemos mucha ilusión'",
+        "cadena": "",
+        "detalle": "Frank Cuesta trabaja en nuevo programa familiar",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/frank-cuesta-anuncia-que-prepara-un-programa-con-su-mujer-sus-hijos-tenemos-mucha-ilusion_7041485_0.html"
+      }
+    ],
+    "deportes": [],
+    "especiales": [
+      {
+        "titular": "'Cuelgamuros, entre lo difícil y lo imposible': la TV por primera vez dentro de las criptas",
+        "cadena": "",
+        "detalle": "Documental con grabación inédita en las criptas de Cuelgamuros",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/cuelgamuros-entre-dificil-imposible-tv-por-primera-vez-dentro-las-criptas_7041404_3.html"
+      }
+    ],
+    "entrevistas": [
+      {
+        "titular": "Belén Esteban reaparece en Telecinco para dar su entrevista más esperada: 'Ha sido por mi hija'",
+        "cadena": "Telecinco",
+        "detalle": "Belén Esteban regresa a Telecinco respondiendo a polémicas con Juls Janeiro",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/belen-esteban-reaparece-telecinco-para-dar-su-entrevista-mas-esperada-ha-sido-por-mi-hija_7041606_0.html"
+      },
+      {
+        "titular": "'Salvados' pone a Rufián frente al espejo para analizar la situación de la izquierda: 'Si no nos unimos, merecemos que nos arrasen'",
+        "cadena": "laSexta",
+        "detalle": "Gabriel Rufián analiza la situación de la izquierda en 'Salvados'",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/salvados-pone-rufian-frente-espejo-para-analizar-situacion-izquierda-si-no-nos-unimos-merecemos-que-nos-arrasen_7041450_0.html"
+      }
+    ],
+    "parrilla": [
+      {
+        "titular": "Belén Esteban será colaboradora de 'De viernes', según Alberto Guzmán",
+        "cadena": "Telecinco",
+        "detalle": "Belén Esteban se incorpora como colaboradora fija de 'De viernes'",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/belen-esteban-sera-colaboradora-viernes-segun-alberto-guzman_7041526_0.html"
+      },
+      {
+        "titular": "Pablo Ojeda deja 'El verano se mueve', de Telecinco, por el testimonio de Steisy sobre la pérdida de peso: 'No me pareció ético'",
+        "cadena": "Telecinco",
+        "detalle": "El nutricionista abandona el programa por desacuerdo con testimonio de Steisy",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/pablo-ojeda-deja-verano-se-mueve-telecinco-por-testimonio-steisy-sobre-perdida-peso-no-me-parecio-etico_7041412_0.html"
+      },
+      {
+        "titular": "Guti, nuevo fichaje de 'El Chiringuito'",
+        "cadena": "",
+        "detalle": "Guti se incorpora como nuevo colaborador de 'El Chiringuito'",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/guti-nuevo-fichaje-chiringuito_7041230_0.html"
+      }
+    ],
+    "records": [
+      {
+        "titular": "Belén Esteban vuelve a Telecinco por todo lo alto: '¡De Viernes!' lidera con un 18,7%",
+        "cadena": "Telecinco",
+        "detalle": "El regreso de Belén Esteban en 'De Viernes' lidera la noche con 18,7% de share",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-viernes-25-septiembre-belen-esteban-138340/"
+      },
+      {
+        "titular": "El regreso de Belén Esteban a Telecinco: las claves televisivas y sociológicas de un éxito",
+        "cadena": "Telecinco",
+        "detalle": "La reaparición de Belén Esteban dispara la audiencia de Telecinco",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/regreso-belen-esteban-telecinco-las-claves-televisivas-sociologicas-un-exito_7041638_3.html"
+      },
+      {
+        "titular": "'Supervivientes All Stars' sube y lidera y 'Horizonte' se mantiene como segunda opción",
+        "cadena": "Telecinco",
+        "detalle": "'Supervivientes All Stars' mejora audiencias y lidera el jueves 24 de septiembre",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-jueves-24-septiembre-supervivientes-138326/"
+      }
+    ]
+  }
+}
