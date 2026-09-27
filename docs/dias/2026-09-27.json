@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-09-27",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "El partido España-Inglaterra de la UEFA Nations League arrasa con 43% en La 1, mientras Belén Esteban logra un exitoso regreso a Telecinco con 18,7% en '¡De Viernes!'",
+  "alertas": {
+    "estrenos": [
+      {
+        "titular": "'Drag Race España' estrena este domingo su sexta edición con 12 concursantes y 50.000 euros de premio",
+        "cadena": "",
+        "detalle": "Nueva temporada con cambios en mecánica, taller y pasarela renovados, Supreme de Luxe al frente",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/drag-race-espana-estrena-este-domingo-su-sexta-edicion-con-12-concursantes-50-000-euros-premio_7041704_0.html"
+      }
+    ],
+    "deportes": [
+      {
+        "titular": "El Inglaterra - España de la UEFA Nations League barre en La 1 con un 43%",
+        "cadena": "La 1",
+        "detalle": "4.356.000 espectadores y 43% de cuota, convierte a La 1 en líder del día con 17,5%",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-sabado-26-septiembre-inglaterra-espana-138344/"
+      }
+    ],
+    "especiales": [
+      {
+        "titular": "Belén Esteban reaparece en Telecinco para dar su entrevista más esperada",
+        "cadena": "Telecinco",
+        "detalle": "Entrevista personal sobre adicción a drogas y su hija, primera aparición tras 3 años fuera de la cadena",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/belen-esteban-reaparece-telecinco-para-dar-su-entrevista-mas-esperada-ha-sido-por-mi-hija_7041606_0.html"
+      },
+      {
+        "titular": "Los padres de Edwin Arrieta hablan en exclusiva en 'Fiesta' tras la desestimación de los recursos de Daniel Sancho",
+        "cadena": "Telecinco",
+        "detalle": "Entrevista exclusiva tras confirmarse cadena perpetua para Daniel Sancho",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/los-padres-edwin-arrieta-hablan-exclusiva-fiesta-tras-desestimacion-los-recursos-daniel-sancho_7041760_0.html"
+      }
+    ],
+    "entrevistas": [
+      {
+        "titular": "Belén Esteban se sincera sobre su adicción a las drogas en su entrevista más personal",
+        "cadena": "Telecinco",
+        "detalle": "Entrevista con Santi Acosta en '¡De Viernes!' tras tres años fuera de Telecinco",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/belen-esteban-se-sincera-sobre-su-adiccion-las-drogas-que-me-ayudo-realmente-fue-mi-hija-sali_7041731_0.html"
+      }
+    ],
+    "parrilla": [
+      {
+        "titular": "Fernando Díaz de la Guardia regresa a la televisión tras recuperarse de su parálisis facial",
+        "cadena": "Canal Sur",
+        "detalle": "Regresa al frente del informativo 'Andalucía mediodía' tras ausencia por problemas de salud",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/fernando-diaz-guardia-regresa-television-tras-recuperarse-su-paralisis-facial-amor-me-ha-salvado-vida_7041750_0.html"
+      }
+    ],
+    "records": [
+      {
+        "titular": "Belén Esteban vuelve a Telecinco por todo lo alto: '¡De Viernes!' lidera con un 18,7%",
+        "cadena": "Telecinco",
+        "detalle": "Regreso exitoso dispara audiencia de la cadena, liderando la noche del viernes",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-viernes-25-septiembre-belen-esteban-138340/"
+      },
+      {
+        "titular": "FUTBOL:UEFA NATIONS LEAGUE es lo más visto con 4.356.000 espectadores y 43% de cuota",
+        "cadena": "La 1",
+        "detalle": "La 1 líder del día con 17,5% gracias al partido España-Inglaterra",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-26-de-septiembre-2026/"
+      }
+    ]
+  }
+}
