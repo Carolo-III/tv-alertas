@@ -1,0 +1,80 @@
+{
+  "fecha": "2026-09-28",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "Inglaterra - España en UEFA Nations League arrasa con 43% en La 1, mientras 'Gladiator II' lidera el domingo con 15,5%",
+  "alertas": {
+    "estrenos": [
+      {
+        "titular": "RTVE presenta la canción con la que Lucas Paulano representa a España en Eurovisión Júnior 2026: así suena 'Cuore Bello'",
+        "cadena": "La 1",
+        "detalle": "Presentación oficial de la canción española para Eurovisión Junior",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/eurovision/rtve-presenta-cancion-con-que-lucas-paulano-representa-espana-eurovision-junior-2026-asi-suena-cuore-bello_7042266_0.html"
+      },
+      {
+        "titular": "'La Revuelta' anuncia sus invitados de la semana, entre grandes cocineros, deportistas y cirujanos que 'cambian el mundo'",
+        "cadena": "La 1",
+        "detalle": "Programación semanal del programa de entretenimiento",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/revuelta-anuncia-sus-invitados-semana-entre-grandes-cocineros-deportistas-cirujanos-que-cambian-mundo_7042079_0.html"
+      }
+    ],
+    "deportes": [
+      {
+        "titular": "FUTBOL:UEFA NATIONS LEAGUE (La1) es lo más visto de ayer gracias a 4.356.000 espectadores como promedio y el 43 % de cuota de pantalla",
+        "cadena": "La 1",
+        "detalle": "Partido UEFA Nations League logra máxima audiencia del sábado 26 septiembre",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-26-de-septiembre-2026/"
+      },
+      {
+        "titular": "El Inglaterra - España de la UEFA Nations League barre en La 1 con un 43%",
+        "cadena": "La 1",
+        "detalle": "Retransmisión deportiva internacional destaca en audiencias del sábado",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-sabado-26-septiembre-inglaterra-espana-138344/"
+      }
+    ],
+    "especiales": [],
+    "entrevistas": [
+      {
+        "titular": "Gabriel Rufián, en 'Salvados': 'Los vaquilla de ahora son los migrantes pobres ... ¿Eso es racista decirlo? Pero si es la verdad'",
+        "cadena": "laSexta",
+        "detalle": "Entrevista al portavoz de ERC en programa de actualidad política",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/gabriel-rufian-salvados-los-vaquilla-ahora-son-los-migrantes-pobres-eso-es-racista-decirlo-pero-si-es-verdad_7042134_0.html"
+      },
+      {
+        "titular": "Los Javis serán los invitados de 'Cara al show con Marc Giró'",
+        "cadena": "",
+        "detalle": "Entrevista a los directores y guionistas en programa de entretenimiento",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/los-javis-seran-los-invitados-cara-show-con-marc-giro-que-lanza-una-pullita-ana-rosa-no-paga-los-cacahuetes-nomina_7042267_0.html"
+      }
+    ],
+    "parrilla": [],
+    "records": [
+      {
+        "titular": "ANTENA 3 NOTICIAS 1 FIN DE SEMANA es lo más visto de ayer gracias a 1.868.000 espectadores como promedio y el 21,2 % de cuota de pantalla",
+        "cadena": "Antena 3",
+        "detalle": "Informativo fin de semana lidera audiencias del domingo 27 septiembre",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-27-de-septiembre-2026/"
+      },
+      {
+        "titular": "'Gladiator II' aprovecha el fútbol y lidera la noche del domingo con un 15,5%",
+        "cadena": "",
+        "detalle": "Película logra liderazgo en prime time dominical",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-domingo-27-septiembre-gladiator-ii-138350/"
+      },
+      {
+        "titular": "Youtube promedia 41 minutos de tiempo por persona al día en agosto, lo que supone el 15,5% del share audiovisual agregado, su máximo mensual",
+        "cadena": "",
+        "detalle": "Récord histórico de consumo de YouTube en España",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-mensuales/el-rosco-del-consumo-audiovisual-2/"
+      }
+    ]
+  }
+}
