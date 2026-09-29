@@ -1,0 +1,66 @@
+{
+  "fecha": "2026-09-29",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "La isla de las tentaciones lidera el lunes con 14,1%, mientras que Gladiator II arrasa el domingo con 15,5% aprovechando el fútbol; Al cielo con ella regresa a La 1 renovado",
+  "alertas": {
+    "estrenos": [
+      {
+        "titular": "'Al cielo con ella' vuelve a La 1 con una imagen renovada y Sergio Peris-Mencheta y Pilar Eyre como invitados",
+        "cadena": "La 1",
+        "detalle": "Nueva temporada con plató renovado, decoración con terciopelo rojo y dorados, y barra de bar",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/cielo-con-ella-vuelve-1-con-una-imagen-renovada-sergio-peris-mencheta-pilar-eyre-como-invitados_7042436_0.html"
+      },
+      {
+        "titular": "'MasterChef Junior 12' ya tiene fecha de estreno en Disney+ tras su salida de RTVE",
+        "cadena": "Disney+",
+        "detalle": "El programa abandona RTVE y se estrena en plataforma de streaming",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/masterchef-junior-12-ya-tiene-fecha-estreno-disney-tras-su-salida-rtve_7042336_0.html"
+      }
+    ],
+    "deportes": [
+      {
+        "titular": "'Gladiator II' aprovecha el fútbol y lidera la noche del domingo con un 15,5%",
+        "cadena": "",
+        "detalle": "La película aprovecha la programación deportiva para liderar con notable share",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-domingo-27-septiembre-gladiator-ii-138350/"
+      }
+    ],
+    "especiales": [],
+    "entrevistas": [],
+    "parrilla": [
+      {
+        "titular": "'MasterChef Junior 12' ya tiene fecha de estreno en Disney+ tras su salida de RTVE",
+        "cadena": "RTVE",
+        "detalle": "Cambio estratégico importante: el formato abandona RTVE y migra a Disney+",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/masterchef-junior-12-ya-tiene-fecha-estreno-disney-tras-su-salida-rtve_7042336_0.html"
+      }
+    ],
+    "records": [
+      {
+        "titular": "'La isla de las tentaciones' lidera con un 14,1% frente a 'En tierra lejana' y 'MasterChef'",
+        "cadena": "Telecinco",
+        "detalle": "El reality se impone con claridad en el prime time del lunes con 14,1% de share",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-lunes-28-septiembre-isla-tentaciones-138360/"
+      },
+      {
+        "titular": "'Gladiator II' aprovecha el fútbol y lidera la noche del domingo con un 15,5%",
+        "cadena": "",
+        "detalle": "Liderazgo destacado del domingo con 15,5% de cuota en contexto de programación deportiva",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-domingo-27-septiembre-gladiator-ii-138350/"
+      },
+      {
+        "titular": "ANTENA 3 NOTICIAS 1 es lo más visto de ayer gracias a 2.137.000 espectadores y el 23,4% de cuota",
+        "cadena": "Antena 3",
+        "detalle": "Liderazgo informativo con 2,1 millones y 23,4% de share; Antena 3 cadena más vista del día con 13,5%",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-28-de-septiembre-2026/"
+      }
+    ]
+  }
+}
