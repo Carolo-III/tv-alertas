@@ -1,0 +1,52 @@
+{
+  "fecha": "2026-09-30",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "España vs Croacia arrasa con 40,2% en La 1; La isla de las tentaciones lidera el lunes; estrena Al cielo con ella en TVE",
+  "alertas": {
+    "estrenos": [
+      {
+        "titular": "Henar Álvarez estrena 'Al cielo con ella' con un mensaje para la acampada de Sol",
+        "cadena": "La 1",
+        "detalle": "Estreno de nuevo programa de la humorista en TVE",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/henar-alvarez-estrena-cielo-con-ella-con-un-mensaje-para-acampada-sol-los-derechos-se-consiguen-molestando_7043002_0.html"
+      }
+    ],
+    "deportes": [
+      {
+        "titular": "La victoria de España frente a Croacia en la UEFA Nations League barre con un 40,2%",
+        "cadena": "La 1",
+        "detalle": "Partido de fútbol UEFA Nations League consigue 5.165.000 espectadores y 40,2% de share, lo más visto del día",
+        "fuente": "Fórmula TV / Barlovento",
+        "url": "https://www.formulatv.com/noticias/audiencias-martes-29-septiembre-espana-croacia-138370/"
+      }
+    ],
+    "especiales": [],
+    "entrevistas": [
+      {
+        "titular": "Ferran Adrià, sobre su fama en Francia desde que los cocineros españoles le disputaron el trono",
+        "cadena": "La 1",
+        "detalle": "Primera visita del chef a 'La Revuelta' para presentar 'Gènesi'",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/ferran-adria-sobre-su-fama-francia-desde-que-los-cocineros-espanoles-le-disputaron-trono-no-me-pueden-ver-mucho_7043001_0.html"
+      }
+    ],
+    "parrilla": [],
+    "records": [
+      {
+        "titular": "España-Croacia UEFA Nations League consigue 40,2% de share en La 1",
+        "cadena": "La 1",
+        "detalle": "Récord destacado con 5.165.000 espectadores, convirtiendo a La 1 en líder del día con 18,6%",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-29-de-septiembre-2026/"
+      },
+      {
+        "titular": "'La isla de las tentaciones' lidera con un 14,1% frente a 'En tierra lejana' y 'MasterChef'",
+        "cadena": "Telecinco",
+        "detalle": "Reality consigue liderazgo del lunes con 14,1% de share",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-lunes-28-septiembre-isla-tentaciones-138360/"
+      }
+    ]
+  }
+}

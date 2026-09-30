@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang='es'>
+<head>
+<meta charset='UTF-8'>
+<meta name='viewport' content='width=device-width, initial-scale=1.0'>
+<title>TV Alertas — Miércoles 30 de septiembre de 2026</title>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=DM+Sans:wght@300;400;500;600&display=swap');
+
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+:root {
+  --bg: #0a0a0b;
+  --bg2: #111113;
+  --bg3: #1a1a1d;
+  --border: #2a2a2e;
+  --text: #e8e8ec;
+  --text-muted: #6b6b78;
+  --accent: #e8c547;
+}
+
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: 'DM Sans', sans-serif;
+  font-size: 15px;
+  line-height: 1.6;
+  min-height: 100vh;
+}
+
+.site-header {
+  border-bottom: 1px solid var(--border);
+  padding: 20px 32px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  position: sticky;
+  top: 0;
+  background: rgba(10,10,11,0.95);
+  backdrop-filter: blur(8px);
+  z-index: 100;
+}
+
+.site-title {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 24px;
+  letter-spacing: 2px;
+  color: var(--accent);
+}
+
+.site-subtitle {
+  font-size: 12px;
+  color: var(--text-muted);
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+
+.nav-link {
+  color: var(--text-muted);
+  text-decoration: none;
+  font-size: 13px;
+  letter-spacing: 0.5px;
+  transition: color 0.2s;
+}
+.nav-link:hover { color: var(--accent); }
+
+main { max-width: 900px; margin: 0 auto; padding: 40px 24px; }
+
+.fecha-display {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 48px;
+  letter-spacing: 3px;
+  color: var(--text);
+  margin-bottom: 4px;
+}
+
+.resumen-ejecutivo {
+  font-size: 16px;
+  color: var(--text-muted);
+  margin-bottom: 40px;
+  padding-left: 16px;
+  border-left: 3px solid var(--accent);
+}
+
+.sin-alertas {
+  text-align: center;
+  padding: 80px 24px;
+  color: var(--text-muted);
+}
+
+.sin-alertas .icon { font-size: 48px; margin-bottom: 16px; }
+.sin-alertas h2 { font-family: 'Bebas Neue', sans-serif; font-size: 28px; letter-spacing: 2px; margin-bottom: 8px; color: var(--text); }
+
+.categoria-bloque { margin-bottom: 40px; }
+
+.categoria-header {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 16px;
+  padding-bottom: 8px;
+  border-bottom: 1px solid var(--border);
+}
+
+.categoria-icon { font-size: 20px; }
+
+.categoria-label {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 20px;
+  letter-spacing: 2px;
+}
+
+.categoria-count {
+  font-size: 12px;
+  padding: 2px 8px;
+  border-radius: 12px;
+  background: var(--bg3);
+  color: var(--text-muted);
+  font-weight: 500;
+}
+
+.alerta-card {
+  background: var(--bg2);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 16px 20px;
+  margin-bottom: 10px;
+  border-left: 3px solid transparent;
+  transition: border-color 0.2s, background 0.2s;
+}
+
+.alerta-card:hover { background: var(--bg3); }
+
+.alerta-titular {
+  font-weight: 600;
+  font-size: 15px;
+  margin-bottom: 4px;
+  color: var(--text);
+}
+
+.alerta-detalle {
+  font-size: 13px;
+  color: var(--text-muted);
+  margin-bottom: 6px;
+}
+
+.alerta-meta {
+  display: flex;
+  gap: 12px;
+  font-size: 12px;
+}
+
+.badge-cadena {
+  background: var(--bg3);
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  padding: 1px 7px;
+  color: var(--text-muted);
+}
+
+.badge-fuente { color: var(--text-muted); font-style: italic; }
+
+.alerta-link {
+  color: var(--text);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: border-color 0.2s, color 0.2s;
+}
+.alerta-link:hover { color: var(--accent); border-bottom-color: var(--accent); }
+
+.historico-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 12px;
+  margin-top: 24px;
+}
+
+.dia-card {
+  background: var(--bg2);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 16px;
+  text-decoration: none;
+  display: block;
+  transition: border-color 0.2s, background 0.2s;
+}
+
+.dia-card:hover { background: var(--bg3); border-color: var(--accent); }
+
+.dia-fecha {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 18px;
+  letter-spacing: 1px;
+  color: var(--text);
+  margin-bottom: 4px;
+}
+
+.dia-alertas { font-size: 12px; color: var(--text-muted); }
+
+.dia-dot {
+  display: inline-block;
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: var(--accent);
+  margin-right: 6px;
+  vertical-align: middle;
+}
+
+.dia-sin-alertas .dia-dot { background: var(--border); }
+
+footer {
+  border-top: 1px solid var(--border);
+  padding: 20px 32px;
+  text-align: center;
+  font-size: 12px;
+  color: var(--text-muted);
+  letter-spacing: 0.5px;
+}
+</style>
+</head>
+<body>
+<header class="site-header"><div><div class="site-title">TV ALERTAS</div><div class="site-subtitle">Monitor de televisión española</div></div><a href="../index.html" class="nav-link">← Histórico</a></header>
+<main>
+<div class="fecha-display">MIÉRCOLES 30 DE SEPTIEMBRE DE 2026</div>
+<div class="resumen-ejecutivo">España vs Croacia arrasa con 40,2% en La 1; La isla de las tentaciones lidera el lunes; estrena Al cielo con ella en TVE</div>
+<div class="categoria-bloque"><div class="categoria-header"><span class="categoria-icon">🎬</span><span class="categoria-label" style="color:#e8c547">Estrenos</span><span class="categoria-count">1</span></div><div class="alerta-card" style="border-left-color:#e8c547"><div class="alerta-titular"><a href="https://www.20minutos.es/television/henar-alvarez-estrena-cielo-con-ella-con-un-mensaje-para-acampada-sol-los-derechos-se-consiguen-molestando_7043002_0.html" target="_blank" rel="noopener" class="alerta-link">Henar Álvarez estrena 'Al cielo con ella' con un mensaje para la acampada de Sol</a></div><div class='alerta-detalle'>Estreno de nuevo programa de la humorista en TVE</div><div class="alerta-meta"><span class='badge-cadena'>La 1</span><span class='badge-fuente'>20minutos TV</span></div></div></div><div class="categoria-bloque"><div class="categoria-header"><span class="categoria-icon">⚽</span><span class="categoria-label" style="color:#47c5e8">Deportes</span><span class="categoria-count">1</span></div><div class="alerta-card" style="border-left-color:#47c5e8"><div class="alerta-titular"><a href="https://www.formulatv.com/noticias/audiencias-martes-29-septiembre-espana-croacia-138370/" target="_blank" rel="noopener" class="alerta-link">La victoria de España frente a Croacia en la UEFA Nations League barre con un 40,2%</a></div><div class='alerta-detalle'>Partido de fútbol UEFA Nations League consigue 5.165.000 espectadores y 40,2% de share, lo más visto del día</div><div class="alerta-meta"><span class='badge-cadena'>La 1</span><span class='badge-fuente'>Fórmula TV / Barlovento</span></div></div></div><div class="categoria-bloque"><div class="categoria-header"><span class="categoria-icon">🎙️</span><span class="categoria-label" style="color:#a347e8">Entrevistas</span><span class="categoria-count">1</span></div><div class="alerta-card" style="border-left-color:#a347e8"><div class="alerta-titular"><a href="https://www.20minutos.es/television/ferran-adria-sobre-su-fama-francia-desde-que-los-cocineros-espanoles-le-disputaron-trono-no-me-pueden-ver-mucho_7043001_0.html" target="_blank" rel="noopener" class="alerta-link">Ferran Adrià, sobre su fama en Francia desde que los cocineros españoles le disputaron el trono</a></div><div class='alerta-detalle'>Primera visita del chef a 'La Revuelta' para presentar 'Gènesi'</div><div class="alerta-meta"><span class='badge-cadena'>La 1</span><span class='badge-fuente'>20minutos TV</span></div></div></div><div class="categoria-bloque"><div class="categoria-header"><span class="categoria-icon">📊</span><span class="categoria-label" style="color:#47e87e">Récords</span><span class="categoria-count">2</span></div><div class="alerta-card" style="border-left-color:#47e87e"><div class="alerta-titular"><a href="https://barloventocomunicacion.es/audiencias-diarias/audiencias-29-de-septiembre-2026/" target="_blank" rel="noopener" class="alerta-link">España-Croacia UEFA Nations League consigue 40,2% de share en La 1</a></div><div class='alerta-detalle'>Récord destacado con 5.165.000 espectadores, convirtiendo a La 1 en líder del día con 18,6%</div><div class="alerta-meta"><span class='badge-cadena'>La 1</span><span class='badge-fuente'>Barlovento Comunicación</span></div></div><div class="alerta-card" style="border-left-color:#47e87e"><div class="alerta-titular"><a href="https://www.formulatv.com/noticias/audiencias-lunes-28-septiembre-isla-tentaciones-138360/" target="_blank" rel="noopener" class="alerta-link">'La isla de las tentaciones' lidera con un 14,1% frente a 'En tierra lejana' y 'MasterChef'</a></div><div class='alerta-detalle'>Reality consigue liderazgo del lunes con 14,1% de share</div><div class="alerta-meta"><span class='badge-cadena'>Telecinco</span><span class='badge-fuente'>Fórmula TV</span></div></div></div>
+</main>
+<footer>Generado automáticamente · Fuentes: Barlovento, Fórmula TV, Vertele, DOS30</footer>
+</body>
+</html>
