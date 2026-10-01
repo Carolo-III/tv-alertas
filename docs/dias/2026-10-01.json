@@ -1,0 +1,51 @@
+{
+  "fecha": "2026-10-01",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "España-Croacia arrasa con 40,2% y 5,1M; Antena 3 lidera septiembre; Ayuso en Horizonte jueves",
+  "alertas": {
+    "estrenos": [],
+    "deportes": [
+      {
+        "titular": "La victoria de España frente a Croacia en la UEFA Nations League barre con un 40,2%",
+        "cadena": "La1",
+        "detalle": "5.165.000 espectadores y 40,2% de cuota, La1 más vista del día con 18,6%",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-martes-29-septiembre-espana-croacia-138370/"
+      }
+    ],
+    "especiales": [],
+    "entrevistas": [
+      {
+        "titular": "Ayuso elige 'Horizonte' para hablar, con Iker Jiménez y Carmen Porter y en 'prime time', de la acampada en Sol por la vivienda",
+        "cadena": "Cuatro",
+        "detalle": "Entrevista a la presidenta de la Comunidad de Madrid programada para este jueves",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/ayuso-elige-horizonte-para-hablar-con-iker-jimenez-carmen-porter-prime-time-acampada-sol-por-vivienda_7043485_0.html"
+      }
+    ],
+    "parrilla": [],
+    "records": [
+      {
+        "titular": "Antena 3 lidera la audiencia en septiembre y Cuatro destaca como la cadena que más crece",
+        "cadena": "Antena 3",
+        "detalle": "Antena 3 lidera el mes de septiembre, Cuatro es la cadena de mayor crecimiento",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/antena-3-lidera-audiencia-septiembre-como-cadena-que-mas-crece_7043260_0.html"
+      },
+      {
+        "titular": "La boda de Curro y Ángela en 'La promesa' lidera con un 16,7% con más de un millón",
+        "cadena": "La1",
+        "detalle": "Más de un millón de espectadores y 16,7% de share en prime time del miércoles",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-miercoles-30-septiembre-la-promesa-boda-138379/"
+      },
+      {
+        "titular": "ANTENA 3 NOTICIAS 1 es lo más visto de ayer gracias a 2.129.000 espectadores como promedio y el 24% de cuota de pantalla",
+        "cadena": "Antena 3",
+        "detalle": "Liderazgo del informativo con 2,1M y 24% el miércoles 30 de septiembre",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-30-de-septiembre-2026/"
+      }
+    ]
+  }
+}
