@@ -1,0 +1,66 @@
+{
+  "fecha": "2026-10-02",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "Horizonte logra un récord histórico liderando el prime time (15,5%) con la entrevista a Ayuso sobre la acampada de Sol, superando a La Revuelta y El Hormiguero por primera vez",
+  "alertas": {
+    "estrenos": [
+      {
+        "titular": "'Cosas nuestras' lleva el directo y la actualidad a las tardes del fin de semana en La 1 con Aida Bao y Aitor Albizua",
+        "cadena": "La 1",
+        "detalle": "Nuevo programa de actualidad en directo para las tardes de fin de semana",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/cosas-nuestras-lleva-directo-actualidad-las-tardes-fin-semana-1-con-aida-bao-aitor-albizua_7043807_0.html"
+      },
+      {
+        "titular": "Plex presentará un 'reality' para Netflix en el que se llevará a varios famosos a competir en una isla paradisíaca",
+        "cadena": "",
+        "detalle": "Nuevo reality show para Netflix presentado por Plex",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/plex-presentara-un-reality-para-netflix-que-se-llevara-varios-famosos-competir-una-isla-paradisiaca_7044080_0.html"
+      }
+    ],
+    "deportes": [],
+    "especiales": [
+      {
+        "titular": "Ayuso elige 'Horizonte' para hablar, con Iker Jiménez y Carmen Porter y en 'prime time', de la acampada en Sol por la vivienda",
+        "cadena": "Cuatro",
+        "detalle": "Entrevista especial a la presidenta de la Comunidad de Madrid sobre la acampada de Sol motivada por crisis de vivienda",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/ayuso-elige-horizonte-para-hablar-con-iker-jimenez-carmen-porter-prime-time-acampada-sol-por-vivienda_7043485_0.html"
+      }
+    ],
+    "entrevistas": [
+      {
+        "titular": "'Horizonte' se convierte en líder de audiencia por primera vez en Cuatro y supera a 'La Revuelta' y 'El Hormiguero' gracias a Ayuso",
+        "cadena": "Cuatro",
+        "detalle": "Entrevista a Isabel Díaz Ayuso que otorgó 15,5% de share al programa",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/horizonte-se-convierte-lider-audiencia-por-primera-vez-cuatro-supera-revuelta-hormiguero-gracias-ayuso_7044174_0.html"
+      }
+    ],
+    "parrilla": [],
+    "records": [
+      {
+        "titular": "'Horizonte' lidera sobre 'La revuelta' y 'El hormiguero' con la entrevista a Ayuso (15,5%)",
+        "cadena": "Cuatro",
+        "detalle": "Primera vez que Horizonte lidera el prime time superando a los dos grandes programas de la franja",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-jueves-1-octubre-horizonte-ayuso-138388/"
+      },
+      {
+        "titular": "La boda de Curro y Ángela en 'La promesa' lidera con un 16,7% con más de un millón",
+        "cadena": "La 1",
+        "detalle": "Capítulo especial de La Promesa logra fuerte dato de audiencia",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-miercoles-30-septiembre-la-promesa-boda-138379/"
+      },
+      {
+        "titular": "Antena 3 lidera la audiencia en septiembre y Cuatro destaca como la cadena que más crece",
+        "cadena": "Varias",
+        "detalle": "Antena 3 lidera el mes de septiembre mientras Cuatro se consolida como la cadena de mayor crecimiento",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/antena-3-lidera-audiencia-septiembre-como-cadena-que-mas-crece_7043260_0.html"
+      }
+    ]
+  }
+}
