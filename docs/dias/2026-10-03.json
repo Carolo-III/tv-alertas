@@ -1,0 +1,72 @@
+{
+  "fecha": "2026-10-03",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "Horizonte lidera por primera vez en access prime time con Ayuso superando a El Hormiguero y La Revuelta; Belén Esteban lidera el viernes en su regreso a Telecinco",
+  "alertas": {
+    "estrenos": [
+      {
+        "titular": "Belén Esteban y cómo ganarse al público en su vuelta a Telecinco",
+        "cadena": "Telecinco",
+        "detalle": "Regreso de Belén Esteban a Telecinco en directo tras periodo de ausencia",
+        "fuente": "20minutos",
+        "url": "https://www.20minutos.es/television/belen-esteban-como-ganarse-publico-su-vuelta-telecinco-pense-que-gente-no-me-queria_7044398_3.html"
+      },
+      {
+        "titular": "Plex presentará un 'reality' para Netflix en el que se llevará a varios famosos a competir en una isla paradisíaca",
+        "cadena": "",
+        "detalle": "Nuevo reality para Netflix presentado por Plex con famosos en isla",
+        "fuente": "20minutos",
+        "url": "https://www.20minutos.es/television/plex-presentara-un-reality-para-netflix-que-se-llevara-varios-famosos-competir-una-isla-paradisiaca_7044080_0.html"
+      }
+    ],
+    "deportes": [],
+    "especiales": [],
+    "entrevistas": [
+      {
+        "titular": "'Horizonte' lidera sobre 'La revuelta' y 'El hormiguero' con la entrevista a Ayuso (15,5%)",
+        "cadena": "Cuatro",
+        "detalle": "Entrevista a la presidenta de la Comunidad de Madrid Isabel Díaz Ayuso",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-jueves-1-octubre-horizonte-ayuso-138388/"
+      },
+      {
+        "titular": "'Horizonte' se convierte en líder de audiencia por primera vez en Cuatro y supera a 'La Revuelta' y 'El Hormiguero' gracias a Ayuso",
+        "cadena": "Cuatro",
+        "detalle": "Primera vez que Horizonte lidera en su franja, superando a competidores principales con entrevista a Ayuso",
+        "fuente": "20minutos",
+        "url": "https://www.20minutos.es/television/horizonte-se-convierte-lider-audiencia-por-primera-vez-cuatro-supera-revuelta-hormiguero-gracias-ayuso_7044174_0.html"
+      }
+    ],
+    "parrilla": [],
+    "records": [
+      {
+        "titular": "Belén Esteban lleva a '¡De Viernes!' a liderar, pero Telecinco queda por debajo del 10%",
+        "cadena": "Telecinco",
+        "detalle": "De Viernes lidera el viernes 2 de octubre con Belén Esteban, pero la cadena bajo el 10% en el día",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-viernes-2-octubre-belen-esteban-viernes-138397/"
+      },
+      {
+        "titular": "ANTENA 3 NOTICIAS 1 es lo más visto el 02 de octubre con 2.296.000 espectadores y 23,4% de cuota",
+        "cadena": "Antena 3",
+        "detalle": "Antena 3 Noticias 1 lidera el viernes con más de 2,2 millones de espectadores; La1 cadena más vista del día con 13,5%",
+        "fuente": "Barlovento",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-02-de-octubre-2026/"
+      },
+      {
+        "titular": "ANTENA 3 NOTICIAS 1 es lo más visto el 01 de octubre con 2.304.000 espectadores y 25,5% de cuota",
+        "cadena": "Antena 3",
+        "detalle": "Antena 3 Noticias 1 lidera el jueves con más de 2,3 millones; Antena 3 cadena más vista del día con 13,5%",
+        "fuente": "Barlovento",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-01-de-octubre-2026/"
+      },
+      {
+        "titular": "'Horizonte' logra un 15,5% de share con la entrevista a Ayuso",
+        "cadena": "Cuatro",
+        "detalle": "Dato récord para Horizonte que por primera vez lidera su franja horaria",
+        "fuente": "20minutos",
+        "url": "https://www.20minutos.es/television/horizonte-se-convierte-lider-audiencia-por-primera-vez-cuatro-supera-revuelta-hormiguero-gracias-ayuso_7044174_0.html"
+      }
+    ]
+  }
+}
