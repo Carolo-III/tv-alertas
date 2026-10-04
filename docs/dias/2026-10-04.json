@@ -1,0 +1,52 @@
+{
+  "fecha": "2026-10-04",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "España-República Checa arrasa con 39,5% en La1; Belén Esteban regresa a Telecinco liderando con '¡De Viernes!' pero la cadena no alcanza el 10%",
+  "alertas": {
+    "estrenos": [
+      {
+        "titular": "Aida Bao estrena 'Cosas nuestras' como presentadora",
+        "cadena": "",
+        "detalle": "Primera apuesta propia de la periodista en televisión",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/aida-bao-sobre-su-nueva-etapa-como-presentadora-cosas-nuestras-aparte-ser-una-embarazada-soy-una-profesional_7044522_0.html"
+      }
+    ],
+    "deportes": [
+      {
+        "titular": "FUTBOL: UEFA NATIONS LEAGUE España-República Checa arrasa con 4.375.000 espectadores y 39,5%",
+        "cadena": "La 1",
+        "detalle": "Lo más visto del sábado 3 de octubre, convierte a La1 en cadena más vista del día con 17,4%",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-03-de-octubre-2026/"
+      }
+    ],
+    "especiales": [],
+    "entrevistas": [],
+    "parrilla": [
+      {
+        "titular": "Belén Esteban regresa a Telecinco en '¡De Viernes!'",
+        "cadena": "Telecinco",
+        "detalle": "Vuelta a los estudios de Telecinco en directo tras su salida, lidera su franja pero la cadena queda por debajo del 10%",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-viernes-2-octubre-belen-esteban-viernes-138397/"
+      }
+    ],
+    "records": [
+      {
+        "titular": "'Malas lenguas noche' lidera con un 13,6% el viernes",
+        "cadena": "",
+        "detalle": "Liderazgo en su franja de emisión del sábado 3 de octubre",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-sabado-3-octubre-espana-republica-checa-138403/"
+      },
+      {
+        "titular": "Telecinco no alcanza el 10% de share pese al liderazgo de '¡De Viernes!' con Belén Esteban",
+        "cadena": "Telecinco",
+        "detalle": "Dato llamativo: programa líder pero cadena por debajo del 10% en el día",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-viernes-2-octubre-belen-esteban-viernes-138397/"
+      }
+    ]
+  }
+}
