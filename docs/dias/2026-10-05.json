@@ -1,0 +1,67 @@
+{
+  "fecha": "2026-10-05",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "España-República Checa arrasa con 39,5% en La1; 'Supervivientes All Stars' lidera el domingo; RTVE prepara nuevo concurso musical 'The Winner Takes It All'",
+  "alertas": {
+    "estrenos": [
+      {
+        "titular": "RTVE adaptará 'The Winner Takes It All', un concurso de duelos musicales con 50 cantantes y 100.000 euros de premio",
+        "cadena": "RTVE",
+        "detalle": "Nuevo formato de concurso musical, casting abierto a diversos perfiles de cantantes",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/rtve-adaptara-the-winner-takes-it-all-un-concurso-duelos-musicales-con-50-cantantes-100-000-euros-premio_7045040_0.html"
+      }
+    ],
+    "deportes": [
+      {
+        "titular": "FUTBOL:UEFA NATIONS LEAGUE (La1) es lo más visto con 4.375.000 espectadores y el 39,5% de cuota",
+        "cadena": "La 1",
+        "detalle": "España-República Checa barre con 39,5% de share, partido más visto del 3 de octubre",
+        "fuente": "Barlovento Comunicación / Fórmula TV",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-03-de-octubre-2026/"
+      }
+    ],
+    "especiales": [
+      {
+        "titular": "'Malas lenguas noche' lidera con un 13,6%",
+        "cadena": "",
+        "detalle": "Programa especial nocturno logra liderazgo en su franja",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-sabado-3-octubre-espana-republica-checa-138403/"
+      }
+    ],
+    "entrevistas": [],
+    "parrilla": [
+      {
+        "titular": "'Horizonte', el verdadero peligro para el liderazgo de Pablo Motos",
+        "cadena": "Varias",
+        "detalle": "'Horizonte' lidera frente a 'El Hormiguero' y 'La Revuelta' con Isabel Díaz Ayuso como invitada",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/horizonte-verdadero-peligro-para-liderazgo-pablo-motos_7044354_3.html"
+      }
+    ],
+    "records": [
+      {
+        "titular": "ANTENA 3 NOTICIAS 1 FIN DE SEMANA con 2.103.000 espectadores y 22,7% de cuota",
+        "cadena": "Antena 3",
+        "detalle": "Lo más visto del domingo 4 de octubre, liderazgo de informativos fin de semana",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-04-de-octubre-2026/"
+      },
+      {
+        "titular": "'Supervivientes All Stars' y 'El Secreto' se reparten la noche del domingo",
+        "cadena": "Varias",
+        "detalle": "Liderazgo compartido en prime time dominical",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-domingo-4-octubre-supervivientes-stars-138408/"
+      },
+      {
+        "titular": "La1 es la cadena más vista del día con 17,4% de cuota el sábado 3 de octubre",
+        "cadena": "La 1",
+        "detalle": "Liderazgo diario impulsado por el fútbol de la UEFA Nations League",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-03-de-octubre-2026/"
+      }
+    ]
+  }
+}
