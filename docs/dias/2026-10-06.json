@@ -1,0 +1,74 @@
+{
+  "fecha": "2026-10-06",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "Horizonte logra máximo histórico con el adelanto electoral y desafía a El Hormiguero; RTVE y privadas pugnan por el debate Sánchez-Feijóo",
+  "alertas": {
+    "estrenos": [
+      {
+        "titular": "RTVE adaptará 'The Winner Takes It All', un concurso de duelos musicales con 50 cantantes y 100.000 euros de premio",
+        "cadena": "La 1",
+        "detalle": "Nuevo formato de competición musical para RTVE con casting de aficionados, semiprofesionales y profesionales",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/rtve-adaptara-the-winner-takes-it-all-un-concurso-duelos-musicales-con-50-cantantes-100-000-euros-premio_7045040_0.html"
+      },
+      {
+        "titular": "RTVE presentará a los artistas del Benidorm Fest 2027 el próximo 14 de octubre",
+        "cadena": "La 1",
+        "detalle": "Presentación oficial de participantes del preseleccionador español de Eurovisión programada para el 14 de octubre",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/rtve-presentara-los-artistas-benidorm-fest-2027-proximo-14-octubre_7045531_0.html"
+      }
+    ],
+    "deportes": [],
+    "especiales": [
+      {
+        "titular": "'Horizonte' logra máximo con el adelanto de elecciones y planta cara a 'El hormiguero'",
+        "cadena": "Cuatro",
+        "detalle": "Programa especial de Iker Jiménez alcanza máximo de audiencia por cobertura del adelanto electoral convocado para el 29 de noviembre",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-lunes-5-octubre-horizonte-maximo-138423/"
+      },
+      {
+        "titular": "RTVE, Atresmedia y Mediaset se postulan para un cara a cara electoral entre Pedro Sánchez y Núñez Feijóo",
+        "cadena": "Varias",
+        "detalle": "Las tres principales operadoras compiten por organizar el debate electoral clave ante las elecciones del 29 de noviembre",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/rtve-atresmedia-mediaset-se-postulan-para-un-cara-cara-electoral-entre-pedro-sanchez-nunez-feijoo_7045132_0.html"
+      }
+    ],
+    "entrevistas": [
+      {
+        "titular": "Pablo Motos invita a Pedro Sánchez a 'El Hormiguero' tras adelantar las elecciones: 'Es la primera persona a la que hemos llamado'",
+        "cadena": "Antena 3",
+        "detalle": "El Hormiguero contacta con Moncloa para entrevistar al presidente tras la convocatoria electoral",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/pablo-motos-invita-pedro-sanchez-hormiguero-tras-adelantar-las-elecciones-es-primera-persona-que-hemos-llamado_7045432_0.html"
+      }
+    ],
+    "parrilla": [
+      {
+        "titular": "'D Corazón' incorpora a una veterana colaboradora, aumenta su plató y se mete en temas de actualidad",
+        "cadena": "La 1",
+        "detalle": "Renovación del programa de corazón de TVE con ampliación de espacio físico y cambios de contenido",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/d-corazon-incorpora-una-veterana-colaboradora-aumenta-su-plato-se-mete-temas-actualidad_7045104_0.html"
+      }
+    ],
+    "records": [
+      {
+        "titular": "'Horizonte', el verdadero peligro para el liderazgo de Pablo Motos",
+        "cadena": "Cuatro",
+        "detalle": "Horizonte lideró frente a Pablo Motos y David Broncano con cobertura de la visita de Isabel Díaz Ayuso",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/horizonte-verdadero-peligro-para-liderazgo-pablo-motos_7044354_3.html"
+      },
+      {
+        "titular": "ANTENA 3 NOTICIAS 1 es lo más visto con 2.326.000 espectadores y 24,5% de cuota",
+        "cadena": "Antena 3",
+        "detalle": "Antena 3 Noticias 1 lidera el lunes 5 de octubre; Antena3 es la cadena más vista del día con 13,8% de share",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-05-de-octubre-2026/"
+      }
+    ]
+  }
+}
