@@ -1,0 +1,95 @@
+{
+  "fecha": "2026-10-07",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "El Croacia-España arrasa con 5,3M y 39,3% en La 1; 'Horizonte' logra máximo histórico aprovechando el adelanto electoral; Pablo Motos invita a Sánchez tras la convocatoria.",
+  "alertas": {
+    "estrenos": [
+      {
+        "titular": "'No solo debate', el espacio de RTVE para abordar 'las inquietudes de los jóvenes'",
+        "cadena": "La 1",
+        "detalle": "Nuevo programa conducido por Marc Biarnés donde jóvenes expresan sus preocupaciones",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/no-solo-debate-espacio-rtve-para-abordar-las-inquietudes-los-jovenes_7045839_0.html"
+      }
+    ],
+    "deportes": [
+      {
+        "titular": "El fútbol del Croacia-España arrasa en audiencia y aúpa a 'La Revuelta' y a 'Al cielo con ella'",
+        "cadena": "La 1",
+        "detalle": "UEFA Nations League alcanza 5.313.000 espectadores y 39,3% de share, lo más visto del día",
+        "fuente": "20minutos TV / Barlovento",
+        "url": "https://www.20minutos.es/television/futbol-croacia-espana-arrasa-audiencia-aupa-revuelta-cielo-con-ella_7046079_0.html"
+      },
+      {
+        "titular": "Audiencias 06 de octubre 2026. FUTBOL:UEFA NATIONS LEAGUE (La1) es lo más visto de ayer",
+        "cadena": "La 1",
+        "detalle": "La1 líder del día con 18,8% de cuota gracias al partido de fútbol",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-06-de-octubre-2026/"
+      }
+    ],
+    "especiales": [
+      {
+        "titular": "'Horizonte' logra máximo con el adelanto de elecciones y planta cara a 'El hormiguero'",
+        "cadena": "Cuatro",
+        "detalle": "Programa alcanza máximo histórico cubriendo el adelanto electoral convocado por Pedro Sánchez",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-lunes-5-octubre-horizonte-maximo-138423/"
+      },
+      {
+        "titular": "Pablo Motos invita a Pedro Sánchez a 'El Hormiguero' tras adelantar las elecciones",
+        "cadena": "Antena 3",
+        "detalle": "El presentador confirma que ya contactó con Moncloa tras el anuncio electoral",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/pablo-motos-invita-pedro-sanchez-hormiguero-tras-adelantar-las-elecciones-es-primera-persona-que-hemos-llamado_7045432_0.html"
+      },
+      {
+        "titular": "David Broncano felicita a Iker Jiménez por la audiencia y por las elecciones",
+        "cadena": "La 1",
+        "detalle": "Broncano comenta en 'La Revuelta' el contexto electoral y el éxito de audiencia de Jiménez",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/david-broncano-felicita-iker-jimenez-por-audiencia-por-las-elecciones-quiza-diciembre-sera-ministro-interior_7045318_0.html"
+      }
+    ],
+    "entrevistas": [],
+    "parrilla": [
+      {
+        "titular": "El agradecimiento de Sandra Barneda a Jorge Javier Vázquez por cambiarle el día en 'Supervivientes All Stars'",
+        "cadena": "Telecinco",
+        "detalle": "Jorge Javier sustituye a Barneda en el debate del domingo por la boda de la presentadora",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/agradecimiento-sandra-barneda-jorge-javier-vazquez-por-cambiarle-dia-supervivientes-all-stars-me-caso_7045763_0.html"
+      },
+      {
+        "titular": "El 5 de noviembre será necesario resintonizar los televisores para acceder a los nuevos servicios de La 2 y RNE",
+        "cadena": "La 2",
+        "detalle": "Cambio técnico que requerirá resintonización para nuevos servicios de RTVE",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/5-noviembre-sera-necesario-resintonizar-los-televisores-para-acceder-los-nuevos-servicios-2-rne_7045578_0.html"
+      },
+      {
+        "titular": "RTVE presentará a los artistas del Benidorm Fest 2027 el próximo 14 de octubre",
+        "cadena": "La 1",
+        "detalle": "Anuncio oficial de participantes del proceso preselección de Eurovisión",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/rtve-presentara-los-artistas-benidorm-fest-2027-proximo-14-octubre_7045531_0.html"
+      }
+    ],
+    "records": [
+      {
+        "titular": "'Horizonte' logra máximo con el adelanto de elecciones",
+        "cadena": "Cuatro",
+        "detalle": "El programa de Iker Jiménez alcanza su récord histórico de audiencia",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-lunes-5-octubre-horizonte-maximo-138423/"
+      },
+      {
+        "titular": "El Croacia - España barre en La 1 con un 39,3% y más de 5,3 millones",
+        "cadena": "La 1",
+        "detalle": "Dato excepcional para fútbol de selección en UEFA Nations League",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-martes-6-octubre-croacia-espana-138433/"
+      }
+    ]
+  }
+}
