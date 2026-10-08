@@ -1,0 +1,124 @@
+{
+  "fecha": "2026-10-08",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "El partido Croacia-España arrasa con 39,3% y más de 5,3 millones; 'La bola negra' sigue batiendo récords en su segundo fin de semana; Shakira visitará 'La Revuelta'; debate electoral 29-N ofrecido por Mediaset",
+  "alertas": {
+    "estrenos": [
+      {
+        "titular": "Shakira será la invitada de 'La Revuelta', que irá al Macondo Park a grabar la entrevista",
+        "cadena": "La 1",
+        "detalle": "Entrevista especial de Shakira en 'La Revuelta' con desplazamiento al Macondo Park",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/shakira-sera-invitada-revuelta-que-ira-macondo-park-grabar-entrevista_7046619_0.html"
+      },
+      {
+        "titular": "Peleas callejeras, operativos antidroga y denuncias por violencia de género... '091: Alerta Policía' estrena su décima temporada",
+        "cadena": "",
+        "detalle": "Décima temporada de '091: Alerta Policía' superando 100 episodios emitidos en DMAX",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/peleas-callejeras-operativos-antidroga-denuncias-por-violencia-genero-091-alerta-policia-estrena-su-decima-temporada_7046515_0.html"
+      },
+      {
+        "titular": "'No solo debate', el espacio de RTVE para abordar 'las inquietudes de los jóvenes'",
+        "cadena": "RTVE",
+        "detalle": "Marc Biarnés conducirá nuevo espacio donde jóvenes expresan sus preocupaciones",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/no-solo-debate-espacio-rtve-para-abordar-las-inquietudes-los-jovenes_7045839_0.html"
+      }
+    ],
+    "deportes": [
+      {
+        "titular": "FUTBOL:UEFA NATIONS LEAGUE (La1) es lo más visto de ayer gracias a 5.313.000 espectadores como promedio y el 39,3 % de cuota de pantalla",
+        "cadena": "La 1",
+        "detalle": "Partido Croacia-España barre con 5,3 millones y 39,3% el martes 6 de octubre",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-06-de-octubre-2026/"
+      },
+      {
+        "titular": "El Croacia - España barre en La 1 con un 39,3% y más de 5,3 millones",
+        "cadena": "La 1",
+        "detalle": "Partido de UEFA Nations League registra audiencia demoledora",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-martes-6-octubre-croacia-espana-138433/"
+      },
+      {
+        "titular": "El fútbol del Croacia-España arrasa en audiencia y aúpa a 'La Revuelta' y a 'Al cielo con ella'",
+        "cadena": "La 1",
+        "detalle": "El partido impulsa la audiencia de programas posteriores en La 1",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/futbol-croacia-espana-arrasa-audiencia-aupa-revuelta-cielo-con-ella_7046079_0.html"
+      }
+    ],
+    "especiales": [
+      {
+        "titular": "Iñaki Gabilondo, Matías Prats, Pedro Piqueras, Carlos Franganillo y Ana Blanco vuelven al Telediario por los 70 años de TVE",
+        "cadena": "La 1",
+        "detalle": "Homenaje especial 'El Telediario de nuestras vidas' el 19 de octubre con legendarios presentadores",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/inaki-gabilondo-matias-prats-pedro-piqueras-carlos-franganillo-ana-blanco-vuelven-telediario-por-los-70-anos-tve_7046153_0.html"
+      },
+      {
+        "titular": "Mediaset ofrece a Sánchez y Feijóo un debate moderado por Carlos Franganillo y Alba Lago con motivo del 29-N",
+        "cadena": "Telecinco / Cuatro",
+        "detalle": "Propuesta de debate electoral cara a cara emitido simultáneamente en Telecinco y Cuatro",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/mediaset-ofrece-sanchez-feijoo-un-debate-moderado-por-carlos-franganillo-alba-lago-con-motivo-29-n_7046143_0.html"
+      }
+    ],
+    "entrevistas": [
+      {
+        "titular": "Shakira será la invitada de 'La Revuelta', que irá al Macondo Park a grabar la entrevista",
+        "cadena": "La 1",
+        "detalle": "Entrevista especial a Shakira con desplazamiento del programa",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/shakira-sera-invitada-revuelta-que-ira-macondo-park-grabar-entrevista_7046619_0.html"
+      }
+    ],
+    "parrilla": [
+      {
+        "titular": "RTVE ya promociona un 'Cine de Barrio' en La 2 que 'cambia de pantalla, pero no de historias'",
+        "cadena": "La 2",
+        "detalle": "Cine de Barrio se traslada a La 2, movimiento estratégico en parrilla RTVE",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/rtve-ya-promociona-un-cine-barrio-2-que-cambia-pantalla-pero-no-historias_7046580_0.html"
+      },
+      {
+        "titular": "El agradecimiento de Sandra Barneda a Jorge Javier Vázquez por cambiarle el día en 'Supervivientes All Stars': '¡Me caso!'",
+        "cadena": "Telecinco",
+        "detalle": "Cambio de presentador: Sandra Barneda conduce martes, Jorge Javier el domingo por boda de Sandra",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/agradecimiento-sandra-barneda-jorge-javier-vazquez-por-cambiarle-dia-supervivientes-all-stars-me-caso_7045763_0.html"
+      }
+    ],
+    "records": [
+      {
+        "titular": "ANTENA 3 NOTICIAS 1 (Antena3) es lo más visto de ayer gracias a 2.356.000 espectadores como promedio y el 24,8 % de cuota de pantalla",
+        "cadena": "Antena 3",
+        "detalle": "Antena 3 Noticias 1 lidera el miércoles 7 de octubre con 24,8%, cadena más vista del día con 13,4%",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-07-de-octubre-2026/"
+      },
+      {
+        "titular": "'La isla de las tentaciones' en Telecinco lidera con un 14% en el prime time",
+        "cadena": "Telecinco",
+        "detalle": "La Isla de las Tentaciones lidera el prime time del miércoles 7 de octubre",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-miercoles-7-octubre-isla-tentaciones-138443/"
+      },
+      {
+        "titular": "'La bola negra' sigue haciendo historia: sube en su segundo fin de semana rozando los 6 millones",
+        "cadena": "La 1",
+        "detalle": "La bola negra continúa batiendo récords con casi 6 millones en su segundo fin de semana",
+        "fuente": "Fórmula TV",
+        "url": "https://www.ecartelera.com/noticias/la-bola-negra-sigue-haciendo-historia-sube-segunda-semana-84057/"
+      },
+      {
+        "titular": "FUTBOL:UEFA NATIONS LEAGUE (La1) es lo más visto de ayer gracias a 5.313.000 espectadores como promedio y el 39,3 % de cuota de pantalla",
+        "cadena": "La 1",
+        "detalle": "Récord: partido Croacia-España logra 39,3% y 5,3 millones, La 1 lidera día con 18,8%",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-06-de-octubre-2026/"
+      }
+    ]
+  }
+}
