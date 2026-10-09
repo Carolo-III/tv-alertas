@@ -1,0 +1,81 @@
+{
+  "fecha": "2026-10-09",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "Shakira protagoniza la batalla de entrevistas con victoria de La Revuelta; nuevos estrenos en RTVE Play y movimientos de parrilla con Cine de Barrio a La 2",
+  "alertas": {
+    "estrenos": [
+      {
+        "titular": "Javi Hoyos y Núria Marín presentan 'FOMO TOTAL', el nuevo programa de RTVE Play sobre el salseo en redes",
+        "cadena": "La 1 (RTVE Play)",
+        "detalle": "Estreno el 13 de octubre, programa sobre fenómenos virales y contenidos de redes sociales",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/javi-hoyos-nuria-marin-presentan-fomo-total-nuevo-programa-rtve-play-sobre-salseo-redes_7047037_0.html"
+      },
+      {
+        "titular": "Peleas callejeras, operativos antidroga y denuncias por violencia de género... '091: Alerta Policía' estrena su décima temporada",
+        "cadena": "DMAX",
+        "detalle": "Décima temporada tras nueve años ininterrumpidos, superando los 100 episodios emitidos",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/peleas-callejeras-operativos-antidroga-denuncias-por-violencia-genero-091-alerta-policia-estrena-su-decima-temporada_7046515_0.html"
+      }
+    ],
+    "deportes": [],
+    "especiales": [
+      {
+        "titular": "La Séptima ofrece a los principales partidos realizar un debate electoral abierto pocas semanas después de arrancar sus emisiones",
+        "cadena": "La Séptima",
+        "detalle": "Debate electoral con señal abierta y gratuita para todas las plataformas, cadena arranca el 5 de noviembre, elecciones previstas para 29-N",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/septima-ofrece-los-principales-partidos-realizar-un-debate-electoral-abierto-pocas-semanas-despues-arrancar-sus-emisiones_7047135_0.html"
+      }
+    ],
+    "entrevistas": [
+      {
+        "titular": "Shakira será la invitada de 'La Revuelta', que irá al Macondo Park a grabar la entrevista",
+        "cadena": "La 1",
+        "detalle": "Entrevista especial a Shakira con motivo de su residencia en Madrid, desplazamiento del programa al Macondo Park",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/shakira-sera-invitada-revuelta-que-ira-macondo-park-grabar-entrevista_7046619_0.html"
+      },
+      {
+        "titular": "'La revuelta' lidera con Shakira frente a 'El hormiguero' y 'Horizonte'",
+        "cadena": "La 1",
+        "detalle": "Victoria de audiencia de La Revuelta con la entrevista a Shakira el jueves 8 de octubre",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-jueves-8-octubre-shakira-la-revuelta-138451/"
+      }
+    ],
+    "parrilla": [
+      {
+        "titular": "RTVE ya promociona un 'Cine de Barrio' en La 2 que 'cambia de pantalla, pero no de historias'",
+        "cadena": "La 1 / La 2",
+        "detalle": "Movimiento de Cine de Barrio desde La 1 a La 2, manteniendo el formato",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/rtve-ya-promociona-un-cine-barrio-2-que-cambia-pantalla-pero-no-historias_7046580_0.html"
+      }
+    ],
+    "records": [
+      {
+        "titular": "ANTENA 3 NOTICIAS 1 es lo más visto con 2.356.000 espectadores y 24,8% - Antena3 lidera el día con 13,4%",
+        "cadena": "Antena 3",
+        "detalle": "Liderazgo sostenido de Antena 3 Noticias 1 y de la cadena en el día completo (miércoles 7 octubre)",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-07-de-octubre-2026/"
+      },
+      {
+        "titular": "ANTENA 3 NOTICIAS 1 es lo más visto con 2.276.000 espectadores y 24,8% - Antena3 lidera el día con 13,2%",
+        "cadena": "Antena 3",
+        "detalle": "Liderazgo sostenido de Antena 3 Noticias 1 y de la cadena en el día completo (jueves 8 octubre)",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-08-de-octubre-2026/"
+      },
+      {
+        "titular": "'La isla de las tentaciones' en Telecinco lidera con un 14% en el prime time",
+        "cadena": "Telecinco",
+        "detalle": "Liderazgo del reality en prime time del miércoles 7 de octubre",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-miercoles-7-octubre-isla-tentaciones-138443/"
+      }
+    ]
+  }
+}
