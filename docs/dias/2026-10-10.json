@@ -1,0 +1,51 @@
+{
+  "fecha": "2026-10-10",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "Shakira lidera la guerra del access prime con 'La Revuelta' frente a 'El hormiguero'; La Séptima anuncia debate electoral antes de su estreno del 5 de noviembre",
+  "alertas": {
+    "estrenos": [
+      {
+        "titular": "Javi Hoyos y Núria Marín presentan 'FOMO TOTAL', el nuevo programa de RTVE Play sobre el salseo en redes",
+        "cadena": "RTVE Play",
+        "detalle": "Estreno el 13 de octubre, analiza fenómenos virales en redes sociales",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/javi-hoyos-nuria-marin-presentan-fomo-total-nuevo-programa-rtve-play-sobre-salseo-redes_7047037_0.html"
+      },
+      {
+        "titular": "La Séptima ofrece a los principales partidos realizar un debate electoral abierto pocas semanas después de arrancar sus emisiones",
+        "cadena": "La Séptima",
+        "detalle": "La cadena arrancará el 5 de noviembre con señal abierta para televisiones, radios y prensa",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/septima-ofrece-los-principales-partidos-realizar-un-debate-electoral-abierto-pocas-semanas-despues-arrancar-sus-emisiones_7047135_0.html"
+      }
+    ],
+    "deportes": [],
+    "especiales": [],
+    "entrevistas": [
+      {
+        "titular": "'La revuelta' lidera con Shakira frente a 'El hormiguero' y 'Horizonte'",
+        "cadena": "La 1",
+        "detalle": "Shakira entrevistada en La Revuelta, llegó tarde reduciendo la entrevista a 15 minutos, pero logró liderazgo de audiencia",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-jueves-8-octubre-shakira-la-revuelta-138451/"
+      }
+    ],
+    "parrilla": [],
+    "records": [
+      {
+        "titular": "'¡De Viernes!' se desinfla sin Belén Esteban y anota un 12,7% con Beatriz Trapote",
+        "cadena": "Telecinco",
+        "detalle": "Bajada significativa de audiencia en ausencia de Belén Esteban, quedando en 12,7%",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-viernes-9-octubre-de-viernes-trapote-138459/"
+      },
+      {
+        "titular": "'La bola negra' sigue haciendo historia: sube en su segundo fin de semana rozando los 6 millones",
+        "cadena": "",
+        "detalle": "Segundo fin de semana con subida, acercándose a 6 millones de espectadores",
+        "fuente": "Fórmula TV",
+        "url": "https://www.ecartelera.com/noticias/la-bola-negra-sigue-haciendo-historia-sube-segunda-semana-84057/"
+      }
+    ]
+  }
+}
