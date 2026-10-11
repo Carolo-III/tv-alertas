@@ -1,0 +1,51 @@
+{
+  "fecha": "2026-10-11",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "Antena 3 lidera con informativos, 'De Viernes' baja sin Belén Esteban y 'Malas lenguas noche' pierde liderazgo sin fútbol",
+  "alertas": {
+    "estrenos": [],
+    "deportes": [],
+    "especiales": [],
+    "entrevistas": [
+      {
+        "titular": "Shakira, ¿diosa o endiosada?. La entrevista de 'La Revuelta' quedó reducida a 15 minutos porque la artista llegó tarde",
+        "cadena": "La 1",
+        "detalle": "Entrevista a Shakira en La Revuelta reducida a 15 minutos por retraso de la artista",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/shakira-diosa-endiosada_7047111_3.html"
+      }
+    ],
+    "parrilla": [
+      {
+        "titular": "'Malas lenguas noche' pierde el liderazgo sin el fútbol y cae a un 8% en La 1",
+        "cadena": "La 1",
+        "detalle": "El programa cae al 8% tras ausencia de fútbol en programación",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-sabado-10-octubre-malas-lenguas-noche-138466/"
+      }
+    ],
+    "records": [
+      {
+        "titular": "'¡De Viernes!' se desinfla sin Belén Esteban y anota un 12,7% con Beatriz Trapote",
+        "cadena": "Telecinco",
+        "detalle": "Caída de audiencia del programa sin su estrella habitual, marca 12,7%",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-viernes-9-octubre-de-viernes-trapote-138459/"
+      },
+      {
+        "titular": "ANTENA 3 NOTICIAS 1 es lo más visto del viernes 09 de octubre con 2.052.000 espectadores y 23,7% de cuota",
+        "cadena": "Antena 3",
+        "detalle": "Informativo lidera la jornada con más de 2 millones de espectadores",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-09-de-octubre-2026/"
+      },
+      {
+        "titular": "ANTENA 3 NOTICIAS 1 FIN DE SEMANA es lo más visto del sábado con 1.853.000 espectadores y 23% de cuota",
+        "cadena": "Antena 3",
+        "detalle": "Informativo de fin de semana lidera el día con casi 2 millones de espectadores",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-10-de-octubre-2026/"
+      }
+    ]
+  }
+}
