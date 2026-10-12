@@ -1,0 +1,81 @@
+{
+  "fecha": "2026-10-12",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "María Patiño ficha por laSexta, Isabel Pantoja anuncia su regreso a TV, y TVE celebra 70 años con especial de Informe Semanal presentado por Mari Carmen García Vela",
+  "alertas": {
+    "estrenos": [
+      {
+        "titular": "María Patiño vuelve a la televisión y confiesa haber recibido ayuda psicológica",
+        "cadena": "laSexta",
+        "detalle": "La periodista del corazón es el fichaje bomba de laSexta",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/maria-patino-vuelve-television-confiesa-haber-recibido-ayuda-psicologica-no-se-por-que-he-tenido-que-pagar-este-peaje_7047642_0.html"
+      },
+      {
+        "titular": "Isabel Pantoja vuelve a la televisión: esta es la fecha y el motivo de su regreso mediático",
+        "cadena": "",
+        "detalle": "Anuncio de regreso mediático de Isabel Pantoja a la televisión",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/isabel-pantoja-vuelve-television-esta-es-fecha-motivo-su-regreso-mediatico_7047810_0.html"
+      },
+      {
+        "titular": "'El precio de la red' se estrella en su estreno mientras 'La otra madre' supera expectativas pese a las críticas",
+        "cadena": "",
+        "detalle": "Estreno con malos datos de 'El precio de la red' frente a buen rendimiento de 'La otra madre'",
+        "fuente": "Fórmula TV",
+        "url": "https://www.ecartelera.com/noticias/el-precio-de-la-red-se-estrella-la-otra-madre-lidera-84064/"
+      }
+    ],
+    "deportes": [
+      {
+        "titular": "'Malas lenguas noche' pierde el liderazgo sin el fútbol y cae a un 8% en La 1",
+        "cadena": "La 1",
+        "detalle": "Caída significativa del programa al no tener fútbol como competencia, registrando solo 8%",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-sabado-10-octubre-malas-lenguas-noche-138466/"
+      }
+    ],
+    "especiales": [
+      {
+        "titular": "Mari Carmen García Vela presenta 'Informe semanal' tres décadas después y con 84 años",
+        "cadena": "La 1",
+        "detalle": "El espacio recuperó a la comunicadora para celebrar los 70 años de Televisión Española",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/mari-carmen-garcia-vela-presenta-informe-semanal-tres-decadas-despues-con-84-anos-es-un-placer-volver-estar-con-ustedes_7047666_0.html"
+      },
+      {
+        "titular": "Un agente de la UME le pide matrimonio a su novia en pleno desfile del 12 de octubre",
+        "cadena": "Telemadrid",
+        "detalle": "Momento viral captado durante la retransmisión del desfile del Día de la Hispanidad",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/un-agente-ume-le-pide-matrimonio-su-novia-pleno-desfile-12-octubre-ha-dicho-que-si_7047842_0.html"
+      }
+    ],
+    "entrevistas": [
+      {
+        "titular": "Maruja Torres y el error que repetimos a la hora de votar en las elecciones",
+        "cadena": "laSexta",
+        "detalle": "Maruja Torres participa en el 'Salvados' dedicado a Miguel Ríos",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/maruja-torres-error-que-repetimos-hora-votar-las-elecciones_7047458_3.html"
+      }
+    ],
+    "parrilla": [],
+    "records": [
+      {
+        "titular": "ANTENA 3 NOTICIAS 1 FIN DE SEMANA es lo más visto con 1.853.000 y 23%",
+        "cadena": "Antena 3",
+        "detalle": "Lidera el día con 1.853.000 espectadores y 23% de cuota. Las Temáticas de Pago logran 17,6% como conjunto",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-10-de-octubre-2026/"
+      },
+      {
+        "titular": "'¡De Viernes!' se desinfla sin Belén Esteban y anota un 12,7% con Beatriz Trapote",
+        "cadena": "Telecinco",
+        "detalle": "Caída del programa al 12,7% en emisión con Beatriz Trapote sin Belén Esteban",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-viernes-9-octubre-de-viernes-trapote-138459/"
+      }
+    ]
+  }
+}
