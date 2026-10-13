@@ -1,0 +1,73 @@
+{
+  "fecha": "2026-10-13",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "El especial del Día de la Fiesta Nacional arrasa en La 1 con 44,2%, marcando el evento del día y liderando audiencias.",
+  "alertas": {
+    "estrenos": [],
+    "deportes": [],
+    "especiales": [
+      {
+        "titular": "ESPECIAL INFORMATIVO: DIA DE LA FIESTA NACIONAL arrasa en La 1",
+        "cadena": "La 1",
+        "detalle": "El especial del 12 de octubre logra 2.097.000 espectadores y un excepcional 44,2% de cuota, lo más visto del día",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-12-de-octubre-2026/"
+      },
+      {
+        "titular": "TVE celebra su 70 aniversario reuniendo a los 'Reservoir Dogs' de la cadena",
+        "cadena": "La 1",
+        "detalle": "Evento especial por el 70 aniversario de la televisión pública española",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/los-reservoir-dogs-tve-se-reunen-para-celebrar-70-aniversario-tele-publica_7048107_0.html"
+      },
+      {
+        "titular": "Un agente de la UME pide matrimonio en pleno desfile del 12 de octubre",
+        "cadena": "Telemadrid",
+        "detalle": "Momento viral captado por las cámaras durante la retransmisión del desfile",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/un-agente-ume-le-pide-matrimonio-su-novia-pleno-desfile-12-octubre-ha-dicho-que-si_7047842_0.html"
+      }
+    ],
+    "entrevistas": [
+      {
+        "titular": "Maluma en 'El Hormiguero' habla de superación, ansiedad y su cambio personal",
+        "cadena": "Antena 3",
+        "detalle": "El cantante se abre sobre su transformación tras la llegada de su hija y pérdida de su abuela",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/maluma-recupera-nino-que-dejo-atras-por-fama-supera-ansiedad-soy-un-caso-superacion_7047906_0.html"
+      }
+    ],
+    "parrilla": [
+      {
+        "titular": "Erundino critica las reposiciones infinitas de 'El Cazador' en TVE",
+        "cadena": "La 1",
+        "detalle": "El concursante denuncia que no se graban programas nuevos desde diciembre 2024 pero siguen emitiéndose reposiciones",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/erundino-critica-las-reposiciones-infinitas-que-hace-tve-cazador-si-tanto-gusta-por-que-no-graban-programas-nuevos_7047933_0.html"
+      },
+      {
+        "titular": "Isabel Pantoja confirma su regreso a la televisión con fecha concreta",
+        "cadena": "",
+        "detalle": "La tonadillera anuncia su vuelta mediática con fecha y motivo definidos",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/isabel-pantoja-vuelve-television-esta-es-fecha-motivo-su-regreso-mediatico_7047810_0.html"
+      },
+      {
+        "titular": "'MasterChef Celebrity Legends' hace historia al eliminar la repesca",
+        "cadena": "La 1",
+        "detalle": "Decisión inédita en la historia del formato que afecta a la mecánica del concurso",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/masterchef-celebrity-legends-hace-historia-tras-inesperada-decision-que-afecta-los-concursantes-menos-competencia_7047907_0.html"
+      }
+    ],
+    "records": [
+      {
+        "titular": "La 1 lidera el día con 15,2% gracias al especial del 12 de octubre",
+        "cadena": "La 1",
+        "detalle": "El especial de la Fiesta Nacional impulsa a La 1 como cadena más vista del día",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-12-de-octubre-2026/"
+      }
+    ]
+  }
+}
