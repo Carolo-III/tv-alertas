@@ -1,0 +1,88 @@
+{
+  "fecha": "2026-10-14",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "Regresa GH VIP a Telecinco, Mediaset mueve parrilla con nuevo programa de Risto Mejide en Cuatro, y La 1 arrasa con el especial del Día de la Fiesta Nacional con 44,2% de cuota",
+  "alertas": {
+    "estrenos": [
+      {
+        "titular": "Risto Mejide se pondrá al frente de 'El Comité', un nuevo programa de actualidad para el 'prime time' de Cuatro",
+        "cadena": "Cuatro",
+        "detalle": "Nuevo programa semanal de actualidad con expertos, se emitirá después de 'Horizonte'",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/risto-mejide-se-pondra-frente-comite-un-nuevo-programa-actualidad-para-prime-time-cuatro_7048610_0.html"
+      },
+      {
+        "titular": "Vuelve 'GH VIP' a Telecinco tres años después de su anterior edición: '¡Muy pronto!'",
+        "cadena": "Telecinco",
+        "detalle": "Jorge Javier Vázquez anunció el regreso del reality VIP tras 3 años de ausencia",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/uno-los-realities-mas-vistos-telecinco-vuelve-casi-tres-anos-despues-muy-pronto_7048421_0.html"
+      },
+      {
+        "titular": "José Mota estrena el título de su Nochevieja, 'Historias para no dormir'",
+        "cadena": "La 1",
+        "detalle": "El humorista presenta su especial de Nochevieja, ha cambiado parte del guion por el adelanto electoral",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/jose-mota-estrena-titulo-su-nochevieja-historias-para-no-dormir-con-adelanto-electoral-hemos-cambiado-parte-guion_7048420_0.html"
+      }
+    ],
+    "deportes": [],
+    "especiales": [
+      {
+        "titular": "ESPECIAL INFORMATIVO: DIA DE LA FIESTA NACIONAL (La1) es lo más visto con 2.097.000 espectadores y 44,2% de cuota",
+        "cadena": "La 1",
+        "detalle": "El especial del 12 de octubre arrasa en audiencia y convierte a La 1 en líder del día con 15,2%",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-12-de-octubre-2026/"
+      },
+      {
+        "titular": "Los 'Reservoir Dogs' de TVE se reúnen para celebrar el 70 aniversario de la tele pública",
+        "cadena": "La 1",
+        "detalle": "Celebración del 70 aniversario de TVE con reunión de rostros históricos",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/los-reservoir-dogs-tve-se-reunen-para-celebrar-70-aniversario-tele-publica_7048107_0.html"
+      }
+    ],
+    "entrevistas": [
+      {
+        "titular": "María del Monte presenta su nuevo libro en 'El Hormiguero' y habla sobre su salida del armario",
+        "cadena": "Antena 3",
+        "detalle": "La cantante recordó momentos importantes de su vida en entrevista destacada",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/maria-monte-sobre-su-salida-armario-no-he-tenido-necesidad-mi-madre-era-conocedora-mi-vida-entera_7048451_0.html"
+      }
+    ],
+    "parrilla": [
+      {
+        "titular": "Mediaset aumenta el espacio de 'Horizonte' y vuelve a elevar a 'El Chiringuito' a Cuatro",
+        "cadena": "Cuatro",
+        "detalle": "Cambios en la parrilla de Mediaset con ampliación de Horizonte y movimiento de El Chiringuito",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/mediaset-aumenta-espacio-horizonte-vuelve-elevar-chiringuito-cuatro_7048567_0.html"
+      },
+      {
+        "titular": "José Mota cambia parte del guion de su Nochevieja por el adelanto electoral",
+        "cadena": "La 1",
+        "detalle": "El especial de Nochevieja adapta su contenido debido al contexto político de adelanto electoral",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/jose-mota-estrena-titulo-su-nochevieja-historias-para-no-dormir-con-adelanto-electoral-hemos-cambiado-parte-guion_7048420_0.html"
+      }
+    ],
+    "records": [
+      {
+        "titular": "El Día de la Fiesta Nacional barre en la mañana de La 1 con un 44,2%",
+        "cadena": "La 1",
+        "detalle": "Récord de audiencia para el especial del 12 de octubre con 44,2% de cuota de pantalla",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-lunes-12-octubre-fiesta-nacional-2026-138476/"
+      },
+      {
+        "titular": "'MasterChef Celebrity Legends' hace historia tras decisión que afecta a concursantes: eliminan la repesca",
+        "cadena": "La 1",
+        "detalle": "Decisión inédita en la historia de MasterChef al prescindir por primera vez de la repesca",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/masterchef-celebrity-legends-hace-historia-tras-inesperada-decision-que-afecta-los-concursantes-menos-competencia_7047907_0.html"
+      }
+    ]
+  }
+}
