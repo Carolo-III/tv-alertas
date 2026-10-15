@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang='es'>
+<head>
+<meta charset='UTF-8'>
+<meta name='viewport' content='width=device-width, initial-scale=1.0'>
+<title>TV Alertas — Jueves 15 de octubre de 2026</title>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=DM+Sans:wght@300;400;500;600&display=swap');
+
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+:root {
+  --bg: #0a0a0b;
+  --bg2: #111113;
+  --bg3: #1a1a1d;
+  --border: #2a2a2e;
+  --text: #e8e8ec;
+  --text-muted: #6b6b78;
+  --accent: #e8c547;
+}
+
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: 'DM Sans', sans-serif;
+  font-size: 15px;
+  line-height: 1.6;
+  min-height: 100vh;
+}
+
+.site-header {
+  border-bottom: 1px solid var(--border);
+  padding: 20px 32px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  position: sticky;
+  top: 0;
+  background: rgba(10,10,11,0.95);
+  backdrop-filter: blur(8px);
+  z-index: 100;
+}
+
+.site-title {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 24px;
+  letter-spacing: 2px;
+  color: var(--accent);
+}
+
+.site-subtitle {
+  font-size: 12px;
+  color: var(--text-muted);
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+
+.nav-link {
+  color: var(--text-muted);
+  text-decoration: none;
+  font-size: 13px;
+  letter-spacing: 0.5px;
+  transition: color 0.2s;
+}
+.nav-link:hover { color: var(--accent); }
+
+main { max-width: 900px; margin: 0 auto; padding: 40px 24px; }
+
+.fecha-display {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 48px;
+  letter-spacing: 3px;
+  color: var(--text);
+  margin-bottom: 4px;
+}
+
+.resumen-ejecutivo {
+  font-size: 16px;
+  color: var(--text-muted);
+  margin-bottom: 40px;
+  padding-left: 16px;
+  border-left: 3px solid var(--accent);
+}
+
+.sin-alertas {
+  text-align: center;
+  padding: 80px 24px;
+  color: var(--text-muted);
+}
+
+.sin-alertas .icon { font-size: 48px; margin-bottom: 16px; }
+.sin-alertas h2 { font-family: 'Bebas Neue', sans-serif; font-size: 28px; letter-spacing: 2px; margin-bottom: 8px; color: var(--text); }
+
+.categoria-bloque { margin-bottom: 40px; }
+
+.categoria-header {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 16px;
+  padding-bottom: 8px;
+  border-bottom: 1px solid var(--border);
+}
+
+.categoria-icon { font-size: 20px; }
+
+.categoria-label {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 20px;
+  letter-spacing: 2px;
+}
+
+.categoria-count {
+  font-size: 12px;
+  padding: 2px 8px;
+  border-radius: 12px;
+  background: var(--bg3);
+  color: var(--text-muted);
+  font-weight: 500;
+}
+
+.alerta-card {
+  background: var(--bg2);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 16px 20px;
+  margin-bottom: 10px;
+  border-left: 3px solid transparent;
+  transition: border-color 0.2s, background 0.2s;
+}
+
+.alerta-card:hover { background: var(--bg3); }
+
+.alerta-titular {
+  font-weight: 600;
+  font-size: 15px;
+  margin-bottom: 4px;
+  color: var(--text);
+}
+
+.alerta-detalle {
+  font-size: 13px;
+  color: var(--text-muted);
+  margin-bottom: 6px;
+}
+
+.alerta-meta {
+  display: flex;
+  gap: 12px;
+  font-size: 12px;
+}
+
+.badge-cadena {
+  background: var(--bg3);
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  padding: 1px 7px;
+  color: var(--text-muted);
+}
+
+.badge-fuente { color: var(--text-muted); font-style: italic; }
+
+.alerta-link {
+  color: var(--text);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: border-color 0.2s, color 0.2s;
+}
+.alerta-link:hover { color: var(--accent); border-bottom-color: var(--accent); }
+
+.historico-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 12px;
+  margin-top: 24px;
+}
+
+.dia-card {
+  background: var(--bg2);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 16px;
+  text-decoration: none;
+  display: block;
+  transition: border-color 0.2s, background 0.2s;
+}
+
+.dia-card:hover { background: var(--bg3); border-color: var(--accent); }
+
+.dia-fecha {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 18px;
+  letter-spacing: 1px;
+  color: var(--text);
+  margin-bottom: 4px;
+}
+
+.dia-alertas { font-size: 12px; color: var(--text-muted); }
+
+.dia-dot {
+  display: inline-block;
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: var(--accent);
+  margin-right: 6px;
+  vertical-align: middle;
+}
+
+.dia-sin-alertas .dia-dot { background: var(--border); }
+
+footer {
+  border-top: 1px solid var(--border);
+  padding: 20px 32px;
+  text-align: center;
+  font-size: 12px;
+  color: var(--text-muted);
+  letter-spacing: 0.5px;
+}
+</style>
+</head>
+<body>
+<header class="site-header"><div><div class="site-title">TV ALERTAS</div><div class="site-subtitle">Monitor de televisión española</div></div><a href="../index.html" class="nav-link">← Histórico</a></header>
+<main>
+<div class="fecha-display">JUEVES 15 DE OCTUBRE DE 2026</div>
+<div class="resumen-ejecutivo">Mediaset anuncia cambios importantes: regreso de 'GH VIP', nuevo programa de Risto Mejide en Cuatro y ampliación de 'Horizonte'; clima electoral altera programaciones</div>
+<div class="categoria-bloque"><div class="categoria-header"><span class="categoria-icon">🎬</span><span class="categoria-label" style="color:#e8c547">Estrenos</span><span class="categoria-count">3</span></div><div class="alerta-card" style="border-left-color:#e8c547"><div class="alerta-titular"><a href="https://www.20minutos.es/television/risto-mejide-se-pondra-frente-comite-un-nuevo-programa-actualidad-para-prime-time-cuatro_7048610_0.html" target="_blank" rel="noopener" class="alerta-link">Risto Mejide se pondrá al frente de 'El Comité', un nuevo programa de actualidad para el 'prime time' de Cuatro</a></div><div class='alerta-detalle'>Nuevo espacio de actualidad que se emitirá una noche a la semana después de 'Horizonte', reunirá a expertos de distintos ámbitos</div><div class="alerta-meta"><span class='badge-cadena'>Cuatro</span><span class='badge-fuente'>20minutos TV</span></div></div><div class="alerta-card" style="border-left-color:#e8c547"><div class="alerta-titular"><a href="https://www.20minutos.es/television/uno-los-realities-mas-vistos-telecinco-vuelve-casi-tres-anos-despues-muy-pronto_7048421_0.html" target="_blank" rel="noopener" class="alerta-link">Vuelve 'GH VIP' a Telecinco tres años después de su anterior edición: '¡Muy pronto!'</a></div><div class='alerta-detalle'>Jorge Javier Vázquez anunció el regreso del reality en 'Supervivientes All Stars', tres años después de su última edición</div><div class="alerta-meta"><span class='badge-cadena'>Telecinco</span><span class='badge-fuente'>20minutos TV</span></div></div><div class="alerta-card" style="border-left-color:#e8c547"><div class="alerta-titular"><a href="https://www.ecartelera.com/noticias/girls-regresa-diez-anos-despues-84069/" target="_blank" rel="noopener" class="alerta-link">'Girls' regresa diez años después de su final original con una nueva séptima temporada</a></div><div class='alerta-detalle'>Serie regresa una década después con nueva temporada</div><div class="alerta-meta"><span class='badge-fuente'>Fórmula TV</span></div></div></div><div class="categoria-bloque"><div class="categoria-header"><span class="categoria-icon">⭐</span><span class="categoria-label" style="color:#e847a3">Especiales / Galas</span><span class="categoria-count">2</span></div><div class="alerta-card" style="border-left-color:#e847a3"><div class="alerta-titular"><a href="https://www.20minutos.es/television/jose-mota-estrena-titulo-su-nochevieja-historias-para-no-dormir-con-adelanto-electoral-hemos-cambiado-parte-guion_7048420_0.html" target="_blank" rel="noopener" class="alerta-link">José Mota estrena el título de su Nochevieja, 'Historias para no dormir': 'Con el adelanto electoral hemos cambiado parte del guion'</a></div><div class='alerta-detalle'>Especial de Nochevieja que ha modificado su guion debido al adelanto electoral, incluirá sketch con Henar Álvarez</div><div class="alerta-meta"><span class='badge-cadena'>La 1</span><span class='badge-fuente'>20minutos TV</span></div></div><div class="alerta-card" style="border-left-color:#e847a3"><div class="alerta-titular"><a href="https://www.20minutos.es/television/broncano-bromea-invitar-revuelta-los-candidatos-las-elecciones-tenemos-que-simular-imparcialidad_7048955_0.html" target="_blank" rel="noopener" class="alerta-link">Broncano bromea al invitar a 'La Revuelta' a los candidatos a las elecciones: 'Tenemos que simular imparcialidad'</a></div><div class='alerta-detalle'>El presentador ofrece su programa a los políticos para hablar sobre la campaña electoral, juntos o por separado</div><div class="alerta-meta"><span class='badge-cadena'>La 1</span><span class='badge-fuente'>20minutos TV</span></div></div></div><div class="categoria-bloque"><div class="categoria-header"><span class="categoria-icon">📋</span><span class="categoria-label" style="color:#e87347">Cambios de parrilla</span><span class="categoria-count">1</span></div><div class="alerta-card" style="border-left-color:#e87347"><div class="alerta-titular"><a href="https://www.20minutos.es/television/mediaset-aumenta-espacio-horizonte-vuelve-elevar-chiringuito-cuatro_7048567_0.html" target="_blank" rel="noopener" class="alerta-link">Mediaset aumenta el espacio de 'Horizonte' y vuelve a elevar a 'El Chiringuito' a Cuatro</a></div><div class='alerta-detalle'>Cambios en la parrilla de Mediaset: ampliación de 'Horizonte' y regreso de 'El Chiringuito' a Cuatro</div><div class="alerta-meta"><span class='badge-cadena'>Cuatro</span><span class='badge-fuente'>20minutos TV</span></div></div></div><div class="categoria-bloque"><div class="categoria-header"><span class="categoria-icon">📊</span><span class="categoria-label" style="color:#47e87e">Récords</span><span class="categoria-count">4</span></div><div class="alerta-card" style="border-left-color:#47e87e"><div class="alerta-titular"><a href="https://www.formulatv.com/noticias/audiencias-martes-13-octubre-supervivientes-stars-138493/" target="_blank" rel="noopener" class="alerta-link">'Supervivientes All Stars' lidera con un 14,3% y 'Al cielo con ella' cae a un 7,3%</a></div><div class='alerta-detalle'>Liderazgo de 'Supervivientes All Stars' (14,3%) mientras 'Al cielo con ella' desciende a 7,3%</div><div class="alerta-meta"><span class='badge-cadena'>Telecinco</span><span class='badge-fuente'>Fórmula TV</span></div></div><div class="alerta-card" style="border-left-color:#47e87e"><div class="alerta-titular"><a href="https://www.formulatv.com/noticias/audiencias-miercoles-14-octubre-horizonte-la-isla-138504/" target="_blank" rel="noopener" class="alerta-link">'Horizonte' y 'La isla de las tentaciones' se reparten el liderazgo la noche del miércoles</a></div><div class='alerta-detalle'>Empate técnico en el liderazgo del miércoles entre ambos programas</div><div class="alerta-meta"><span class='badge-cadena'>Varias</span><span class='badge-fuente'>Fórmula TV</span></div></div><div class="alerta-card" style="border-left-color:#47e87e"><div class="alerta-titular"><a href="https://barloventocomunicacion.es/audiencias-diarias/audiencias-13-de-octubre-2026/" target="_blank" rel="noopener" class="alerta-link">ANTENA 3 NOTICIAS 1 (Antena3) es lo más visto de ayer gracias a 2.305.000 espectadores como promedio y el 25% de cuota de pantalla</a></div><div class='alerta-detalle'>Antena 3 Noticias consigue 2,3 millones y 25% de share el martes 13 octubre; Antena 3 lidera el día con 14,1%</div><div class="alerta-meta"><span class='badge-cadena'>Antena 3</span><span class='badge-fuente'>Barlovento Comunicación</span></div></div><div class="alerta-card" style="border-left-color:#47e87e"><div class="alerta-titular"><a href="https://barloventocomunicacion.es/audiencias-diarias/audiencias-14-de-octubre-2026/" target="_blank" rel="noopener" class="alerta-link">ANTENA 3 NOTICIAS 1 (Antena3) es lo más visto de ayer gracias a 2.099.000 espectadores como promedio y el 23,1% de cuota de pantalla</a></div><div class='alerta-detalle'>Antena 3 Noticias consigue 2,1 millones y 23,1% el miércoles 14 octubre; Antena 3 lidera el día con 12,9%</div><div class="alerta-meta"><span class='badge-cadena'>Antena 3</span><span class='badge-fuente'>Barlovento Comunicación</span></div></div></div>
+</main>
+<footer>Generado automáticamente · Fuentes: Barlovento, Fórmula TV, Vertele, DOS30</footer>
+</body>
+</html>

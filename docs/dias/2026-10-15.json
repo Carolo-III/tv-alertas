@@ -1,0 +1,87 @@
+{
+  "fecha": "2026-10-15",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "Mediaset anuncia cambios importantes: regreso de 'GH VIP', nuevo programa de Risto Mejide en Cuatro y ampliación de 'Horizonte'; clima electoral altera programaciones",
+  "alertas": {
+    "estrenos": [
+      {
+        "titular": "Risto Mejide se pondrá al frente de 'El Comité', un nuevo programa de actualidad para el 'prime time' de Cuatro",
+        "cadena": "Cuatro",
+        "detalle": "Nuevo espacio de actualidad que se emitirá una noche a la semana después de 'Horizonte', reunirá a expertos de distintos ámbitos",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/risto-mejide-se-pondra-frente-comite-un-nuevo-programa-actualidad-para-prime-time-cuatro_7048610_0.html"
+      },
+      {
+        "titular": "Vuelve 'GH VIP' a Telecinco tres años después de su anterior edición: '¡Muy pronto!'",
+        "cadena": "Telecinco",
+        "detalle": "Jorge Javier Vázquez anunció el regreso del reality en 'Supervivientes All Stars', tres años después de su última edición",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/uno-los-realities-mas-vistos-telecinco-vuelve-casi-tres-anos-despues-muy-pronto_7048421_0.html"
+      },
+      {
+        "titular": "'Girls' regresa diez años después de su final original con una nueva séptima temporada",
+        "cadena": "",
+        "detalle": "Serie regresa una década después con nueva temporada",
+        "fuente": "Fórmula TV",
+        "url": "https://www.ecartelera.com/noticias/girls-regresa-diez-anos-despues-84069/"
+      }
+    ],
+    "deportes": [],
+    "especiales": [
+      {
+        "titular": "José Mota estrena el título de su Nochevieja, 'Historias para no dormir': 'Con el adelanto electoral hemos cambiado parte del guion'",
+        "cadena": "La 1",
+        "detalle": "Especial de Nochevieja que ha modificado su guion debido al adelanto electoral, incluirá sketch con Henar Álvarez",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/jose-mota-estrena-titulo-su-nochevieja-historias-para-no-dormir-con-adelanto-electoral-hemos-cambiado-parte-guion_7048420_0.html"
+      },
+      {
+        "titular": "Broncano bromea al invitar a 'La Revuelta' a los candidatos a las elecciones: 'Tenemos que simular imparcialidad'",
+        "cadena": "La 1",
+        "detalle": "El presentador ofrece su programa a los políticos para hablar sobre la campaña electoral, juntos o por separado",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/broncano-bromea-invitar-revuelta-los-candidatos-las-elecciones-tenemos-que-simular-imparcialidad_7048955_0.html"
+      }
+    ],
+    "entrevistas": [],
+    "parrilla": [
+      {
+        "titular": "Mediaset aumenta el espacio de 'Horizonte' y vuelve a elevar a 'El Chiringuito' a Cuatro",
+        "cadena": "Cuatro",
+        "detalle": "Cambios en la parrilla de Mediaset: ampliación de 'Horizonte' y regreso de 'El Chiringuito' a Cuatro",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/mediaset-aumenta-espacio-horizonte-vuelve-elevar-chiringuito-cuatro_7048567_0.html"
+      }
+    ],
+    "records": [
+      {
+        "titular": "'Supervivientes All Stars' lidera con un 14,3% y 'Al cielo con ella' cae a un 7,3%",
+        "cadena": "Telecinco",
+        "detalle": "Liderazgo de 'Supervivientes All Stars' (14,3%) mientras 'Al cielo con ella' desciende a 7,3%",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-martes-13-octubre-supervivientes-stars-138493/"
+      },
+      {
+        "titular": "'Horizonte' y 'La isla de las tentaciones' se reparten el liderazgo la noche del miércoles",
+        "cadena": "Varias",
+        "detalle": "Empate técnico en el liderazgo del miércoles entre ambos programas",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-miercoles-14-octubre-horizonte-la-isla-138504/"
+      },
+      {
+        "titular": "ANTENA 3 NOTICIAS 1 (Antena3) es lo más visto de ayer gracias a 2.305.000 espectadores como promedio y el 25% de cuota de pantalla",
+        "cadena": "Antena 3",
+        "detalle": "Antena 3 Noticias consigue 2,3 millones y 25% de share el martes 13 octubre; Antena 3 lidera el día con 14,1%",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-13-de-octubre-2026/"
+      },
+      {
+        "titular": "ANTENA 3 NOTICIAS 1 (Antena3) es lo más visto de ayer gracias a 2.099.000 espectadores como promedio y el 23,1% de cuota de pantalla",
+        "cadena": "Antena 3",
+        "detalle": "Antena 3 Noticias consigue 2,1 millones y 23,1% el miércoles 14 octubre; Antena 3 lidera el día con 12,9%",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-14-de-octubre-2026/"
+      }
+    ]
+  }
+}
