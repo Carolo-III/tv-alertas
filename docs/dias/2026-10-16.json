@@ -1,0 +1,80 @@
+{
+  "fecha": "2026-10-16",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "Elecciones anticipadas provocan movimientos especiales en televisión: candidatos presidenciales confirmados en La Revuelta y alta cobertura política en prime time",
+  "alertas": {
+    "estrenos": [],
+    "deportes": [],
+    "especiales": [
+      {
+        "titular": "Broncano revela qué dos candidatos a la presidencia ya han dicho que sí para ir de invitados a 'La Revuelta'",
+        "cadena": "La 1",
+        "detalle": "Dos candidatos presidenciales confirmados para programa en contexto de adelanto electoral",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/broncano-revela-que-dos-candidatos-presidencia-ya-han-dicho-que-si-para-ir-invitados-revuelta-pero-que-dos_7049515_0.html"
+      },
+      {
+        "titular": "Vicente Vallés opina sobre el adelanto electoral: 'Llevamos en campaña electoral prácticamente el último año'",
+        "cadena": "Antena 3",
+        "detalle": "Contexto de adelanto electoral con alta cobertura informativa, Vallés espera no moderar debate electoral",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/vicente-valles-opina-hormiguero-sobre-adelanto-electoral-llevamos-campana-electoral-practicamente-ultimo-ano_7049488_0.html"
+      },
+      {
+        "titular": "Ana de Roque, presentadora de TVE, se despide entre lágrimas y aplausos tras más de 30 años",
+        "cadena": "La 1",
+        "detalle": "Despedida especial de presentadora del tiempo tras más de 30 años, emisión especial con formato histórico",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/ana-roque-presentadora-tve-se-despide-entre-lagrimas-aplausos-tras-mas-30-anos_7049487_0.html"
+      }
+    ],
+    "entrevistas": [
+      {
+        "titular": "Vicente Vallés visita 'El Hormiguero' para comentar la actualidad informativa",
+        "cadena": "Antena 3",
+        "detalle": "Presentador de Antena 3 Noticias 2 comenta actualidad electoral y proyectos como su pódcast 'Espías: clave secreta'",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/opinion-vicente-valles-hormiguero-sobre-los-espias-les-hubiera-gustado-ser-periodistas-pero-no-han-podido_7049393_0.html"
+      }
+    ],
+    "parrilla": [
+      {
+        "titular": "Alba Carrillo abandona 'El Sótano Club' para centrarse en su nueva etapa en La Séptima",
+        "cadena": "TEN / La Séptima",
+        "detalle": "Colaboradora deja proyecto en TEN para priorizar su incorporación a La Séptima",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/alba-carrillo-tras-darse-conocer-su-marcha-sotano-club-he-tenido-que-tomar-decision-por-una-cuestion-priorizar_7049634_0.html"
+      },
+      {
+        "titular": "Telemadrid anuncia el lanzamiento de un nuevo canal taurino en su plataforma TLMad",
+        "cadena": "Telemadrid",
+        "detalle": "Nueva oferta de contenido especializado taurino en plataforma autonómica",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/alejandro-talavante-victoriano-rio-miguel-angel-moncholi-premios-taurinos-telemadrid-2026_7049627_0.html"
+      }
+    ],
+    "records": [
+      {
+        "titular": "'Horizonte' lidera la noche del jueves con un 13,8% y casi un millón de espectadores",
+        "cadena": "Cuatro",
+        "detalle": "Programa de Iker Jiménez consigue liderazgo destacado en prime time",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-jueves-15-octubre-horizonte-lidera-138514/"
+      },
+      {
+        "titular": "Antena 3 Noticias 1 es lo más visto del 15 de octubre con 2.207.000 espectadores y 24,9% de share",
+        "cadena": "Antena 3",
+        "detalle": "Liderazgo absoluto del informativo y de la cadena (13,9%) en contexto de alta actualidad electoral",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-15-de-octubre-2026/"
+      },
+      {
+        "titular": "'Horizonte' y 'La isla de las tentaciones' se reparten el liderazgo la noche del miércoles",
+        "cadena": "Cuatro / Telecinco",
+        "detalle": "Empate técnico en liderazgo de prime time entre ambos programas",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-miercoles-14-octubre-horizonte-la-isla-138504/"
+      }
+    ]
+  }
+}
