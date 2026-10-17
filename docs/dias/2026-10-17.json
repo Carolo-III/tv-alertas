@@ -1,0 +1,95 @@
+{
+  "fecha": "2026-10-17",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "Antena 3 lidera audiencias; 'Horizonte' logra récord con 13,8%; despedida de Ana de Roque en TVE tras 30 años; nuevo canal La Séptima presenta su programación",
+  "alertas": {
+    "estrenos": [
+      {
+        "titular": "Un nuevo canal llamado La Séptima protagonizó un acto en el Ateneo de Madrid",
+        "cadena": "La Séptima",
+        "detalle": "Presentación oficial del nuevo canal con acto en el Ateneo de Madrid",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/un-nuevo-canal-llamado-septima_7049652_3.html"
+      },
+      {
+        "titular": "Telemadrid anunció el lanzamiento de un nuevo canal taurino en su plataforma TLMad",
+        "cadena": "Telemadrid",
+        "detalle": "Lanzamiento de canal taurino especializado en plataforma TLMad",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/alejandro-talavante-victoriano-rio-miguel-angel-moncholi-premios-taurinos-telemadrid-2026_7049627_0.html"
+      }
+    ],
+    "deportes": [],
+    "especiales": [
+      {
+        "titular": "Ana de Roque, presentadora de TVE, se despide entre lágrimas y aplausos tras más de 30 años",
+        "cadena": "La 1",
+        "detalle": "Emisión especial de despedida con previsión meteorológica al estilo de los inicios de la televisión",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/ana-roque-presentadora-tve-se-despide-entre-lagrimas-aplausos-tras-mas-30-anos_7049487_0.html"
+      },
+      {
+        "titular": "Alba Carrillo se despide de 'El Sótano Club' por priorizar su nueva etapa en La Séptima",
+        "cadena": "TEN / La Séptima",
+        "detalle": "Suspensión del programa y marcha de la presentadora para centrarse en La Séptima",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/alba-carrillo-tras-darse-conocer-su-marcha-sotano-club-he-tenido-que-tomar-decision-por-una-cuestion-priorizar_7049634_0.html"
+      }
+    ],
+    "entrevistas": [
+      {
+        "titular": "Vicente Vallés visita 'El Hormiguero' y opina sobre el adelanto electoral y el problema de la vivienda",
+        "cadena": "Antena 3",
+        "detalle": "El presentador de Antena 3 Noticias 2 analiza la actualidad informativa en el programa",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/vicente-valles-opina-hormiguero-sobre-adelanto-electoral-llevamos-campana-electoral-practicamente-ultimo-ano_7049488_0.html"
+      },
+      {
+        "titular": "Broncano revela qué dos candidatos a la presidencia ya han confirmado su visita a 'La Revuelta'",
+        "cadena": "La 1",
+        "detalle": "Candidatos presidenciales confirman asistencia al programa en contexto de adelanto electoral",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/broncano-revela-que-dos-candidatos-presidencia-ya-han-dicho-que-si-para-ir-invitados-revuelta-pero-que-dos_7049515_0.html"
+      }
+    ],
+    "parrilla": [
+      {
+        "titular": "TEN cancela la emisión de 'El Sótano' del viernes, en la que Alba Carrillo se iba a despedir",
+        "cadena": "TEN",
+        "detalle": "Cancelación inesperada tras el abandono abrupto de la presentadora del plató el jueves",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/ten-cancela-emision-sotano-este-viernes-que-alba-carrillo-se-iba-despedir-necesitamos-tiempo_7049720_0.html"
+      }
+    ],
+    "records": [
+      {
+        "titular": "'Horizonte' lidera la noche con un 13,8% y casi un millón de espectadores",
+        "cadena": "Cuatro",
+        "detalle": "Datos destacados de audiencia para el programa de Iker Jiménez en prime time del jueves",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-jueves-15-octubre-horizonte-lidera-138514/"
+      },
+      {
+        "titular": "'La Voz' sube y lidera frente a '¡De Viernes!' con la breve aparición de Belén Esteban",
+        "cadena": "Antena 3",
+        "detalle": "La Voz se impone en audiencias del viernes frente a la competencia de Telecinco",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-viernes-16-octubre-la-voz-de-viernes-138521/"
+      },
+      {
+        "titular": "Antena 3 Noticias 1 es lo más visto con 2.091.000 espectadores y 24,2% de share",
+        "cadena": "Antena 3",
+        "detalle": "Antena 3 lidera como cadena más vista del día 16 de octubre con 13,3% de cuota",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-16-de-octubre-2026/"
+      },
+      {
+        "titular": "Antena 3 Noticias 1 es lo más visto con 2.207.000 espectadores y 24,9% de share",
+        "cadena": "Antena 3",
+        "detalle": "Antena 3 lidera como cadena más vista del día 15 de octubre con 13,9% de cuota",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-15-de-octubre-2026/"
+      }
+    ]
+  }
+}
