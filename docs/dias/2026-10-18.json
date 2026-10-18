@@ -1,0 +1,59 @@
+{
+  "fecha": "2026-10-18",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "Antena 3 domina el fin de semana con sus informativos, 'La Voz' lidera el viernes frente a Telecinco, y 'La Ruleta de la Suerte Noche' gana el sábado con Cuatro superando a Telecinco.",
+  "alertas": {
+    "estrenos": [
+      {
+        "titular": "Un nuevo canal llamado La Séptima",
+        "cadena": "La Séptima",
+        "detalle": "Nuevo canal de televisión que protagonizó acto de presentación en el Ateneo de Madrid",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/un-nuevo-canal-llamado-septima_7049652_3.html"
+      }
+    ],
+    "deportes": [],
+    "especiales": [
+      {
+        "titular": "El Telediario de la bendita ingenuidad. Por la celebración de los setenta años de TVE",
+        "cadena": "La 1",
+        "detalle": "Especial por el 70 aniversario de Televisión Española",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/telediario-bendita-ingenuidad_7050015_3.html"
+      }
+    ],
+    "entrevistas": [],
+    "parrilla": [
+      {
+        "titular": "'La Voz' sube y lidera frente a '¡De Viernes!' con la breve aparición de Belén Esteban",
+        "cadena": "Antena 3 / Telecinco",
+        "detalle": "La Voz mejora datos y gana el viernes a De Viernes de Telecinco",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-viernes-16-octubre-la-voz-de-viernes-138521/"
+      },
+      {
+        "titular": "'La ruleta de la suerte noche' lidera el sábado con un 10,1% y Cuatro supera a Telecinco",
+        "cadena": "Antena 3 / Cuatro",
+        "detalle": "La Ruleta gana el sábado con 10,1%, Cuatro adelanta a Telecinco en día completo",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-sabado-18-octubre-ruleta-suerte-noche-138525/"
+      }
+    ],
+    "records": [
+      {
+        "titular": "ANTENA 3 NOTICIAS 1 FIN DE SEMANA es lo más visto del sábado con 22,1% de cuota",
+        "cadena": "Antena 3",
+        "detalle": "1.953.000 espectadores y 22,1% para el informativo del fin de semana",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-17-de-octubre-2026/"
+      },
+      {
+        "titular": "ANTENA 3 NOTICIAS 1 lidera el viernes con 24,2% y Antena 3 es la cadena más vista del día",
+        "cadena": "Antena 3",
+        "detalle": "2.091.000 espectadores y 24,2% para el informativo, Antena 3 gana el día con 13,3%",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-16-de-octubre-2026/"
+      }
+    ]
+  }
+}
