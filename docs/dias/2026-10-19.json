@@ -1,0 +1,71 @@
+{
+  "fecha": "2026-10-19",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "Fin de semana con Antena 3 Noticias liderando, 'Aguas oscuras' más visto del domingo, 'Supervivientes All Stars' sube y RTVE renueva 'Mañaneros 360' tras Elecciones Generales",
+  "alertas": {
+    "estrenos": [],
+    "deportes": [],
+    "especiales": [
+      {
+        "titular": "RTVE asegura 'Mañaneros 360' ampliando su contrato al menos cuatro meses después de las Elecciones Generales",
+        "cadena": "La 1",
+        "detalle": "Renovación del programa matinal tras contexto electoral, garantizando continuidad al menos cuatro meses",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/rtve-asegura-mananeros-360-ampliando-su-contrato-menos-cuatro-meses-despues-las-elecciones-generales_7050496_0.html"
+      },
+      {
+        "titular": "Manifestantes violentos boicotean el directo de Mavi Doñate, la corresponsal de TVE en París",
+        "cadena": "La 1",
+        "detalle": "Corresponsal de TVE cubriendo disturbios en París con dificultades en conexión por protestas contra Gobierno francés",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/manifestantes-violentos-boicotean-directo-mavi-donate-corresponsal-tve-paris-dificil-hacer-conexion_7050099_0.html"
+      }
+    ],
+    "entrevistas": [],
+    "parrilla": [],
+    "records": [
+      {
+        "titular": "ANTENA 3 NOTICIAS 1 FIN DE SEMANA es lo más visto del domingo 18 octubre con 2.007.000 espectadores y 20,6%",
+        "cadena": "Antena 3",
+        "detalle": "Liderazgo del informativo de fin de semana con más de 2 millones de espectadores",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-18-de-octubre-2026/"
+      },
+      {
+        "titular": "ANTENA 3 NOTICIAS 1 FIN DE SEMANA es lo más visto del sábado 17 octubre con 1.953.000 espectadores y 22,1%",
+        "cadena": "Antena 3",
+        "detalle": "Liderazgo del informativo del sábado con casi 2 millones de espectadores y share superior al 22%",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-17-de-octubre-2026/"
+      },
+      {
+        "titular": "'Aguas oscuras' es lo más visto de la noche y 'Supervivientes All Stars' sube",
+        "cadena": "Varias",
+        "detalle": "Liderazgo de 'Aguas oscuras' en prime time del domingo con mejora de 'Supervivientes All Stars'",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-domingo-18-octubre-aguas-oscuras-138530/"
+      },
+      {
+        "titular": "'La ruleta de la suerte noche' lidera el sábado con un 10,1% y Cuatro supera a Telecinco",
+        "cadena": "Antena 3",
+        "detalle": "Liderazgo de 'La ruleta de la suerte' en prime time del sábado, con Cuatro superando a Telecinco",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-sabado-18-octubre-ruleta-suerte-noche-138525/"
+      },
+      {
+        "titular": "Cadenas Temáticas de Pago lideran el día 18 octubre con 15,9% de cuota de pantalla",
+        "cadena": "Temáticas de Pago",
+        "detalle": "Las cadenas de pago como conjunto son la opción más vista del domingo",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-18-de-octubre-2026/"
+      },
+      {
+        "titular": "Cadenas Temáticas de Pago lideran el día 17 octubre con 16,8% de cuota de pantalla",
+        "cadena": "Temáticas de Pago",
+        "detalle": "Las cadenas de pago como conjunto son la opción más vista del sábado",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-17-de-octubre-2026/"
+      }
+    ]
+  }
+}
