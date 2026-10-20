@@ -1,0 +1,88 @@
+{
+  "fecha": "2026-10-20",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "Especial '70 años de Telediario' en La 1 marca récord de temporada con 2M de espectadores; Antena 3 Noticias domina audiencias con más de 2,3M",
+  "alertas": {
+    "estrenos": [
+      {
+        "titular": "Elisabeth Benavent y Patricia Fernández estrenan 'videopodcast' de literatura y 'salseo cultural' en RTVE Play",
+        "cadena": "La 1",
+        "detalle": "Nuevo formato de videopodcast literario en plataforma digital de RTVE",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/elisabeth-benavent-patricia-fernandez-estrenan-videopodcast-literatura-salseo-cultural-rtve-play_7050612_0.html"
+      }
+    ],
+    "deportes": [],
+    "especiales": [
+      {
+        "titular": "El especial del Telediario de La 1 con las leyendas del informativo hace récord de audiencia de la temporada",
+        "cadena": "La 1",
+        "detalle": "'El Telediario de nuestras vidas' celebra 70 años con récord de temporada: 16,7% y 2.068.000 espectadores. Participan Pepa Bueno, Matías Prats, Ana Blanco, Iñaki Gabilondo, Carlos Franganillo y Beatriz Pérez-Aranda",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/especial-telediario-1-con-las-leyendas-informatico-hace-record-audiencia-temporada_7051023_0.html"
+      },
+      {
+        "titular": "'El Telediario de nuestras vidas' supera los dos millones pero no puede con 'A3 Noticias 2'",
+        "cadena": "La 1",
+        "detalle": "Especial de 70 años del Telediario alcanza más de 2 millones de espectadores aunque queda segundo tras Antena 3",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-lunes-19-octubre-telediario-vidas-138541/"
+      }
+    ],
+    "entrevistas": [
+      {
+        "titular": "Óscar Puente lo da todo bailando junto a Marc Giró en 'Cara al Show', donde acudirá este miércoles como invitado",
+        "cadena": "",
+        "detalle": "El ministro Óscar Puente acude como invitado a 'Cara al Show' junto a María Patiño y Fito Páez",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/oscar-puente-bailando-junto-marc-giro-cara-show-donde-acudira-como-invitado-junto-maria-patino-fito-paez_7050972_0.html"
+      },
+      {
+        "titular": "Ayuso interviene en 'Horizonte' para hablar de su 'escrache': 'Más que miedo he sentido pena por los vecinos y los turistas'",
+        "cadena": "",
+        "detalle": "La presidenta de la Comunidad de Madrid interviene en programa para hablar de incidente de actualidad",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/ayuso-interviene-horizonte-para-hablar-su-escrache-mas-que-miedo-he-sentido-pena-por-los-vecinos-los-turistas_7050887_0.html"
+      }
+    ],
+    "parrilla": [
+      {
+        "titular": "RTVE asegura 'Mañaneros 360' ampliando su contrato al menos cuatro meses después de las Elecciones Generales",
+        "cadena": "La 1",
+        "detalle": "Renovación del programa matinal con extensión de contrato relacionada con contexto electoral",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/rtve-asegura-mananeros-360-ampliando-su-contrato-menos-cuatro-meses-despues-las-elecciones-generales_7050496_0.html"
+      },
+      {
+        "titular": "'El Sótano Club' emite un comunicado sobre la marcha de Alba Carrillo: 'Se produjo un episodio de tensión'",
+        "cadena": "",
+        "detalle": "Salida de colaboradora del programa con comunicado oficial explicando tensiones internas",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/sotano-club-emite-un-comunicado-sobre-marcha-alba-carrillo-se-produjo-un-episodio-tension_7050698_0.html"
+      },
+      {
+        "titular": "La Velada del Año se retransmitirá en Netflix durante los próximos tres años, con Ibai Llanos al frente",
+        "cadena": "Varias",
+        "detalle": "Acuerdo estratégico de tres años para emisión del evento en plataforma streaming",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/velada-ano-se-retransmitira-netflix-durante-los-proximos-tres-anos-con-ibai-llanos-frente_7050628_0.html"
+      }
+    ],
+    "records": [
+      {
+        "titular": "ANTENA 3 NOTICIAS 2 es lo más visto de ayer gracias a 2.363.000 espectadores y el 19,5% de cuota",
+        "cadena": "Antena 3",
+        "detalle": "Liderazgo destacado del informativo nocturno de Antena 3 con cifras muy altas para el slot",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-19-de-octubre-2026/"
+      },
+      {
+        "titular": "'Aguas oscuras' es lo más visto de la noche y 'Supervivientes All Stars' sube",
+        "cadena": "Varias",
+        "detalle": "Liderazgo de película en prime time con subida destacada del reality",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-domingo-18-octubre-aguas-oscuras-138530/"
+      }
+    ]
+  }
+}
