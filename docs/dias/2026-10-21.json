@@ -1,0 +1,44 @@
+{
+  "fecha": "2026-10-21",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "Récord de temporada para 'El Telediario de nuestras vidas' con especial de leyendas del informativo; 'Supervivientes All Stars' lidera la noche con fuerte subida.",
+  "alertas": {
+    "estrenos": [],
+    "deportes": [],
+    "especiales": [
+      {
+        "titular": "El especial del Telediario de La 1 con las leyendas del informativo hace récord de audiencia de la temporada",
+        "cadena": "La 1",
+        "detalle": "'El Telediario de nuestras vidas' alcanzó 16,7% y 2.068.000 espectadores, récord de la temporada",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/especial-telediario-1-con-las-leyendas-informatico-hace-record-audiencia-temporada_7051023_0.html"
+      }
+    ],
+    "entrevistas": [],
+    "parrilla": [
+      {
+        "titular": "La Séptima anuncia ocho nuevos colaboradores, fichados de programas de La 1",
+        "cadena": "La Séptima",
+        "detalle": "Fichaje de ocho colaboradores procedentes de programas de La 1",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/septima-anuncia-ocho-nuevos-colaboradores-fichados-programas-1_7051144_0.html"
+      }
+    ],
+    "records": [
+      {
+        "titular": "'Supervivientes All Stars: Tierra de Nadie' sube y lidera la noche con un 16%",
+        "cadena": "Telecinco",
+        "detalle": "El reality lidera la noche del martes con subida significativa alcanzando 16% de share",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-martes-20-octubre-supervivientes-stars-138552/"
+      },
+      {
+        "titular": "'El Telediario de nuestras vidas' supera los dos millones pero no puede con 'A3 Noticias 2'",
+        "cadena": "La 1",
+        "detalle": "Supera los 2 millones de espectadores aunque queda por debajo de Antena 3 Noticias 2",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-lunes-19-octubre-telediario-vidas-138541/"
+      }
+    ]
+  }
+}
