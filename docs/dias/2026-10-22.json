@@ -1,0 +1,72 @@
+{
+  "fecha": "2026-10-22",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "Pedro Sánchez visitará 'La Revuelta' el 22 de octubre en plena precampaña electoral; 'La isla de las tentaciones' lidera con 13,8% y 'Supervivientes All Stars' arrasa con 16%",
+  "alertas": {
+    "estrenos": [],
+    "deportes": [],
+    "especiales": [
+      {
+        "titular": "Pedro Sánchez visitará 'La Revuelta' este jueves en plena precampaña electoral",
+        "cadena": "La 1",
+        "detalle": "El presidente del Gobierno se sentará con Broncano el 22 de octubre, evento confirmado y promovido por el PSOE en precampaña",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/pedro-sanchez-visitara-revuelta-este-jueves-plena-precampana-electoral_7051776_0.html"
+      },
+      {
+        "titular": "El tuit del PSOE antes de la entrevista a Pedro Sánchez en 'La Revuelta': 'A ver, David, el futuro del programa depende de esto'",
+        "cadena": "La 1",
+        "detalle": "El partido bromea sobre la importancia de la entrevista a Sánchez programada para el jueves",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/psoe-bromea-tras-confirmarse-entrevista-sanchez-revuelta-futuro-programa-depende-esto_7052050_0.html"
+      }
+    ],
+    "entrevistas": [
+      {
+        "titular": "Pedro Sánchez visitará 'La Revuelta' este jueves en plena precampaña electoral",
+        "cadena": "La 1",
+        "detalle": "Entrevista al presidente del Gobierno en el programa de Broncano, primera vez en este formato",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/pedro-sanchez-visitara-revuelta-este-jueves-plena-precampana-electoral_7051776_0.html"
+      },
+      {
+        "titular": "Un colaborador de 'Horizonte' deja sin palabras a Abascal: 'El 29 de noviembre mi voto va a ser para ti'",
+        "cadena": "Cuatro",
+        "detalle": "Entrevista al presidente de Vox en el programa de Iker Jiménez en contexto de precampaña electoral",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/un-colaborador-horizonte-deja-sin-palabras-abascal-29-noviembre-mi-voto-va-ser-para-ti_7051825_0.html"
+      }
+    ],
+    "parrilla": [],
+    "records": [
+      {
+        "titular": "'La isla de las tentaciones' lidera con un 13,8% y 'Horizonte' supera a 'La revuelta'",
+        "cadena": "Telecinco",
+        "detalle": "El reality lidera la noche del miércoles 21 con 13,8% de share",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-miercoles-21-octubre-isla-tentaciones-138566/"
+      },
+      {
+        "titular": "'Supervivientes All Stars: Tierra de Nadie' sube y lidera la noche con un 16%",
+        "cadena": "Telecinco",
+        "detalle": "El reality de Telecinco arrasa en la noche del martes 20 con 16% de cuota",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-martes-20-octubre-supervivientes-stars-138552/"
+      },
+      {
+        "titular": "Audiencias 21 de octubre 2026: ANTENA 3 NOTICIAS 1 es lo más visto con 2.153.000 y 23,4%",
+        "cadena": "Antena 3",
+        "detalle": "Antena 3 líder del día con 13,3% de cuota; su informativo gana con 23,4% de share",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-21-de-octubre-2026/"
+      },
+      {
+        "titular": "Audiencias 20 de octubre 2026: ANTENA 3 NOTICIAS 1 es lo más visto con 2.137.000 y 23,3%",
+        "cadena": "Antena 3",
+        "detalle": "Antena 3 líder del día con 13,8% de cuota; su informativo arrasa con 23,3% de share",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-20-de-octubre-2026/"
+      }
+    ]
+  }
+}
