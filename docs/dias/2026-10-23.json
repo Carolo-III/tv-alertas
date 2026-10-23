@@ -1,0 +1,59 @@
+{
+  "fecha": "2026-10-23",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "La Revuelta logra récord histórico absoluto (4,4M y 33,9%) con la entrevista a Pedro Sánchez, máxima emisión del año en televisión.",
+  "alertas": {
+    "estrenos": [],
+    "deportes": [],
+    "especiales": [
+      {
+        "titular": "La visita de Pedro Sánchez a 'La revuelta' arrasa con más de 4,3 millones y un 33,9% en La 1",
+        "cadena": "La 1",
+        "detalle": "Entrevista al presidente del Gobierno en La Revuelta, programa especial de máximo interés político en contexto preelectoral (elecciones 29 nov)",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-22-octubre-la-revuelta-pedro-sanchez-138575/"
+      },
+      {
+        "titular": "Eurovisión Junior 2026: hora, dónde ver la gala y cómo votar por Lucas Paulano",
+        "cadena": "La 1",
+        "detalle": "Retransmisión del certamen infantil europeo este sábado 24 octubre, con representante español",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/eurovision-junior-2026-hora-donde-ver-gala-como-votar-lucas-paulano_7052490_0.html"
+      }
+    ],
+    "entrevistas": [
+      {
+        "titular": "Pedro Sánchez en 'La Revuelta': primera entrevista de los candidatos electorales en el programa de Broncano",
+        "cadena": "La 1",
+        "detalle": "Primera visita de los candidatos a las elecciones generales del 29 de noviembre, responde a preguntas clásicas del programa",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/respuesta-pedro-sanchez-revuelta-clasica-pregunta-sobre-sexo-tenemos-una-vida-sexual-activa-sana_7052349_0.html"
+      }
+    ],
+    "parrilla": [
+      {
+        "titular": "María Patiño será la nueva presentadora de 'El sótano club' en sustitución de Alba Carrillo",
+        "cadena": "",
+        "detalle": "Cambio de presentadora en programa de streaming, relevante para seguimiento de movimientos en parrilla",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/maria-patino-sera-nueva-presentadora-sotano-club-asi-ha-reaccionado-marta-riesco_7052250_0.html"
+      }
+    ],
+    "records": [
+      {
+        "titular": "'La Revuelta' logra con Pedro Sánchez récord histórico con un 33,9% de cuota de pantalla y más de 4 millones de espectadores de media",
+        "cadena": "La 1",
+        "detalle": "Récord absoluto del programa y emisión más vista del año 2026 en televisión española, 4.387.000 espectadores",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/revuelta-logra-con-pedro-sanchez-record-historico-con-un-33-9-cuota-pantalla-mas-4-millones-espectores-media_7052431_0.html"
+      },
+      {
+        "titular": "LA REVUELTA (La1) es lo más visto de ayer gracias a 4.387.000 espectadores y el 33,9% de cuota",
+        "cadena": "La 1",
+        "detalle": "La 1 es la cadena más vista del día con 18,2% de cuota gracias al efecto arrastre de La Revuelta",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-22-de-octubre-2026/"
+      }
+    ]
+  }
+}
