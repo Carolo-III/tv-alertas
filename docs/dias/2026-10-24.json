@@ -1,0 +1,88 @@
+{
+  "fecha": "2026-10-24",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "Récord histórico de La Revuelta con la entrevista a Pedro Sánchez (4,3M y 33,9%), la emisión más vista del año; La Voz lidera el viernes; cambio de parrilla con Al cielo con ella a La 2",
+  "alertas": {
+    "estrenos": [
+      {
+        "titular": "El programa de Sarah Santaolalla en La Séptima se llamará 'En línea' y se emitirá en la sobremesa",
+        "cadena": "La Séptima",
+        "detalle": "Nuevo programa diario de análisis de actualidad que arranca con el canal el 5 de noviembre",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/programa-sarah-santaolalla-septima-se-llamara-linea-se-emitira-sobremesa_7052844_0.html"
+      }
+    ],
+    "deportes": [],
+    "especiales": [
+      {
+        "titular": "Eurovisión Junior 2026: hora, dónde ver la gala y cómo votar por Lucas Paulano",
+        "cadena": "La 1",
+        "detalle": "Certamen infantil celebrado el 24 de octubre con Lucas Paulano representando a España con Cuore Bello",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/eurovision-junior-2026-hora-donde-ver-gala-como-votar-lucas-paulano_7052490_0.html"
+      }
+    ],
+    "entrevistas": [
+      {
+        "titular": "La visita de Pedro Sánchez a 'La revuelta' arrasa con más de 4,3 millones y un 33,9% en La 1",
+        "cadena": "La 1",
+        "detalle": "Entrevista al presidente del Gobierno en el programa de Broncano el jueves 22 de octubre",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-22-octubre-la-revuelta-pedro-sanchez-138575/"
+      },
+      {
+        "titular": "LA REVUELTA (La1) es lo más visto de ayer gracias a 4.387.000 espectadores como promedio y el 33,9 % de cuota de pantalla",
+        "cadena": "La 1",
+        "detalle": "Entrevista a Pedro Sánchez que convierte a La 1 en la cadena más vista del día con 18,2%",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-22-de-octubre-2026/"
+      }
+    ],
+    "parrilla": [
+      {
+        "titular": "'Al cielo con ella' vuelve a La 2 tras los bajos datos de audiencia registrados en La 1",
+        "cadena": "La 1 / La 2",
+        "detalle": "Movimiento de programa por bajo rendimiento, regresa a La 2",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/cielo-con-ella-vuelve-2-tras-los-bajos-datos-audiencia-registrados-1_7052757_0.html"
+      }
+    ],
+    "records": [
+      {
+        "titular": "Así se disparó 'La Revuelta' con Pedro Sánchez: claves del récord histórico de David Broncano",
+        "cadena": "La 1",
+        "detalle": "Récord histórico del programa, la emisión más vista del año con 4,4 millones de espectadores",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/asi-revuelta-se-disparo-con-pedro-sanchez-4-4-millones-record-historico-broncano-emision-mas-vista-ano_7052430_3.html"
+      },
+      {
+        "titular": "'La Revuelta' logra con Pedro Sánchez récord histórico con un 33,9% de cuota de pantalla y más de 4 millones de espectadores de media",
+        "cadena": "La 1",
+        "detalle": "Líder indiscutible del jueves frente a El Hormiguero que registró 11,4% de share",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/revuelta-logra-con-pedro-sanchez-record-historico-con-un-33-9-cuota-pantalla-mas-4-millones-espectores-media_7052431_0.html"
+      },
+      {
+        "titular": "Ana Rosa Quintana, sobre la audiencia de la entrevista de Sánchez en 'La Revuelta': 'Si estos datos son así, va a ganar las elecciones'",
+        "cadena": "La 1",
+        "detalle": "Reacción de competencia al récord de audiencia de La Revuelta con Pedro Sánchez",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/ana-rosa-quintana-sobre-audiencia-entrevista-sanchez-revuelta-si-estos-datos-son-asi-va-ganar-las-elecciones_7052713_0.html"
+      },
+      {
+        "titular": "'La Voz' lidera la noche del viernes con más de un millón y un 13,1% en Antena 3",
+        "cadena": "Antena 3",
+        "detalle": "Liderazgo de La Voz en la noche del viernes 23 de octubre",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-viernes-23-octubre-la-voz-antena-3-138583/"
+      },
+      {
+        "titular": "ANTENA 3 NOTICIAS 1 (Antena3) es lo más visto de ayer gracias a 2.024.000 espectadores como promedio y el 22,8 % de cuota de pantalla",
+        "cadena": "Antena 3",
+        "detalle": "Antena 3 cadena más vista del viernes con 13,6% de share gracias a su informativo",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-23-de-octubre-2026/"
+      }
+    ]
+  }
+}
