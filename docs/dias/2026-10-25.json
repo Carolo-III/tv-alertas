@@ -1,0 +1,58 @@
+{
+  "fecha": "2026-10-25",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "La visita de Pedro Sánchez a 'La Revuelta' bate récords con 4,3M (33,9%), mientras 'La Voz' lidera el viernes y España queda segunda en Eurovisión Junior",
+  "alertas": {
+    "estrenos": [],
+    "deportes": [],
+    "especiales": [
+      {
+        "titular": "La visita de Pedro Sánchez a 'La revuelta' arrasa con más de 4,3 millones y un 33,9% en La 1",
+        "cadena": "La 1",
+        "detalle": "Entrevista al Presidente del Gobierno genera datos históricos en prime time",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-22-octubre-la-revuelta-pedro-sanchez-138575/"
+      },
+      {
+        "titular": "Armenia gana Eurovisión Junior y España se queda en segunda posición con una actuación impecable de Lucas Paulano",
+        "cadena": "La 1",
+        "detalle": "España queda segunda en Eurovisión Junior 2026 con Lucas Paulano y 'Cuore Bello'",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/eurovision-junior-2026-directo-cancion-lucas-paulano-actuaciones-votaciones-ganador_7052699_6.html"
+      }
+    ],
+    "entrevistas": [
+      {
+        "titular": "La visita de Pedro Sánchez a 'La revuelta' arrasa con más de 4,3 millones y un 33,9% en La 1",
+        "cadena": "La 1",
+        "detalle": "El Presidente del Gobierno visitó 'La Revuelta', incluso confundió el nombre de Juan del Val llamándole 'Julio Valls'",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-22-octubre-la-revuelta-pedro-sanchez-138575/"
+      }
+    ],
+    "parrilla": [],
+    "records": [
+      {
+        "titular": "La visita de Pedro Sánchez a 'La revuelta' arrasa con más de 4,3 millones y un 33,9% en La 1",
+        "cadena": "La 1",
+        "detalle": "Dato histórico para el programa con 4,3 millones de espectadores y 33,9% de share",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-22-octubre-la-revuelta-pedro-sanchez-138575/"
+      },
+      {
+        "titular": "'La Voz' lidera la noche del viernes con más de un millón y un 13,1% en Antena 3",
+        "cadena": "Antena 3",
+        "detalle": "El talent show consigue liderato del viernes con más de 1 millón de espectadores",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-viernes-23-octubre-la-voz-antena-3-138583/"
+      },
+      {
+        "titular": "ANTENA 3 NOTICIAS 1 (Antena3) es lo más visto de ayer gracias a 2.024.000 espectadores como promedio y el 22,8 % de cuota de pantalla",
+        "cadena": "Antena 3",
+        "detalle": "Antena 3 consigue ser la cadena más vista del día 23/10 con 13,6% de cuota",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-23-de-octubre-2026/"
+      }
+    ]
+  }
+}
