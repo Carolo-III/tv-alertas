@@ -1,0 +1,67 @@
+{
+  "fecha": "2026-10-26",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "Eurovisión Junior alcanza récord histórico de audiencia en 20 años; Pedro Sánchez regresa a 'Salvados' 10 años después; fútbol de DAZN arrasa con 21,8% de cuota.",
+  "alertas": {
+    "estrenos": [],
+    "deportes": [
+      {
+        "titular": "FUTBOL:LIGA ESPAÑOLA (DAZN LaLiga) es lo más visto de ayer gracias a 2.759.000 espectadores como promedio y el 21,8% de cuota de pantalla",
+        "cadena": "DAZN LaLiga",
+        "detalle": "Fútbol de Liga Española lidera el día 25 de octubre con 2,76M espectadores y 21,8% de share, dato destacado para televisión de pago",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-25-de-octubre-2026/"
+      }
+    ],
+    "especiales": [
+      {
+        "titular": "Eurovisión Junior logra su mejor audiencia en 20 años, con Lucas Paulano como subcampeón",
+        "cadena": "La 1",
+        "detalle": "Eurovisión Junior 2026 lidera la noche del sábado con un 12,2% y alcanza récord histórico de audiencia en dos décadas",
+        "fuente": "20minutos TV / Fórmula TV",
+        "url": "https://www.20minutos.es/television/eurovision-junior-logra-su-mejor-audiencia-20-anos-con-lucas-paulano-como-subcampeon_7053383_0.html"
+      },
+      {
+        "titular": "'Supervivientes All Stars' sube y se impone a 'Sin tiempo para morir' y 'El secreto'",
+        "cadena": "Telecinco",
+        "detalle": "Supervivientes All Stars lidera el domingo 25 de octubre con mejora de audiencia frente a competencia de cine y series",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-domingo-25-octubre-supervivientes-stars-138595/"
+      }
+    ],
+    "entrevistas": [
+      {
+        "titular": "Gonzo entrevistará a Pedro Sánchez en 'Salvados' el próximo domingo: '10 años después vuelve'",
+        "cadena": "laSexta",
+        "detalle": "El presidente del Gobierno Pedro Sánchez regresa a 'Salvados' una década después de su última entrevista, anuncio sorpresa del programa",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/gonzo-entrevistara-pedro-sanchez-salvados-proximo-domingo-10-anos-despues-vuelve_7053267_0.html"
+      }
+    ],
+    "parrilla": [
+      {
+        "titular": "Henar Álvarez reacciona al cambio de cadena por su baja audiencia y recibe el cariño de sus compañeros: 'Estamos bien'",
+        "cadena": "La 2",
+        "detalle": "'Al cielo con ella' se traslada de La 1 a La 2 tras obtener bajos datos de audiencia, la presentadora reacciona en redes",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/henar-alvarez-reacciona-cambio-cadena-por-su-baja-audiencia-recibe-carino-sus-companeros-estamos-bien_7053168_0.html"
+      },
+      {
+        "titular": "La Séptima se lleva a Juan Luis Tena, rostro de 'El programa de Ana Rosa', tras diez años en Mediaset: 'Toca decir adiós'",
+        "cadena": "Telecinco / La Séptima",
+        "detalle": "Movimiento estratégico: periodista relevante de Mediaset durante una década ficha por cadena autonómica",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/septima-se-lleva-juan-luis-tena-rostro-programa-ana-rosa-tras-diez-anos-mediaset-toca-decir-adios_7053159_0.html"
+      }
+    ],
+    "records": [
+      {
+        "titular": "Eurovisión Junior logra su mejor audiencia en 20 años",
+        "cadena": "La 1",
+        "detalle": "Récord histórico de audiencia para Eurovisión Junior en España tras 20 años, con 12,2% de share",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/eurovision-junior-logra-su-mejor-audiencia-20-anos-con-lucas-paulano-como-subcampeon_7053383_0.html"
+      }
+    ]
+  }
+}
