@@ -1,0 +1,81 @@
+{
+  "fecha": "2026-10-27",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "Gonzo entrevistará a Pedro Sánchez en 'Salvados' 10 años después, mientras 'La Revuelta' adelanta la entrevista a Rufián y Montero al martes",
+  "alertas": {
+    "estrenos": [
+      {
+        "titular": "María Patiño debuta en 'El sótano club': 'Hacía tiempo que no me sentía tan insegura'",
+        "cadena": "",
+        "detalle": "María Patiño sustituye a Alba Carrillo tras su marcha del programa",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/maria-patino-debuta-sotano-club-hacia-tiempo-que-no-me-sentia-tan-insegura_7053562_0.html"
+      }
+    ],
+    "deportes": [
+      {
+        "titular": "FUTBOL:LIGA ESPAÑOLA (DAZN LaLiga) es lo más visto del 25 de octubre con 2.759.000 espectadores y 21,8% de cuota",
+        "cadena": "DAZN LaLiga",
+        "detalle": "Partido de Liga Española lidera el domingo con récord en plataforma de pago",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-25-de-octubre-2026/"
+      }
+    ],
+    "especiales": [],
+    "entrevistas": [
+      {
+        "titular": "Gonzo entrevistará a Pedro Sánchez en 'Salvados' el próximo domingo: '10 años después vuelve'",
+        "cadena": "laSexta",
+        "detalle": "El presidente del Gobierno regresa a 'Salvados' una década después de su última visita",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/gonzo-entrevistara-pedro-sanchez-salvados-proximo-domingo-10-anos-despues-vuelve_7053267_0.html"
+      },
+      {
+        "titular": "'La Revuelta' adelanta la entrevista a Gabriel Rufián e Irene Montero: no será el miércoles, sino este mismo martes",
+        "cadena": "La 1",
+        "detalle": "Ambos políticos de Podemos asistirán juntos al programa de David Broncano",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/revuelta-adelanta-entrevista-gabriel-rufian-irene-montero-no-sera-miercoles-sino-este-mismo-martes_7053727_0.html"
+      },
+      {
+        "titular": "'El Hormiguero' anuncia la visita de Miguel Ángel Revilla para este miércoles en sustitución de Dani Martín",
+        "cadena": "Antena 3",
+        "detalle": "Dani Martín no acudirá por el reciente fallecimiento de su padre",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/hormiguero-anuncia-visita-miguel-angel-revilla-para-este-miercoles-sustitucion-dani-martin_7053725_0.html"
+      }
+    ],
+    "parrilla": [
+      {
+        "titular": "'El Hormiguero' anuncia la visita de Miguel Ángel Revilla para este miércoles en sustitución de Dani Martín",
+        "cadena": "Antena 3",
+        "detalle": "Cambio de invitado por motivos personales del cantante",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/hormiguero-anuncia-visita-miguel-angel-revilla-para-este-miercoles-sustitucion-dani-martin_7053725_0.html"
+      },
+      {
+        "titular": "'La Revuelta' adelanta la entrevista a Gabriel Rufián e Irene Montero del miércoles al martes",
+        "cadena": "La 1",
+        "detalle": "Movimiento estratégico adelantando entrevista política de alto nivel",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/revuelta-adelanta-entrevista-gabriel-rufian-irene-montero-no-sera-miercoles-sino-este-mismo-martes_7053727_0.html"
+      }
+    ],
+    "records": [
+      {
+        "titular": "Eurovisión Junior logra su mejor audiencia en 20 años, con Lucas Paulano como subcampeón",
+        "cadena": "La 1",
+        "detalle": "Récord histórico de audiencia para el certamen infantil tras dos décadas",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/eurovision-junior-logra-su-mejor-audiencia-20-anos-con-lucas-paulano-como-subcampeon_7053383_0.html"
+      },
+      {
+        "titular": "ANTENA 3 NOTICIAS 2 lidera el 26 de octubre con 2.213.000 espectadores y 17,9% de cuota",
+        "cadena": "Antena 3",
+        "detalle": "Antena 3 es la cadena más vista del día con 13,6% de cuota",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-26-de-octubre-2026/"
+      }
+    ]
+  }
+}
