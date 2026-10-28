@@ -1,0 +1,59 @@
+{
+  "fecha": "2026-10-28",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "La programación televisiva se modifica completamente por un accidente de tren, cancelándose los principales programas de prime time; La Revuelta logra récord histórico con Rufián y Montero antes de la cancelación",
+  "alertas": {
+    "estrenos": [],
+    "deportes": [],
+    "especiales": [
+      {
+        "titular": "La televisión modifica su programación por el accidente de tren: se cancelan 'La Revuelta' y 'El Hormiguero' y se amplían los informativos",
+        "cadena": "Varias",
+        "detalle": "Cancelación masiva de programación por accidente de tren: se suspenden La Revuelta, El Hormiguero, Cara al show, El tunel y La isla de las tentaciones, ampliándose los informativos",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/television-modifica-su-programacion-por-accidente-tren-se-cancelan-revuelta-hormiguero-se-amplian-los-informativos_7054491_0.html"
+      }
+    ],
+    "entrevistas": [
+      {
+        "titular": "La entrevista a Rufián e Irene Montero en 'La Revuelta' se convierte en líder de audiencias y la tercera más vista del programa",
+        "cadena": "La 1",
+        "detalle": "Entrevista a Gabriel Rufián e Irene Montero se convierte en la tercera emisión más vista de La Revuelta, solo superada por Sánchez y Rosalía",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/entrevista-rufian-irene-montero-revuelta-se-convierte-lider-audiencias-tercera-mas-vista-programa_7054322_0.html"
+      },
+      {
+        "titular": "'La Revuelta' adelanta la entrevista a Gabriel Rufián e Irene Montero: no será el miércoles, sino este mismo martes",
+        "cadena": "La 1",
+        "detalle": "La entrevista con Rufián y Montero se adelanta del miércoles al martes",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/revuelta-adelanta-entrevista-gabriel-rufian-irene-montero-no-sera-miercoles-sino-este-mismo-martes_7053727_0.html"
+      }
+    ],
+    "parrilla": [
+      {
+        "titular": "La televisión modifica su programación por el accidente de tren: se cancelan 'La Revuelta' y 'El Hormiguero' y se amplían los informativos",
+        "cadena": "Varias",
+        "detalle": "Cambio completo de parrilla en todas las cadenas por accidente de tren: cancelaciones múltiples y refuerzo de informativos",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/television-modifica-su-programacion-por-accidente-tren-se-cancelan-revuelta-hormiguero-se-amplian-los-informativos_7054491_0.html"
+      }
+    ],
+    "records": [
+      {
+        "titular": "Gabriel Rufián e Irene Montero llevan a 'La revuelta' a liderar con un 21,7% y 2,6 millones",
+        "cadena": "La 1",
+        "detalle": "La Revuelta alcanza 2.654.000 espectadores y 21,7% de share con la entrevista a Rufián y Montero, siendo lo más visto del día 27 de octubre",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-martes-27-octubre-la-revuelta-rufian-138614/"
+      },
+      {
+        "titular": "Audiencias 27 de octubre 2026. LA REVUELTA (La1) es lo más visto de ayer gracias a 2.654.000 espectadores como promedio y el 21,7 % de cuota de pantalla",
+        "cadena": "La 1",
+        "detalle": "La 1 se convierte en la cadena más vista del día con 14,6% de share gracias al éxito de La Revuelta",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-27-de-octubre-2026/"
+      }
+    ]
+  }
+}
