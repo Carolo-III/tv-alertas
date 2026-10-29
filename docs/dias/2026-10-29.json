@@ -1,0 +1,66 @@
+{
+  "fecha": "2026-10-29",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "La televisión española modifica masivamente su parrilla por el accidente ferroviario de Urda, con cancelaciones de prime time y especiales informativos liderando audiencias",
+  "alertas": {
+    "estrenos": [],
+    "deportes": [],
+    "especiales": [
+      {
+        "titular": "El especial de 'Horizonte' sobre el accidente ferroviario lidera la noche con un 16%",
+        "cadena": "La1",
+        "detalle": "Especial informativo sobre la tragedia ferroviaria de Urda lidera prime time del miércoles",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-miercoles-28-octubre-horizonte-lidera-138624/"
+      },
+      {
+        "titular": "La televisión modifica su programación por el accidente de tren: se cancelan 'La Revuelta' y 'El Hormiguero' y se amplían los informativos",
+        "cadena": "Varias",
+        "detalle": "Cancelación masiva de programación prime time (La Revuelta, El Hormiguero, Cara al show, El túnel, La isla de las tentaciones) por cobertura del accidente ferroviario",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/television-modifica-su-programacion-por-accidente-tren-se-cancelan-revuelta-hormiguero-se-amplian-los-informativos_7054491_0.html"
+      },
+      {
+        "titular": "'El perro andaluz' de Manu Sánchez cancela su emisión 'en señal de duelo y respeto'",
+        "cadena": "",
+        "detalle": "Programa autonómico cancela emisión por respeto a las víctimas del accidente de Urda",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/perro-andaluz-manu-sanchez-cancela-su-emision-senal-duelo-respeto_7054914_0.html"
+      }
+    ],
+    "entrevistas": [
+      {
+        "titular": "Gabriel Rufián e Irene Montero llevan a 'La revuelta' a liderar con un 21,7% y 2,6 millones",
+        "cadena": "La1",
+        "detalle": "Entrevista a políticos de primer nivel (Rufián y Montero) logra tercer mejor dato histórico del programa",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-martes-27-octubre-la-revuelta-rufian-138614/"
+      }
+    ],
+    "parrilla": [
+      {
+        "titular": "La televisión modifica su programación por el accidente de tren: se cancelan 'La Revuelta' y 'El Hormiguero' y se amplían los informativos",
+        "cadena": "Varias",
+        "detalle": "Cambio masivo de parrilla en todas las cadenas principales por evento de actualidad (accidente ferroviario de Urda)",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/television-modifica-su-programacion-por-accidente-tren-se-cancelan-revuelta-hormiguero-se-amplian-los-informativos_7054491_0.html"
+      }
+    ],
+    "records": [
+      {
+        "titular": "La entrevista a Rufián e Irene Montero en 'La Revuelta' se convierte en líder de audiencias y la tercera más vista del programa",
+        "cadena": "La1",
+        "detalle": "Tercera emisión más vista de La Revuelta históricamente, solo superada por Sánchez y Rosalía, con 2,6M y 21,7%",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/entrevista-rufian-irene-montero-revuelta-se-convierte-lider-audiencias-tercera-mas-vista-programa_7054322_0.html"
+      },
+      {
+        "titular": "ANTENA 3 NOTICIAS 2 es lo más visto de ayer gracias a 2.338.000 espectadores y el 18,5%",
+        "cadena": "Antena 3",
+        "detalle": "Informativo lidera día con dato muy alto impulsado por cobertura de tragedia ferroviaria",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-28-de-octubre-2026/"
+      }
+    ]
+  }
+}
