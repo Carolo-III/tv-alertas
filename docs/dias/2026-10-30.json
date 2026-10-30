@@ -1,0 +1,95 @@
+{
+  "fecha": "2026-10-30",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "Tragedia ferroviaria de Urda domina parrillas con especiales de actualidad, cancelaciones y cambios programáticos en todas las cadenas principales",
+  "alertas": {
+    "estrenos": [
+      {
+        "titular": "'Cachitos' le pone retranca a los 70 años de TVE en el estreno de su nueva temporada",
+        "cadena": "La 1",
+        "detalle": "Estreno de nueva temporada con novedad: personajes conocidos de RTVE se pondrán al frente junto a Ángel Carmona",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/cachitos-le-pone-retranca-los-70-anos-tve-estreno-su-nueva-temporada_7055516_0.html"
+      }
+    ],
+    "deportes": [],
+    "especiales": [
+      {
+        "titular": "El especial de 'Horizonte' sobre el accidente ferroviario lidera la noche con un 16%",
+        "cadena": "La 1",
+        "detalle": "Programa especial de actualidad sobre la tragedia de Urda que lidera con 16% el miércoles 28",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-miercoles-28-octubre-horizonte-lidera-138624/"
+      },
+      {
+        "titular": "'Horizonte' lidera con un 15,6% y más de un millón el jueves 29",
+        "cadena": "La 1",
+        "detalle": "Continúa la cobertura especial del accidente ferroviario liderando la noche con 15,6% y más de un millón de espectadores",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-jueves-29-octubre-malas-lenguas-noche-138636/"
+      },
+      {
+        "titular": "Una gala sin luces ni paseillo en 'Supervivientes All Stars' tras la tragedia de Urda",
+        "cadena": "Telecinco",
+        "detalle": "Gala especial sin música ni paseillo en señal de duelo, Jorge Javier abrió de pie y sin música",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/una-gala-sin-luces-ni-paseillo-supervivientes-all-stars-tras-tragedia-urda-estamos-aqui-para-acompanaros_7055262_0.html"
+      },
+      {
+        "titular": "La 1 emitirá el lunes un especial de 'El perro andaluz' en sustitución de 'La Revuelta'",
+        "cadena": "La 1",
+        "detalle": "Programa especial en festivo nacional sustituyendo a La Revuelta de Broncano",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/1-emitira-lunes-un-especial-perro-andaluz-sustitucion-revuelta_7055519_0.html"
+      }
+    ],
+    "entrevistas": [
+      {
+        "titular": "Juanma Moreno lamenta la muerte de Fátima Báñez en 'Y ahora Sonsoles'",
+        "cadena": "Antena 3",
+        "detalle": "Entrevista al presidente andaluz sobre la tragedia ferroviaria y la muerte de la exministra Fátima Báñez",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/juanma-moreno-lamenta-muerte-fatima-banez-ahora-sonsoles-estamos-muy-tocados_7055200_0.html"
+      }
+    ],
+    "parrilla": [
+      {
+        "titular": "'El perro andaluz' de Manu Sánchez cancela su emisión en señal de duelo y respeto",
+        "cadena": "La 1",
+        "detalle": "Cancelación del programa por la tragedia ferroviaria de Urda",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/perro-andaluz-manu-sanchez-cancela-su-emision-senal-duelo-respeto_7054914_0.html"
+      },
+      {
+        "titular": "La Sexta aplaza el primer debate electoral previsto para el 2 de noviembre",
+        "cadena": "laSexta",
+        "detalle": "Aplazamiento del debate electoral a causa de la tragedia ferroviaria de Urda",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/sexta-aplaza-primer-debate-electoral-que-estaba-previsto-para-dia-2-noviembre_7055081_0.html"
+      },
+      {
+        "titular": "'La Revuelta' no se emitirá el lunes festivo, sustituido por especial",
+        "cadena": "La 1",
+        "detalle": "Programa de Broncano no se emite en festivo nacional, reemplazado por especial de 'El perro andaluz'",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/1-emitira-lunes-un-especial-perro-andaluz-sustitucion-revuelta_7055519_0.html"
+      }
+    ],
+    "records": [
+      {
+        "titular": "ANTENA 3 NOTICIAS 2 lidera con 2.315.000 espectadores y 19,3% el jueves 29",
+        "cadena": "Antena 3",
+        "detalle": "Informativo más visto del día con 2.315.000 espectadores y 19,3% de share, Antena3 cadena más vista con 14,3%",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-29-de-octubre-2026/"
+      },
+      {
+        "titular": "ANTENA 3 NOTICIAS 2 lidera con 2.338.000 espectadores y 18,5% el miércoles 28",
+        "cadena": "Antena 3",
+        "detalle": "Informativo más visto del miércoles con 2.338.000 espectadores y 18,5%, aunque La1 fue cadena más vista del día con 15,4%",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-28-de-octubre-2026/"
+      }
+    ]
+  }
+}
