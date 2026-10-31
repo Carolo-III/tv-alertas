@@ -1,0 +1,87 @@
+{
+  "fecha": "2026-10-31",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "Accidente ferroviario de Urda provoca múltiples cambios de programación y programas especiales; Antena 3 lidera audiencias; estrenos de temporada en La 1",
+  "alertas": {
+    "estrenos": [
+      {
+        "titular": "'Cachitos' le pone retranca a los 70 años de TVE en el estreno de su nueva temporada",
+        "cadena": "La 1",
+        "detalle": "Nueva temporada de 'Cachitos' con novedad: personajes conocidos de RTVE se pondrán al frente de programas",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/cachitos-le-pone-retranca-los-70-anos-tve-estreno-su-nueva-temporada_7055516_0.html"
+      }
+    ],
+    "deportes": [],
+    "especiales": [
+      {
+        "titular": "El accidente de tren de Urda obliga a cancelar la entrevista a Pedro Sánchez en 'Salvados' este domingo",
+        "cadena": "laSexta",
+        "detalle": "Entrevista al presidente Sánchez cancelada por tragedia de Urda, sustituida por otra invitada",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/accidente-tren-urda-obliga-cancelar-entrevista-pedro-sanchez-salvados-domingo-invitada-sustituye_7055725_0.html"
+      },
+      {
+        "titular": "Una gala sin luces ni paseillo en 'Supervivientes All Stars' tras la tragedia de Urda",
+        "cadena": "Telecinco",
+        "detalle": "Programa adaptado por el accidente ferroviario: Jorge Javier abrió sin música ni paseillo",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/una-gala-sin-luces-ni-paseillo-supervivientes-all-stars-tras-tragedia-urda-estamos-aqui-para-acompanaros_7055262_0.html"
+      },
+      {
+        "titular": "Bea Archidona y Santi Acosta despiden a Raúl Triguero, compañero de '¡De viernes!' fallecido en el accidente de Urda",
+        "cadena": "Telecinco",
+        "detalle": "Especial emotivo en '¡De viernes!' por fallecimiento de compañero en accidente ferroviario",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/bea-archidona-santi-acosta-entre-lagrimas-despiden-raul-triguero-companero-viernes-fallecido-accidente-urda_7055758_0.html"
+      },
+      {
+        "titular": "Melody rompe a llorar en 'El Hormiguero' al recordar el accidente ferroviario de Urda",
+        "cadena": "Antena 3",
+        "detalle": "Programa afectado emocionalmente por la tragedia, con mensaje de apoyo a las víctimas",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/melody-rompe-llorar-hormiguero-recordar-accidente-ferroviario-urda-no-tengo-ni-fuerzas-ni-ganas-cantar_7055362_0.html"
+      }
+    ],
+    "entrevistas": [],
+    "parrilla": [
+      {
+        "titular": "La 1 emitirá el lunes un especial de 'El perro andaluz' en sustitución de 'La Revuelta'",
+        "cadena": "La 1",
+        "detalle": "Programa de Broncano no se emitirá el lunes festivo, sustituido por especial",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/1-emitira-lunes-un-especial-perro-andaluz-sustitucion-revuelta_7055519_0.html"
+      }
+    ],
+    "records": [
+      {
+        "titular": "ANTENA 3 NOTICIAS 1 es lo más visto del viernes con 2.206.000 espectadores y 24,6% de cuota",
+        "cadena": "Antena 3",
+        "detalle": "Antena 3 lidera el día con 14,1% de cuota de pantalla",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-30-de-octubre-2026/"
+      },
+      {
+        "titular": "ANTENA 3 NOTICIAS 2 es lo más visto del jueves con 2.315.000 espectadores y 19,3% de cuota",
+        "cadena": "Antena 3",
+        "detalle": "Antena 3 lidera también el jueves con 14,3% de cuota de pantalla",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-29-de-octubre-2026/"
+      },
+      {
+        "titular": "'¡De Viernes!' sube y anota un 13,7% frente a Las Batallas de 'La Voz'",
+        "cadena": "Telecinco",
+        "detalle": "Mejora de audiencia de '¡De Viernes!' en noche del viernes 30",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-viernes-30-octubre-de-viernes-la-voz-138643/"
+      },
+      {
+        "titular": "'Malas lenguas noche' no puede con 'Horizonte' que lidera con un 15,6% y más de un millón",
+        "cadena": "Antena 3",
+        "detalle": "'Horizonte' lidera la noche del jueves 29 superando el millón de espectadores",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-jueves-29-octubre-malas-lenguas-noche-138636/"
+      }
+    ]
+  }
+}
