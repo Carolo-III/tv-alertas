@@ -1,0 +1,82 @@
+{
+  "fecha": "2026-11-01",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "La 1 logra su mejor octubre en 15 años y lidera el mes superando a Antena 3, impulsada por fútbol y La Revuelta; llega el estreno de 'La Séptima' el 5 de noviembre",
+  "alertas": {
+    "estrenos": [
+      {
+        "titular": "'La Séptima' llegará este jueves a las 12.00 horas con una parrilla marcada por el directo, actualidad y análisis",
+        "cadena": "La Séptima",
+        "detalle": "Nuevo canal en TDT con programas de Verónica Sanz, Sarah Santaolalla y Javier Ruiz, estreno 5 noviembre",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/septima-llegara-este-jueves-las-12-00-horas-con-una-parrilla-marcada-por-directo-actualidad-analisis_7055961_0.html"
+      }
+    ],
+    "deportes": [
+      {
+        "titular": "La 1 de TVE lidera las audiencias de octubre impulsada por el fútbol",
+        "cadena": "La 1",
+        "detalle": "El fútbol contribuye significativamente al liderazgo mensual de octubre 2026",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/1-tve-lidera-las-audiencias-octubre-supera-antena-3-que-pasa-segunda-posicion_7055985_0.html"
+      }
+    ],
+    "especiales": [
+      {
+        "titular": "Emma García recuerda a las víctimas del accidente ferroviario de Urda",
+        "cadena": "Telecinco",
+        "detalle": "Fiesta dedica espacio al accidente ferroviario de actualidad con homenaje a víctimas",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/emma-garcia-recuerda-las-victimas-accidente-ferroviario-urda-ojala-que-encuentren-respuestas-pronto_7055871_0.html"
+      },
+      {
+        "titular": "Bea Archidona y Santi Acosta despiden a Raúl Triguero, compañero fallecido en el accidente de Urda",
+        "cadena": "Telecinco",
+        "detalle": "¡De viernes! dedica inicio de programa a despedir a compañero fallecido en accidente de actualidad",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/bea-archidona-santi-acosta-entre-lagrimas-despiden-raul-triguero-companero-viernes-fallecido-accidente-urda_7055758_0.html"
+      }
+    ],
+    "entrevistas": [
+      {
+        "titular": "La 1 de TVE lidera octubre impulsada por las entrevistas de La Revuelta",
+        "cadena": "La 1",
+        "detalle": "Las entrevistas en La Revuelta contribuyen al liderazgo mensual de La 1",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/1-tve-lidera-las-audiencias-octubre-supera-antena-3-que-pasa-segunda-posicion_7055985_0.html"
+      }
+    ],
+    "parrilla": [
+      {
+        "titular": "La televisión cambia este 5 de noviembre: qué hacer para seguir viendo todos los canales",
+        "cadena": "Varias",
+        "detalle": "Cambios técnicos en TDT que obligarán a realizar nueva búsqueda de canales el 5 de noviembre",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/television-cambia-este-5-noviembre-que-hacer-para-seguir-viendo-todos-los-canales_7055972_0.html"
+      }
+    ],
+    "records": [
+      {
+        "titular": "La 1 de TVE logra su mejor octubre en 15 años y supera a Antena 3",
+        "cadena": "La 1",
+        "detalle": "La 1 consigue el liderazgo mensual de octubre, su mejor resultado en 15 años, superando a Antena 3",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/1-tve-lidera-las-audiencias-octubre-supera-antena-3-que-pasa-segunda-posicion_7055985_0.html"
+      },
+      {
+        "titular": "'La ruleta de la suerte noche' sube y lidera el prime time",
+        "cadena": "Antena 3",
+        "detalle": "La Ruleta de la Suerte Noche lidera el prime time del sábado 31 de octubre",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-sabado-31-octubre-ruleta-suerte-noche-138650/"
+      },
+      {
+        "titular": "'¡De Viernes!' sube y anota un 13,7%",
+        "cadena": "Telecinco",
+        "detalle": "¡De Viernes! registra subida hasta 13,7% frente a Las Batallas de La Voz el viernes 30",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-viernes-30-octubre-de-viernes-la-voz-138643/"
+      }
+    ]
+  }
+}
