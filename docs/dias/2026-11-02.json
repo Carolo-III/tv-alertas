@@ -1,0 +1,88 @@
+{
+  "fecha": "2026-11-02",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "La 1 lidera octubre con su mejor dato en 15 años impulsada por fútbol y La Revuelta; llega el nuevo canal La Séptima el 5 de noviembre",
+  "alertas": {
+    "estrenos": [
+      {
+        "titular": "La Séptima llegará este jueves a las 12.00 horas con una parrilla marcada por el directo, actualidad y análisis",
+        "cadena": "La Séptima",
+        "detalle": "Nuevo canal en TDT con programas de Verónica Sanz, Sarah Santaolalla y Javier Ruiz; emisión en directo toda la semana",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/septima-llegara-este-jueves-las-12-00-horas-con-una-parrilla-marcada-por-directo-actualidad-analisis_7055961_0.html"
+      },
+      {
+        "titular": "Cómo ver La Séptima en la TDT: los pasos para sintonizar el nuevo canal de televisión que llega a España",
+        "cadena": "La Séptima",
+        "detalle": "Nuevo canal impulsado por José Miguel Contreras arranca emisiones en noviembre",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/como-ver-septima-tdt-emisiones-5-noviembre-asi-sintonizar-nuevo-canal-televisor_7034031_0.html"
+      }
+    ],
+    "deportes": [
+      {
+        "titular": "La 1 de TVE lidera las audiencias de octubre y supera a Antena 3, que pasa a la segunda posición",
+        "cadena": "La 1",
+        "detalle": "Logra su mejor octubre en 15 años, impulsada por el fútbol y las entrevistas de La Revuelta",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/1-tve-lidera-las-audiencias-octubre-supera-antena-3-que-pasa-segunda-posicion_7055985_0.html"
+      }
+    ],
+    "especiales": [],
+    "entrevistas": [
+      {
+        "titular": "Jordi Évole confirma que la entrevista a Pedro Sánchez en 'Salvados' no se grabó: Se intentará hacer y emitir antes del 29N",
+        "cadena": "laSexta",
+        "detalle": "Entrevista al presidente del Gobierno pendiente de grabar y emitir antes del 29 de noviembre",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/jordi-evole-confirma-entrevista-pedro-sanchez-salvados-no-grabo-intentara-hacer-emitir-antes-29n_7056082_0.html"
+      },
+      {
+        "titular": "Almudena Cid rompe a llorar al hablar de su prótesis de cadera con solo 43 años en Salvados",
+        "cadena": "laSexta",
+        "detalle": "Entrevista emotiva con la exgimnasta y actriz en el programa de Jordi Évole",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/almudena-cid-rompe-llorar-hablar-su-protesis-cadera-con-solo-43-anos-mi-miedo-era-no-poderme-besar-rodilla_7056190_0.html"
+      }
+    ],
+    "parrilla": [
+      {
+        "titular": "La televisión cambia este 5 de noviembre: qué hacer para seguir viendo todos los canales",
+        "cadena": "Varias",
+        "detalle": "Cambios técnicos en TDT que obligarán a realizar nueva búsqueda de canales, no apagón pero sí resintonización",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/television-cambia-este-5-noviembre-que-hacer-para-seguir-viendo-todos-los-canales_7055972_0.html"
+      },
+      {
+        "titular": "La 1 sube y lidera la audiencia en solitario en octubre y Atresmedia lo hace por grupos",
+        "cadena": "La 1",
+        "detalle": "Cambio de liderazgo mensual: La 1 lidera en solitario, Atresmedia por grupos",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/1-sube-lidera-audiencia-solitario-octubre-atresmedia-hace-por-grupos_7055533_0.html"
+      }
+    ],
+    "records": [
+      {
+        "titular": "La 1 de TVE lidera las audiencias de octubre y supera a Antena 3",
+        "cadena": "La 1",
+        "detalle": "Logra su mejor octubre en 15 años, superando a Antena 3 que cae al segundo puesto",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/1-tve-lidera-las-audiencias-octubre-supera-antena-3-que-pasa-segunda-posicion_7055985_0.html"
+      },
+      {
+        "titular": "Arthur en La 1 y Supervivientes All Stars se reparten la noche del domingo",
+        "cadena": "La 1",
+        "detalle": "Competencia destacada en prime time dominical entre La 1 y Telecinco",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-domingo-1-noviembre-arthur-la-1-138658/"
+      },
+      {
+        "titular": "La ruleta de la suerte noche sube y lidera el prime time y Malas lenguas noche cae",
+        "cadena": "Antena 3",
+        "detalle": "La Ruleta de la Suerte en versión nocturna sube y lidera el sábado",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-sabado-31-octubre-ruleta-suerte-noche-138650/"
+      }
+    ]
+  }
+}
