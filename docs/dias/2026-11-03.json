@@ -1,0 +1,66 @@
+{
+  "fecha": "2026-11-03",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "RTVE lanza nuevo concurso musical 'The Winner', estrena especial de fin de año con Chenoa y lidera audiencia en octubre; La Séptima debuta en TDT el 5 de noviembre",
+  "alertas": {
+    "estrenos": [
+      {
+        "titular": "RTVE busca las mejores voces de España para el concurso 'The Winner. La nota más alta', que tendrá 100.000 euros de premio",
+        "cadena": "La 1",
+        "detalle": "Nuevo concurso musical con premio de 100.000 euros",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/rtve-busca-las-mejores-voces-espana-para-concurso-the-winner-nota-mas-alta-que-tendra-100-000-euros-premi_7056642_0.html"
+      },
+      {
+        "titular": "Así será el estreno de La Séptima este jueves: horarios, programación y presentadores",
+        "cadena": "La Séptima",
+        "detalle": "Nueva cadena nacional debuta en TDT el 5 de noviembre a las 12:00 horas",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/asi-estreno-septima-horarios-programacion-presentadores_7056427_0.html"
+      },
+      {
+        "titular": "Cambios en la TDT: fechas clave, nuevos canales y cómo resintonizar tu televisión",
+        "cadena": "Varias",
+        "detalle": "A partir del 5 de noviembre: cambios de frecuencia, nueva calidad de imagen y nueva cadena nacional",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/cambios-tdt-fechas-clave-nuevos-canales-como-resintonizar-tu-television_7056597_0.html"
+      }
+    ],
+    "deportes": [],
+    "especiales": [
+      {
+        "titular": "Chenoa presentará el especial de fin de año de La 1, '¡Feliz 2027!', junto a Alejandro Vergara",
+        "cadena": "La 1",
+        "detalle": "Programa especial de fin de año con cerca de cien artistas nacionales e internacionales",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/chenoa-presentara-especial-fin-ano-1-feliz-2027-junto-alejandro-vergara_7056535_0.html"
+      }
+    ],
+    "entrevistas": [
+      {
+        "titular": "Kiko Rivera se sincera en 'El Hormiguero' sobre su segundo ictus: 'Nunca pensé que la vida me fuera a castigar dos veces'",
+        "cadena": "Antena 3",
+        "detalle": "Entrevista del DJ donde explica su segundo ictus y sus secuelas",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/kiko-rivera-se-sincera-hormiguero-sobre-su-segundo-ictus-nunca-pense-que-vida-me-fuera-castigar-dos-veces_7056416_0.html"
+      }
+    ],
+    "parrilla": [],
+    "records": [
+      {
+        "titular": "La 1 sube y lidera la audiencia en solitario en octubre y Atresmedia lo hace por grupos",
+        "cadena": "La 1",
+        "detalle": "La 1 lidera en solitario el mes de octubre, Atresmedia lidera por grupos",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/1-sube-lidera-audiencia-solitario-octubre-atresmedia-hace-por-grupos_7055533_0.html"
+      },
+      {
+        "titular": "ANTENA 3 NOTICIAS 1 es lo más visto el 2 de noviembre con 2.331.000 espectadores y 25,4% de cuota",
+        "cadena": "Antena 3",
+        "detalle": "Antena 3 Noticias 1 lidera el día con 2.331.000 espectadores (25,4%), cadena más vista del día con 13,2%",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-02-de-noviembre-2026/"
+      }
+    ]
+  }
+}
