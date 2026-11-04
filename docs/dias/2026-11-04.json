@@ -1,0 +1,74 @@
+{
+  "fecha": "2026-11-04",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "Estreno de La Séptima (5 nov), confirmada entrevista de Abascal en La Revuelta (9 nov), Chenoa presentará Fin de Año en La 1, y Código 10 roza récord con Moreno Bonilla",
+  "alertas": {
+    "estrenos": [
+      {
+        "titular": "La Séptima arranca con una programación dedicada al directo y con la intención de 'cambiar la campaña electoral'",
+        "cadena": "La Séptima",
+        "detalle": "Nuevo canal nacional en TDT que arranca el 5 de noviembre a las 12:00h con programación en directo",
+        "fuente": "20minutos",
+        "url": "https://www.20minutos.es/television/septima-arranca-con-una-programacion-dedicada-directo-con-intencion-cambiar-campana-electoral_7057095_0.html"
+      },
+      {
+        "titular": "Así será el estreno de La Séptima este jueves: horarios, programación y presentadores",
+        "cadena": "La Séptima",
+        "detalle": "Detalles de lanzamiento del nuevo canal en TDT el 5 de noviembre",
+        "fuente": "20minutos",
+        "url": "https://www.20minutos.es/television/asi-estreno-septima-horarios-programacion-presentadores_7056427_0.html"
+      },
+      {
+        "titular": "RTVE busca las mejores voces de España para el concurso 'The Winner. La nota más alta', que tendrá 100.000 euros de premio",
+        "cadena": "La 1",
+        "detalle": "Nuevo concurso de talento vocal con casting abierto y premio de 100.000 euros",
+        "fuente": "20minutos",
+        "url": "https://www.20minutos.es/television/rtve-busca-las-mejores-voces-espana-para-concurso-the-winner-nota-mas-alta-que-tendra-100-000-euros-premi_7056642_0.html"
+      }
+    ],
+    "deportes": [],
+    "especiales": [
+      {
+        "titular": "Chenoa presentará el especial de fin de año de La 1, '¡Feliz 2027!', junto a Alejandro Vergara",
+        "cadena": "La 1",
+        "detalle": "Especial de fin de año con cerca de un centenar de artistas nacionales e internacionales",
+        "fuente": "20minutos",
+        "url": "https://www.20minutos.es/television/chenoa-presentara-especial-fin-ano-1-feliz-2027-junto-alejandro-vergara_7056535_0.html"
+      }
+    ],
+    "entrevistas": [
+      {
+        "titular": "Abascal dice sí a 'La Revuelta' y Broncano le entrevistaría el día 9 de noviembre",
+        "cadena": "La 1",
+        "detalle": "Confirmada entrevista del líder de VOX Santiago Abascal en La Revuelta para el 9 de noviembre",
+        "fuente": "20minutos",
+        "url": "https://www.20minutos.es/television/abascal-dice-si-revuelta-broncano-le-entrevistaria-dia-9-noviembre_7056696_0.html"
+      },
+      {
+        "titular": "Rifirrafe entre Silvia Intxaurrondo y Miguel Tellado en directo",
+        "cadena": "La 1",
+        "detalle": "Tensa entrevista al secretario de organización del PP en 'La Hora de La 1'",
+        "fuente": "20minutos",
+        "url": "https://www.20minutos.es/television/rifirrafe-entre-silvia-intxaurrondo-miguel-tellado-directo-me-sorprende-que-avale-puente-cuando-pedia-dimision-mazon_7056635_0.html"
+      }
+    ],
+    "parrilla": [
+      {
+        "titular": "Cambios en la TDT: fechas clave, nuevos canales y cómo resintonizar tu televisión",
+        "cadena": "Varias",
+        "detalle": "A partir del 5 de noviembre, canales cambian de frecuencia, mejoras de calidad y nueva cadena nacional",
+        "fuente": "20minutos",
+        "url": "https://www.20minutos.es/television/cambios-tdt-fechas-clave-nuevos-canales-como-resintonizar-tu-television_7056597_0.html"
+      }
+    ],
+    "records": [
+      {
+        "titular": "Cuatro empata con Telecinco en el día y 'Código 10' roza su récord con Moreno Bonilla",
+        "cadena": "Cuatro",
+        "detalle": "Código 10 cerca de su récord histórico con entrevista al presidente de Andalucía, empatando Cuatro con Telecinco en el día",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-martes-3-noviembre-cuatro-codigo-10-138679/"
+      }
+    ]
+  }
+}
