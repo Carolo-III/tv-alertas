@@ -1,0 +1,65 @@
+{
+  "fecha": "2026-11-05",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "Estreno del nuevo canal La Séptima en TDT, Telecinco acelera finales de La Isla y Supervivientes All Stars, y Karmele Marchante hará historia entrando en GH VIP 9 a los 80 años (récord del reality).",
+  "alertas": {
+    "estrenos": [
+      {
+        "titular": "La Séptima se estrena hoy en la TDT: esta es su programación completa con todos los horarios y presentadores",
+        "cadena": "La Séptima",
+        "detalle": "Nuevo canal arranca su andadura en TDT el 5 de noviembre a partir de las 12.00 horas con programación dedicada al directo",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/septima-estrena-hoy-tdt-programacion-completa-horarios-presentadores_7056427_0.html"
+      },
+      {
+        "titular": "'La cena de los idiotas', donde Gonzalo Miró sienta a una mesa a famosos enfrentados por sus ideas, ya tiene fecha de estreno",
+        "cadena": "",
+        "detalle": "Nuevo programa presentado por Gonzalo Miró que reunirá a famosos con ideas enfrentadas",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/cena-los-idiotas-donde-gonzalo-miro-sienta-una-mesa-famosos-enfrentados-por-sus-ideas-ya-tiene-fecha-estreno_7057257_0.html"
+      },
+      {
+        "titular": "RTVE Play cumple cinco años con récord y prepara nuevos contenidos de ficción, entretenimiento y 'true crime'",
+        "cadena": "La 1",
+        "detalle": "La plataforma RTVE Play celebra aniversario con récord de audiencia y anuncia nueva programación",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/rtve-play-cumple-cinco-anos-con-record-prepara-nuevos-contenidos-ficcion-entretenimiento-true-crime_7057618_0.html"
+      }
+    ],
+    "deportes": [],
+    "especiales": [],
+    "entrevistas": [],
+    "parrilla": [
+      {
+        "titular": "Telecinco acelera el final de 'La isla de las tentaciones 11' y 'Supervivientes All Stars': ambos formatos terminan la próxima semana",
+        "cadena": "Telecinco",
+        "detalle": "Cambio estratégico: La Isla tendrá hogueras lunes, martes y miércoles, y gran final de Supervivientes All Stars el jueves",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/telecinco-acelera-final-isla-las-tentaciones-11-supervivientes-all-stars-ambos-formatos-terminan-proxima-semana_7057515_0.html"
+      }
+    ],
+    "records": [
+      {
+        "titular": "'Horizonte' lidera la noche superando el millón de espectadores",
+        "cadena": "",
+        "detalle": "El programa consigue superar el millón de espectadores en la noche del miércoles 4 de noviembre",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-miercoles-4-noviembre-horizonte-lidera-138689/"
+      },
+      {
+        "titular": "Cuatro empata con Telecinco en el día y 'Código 10' roza su récord con Moreno Bonilla",
+        "cadena": "Cuatro",
+        "detalle": "Cuatro iguala a Telecinco en audiencia diaria y Código 10 cerca de su mejor dato histórico",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-martes-3-noviembre-cuatro-codigo-10-138679/"
+      },
+      {
+        "titular": "Karmele Marchante confirma que a sus 80 años entrará a concursar a la casa de 'Gran Hermano VIP 9', récord en el 'reality'",
+        "cadena": "Telecinco",
+        "detalle": "La periodista será la persona de más edad en entrar en Gran Hermano, estableciendo un récord en el reality",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/karmele-marchante-confirma-que-sus-80-anos-entrara-concursar-casa-gran-hermano-vip-9-record-reality_7057572_0.html"
+      }
+    ]
+  }
+}
