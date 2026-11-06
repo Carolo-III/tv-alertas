@@ -1,0 +1,108 @@
+{
+  "fecha": "2026-11-06",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "Cambio histórico en laSexta: Wyoming se jubila y Gonzo abandona Salvados para presentar El Intermedio, mientras Telecinco confirma GH VIP 9 y se estrena La Séptima con 2,8%",
+  "alertas": {
+    "estrenos": [
+      {
+        "titular": "La Séptima comienza fuerte con un 2,8% de audiencia en su primer día de emisión",
+        "cadena": "La Séptima",
+        "detalle": "Nuevo canal de TDT debuta con 2,8% de cuota en su primer día",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/septima-comienza-fuerte-con-un-2-8-audiencia-su-primer-dia-emision_7058034_0.html"
+      },
+      {
+        "titular": "Telecinco desdobla 'De Viernes' y crea una versión llamada 'De Sábado'",
+        "cadena": "Telecinco",
+        "detalle": "Nuevo programa basado en el formato exitoso De Viernes",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/telecinco-desdobla-viernes-crea-una-version-llamada-sabado_7058089_0.html"
+      },
+      {
+        "titular": "Arturo Requejo, de 'GH 11', primer concursante confirmado de 'GH VIP 9', que también anuncia su presentador",
+        "cadena": "Telecinco",
+        "detalle": "Confirmación oficial de nueva edición de Gran Hermano VIP con primer concursante",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/arturo-requejo-gh-11-primer-concursante-confirmado-gh-vip-9-que-tambien-anuncia-su-presentador_7057984_0.html"
+      },
+      {
+        "titular": "Carlos Corbacho, exempleado de Isabel Pantoja, entrará a 'Gran Hermano VIP'",
+        "cadena": "Telecinco",
+        "detalle": "Segundo concursante confirmado para GH VIP, figura mediática cercana a Pantoja",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/carlos-corbacho-exempleado-isabel-pantoja-entrara-gran-hermano-vip_7058142_0.html"
+      }
+    ],
+    "deportes": [],
+    "especiales": [],
+    "entrevistas": [
+      {
+        "titular": "Broncano, sobre la visita de Santiago Abascal a 'La Revuelta' el lunes 9 de noviembre",
+        "cadena": "La 1",
+        "detalle": "Confirmada fecha de entrevista al líder de Vox en La Revuelta para el 9 de noviembre",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/confirmada-fecha-que-santiago-abascal-visitara-revuelta-lunes-9-noviembre_7057906_0.html"
+      },
+      {
+        "titular": "Alberto Núñez Feijóo acudirá al plató de 'El Hormiguero' el miércoles 11 de noviembre, día de la huelga general",
+        "cadena": "Antena 3",
+        "detalle": "Líder del PP visita El Hormiguero en contexto electoral del 29-N, primer candidato en acudir",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/alberto-nunez-feijoo-acudira-plato-hormiguero-miercoles-11-noviembre_7057932_0.html"
+      },
+      {
+        "titular": "Almodóvar le hace a Broncano el guion de su entrevista a Abascal",
+        "cadena": "La 1",
+        "detalle": "Director de cine visita La Revuelta y opina sobre próxima entrevista política",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/almodovar-le-hace-broncano-guion-su-entrevista-abascal-preguntale-si-te-va-quitar-revuelta-si-gana_7057943_0.html"
+      }
+    ],
+    "parrilla": [
+      {
+        "titular": "Cambio de presentadores en La Sexta: el Gran Wyoming se jubila y Gonzo deja 'Salvados' para conducir 'El intermedio'",
+        "cadena": "laSexta",
+        "detalle": "Cambio histórico: Wyoming se retira tras años al frente, Gonzo pasa de Salvados a El Intermedio desde enero",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/cambio-presentadores-sexta-gran-wyoming-se-jubila-gonzo-deja-salvados-para-conducir-intermedio_7057834_0.html"
+      },
+      {
+        "titular": "El Gran Wyoming comienza a despedirse de la audiencia de 'El intermedio'",
+        "cadena": "laSexta",
+        "detalle": "Wyoming confirma oficialmente su marcha ante las cámaras del programa",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/gran-wyoming-comienza-despedirse-audiencia-intermedio-mi-mayor-aspiracion-ha-sido-tumbarme-bartola_7057948_0.html"
+      },
+      {
+        "titular": "Jordi Évole avanza que la próxima presentadora de 'Salvados', sustituyendo a Gonzo, será una mujer",
+        "cadena": "laSexta",
+        "detalle": "Confirmación de sustitución en Salvados tras salida de Gonzo, nueva presentadora femenina",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/jordi-evole-avanza-que-proxima-presentadora-salvados-sustituyendo-gonzo-sera-una-mujer_7058105_0.html"
+      },
+      {
+        "titular": "Ramón Espinar, expolítico de Podemos, abandona 'En boca de todos'",
+        "cadena": "Cuatro",
+        "detalle": "Colaborador desde 2022 deja el programa por malestar profesional",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/ramon-espinar-ex-podemos-abandona-boca-todos-una-vez-que-se-encendia-camara-ya-no-estaba-gusto_7058022_0.html"
+      }
+    ],
+    "records": [
+      {
+        "titular": "'Supervivientes All Stars' sube en su recta final y lidera con un 17,2%",
+        "cadena": "Telecinco",
+        "detalle": "Reality crece en audiencia en su fase final alcanzando 17,2% de cuota",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-jueves-5-noviembre-supervivientes-stars-138698/"
+      },
+      {
+        "titular": "'Horizonte' lidera la noche superando el millón de espectadores",
+        "cadena": "",
+        "detalle": "Programa supera la barrera del millón de espectadores y lidera su franja",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-miercoles-4-noviembre-horizonte-lidera-138689/"
+      }
+    ]
+  }
+}
