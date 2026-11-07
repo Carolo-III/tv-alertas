@@ -1,0 +1,87 @@
+{
+  "fecha": "2026-11-07",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "Estreno de La Séptima con 2,8% de cuota, entrevista a Pedro Sánchez confirmada para el lunes, y Telecinco expande 'De Viernes' con nueva versión de sábado",
+  "alertas": {
+    "estrenos": [
+      {
+        "titular": "La Séptima comienza fuerte con un 2,8% de audiencia en su primer día de emisión",
+        "cadena": "La Séptima",
+        "detalle": "Debut de la nueva cadena en TDT con 2,8% de cuota de pantalla",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/septima-comienza-fuerte-con-un-2-8-audiencia-su-primer-dia-emision_7058034_0.html"
+      },
+      {
+        "titular": "Telecinco desdobla 'De Viernes' y crea una versión llamada 'De Sábado'",
+        "cadena": "Telecinco",
+        "detalle": "Nuevo programa semanal ampliando la marca 'De Viernes' a los sábados",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/telecinco-desdobla-viernes-crea-una-version-llamada-sabado_7058089_0.html"
+      },
+      {
+        "titular": "Jordi Évole avanza que la próxima presentadora de 'Salvados', sustituyendo a Gonzo, será una mujer",
+        "cadena": "laSexta",
+        "detalle": "Cambio de presentador en 'Salvados', Gonzo será sustituido por una mujer",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/jordi-evole-avanza-que-proxima-presentadora-salvados-sustituyendo-gonzo-sera-una-mujer_7058105_0.html"
+      },
+      {
+        "titular": "Carlos Corbacho, exempleado de Isabel Pantoja, entrará a 'Gran Hermano VIP'",
+        "cadena": "Telecinco",
+        "detalle": "Confirmación de nuevo concursante para Gran Hermano VIP",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/carlos-corbacho-exempleado-isabel-pantoja-entrara-gran-hermano-vip_7058142_0.html"
+      },
+      {
+        "titular": "Arturo Requejo, de 'GH 11', primer concursante confirmado de 'GH VIP 9', que también anuncia su presentador",
+        "cadena": "Telecinco",
+        "detalle": "Primer concursante oficial de GH VIP 9 y confirmación de presentador",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/arturo-requejo-gh-11-primer-concursante-confirmado-gh-vip-9-que-tambien-anuncia-su-presentador_7057984_0.html"
+      }
+    ],
+    "deportes": [],
+    "especiales": [],
+    "entrevistas": [
+      {
+        "titular": "Pedro Sánchez será entrevistado el lunes 9 de noviembre por Javier Ruiz en 'La Séptima'",
+        "cadena": "La Séptima",
+        "detalle": "Entrevista al presidente del Gobierno en la nueva cadena, coincidiendo con visita de Abascal a La Revuelta",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/pedro-sanchez-sera-entrevistado-lunes-9-noviembre-por-javier-ruiz-septima_7058464_0.html"
+      }
+    ],
+    "parrilla": [
+      {
+        "titular": "Ramón Espinar, expolítico de Podemos, abandona 'En boca de todos'",
+        "cadena": "Cuatro",
+        "detalle": "Salida del colaborador del programa tras varios años, declarando sentirse incómodo ante cámara",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/ramon-espinar-ex-podemos-abandona-boca-todos-una-vez-que-se-encendia-camara-ya-no-estaba-gusto_7058022_0.html"
+      },
+      {
+        "titular": "Cancelan el reality 'Casados a primera vista' en Reino Unido tras denuncias de violaciones",
+        "cadena": "",
+        "detalle": "Cancelación del formato tras denuncias graves reportadas por la BBC",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/cancelan-reality-casados-primera-vista-reino-unido-tras-denuncias-violaciones_7057969_0.html"
+      }
+    ],
+    "records": [
+      {
+        "titular": "'¡De viernes!' lidera la noche con un 13,9% y La Séptima se queda a una décima de La 2",
+        "cadena": "Telecinco",
+        "detalle": "De Viernes lidera el viernes con 13,9%, La Séptima consigue 2,8% en su debut quedando muy cerca de La 2",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-viernes-6-noviembre-viernes-la-septima-138709/"
+      },
+      {
+        "titular": "'Supervivientes All Stars' sube en su recta final y lidera con un 17,2%",
+        "cadena": "Telecinco",
+        "detalle": "El reality alcanza 17,2% de cuota en su recta final",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-jueves-5-noviembre-supervivientes-stars-138698/"
+      }
+    ]
+  }
+}
