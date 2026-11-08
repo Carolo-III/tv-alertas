@@ -1,0 +1,58 @@
+{
+  "fecha": "2026-11-08",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "La Séptima continúa su crecimiento récord marcando 3% en su primer sábado; doble entrevista política estratégica el lunes: Sánchez en La Séptima y Abascal en La Revuelta",
+  "alertas": {
+    "estrenos": [
+      {
+        "titular": "Karmele Marchante confirmada como primera concursante de 'GH VIP 9'",
+        "cadena": "Telecinco",
+        "detalle": "Primera confirmación oficial para la próxima edición del reality con Jorge Javier Vázquez",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/karmele-marchante-responde-jorge-javier-vazquez-antes-su-reencuentro-gh-vip-9-nos-vamos-volver-reir_7058556_0.html"
+      }
+    ],
+    "deportes": [],
+    "especiales": [],
+    "entrevistas": [
+      {
+        "titular": "Pedro Sánchez será entrevistado el lunes 9 de noviembre por Javier Ruiz en 'La Séptima'",
+        "cadena": "La Séptima",
+        "detalle": "Entrevista estratégica al presidente del Gobierno en la nueva cadena, coincidiendo con la visita de Abascal a La Revuelta",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/pedro-sanchez-sera-entrevistado-lunes-9-noviembre-por-javier-ruiz-septima_7058464_0.html"
+      },
+      {
+        "titular": "'La Revuelta' entrevistará a Santiago Abascal el lunes con cambio de público",
+        "cadena": "La 1",
+        "detalle": "El programa cambia su público habitual para la entrevista al líder de Vox, generando polémica y declaraciones de Bolaños",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/revuelta-cambia-publico-para-entrevista-abascal-bolanos-acusa-lider-vox-querer-llenar-sala-ultras_7058541_0.html"
+      }
+    ],
+    "parrilla": [],
+    "records": [
+      {
+        "titular": "La Séptima marca otro récord en su primer sábado y supera a La 2 con un 3%",
+        "cadena": "La Séptima",
+        "detalle": "La nueva cadena continúa batiendo sus propios registros, alcanzando 3% de cuota en su primer sábado y superando a La 2",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/septima-vuelve-sorprender-marca-record-primer-138714/"
+      },
+      {
+        "titular": "'¡De viernes!' lidera la noche del viernes con un 13,9%",
+        "cadena": "Telecinco",
+        "detalle": "El programa nocturno de Telecinco se impone en su franja con sólido liderazgo",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-viernes-6-noviembre-viernes-la-septima-138709/"
+      },
+      {
+        "titular": "La Séptima debutó con un 2,8% de cuota de pantalla",
+        "cadena": "La Séptima",
+        "detalle": "Dato de estreno de la nueva cadena, mencionado en contexto de próxima entrevista a Sánchez",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/pedro-sanchez-sera-entrevistado-lunes-9-noviembre-por-javier-ruiz-septima_7058464_0.html"
+      }
+    ]
+  }
+}
