@@ -1,0 +1,81 @@
+{
+  "fecha": "2026-11-09",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "La Séptima marca récord en su primer sábado superando a La 2, mientras Atresmedia confirma debate electoral a cuatro para el 23-N con Feijóo, Abascal y Colau",
+  "alertas": {
+    "estrenos": [
+      {
+        "titular": "'La Casa de la Música' vuelve a la Nochevieja de La 1 con actuaciones únicas para despedir el 70º aniversario de TVE",
+        "cadena": "La 1",
+        "detalle": "Regreso del especial musical en Nochevieja coincidiendo con 70 aniversario TVE",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/casa-musica-vuelve-nochevieja-1-con-actuaciones-unicas-para-despedir-70o-aniversario-tve_7058882_0.html"
+      }
+    ],
+    "deportes": [
+      {
+        "titular": "FUTBOL:LIGA ESPAÑOLA (LaLiga TV por M+) es lo más visto de ayer gracias a 1.895.000 espectadores como promedio y el 15 % de cuota de pantalla",
+        "cadena": "Movistar+",
+        "detalle": "Fútbol lidera el día con casi 2 millones de espectadores y 15% de cuota",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-08-de-noviembre-2026/"
+      }
+    ],
+    "especiales": [
+      {
+        "titular": "Atresmedia traslada su debate a cuatro al 23 de noviembre: Feijóo, Abascal y Ada Colau confirman su asistencia",
+        "cadena": "Atresmedia",
+        "detalle": "Debate electoral confirmado para 23-N con tres líderes, PSOE aún sin confirmar",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/atresmedia-traslada-su-debate-cuatro-23-noviembre-feijoo-abascal-ada-colau-confirman-su-asistencia_7058925_0.html"
+      },
+      {
+        "titular": "'Supervivientes All Stars 3' deja a uno de sus pesos pesados fuera de la final",
+        "cadena": "Telecinco",
+        "detalle": "Semifinal del reality con eliminación destacada entre Asraf y Rosa Benito",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/supervivientes-all-stars-3-deja-unp-sus-pesos-pesados-fuera-final-perdemos-una-pieza-fundamental_7058787_0.html"
+      },
+      {
+        "titular": "Évole reacciona a la entrevista de Broncano a Abascal en 'La Revuelta': pronostica que hará más audiencia que Pedro Sánchez",
+        "cadena": "La 1",
+        "detalle": "Próxima entrevista de alto impacto político en late night de La 1",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/evole-reacciona-entrevista-broncano-abascal-revuelta-no-entiendo-los-que-piden-boicot-puede-pasar-mal_7058699_0.html"
+      }
+    ],
+    "entrevistas": [
+      {
+        "titular": "Évole reacciona a la entrevista de Broncano a Abascal en 'La Revuelta'",
+        "cadena": "La 1",
+        "detalle": "Entrevista confirmada al líder de Vox que generará expectativa de audiencia",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/evole-reacciona-entrevista-broncano-abascal-revuelta-no-entiendo-los-que-piden-boicot-puede-pasar-mal_7058699_0.html"
+      }
+    ],
+    "parrilla": [],
+    "records": [
+      {
+        "titular": "La Séptima marca otro récord en su primer sábado y supera a La 2 con un 3%",
+        "cadena": "La Séptima",
+        "detalle": "Nueva cadena establece récord en su estreno superando a La 2 en fin de semana",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/septima-vuelve-sorprender-marca-record-primer-138714/"
+      },
+      {
+        "titular": "'Supervivientes All Stars' sube y lidera con su semifinal",
+        "cadena": "Telecinco",
+        "detalle": "El reality lidera la noche del domingo en su semifinal",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-domingo-8-noviembre-supervivientes-star-138717/"
+      },
+      {
+        "titular": "ANTENA 3 NOTICIAS 1 FIN DE SEMANA es lo más visto con 1.903.000 espectadores y 21,7% de cuota",
+        "cadena": "Antena 3",
+        "detalle": "Informativo de fin de semana logra cifras destacadas liderando el día",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-07-de-noviembre-2026/"
+      }
+    ]
+  }
+}
