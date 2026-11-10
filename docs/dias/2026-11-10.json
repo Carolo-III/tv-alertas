@@ -1,0 +1,82 @@
+{
+  "fecha": "2026-11-10",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "La Revuelta bate su récord histórico con la entrevista a Abascal (4,8M y 33,6%), superando la visita de Sánchez, en un programa polémico que generó debate interno en RTVE.",
+  "alertas": {
+    "estrenos": [
+      {
+        "titular": "'La Casa de la Música' vuelve a la Nochevieja de La 1 con actuaciones únicas para despedir el 70º aniversario de TVE",
+        "cadena": "La 1",
+        "detalle": "Programa especial de Nochevieja para celebrar el 70º aniversario de TVE",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/casa-musica-vuelve-nochevieja-1-con-actuaciones-unicas-para-despedir-70o-aniversario-tve_7058882_0.html"
+      },
+      {
+        "titular": "Paloma González, estilista y colaboradora, nueva concursante de 'GH VIP'",
+        "cadena": "Telecinco",
+        "detalle": "Nueva incorporación al casting de Gran Hermano VIP",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/paloma-gonzalez-estilista-colaboradora-nueva-concursante-gh-vip-verdad-es-que-no-se-donde-me-estoy-metiendo_7058983_0.html"
+      }
+    ],
+    "deportes": [
+      {
+        "titular": "FUTBOL:LIGA ESPAÑOLA (LaLiga TV por M+) es lo más visto de ayer",
+        "cadena": "M+",
+        "detalle": "Partido de Liga con 1.895.000 espectadores y 15% de cuota el 8 de noviembre",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-08-de-noviembre-2026/"
+      }
+    ],
+    "especiales": [
+      {
+        "titular": "Atresmedia traslada su debate a cuatro al 23 de noviembre: Feijóo, Abascal y Ada Colau confirman su asistencia",
+        "cadena": "Atresmedia",
+        "detalle": "Debate electoral especial con líderes políticos confirmados, invitación pendiente a Sánchez",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/atresmedia-traslada-su-debate-cuatro-23-noviembre-feijoo-abascal-ada-colau-confirman-su-asistencia_7058925_0.html"
+      }
+    ],
+    "entrevistas": [
+      {
+        "titular": "Abascal supera a Sánchez en 'La Revuelta' y bate el récord del programa con casi 5 millones de espectadores",
+        "cadena": "La 1",
+        "detalle": "Entrevista a Santiago Abascal logra 4.815.000 espectadores y 33,6%, superando el 33,9% de la visita de Sánchez",
+        "fuente": "20minutos TV / Barlovento",
+        "url": "https://www.20minutos.es/television/abascal-supera-sanchez-revuelta-bate-record-programa-con-casi-5-millones-espectadores_7059073_0.html"
+      },
+      {
+        "titular": "La Séptima bate un nuevo récord con Pedro Sánchez y supera a laSexta",
+        "cadena": "La Séptima",
+        "detalle": "Entrevista a Pedro Sánchez logra récord histórico para la cadena",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-lunes-9-noviembre-la-septima-record-138725/"
+      }
+    ],
+    "parrilla": [
+      {
+        "titular": "El Consejo de Informativos de RTVE critica la entrevista a Abascal en 'La Revuelta': cambio de público habitual",
+        "cadena": "La 1",
+        "detalle": "Polémica interna por cambio de formato del programa, abandono del humor habitual y modificación de público",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/consejo-informativos-rtve-critica-entrevista-abascal-revuelta-alguien-deberia-asumir-responsabilidades_7059324_0.html"
+      }
+    ],
+    "records": [
+      {
+        "titular": "LA REVUELTA (La1) es lo más visto de ayer gracias a 4.815.000 espectadores y el 33,6%",
+        "cadena": "La 1",
+        "detalle": "Récord histórico del programa con la entrevista a Abascal, superando la visita previa de Pedro Sánchez",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-09-de-noviembre-2026/"
+      },
+      {
+        "titular": "'Supervivientes All Stars' sube y lidera con su semifinal",
+        "cadena": "Telecinco",
+        "detalle": "Semifinal del reality logra liderazgo en su franja",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-domingo-8-noviembre-supervivientes-star-138717/"
+      }
+    ]
+  }
+}
