@@ -1,0 +1,130 @@
+{
+  "fecha": "2026-11-11",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "La Revuelta mantiene récords con 4,8M (33,6%) con Abascal y 3M (22,9%) con Colau; La Séptima supera a laSexta con récord por entrevista a Pedro Sánchez; huelga general afecta Canal Sur y RTVE Catalunya",
+  "alertas": {
+    "estrenos": [
+      {
+        "titular": "El sorprendiente debut televisivo de Marta Prats, hija de Matías Prats",
+        "cadena": "La 1",
+        "detalle": "Marta Prats debuta en 'La Mesa' junto a familiares de famosos como Elena Furiase, Andrea Quintero y Fonsi Nieto",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/sorprendente-debut-televisivo-marta-prats-hija-matias-prats_7059565_0.html"
+      },
+      {
+        "titular": "Estos son los concursantes confirmados de 'GH VIP 9'",
+        "cadena": "Telecinco",
+        "detalle": "Arturo Requejo, Karmele Marchante, Paloma González, Pipi Estrada y Katrin Ortega son los primeros concursantes anunciados",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/estos-son-los-concursantes-confirmados-gh-vip-9-periodistas-exparticipantes-realities-politicas_7059231_0.html"
+      }
+    ],
+    "deportes": [],
+    "especiales": [
+      {
+        "titular": "Pedro Sánchez visita este jueves 'El perro andaluz' de Manu Sánchez en La 1",
+        "cadena": "La 1",
+        "detalle": "El presidente del Gobierno acude al programa donde la seriedad y reflexión convivirán con ironía y humor",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/pedro-sanchez-visita-este-jueves-perro-andaluz-manu-sanchez-1_7059485_0.html"
+      },
+      {
+        "titular": "Las televisiones nacionales emiten con total normalidad en el día de la huelga general",
+        "cadena": "Varias",
+        "detalle": "Las principales cadenas no han registrado incidentes durante la huelga general",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/las-televisiones-nacionales-emiten-con-total-normalidad-dia-huelga-general_7059674_0.html"
+      },
+      {
+        "titular": "Canal Sur Televisión se va a negro por la huelga general",
+        "cadena": "Canal Sur",
+        "detalle": "La autonómica andaluza dejó de emitir a las 08:20 horas por la huelga",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/canal-sur-television-se-va-negro-por-huelga-general_7059591_0.html"
+      },
+      {
+        "titular": "Cuarenta manifestantes irrumpen en RTVE de Catalunya e impiden la emisión del programa 'El Cafè d'Idees' de Gemma Nierga",
+        "cadena": "RTVE Catalunya",
+        "detalle": "Manifestantes impidieron la emisión del programa durante la huelga general",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/una-cuarenta-manifestantes-irrumpen-rtve-catalunya-impiden-emision-programa-cafe-d-idees-gemma-nierga_7059604_0.html"
+      }
+    ],
+    "entrevistas": [
+      {
+        "titular": "La Revuelta con Santiago Abascal alcanza 4.815.000 espectadores y 33,6% de cuota",
+        "cadena": "La 1",
+        "detalle": "La entrevista al líder de Vox genera polémica, La 1 líder del día con 16,8%",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-09-de-noviembre-2026/"
+      },
+      {
+        "titular": "La respuesta de Ada Colau en 'La Revuelta' a la pregunta del sexo",
+        "cadena": "La 1",
+        "detalle": "La candidata de Frente Amplio acude un día después de la visita de Santiago Abascal",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/respuesta-ada-colau-revuelta-pregunta-sexo-venia-desierto-deje-alcaldia-recupere-alegria-vivir_7059532_0.html"
+      },
+      {
+        "titular": "La Séptima bate un nuevo récord con Pedro Sánchez y supera a laSexta",
+        "cadena": "La Séptima",
+        "detalle": "La entrevista al presidente del Gobierno logra récord histórico para la cadena",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-lunes-9-noviembre-la-septima-record-138725/"
+      }
+    ],
+    "parrilla": [
+      {
+        "titular": "Broncano admite que no lo hizo bien con Abascal: 'No fue mi decisión, es un marrón que me ha caído al estar en la tele pública'",
+        "cadena": "La 1",
+        "detalle": "El presentador define su entrevista como una discusión en 'una cena de Navidad' y reconoce no haberlo hecho bien",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/broncano-admite-que-no-hizo-bien-con-abascal-no-fue-mi-decision-es-un-marron-que-me-ha-caido-estar-tele-publica_7059481_0.html"
+      },
+      {
+        "titular": "El Consejo de Informativos de RTVE critica la entrevista a Abascal en 'La Revuelta'",
+        "cadena": "La 1",
+        "detalle": "Considera que fue un error cambiar el público habitual y abandonar el humor, pide asumir responsabilidades",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/consejo-informativos-rtve-critica-entrevista-abascal-revuelta-alguien-deberia-asumir-responsabilidades_7059324_0.html"
+      },
+      {
+        "titular": "Santiago Abascal sí respondió a las preguntas clásicas de 'La Revuelta', pero no se emitieron",
+        "cadena": "La 1",
+        "detalle": "El líder de Vox contestó sobre sexo y dinero pero por falta de tiempo quedó fuera de emisión",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/santiago-abascal-si-respondio-las-preguntas-clasicas-revuelta-pero-no-se-emitieron-eso-no-corta-rollo_7059240_0.html"
+      },
+      {
+        "titular": "Martín Escalar vuelve por sorpresa a 'Saber y ganar' tras su abandono por motivos laborales",
+        "cadena": "La 2",
+        "detalle": "El participante, con 82 programas y 54.620 euros acumulados, era uno de los favoritos de la audiencia",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/martin-escalar-vuelve-por-sorpresa-saber-ganar-tras-su-abandono-por-motivos-laborales_7059771_0.html"
+      }
+    ],
+    "records": [
+      {
+        "titular": "LA REVUELTA alcanza 4.815.000 espectadores y 33,6% con Santiago Abascal",
+        "cadena": "La 1",
+        "detalle": "La 1 líder del día con 16,8%, La Revuelta es lo más visto del lunes 9 de noviembre",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-09-de-noviembre-2026/"
+      },
+      {
+        "titular": "LA REVUELTA con Ada Colau logra 3.050.000 espectadores y 22,9%",
+        "cadena": "La 1",
+        "detalle": "La 1 líder del día con 14,1%, programa más visto del martes 10 de noviembre",
+        "fuente": "Barlovento Comunicación / Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-martes-10-noviembre-revuelta-ada-colau-138737/"
+      },
+      {
+        "titular": "La Séptima bate un nuevo récord con Pedro Sánchez y supera a laSexta",
+        "cadena": "La Séptima",
+        "detalle": "Récord histórico de audiencia para la cadena con la entrevista al presidente del Gobierno",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-lunes-9-noviembre-la-septima-record-138725/"
+      }
+    ]
+  }
+}

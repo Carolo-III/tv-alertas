@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang='es'>
+<head>
+<meta charset='UTF-8'>
+<meta name='viewport' content='width=device-width, initial-scale=1.0'>
+<title>TV Alertas — Miércoles 11 de noviembre de 2026</title>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=DM+Sans:wght@300;400;500;600&display=swap');
+
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+:root {
+  --bg: #0a0a0b;
+  --bg2: #111113;
+  --bg3: #1a1a1d;
+  --border: #2a2a2e;
+  --text: #e8e8ec;
+  --text-muted: #6b6b78;
+  --accent: #e8c547;
+}
+
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: 'DM Sans', sans-serif;
+  font-size: 15px;
+  line-height: 1.6;
+  min-height: 100vh;
+}
+
+.site-header {
+  border-bottom: 1px solid var(--border);
+  padding: 20px 32px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  position: sticky;
+  top: 0;
+  background: rgba(10,10,11,0.95);
+  backdrop-filter: blur(8px);
+  z-index: 100;
+}
+
+.site-title {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 24px;
+  letter-spacing: 2px;
+  color: var(--accent);
+}
+
+.site-subtitle {
+  font-size: 12px;
+  color: var(--text-muted);
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+
+.nav-link {
+  color: var(--text-muted);
+  text-decoration: none;
+  font-size: 13px;
+  letter-spacing: 0.5px;
+  transition: color 0.2s;
+}
+.nav-link:hover { color: var(--accent); }
+
+main { max-width: 900px; margin: 0 auto; padding: 40px 24px; }
+
+.fecha-display {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 48px;
+  letter-spacing: 3px;
+  color: var(--text);
+  margin-bottom: 4px;
+}
+
+.resumen-ejecutivo {
+  font-size: 16px;
+  color: var(--text-muted);
+  margin-bottom: 40px;
+  padding-left: 16px;
+  border-left: 3px solid var(--accent);
+}
+
+.sin-alertas {
+  text-align: center;
+  padding: 80px 24px;
+  color: var(--text-muted);
+}
+
+.sin-alertas .icon { font-size: 48px; margin-bottom: 16px; }
+.sin-alertas h2 { font-family: 'Bebas Neue', sans-serif; font-size: 28px; letter-spacing: 2px; margin-bottom: 8px; color: var(--text); }
+
+.categoria-bloque { margin-bottom: 40px; }
+
+.categoria-header {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 16px;
+  padding-bottom: 8px;
+  border-bottom: 1px solid var(--border);
+}
+
+.categoria-icon { font-size: 20px; }
+
+.categoria-label {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 20px;
+  letter-spacing: 2px;
+}
+
+.categoria-count {
+  font-size: 12px;
+  padding: 2px 8px;
+  border-radius: 12px;
+  background: var(--bg3);
+  color: var(--text-muted);
+  font-weight: 500;
+}
+
+.alerta-card {
+  background: var(--bg2);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 16px 20px;
+  margin-bottom: 10px;
+  border-left: 3px solid transparent;
+  transition: border-color 0.2s, background 0.2s;
+}
+
+.alerta-card:hover { background: var(--bg3); }
+
+.alerta-titular {
+  font-weight: 600;
+  font-size: 15px;
+  margin-bottom: 4px;
+  color: var(--text);
+}
+
+.alerta-detalle {
+  font-size: 13px;
+  color: var(--text-muted);
+  margin-bottom: 6px;
+}
+
+.alerta-meta {
+  display: flex;
+  gap: 12px;
+  font-size: 12px;
+}
+
+.badge-cadena {
+  background: var(--bg3);
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  padding: 1px 7px;
+  color: var(--text-muted);
+}
+
+.badge-fuente { color: var(--text-muted); font-style: italic; }
+
+.alerta-link {
+  color: var(--text);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: border-color 0.2s, color 0.2s;
+}
+.alerta-link:hover { color: var(--accent); border-bottom-color: var(--accent); }
+
+.historico-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 12px;
+  margin-top: 24px;
+}
+
+.dia-card {
+  background: var(--bg2);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 16px;
+  text-decoration: none;
+  display: block;
+  transition: border-color 0.2s, background 0.2s;
+}
+
+.dia-card:hover { background: var(--bg3); border-color: var(--accent); }
+
+.dia-fecha {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 18px;
+  letter-spacing: 1px;
+  color: var(--text);
+  margin-bottom: 4px;
+}
+
+.dia-alertas { font-size: 12px; color: var(--text-muted); }
+
+.dia-dot {
+  display: inline-block;
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: var(--accent);
+  margin-right: 6px;
+  vertical-align: middle;
+}
+
+.dia-sin-alertas .dia-dot { background: var(--border); }
+
+footer {
+  border-top: 1px solid var(--border);
+  padding: 20px 32px;
+  text-align: center;
+  font-size: 12px;
+  color: var(--text-muted);
+  letter-spacing: 0.5px;
+}
+</style>
+</head>
+<body>
+<header class="site-header"><div><div class="site-title">TV ALERTAS</div><div class="site-subtitle">Monitor de televisión española</div></div><a href="../index.html" class="nav-link">← Histórico</a></header>
+<main>
+<div class="fecha-display">MIÉRCOLES 11 DE NOVIEMBRE DE 2026</div>
+<div class="resumen-ejecutivo">La Revuelta mantiene récords con 4,8M (33,6%) con Abascal y 3M (22,9%) con Colau; La Séptima supera a laSexta con récord por entrevista a Pedro Sánchez; huelga general afecta Canal Sur y RTVE Catalunya</div>
+<div class="categoria-bloque"><div class="categoria-header"><span class="categoria-icon">🎬</span><span class="categoria-label" style="color:#e8c547">Estrenos</span><span class="categoria-count">2</span></div><div class="alerta-card" style="border-left-color:#e8c547"><div class="alerta-titular"><a href="https://www.20minutos.es/television/sorprendente-debut-televisivo-marta-prats-hija-matias-prats_7059565_0.html" target="_blank" rel="noopener" class="alerta-link">El sorprendiente debut televisivo de Marta Prats, hija de Matías Prats</a></div><div class='alerta-detalle'>Marta Prats debuta en 'La Mesa' junto a familiares de famosos como Elena Furiase, Andrea Quintero y Fonsi Nieto</div><div class="alerta-meta"><span class='badge-cadena'>La 1</span><span class='badge-fuente'>20minutos TV</span></div></div><div class="alerta-card" style="border-left-color:#e8c547"><div class="alerta-titular"><a href="https://www.20minutos.es/television/estos-son-los-concursantes-confirmados-gh-vip-9-periodistas-exparticipantes-realities-politicas_7059231_0.html" target="_blank" rel="noopener" class="alerta-link">Estos son los concursantes confirmados de 'GH VIP 9'</a></div><div class='alerta-detalle'>Arturo Requejo, Karmele Marchante, Paloma González, Pipi Estrada y Katrin Ortega son los primeros concursantes anunciados</div><div class="alerta-meta"><span class='badge-cadena'>Telecinco</span><span class='badge-fuente'>20minutos TV</span></div></div></div><div class="categoria-bloque"><div class="categoria-header"><span class="categoria-icon">⭐</span><span class="categoria-label" style="color:#e847a3">Especiales / Galas</span><span class="categoria-count">4</span></div><div class="alerta-card" style="border-left-color:#e847a3"><div class="alerta-titular"><a href="https://www.20minutos.es/television/pedro-sanchez-visita-este-jueves-perro-andaluz-manu-sanchez-1_7059485_0.html" target="_blank" rel="noopener" class="alerta-link">Pedro Sánchez visita este jueves 'El perro andaluz' de Manu Sánchez en La 1</a></div><div class='alerta-detalle'>El presidente del Gobierno acude al programa donde la seriedad y reflexión convivirán con ironía y humor</div><div class="alerta-meta"><span class='badge-cadena'>La 1</span><span class='badge-fuente'>20minutos TV</span></div></div><div class="alerta-card" style="border-left-color:#e847a3"><div class="alerta-titular"><a href="https://www.20minutos.es/television/las-televisiones-nacionales-emiten-con-total-normalidad-dia-huelga-general_7059674_0.html" target="_blank" rel="noopener" class="alerta-link">Las televisiones nacionales emiten con total normalidad en el día de la huelga general</a></div><div class='alerta-detalle'>Las principales cadenas no han registrado incidentes durante la huelga general</div><div class="alerta-meta"><span class='badge-cadena'>Varias</span><span class='badge-fuente'>20minutos TV</span></div></div><div class="alerta-card" style="border-left-color:#e847a3"><div class="alerta-titular"><a href="https://www.20minutos.es/television/canal-sur-television-se-va-negro-por-huelga-general_7059591_0.html" target="_blank" rel="noopener" class="alerta-link">Canal Sur Televisión se va a negro por la huelga general</a></div><div class='alerta-detalle'>La autonómica andaluza dejó de emitir a las 08:20 horas por la huelga</div><div class="alerta-meta"><span class='badge-cadena'>Canal Sur</span><span class='badge-fuente'>20minutos TV</span></div></div><div class="alerta-card" style="border-left-color:#e847a3"><div class="alerta-titular"><a href="https://www.20minutos.es/television/una-cuarenta-manifestantes-irrumpen-rtve-catalunya-impiden-emision-programa-cafe-d-idees-gemma-nierga_7059604_0.html" target="_blank" rel="noopener" class="alerta-link">Cuarenta manifestantes irrumpen en RTVE de Catalunya e impiden la emisión del programa 'El Cafè d'Idees' de Gemma Nierga</a></div><div class='alerta-detalle'>Manifestantes impidieron la emisión del programa durante la huelga general</div><div class="alerta-meta"><span class='badge-cadena'>RTVE Catalunya</span><span class='badge-fuente'>20minutos TV</span></div></div></div><div class="categoria-bloque"><div class="categoria-header"><span class="categoria-icon">🎙️</span><span class="categoria-label" style="color:#a347e8">Entrevistas</span><span class="categoria-count">3</span></div><div class="alerta-card" style="border-left-color:#a347e8"><div class="alerta-titular"><a href="https://barloventocomunicacion.es/audiencias-diarias/audiencias-09-de-noviembre-2026/" target="_blank" rel="noopener" class="alerta-link">La Revuelta con Santiago Abascal alcanza 4.815.000 espectadores y 33,6% de cuota</a></div><div class='alerta-detalle'>La entrevista al líder de Vox genera polémica, La 1 líder del día con 16,8%</div><div class="alerta-meta"><span class='badge-cadena'>La 1</span><span class='badge-fuente'>Barlovento Comunicación</span></div></div><div class="alerta-card" style="border-left-color:#a347e8"><div class="alerta-titular"><a href="https://www.20minutos.es/television/respuesta-ada-colau-revuelta-pregunta-sexo-venia-desierto-deje-alcaldia-recupere-alegria-vivir_7059532_0.html" target="_blank" rel="noopener" class="alerta-link">La respuesta de Ada Colau en 'La Revuelta' a la pregunta del sexo</a></div><div class='alerta-detalle'>La candidata de Frente Amplio acude un día después de la visita de Santiago Abascal</div><div class="alerta-meta"><span class='badge-cadena'>La 1</span><span class='badge-fuente'>20minutos TV</span></div></div><div class="alerta-card" style="border-left-color:#a347e8"><div class="alerta-titular"><a href="https://www.formulatv.com/noticias/audiencias-lunes-9-noviembre-la-septima-record-138725/" target="_blank" rel="noopener" class="alerta-link">La Séptima bate un nuevo récord con Pedro Sánchez y supera a laSexta</a></div><div class='alerta-detalle'>La entrevista al presidente del Gobierno logra récord histórico para la cadena</div><div class="alerta-meta"><span class='badge-cadena'>La Séptima</span><span class='badge-fuente'>Fórmula TV</span></div></div></div><div class="categoria-bloque"><div class="categoria-header"><span class="categoria-icon">📋</span><span class="categoria-label" style="color:#e87347">Cambios de parrilla</span><span class="categoria-count">4</span></div><div class="alerta-card" style="border-left-color:#e87347"><div class="alerta-titular"><a href="https://www.20minutos.es/television/broncano-admite-que-no-hizo-bien-con-abascal-no-fue-mi-decision-es-un-marron-que-me-ha-caido-estar-tele-publica_7059481_0.html" target="_blank" rel="noopener" class="alerta-link">Broncano admite que no lo hizo bien con Abascal: 'No fue mi decisión, es un marrón que me ha caído al estar en la tele pública'</a></div><div class='alerta-detalle'>El presentador define su entrevista como una discusión en 'una cena de Navidad' y reconoce no haberlo hecho bien</div><div class="alerta-meta"><span class='badge-cadena'>La 1</span><span class='badge-fuente'>20minutos TV</span></div></div><div class="alerta-card" style="border-left-color:#e87347"><div class="alerta-titular"><a href="https://www.20minutos.es/television/consejo-informativos-rtve-critica-entrevista-abascal-revuelta-alguien-deberia-asumir-responsabilidades_7059324_0.html" target="_blank" rel="noopener" class="alerta-link">El Consejo de Informativos de RTVE critica la entrevista a Abascal en 'La Revuelta'</a></div><div class='alerta-detalle'>Considera que fue un error cambiar el público habitual y abandonar el humor, pide asumir responsabilidades</div><div class="alerta-meta"><span class='badge-cadena'>La 1</span><span class='badge-fuente'>20minutos TV</span></div></div><div class="alerta-card" style="border-left-color:#e87347"><div class="alerta-titular"><a href="https://www.20minutos.es/television/santiago-abascal-si-respondio-las-preguntas-clasicas-revuelta-pero-no-se-emitieron-eso-no-corta-rollo_7059240_0.html" target="_blank" rel="noopener" class="alerta-link">Santiago Abascal sí respondió a las preguntas clásicas de 'La Revuelta', pero no se emitieron</a></div><div class='alerta-detalle'>El líder de Vox contestó sobre sexo y dinero pero por falta de tiempo quedó fuera de emisión</div><div class="alerta-meta"><span class='badge-cadena'>La 1</span><span class='badge-fuente'>20minutos TV</span></div></div><div class="alerta-card" style="border-left-color:#e87347"><div class="alerta-titular"><a href="https://www.20minutos.es/television/martin-escalar-vuelve-por-sorpresa-saber-ganar-tras-su-abandono-por-motivos-laborales_7059771_0.html" target="_blank" rel="noopener" class="alerta-link">Martín Escalar vuelve por sorpresa a 'Saber y ganar' tras su abandono por motivos laborales</a></div><div class='alerta-detalle'>El participante, con 82 programas y 54.620 euros acumulados, era uno de los favoritos de la audiencia</div><div class="alerta-meta"><span class='badge-cadena'>La 2</span><span class='badge-fuente'>20minutos TV</span></div></div></div><div class="categoria-bloque"><div class="categoria-header"><span class="categoria-icon">📊</span><span class="categoria-label" style="color:#47e87e">Récords</span><span class="categoria-count">3</span></div><div class="alerta-card" style="border-left-color:#47e87e"><div class="alerta-titular"><a href="https://barloventocomunicacion.es/audiencias-diarias/audiencias-09-de-noviembre-2026/" target="_blank" rel="noopener" class="alerta-link">LA REVUELTA alcanza 4.815.000 espectadores y 33,6% con Santiago Abascal</a></div><div class='alerta-detalle'>La 1 líder del día con 16,8%, La Revuelta es lo más visto del lunes 9 de noviembre</div><div class="alerta-meta"><span class='badge-cadena'>La 1</span><span class='badge-fuente'>Barlovento Comunicación</span></div></div><div class="alerta-card" style="border-left-color:#47e87e"><div class="alerta-titular"><a href="https://www.formulatv.com/noticias/audiencias-martes-10-noviembre-revuelta-ada-colau-138737/" target="_blank" rel="noopener" class="alerta-link">LA REVUELTA con Ada Colau logra 3.050.000 espectadores y 22,9%</a></div><div class='alerta-detalle'>La 1 líder del día con 14,1%, programa más visto del martes 10 de noviembre</div><div class="alerta-meta"><span class='badge-cadena'>La 1</span><span class='badge-fuente'>Barlovento Comunicación / Fórmula TV</span></div></div><div class="alerta-card" style="border-left-color:#47e87e"><div class="alerta-titular"><a href="https://www.formulatv.com/noticias/audiencias-lunes-9-noviembre-la-septima-record-138725/" target="_blank" rel="noopener" class="alerta-link">La Séptima bate un nuevo récord con Pedro Sánchez y supera a laSexta</a></div><div class='alerta-detalle'>Récord histórico de audiencia para la cadena con la entrevista al presidente del Gobierno</div><div class="alerta-meta"><span class='badge-cadena'>La Séptima</span><span class='badge-fuente'>Fórmula TV</span></div></div></div>
+</main>
+<footer>Generado automáticamente · Fuentes: Barlovento, Fórmula TV, Vertele, DOS30</footer>
+</body>
+</html>
