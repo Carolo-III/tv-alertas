@@ -1,0 +1,109 @@
+{
+  "fecha": "2026-11-12",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "Jornada marcada por huelga general que afectó emisiones (Canal Sur a negro 5h), entrevista de Feijóo en El Hormiguero liderando sin competencia de La Revuelta, y polémica continua por el caso Abascal-Broncano",
+  "alertas": {
+    "estrenos": [
+      {
+        "titular": "Kevin Costner se mete en la historia del Lejano Oeste con un documental",
+        "cadena": "DMAX",
+        "detalle": "Estreno lunes 16 de noviembre a las 22:30h, documental con archivo histórico y recreaciones",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/kevin-costner-se-mete-historia-lejano-oeste-con-un-documental-lleno-terratenientes-forajidos-indigenas_7060351_0.html"
+      },
+      {
+        "titular": "Marta Prats debuta en televisión en 'La Mesa'",
+        "cadena": "Antena 3",
+        "detalle": "Primera aparición televisiva de la hija de Matías Prats junto a otros familiares de famosos",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/sorprendente-debut-televisivo-marta-prats-hija-matias-prats_7059565_0.html"
+      }
+    ],
+    "deportes": [],
+    "especiales": [
+      {
+        "titular": "Huelga general paraliza Canal Sur durante 5 horas",
+        "cadena": "Canal Sur",
+        "detalle": "Emisión en negro desde las 08:20h hasta las 13:20h, retoma con 'Mesa de Análisis'",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/canal-sur-television-retoma-sus-emisiones-tras-cinco-horas-negro-por-huelga-general_7059911_0.html"
+      },
+      {
+        "titular": "Manifestantes impiden emisión de 'El Cafè d'Idees' de Gemma Nierga",
+        "cadena": "TVE Catalunya",
+        "detalle": "Cuarenta manifestantes irrumpen en instalaciones durante huelga general",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/una-cuarenta-manifestantes-irrumpen-rtve-catalunya-impiden-emision-programa-cafe-d-idees-gemma-nierga_7059604_0.html"
+      },
+      {
+        "titular": "Silvia Intxaurrondo luce brazalete rojo en 'La hora de La 1'",
+        "cadena": "La 1",
+        "detalle": "Señal de solidaridad con huelga general mientras cumplía servicios mínimos en TVE",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/que-significa-brazalete-rojo-que-ha-lucido-silvia-intxaurrondo-hora-1-dia-huelga-general_7059666_0.html"
+      },
+      {
+        "titular": "Impiden a Antonio Naranjo emitir en Telemadrid por huelga",
+        "cadena": "Telemadrid",
+        "detalle": "Periodista denuncia censura mientras TVE emite con normalidad, genera controversia política",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/impiden-antonio-naranjo-emitir-su-espacio-telemadrid-por-huelga-intxaurrondo-cintora-no-han-tenido-problemas-tve_7059957_0.html"
+      }
+    ],
+    "entrevistas": [
+      {
+        "titular": "Feijóo en 'El Hormiguero' lidera con 19% sin competencia de 'La Revuelta'",
+        "cadena": "Antena 3",
+        "detalle": "Líder del PP revela última conversación con Sánchez sin cámaras y que no tiene su WhatsApp",
+        "fuente": "Fórmula TV / 20minutos TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-miercoles-11-noviembre-el-hormiguero-138748/"
+      },
+      {
+        "titular": "'La Revuelta' supera los 3 millones con Ada Colau con un 22,9%",
+        "cadena": "La 1",
+        "detalle": "Entrevista a la política en programa de Broncano alcanza más de 3 millones de espectadores",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-martes-10-noviembre-revuelta-ada-colau-138737/"
+      }
+    ],
+    "parrilla": [
+      {
+        "titular": "Pablo Motos arremete contra Sánchez por rechazar ir a 'El Hormiguero'",
+        "cadena": "Antena 3",
+        "detalle": "Presentador dedica duro arranque con diez 'preguntas sin respuesta' al presidente del Gobierno",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/asi-ha-sido-duro-arranque-pablo-motos-contra-sanchez-por-no-ir-programa-sus-diez-preguntas-sin-respuesta-presidente_7059984_0.html"
+      },
+      {
+        "titular": "María Patiño se ausenta de 'El sótano' y Marta Riesco la sustituye",
+        "cadena": "Varias",
+        "detalle": "Presentadora falta por 'cosas profesionales', recuerda ausencias de Carrillo antes de abandonar",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/maria-patino-se-ausenta-sotano-marta-riesco-sustituye-le-estan-pasando-cosas-profesionales_7060359_0.html"
+      },
+      {
+        "titular": "Martín Escalar vuelve por sorpresa a 'Saber y ganar'",
+        "cadena": "La 2",
+        "detalle": "Regreso inesperado del concursante tras abandono por motivos laborales, había acumulado 82 programas",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/martin-escalar-vuelve-por-sorpresa-saber-ganar-tras-su-abandono-por-motivos-laborales_7059771_0.html"
+      }
+    ],
+    "records": [
+      {
+        "titular": "ANTENA 3 NOTICIAS 1 lidera el día con 2.773.000 y 24,4%",
+        "cadena": "Antena 3",
+        "detalle": "Informativo más visto del día 11 noviembre, Antena 3 cadena líder con 15% de cuota",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-11-de-noviembre-2026/"
+      },
+      {
+        "titular": "'La Revuelta' lo más visto del día con 3.050.000 y 22,9%",
+        "cadena": "La 1",
+        "detalle": "Programa de Broncano lidera el día 10 noviembre, La 1 cadena más vista con 14,1% de cuota",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-10-de-noviembre-2026/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang='es'>
+<head>
+<meta charset='UTF-8'>
+<meta name='viewport' content='width=device-width, initial-scale=1.0'>
+<title>TV Alertas — Jueves 12 de noviembre de 2026</title>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=DM+Sans:wght@300;400;500;600&display=swap');
+
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+:root {
+  --bg: #0a0a0b;
+  --bg2: #111113;
+  --bg3: #1a1a1d;
+  --border: #2a2a2e;
+  --text: #e8e8ec;
+  --text-muted: #6b6b78;
+  --accent: #e8c547;
+}
+
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: 'DM Sans', sans-serif;
+  font-size: 15px;
+  line-height: 1.6;
+  min-height: 100vh;
+}
+
+.site-header {
+  border-bottom: 1px solid var(--border);
+  padding: 20px 32px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  position: sticky;
+  top: 0;
+  background: rgba(10,10,11,0.95);
+  backdrop-filter: blur(8px);
+  z-index: 100;
+}
+
+.site-title {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 24px;
+  letter-spacing: 2px;
+  color: var(--accent);
+}
+
+.site-subtitle {
+  font-size: 12px;
+  color: var(--text-muted);
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+
+.nav-link {
+  color: var(--text-muted);
+  text-decoration: none;
+  font-size: 13px;
+  letter-spacing: 0.5px;
+  transition: color 0.2s;
+}
+.nav-link:hover { color: var(--accent); }
+
+main { max-width: 900px; margin: 0 auto; padding: 40px 24px; }
+
+.fecha-display {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 48px;
+  letter-spacing: 3px;
+  color: var(--text);
+  margin-bottom: 4px;
+}
+
+.resumen-ejecutivo {
+  font-size: 16px;
+  color: var(--text-muted);
+  margin-bottom: 40px;
+  padding-left: 16px;
+  border-left: 3px solid var(--accent);
+}
+
+.sin-alertas {
+  text-align: center;
+  padding: 80px 24px;
+  color: var(--text-muted);
+}
+
+.sin-alertas .icon { font-size: 48px; margin-bottom: 16px; }
+.sin-alertas h2 { font-family: 'Bebas Neue', sans-serif; font-size: 28px; letter-spacing: 2px; margin-bottom: 8px; color: var(--text); }
+
+.categoria-bloque { margin-bottom: 40px; }
+
+.categoria-header {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 16px;
+  padding-bottom: 8px;
+  border-bottom: 1px solid var(--border);
+}
+
+.categoria-icon { font-size: 20px; }
+
+.categoria-label {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 20px;
+  letter-spacing: 2px;
+}
+
+.categoria-count {
+  font-size: 12px;
+  padding: 2px 8px;
+  border-radius: 12px;
+  background: var(--bg3);
+  color: var(--text-muted);
+  font-weight: 500;
+}
+
+.alerta-card {
+  background: var(--bg2);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 16px 20px;
+  margin-bottom: 10px;
+  border-left: 3px solid transparent;
+  transition: border-color 0.2s, background 0.2s;
+}
+
+.alerta-card:hover { background: var(--bg3); }
+
+.alerta-titular {
+  font-weight: 600;
+  font-size: 15px;
+  margin-bottom: 4px;
+  color: var(--text);
+}
+
+.alerta-detalle {
+  font-size: 13px;
+  color: var(--text-muted);
+  margin-bottom: 6px;
+}
+
+.alerta-meta {
+  display: flex;
+  gap: 12px;
+  font-size: 12px;
+}
+
+.badge-cadena {
+  background: var(--bg3);
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  padding: 1px 7px;
+  color: var(--text-muted);
+}
+
+.badge-fuente { color: var(--text-muted); font-style: italic; }
+
+.alerta-link {
+  color: var(--text);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: border-color 0.2s, color 0.2s;
+}
+.alerta-link:hover { color: var(--accent); border-bottom-color: var(--accent); }
+
+.historico-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 12px;
+  margin-top: 24px;
+}
+
+.dia-card {
+  background: var(--bg2);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 16px;
+  text-decoration: none;
+  display: block;
+  transition: border-color 0.2s, background 0.2s;
+}
+
+.dia-card:hover { background: var(--bg3); border-color: var(--accent); }
+
+.dia-fecha {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 18px;
+  letter-spacing: 1px;
+  color: var(--text);
+  margin-bottom: 4px;
+}
+
+.dia-alertas { font-size: 12px; color: var(--text-muted); }
+
+.dia-dot {
+  display: inline-block;
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: var(--accent);
+  margin-right: 6px;
+  vertical-align: middle;
+}
+
+.dia-sin-alertas .dia-dot { background: var(--border); }
+
+footer {
+  border-top: 1px solid var(--border);
+  padding: 20px 32px;
+  text-align: center;
+  font-size: 12px;
+  color: var(--text-muted);
+  letter-spacing: 0.5px;
+}
+</style>
+</head>
+<body>
+<header class="site-header"><div><div class="site-title">TV ALERTAS</div><div class="site-subtitle">Monitor de televisión española</div></div><a href="../index.html" class="nav-link">← Histórico</a></header>
+<main>
+<div class="fecha-display">JUEVES 12 DE NOVIEMBRE DE 2026</div>
+<div class="resumen-ejecutivo">Jornada marcada por huelga general que afectó emisiones (Canal Sur a negro 5h), entrevista de Feijóo en El Hormiguero liderando sin competencia de La Revuelta, y polémica continua por el caso Abascal-Broncano</div>
+<div class="categoria-bloque"><div class="categoria-header"><span class="categoria-icon">🎬</span><span class="categoria-label" style="color:#e8c547">Estrenos</span><span class="categoria-count">2</span></div><div class="alerta-card" style="border-left-color:#e8c547"><div class="alerta-titular"><a href="https://www.20minutos.es/television/kevin-costner-se-mete-historia-lejano-oeste-con-un-documental-lleno-terratenientes-forajidos-indigenas_7060351_0.html" target="_blank" rel="noopener" class="alerta-link">Kevin Costner se mete en la historia del Lejano Oeste con un documental</a></div><div class='alerta-detalle'>Estreno lunes 16 de noviembre a las 22:30h, documental con archivo histórico y recreaciones</div><div class="alerta-meta"><span class='badge-cadena'>DMAX</span><span class='badge-fuente'>20minutos TV</span></div></div><div class="alerta-card" style="border-left-color:#e8c547"><div class="alerta-titular"><a href="https://www.20minutos.es/television/sorprendente-debut-televisivo-marta-prats-hija-matias-prats_7059565_0.html" target="_blank" rel="noopener" class="alerta-link">Marta Prats debuta en televisión en 'La Mesa'</a></div><div class='alerta-detalle'>Primera aparición televisiva de la hija de Matías Prats junto a otros familiares de famosos</div><div class="alerta-meta"><span class='badge-cadena'>Antena 3</span><span class='badge-fuente'>20minutos TV</span></div></div></div><div class="categoria-bloque"><div class="categoria-header"><span class="categoria-icon">⭐</span><span class="categoria-label" style="color:#e847a3">Especiales / Galas</span><span class="categoria-count">4</span></div><div class="alerta-card" style="border-left-color:#e847a3"><div class="alerta-titular"><a href="https://www.20minutos.es/television/canal-sur-television-retoma-sus-emisiones-tras-cinco-horas-negro-por-huelga-general_7059911_0.html" target="_blank" rel="noopener" class="alerta-link">Huelga general paraliza Canal Sur durante 5 horas</a></div><div class='alerta-detalle'>Emisión en negro desde las 08:20h hasta las 13:20h, retoma con 'Mesa de Análisis'</div><div class="alerta-meta"><span class='badge-cadena'>Canal Sur</span><span class='badge-fuente'>20minutos TV</span></div></div><div class="alerta-card" style="border-left-color:#e847a3"><div class="alerta-titular"><a href="https://www.20minutos.es/television/una-cuarenta-manifestantes-irrumpen-rtve-catalunya-impiden-emision-programa-cafe-d-idees-gemma-nierga_7059604_0.html" target="_blank" rel="noopener" class="alerta-link">Manifestantes impiden emisión de 'El Cafè d'Idees' de Gemma Nierga</a></div><div class='alerta-detalle'>Cuarenta manifestantes irrumpen en instalaciones durante huelga general</div><div class="alerta-meta"><span class='badge-cadena'>TVE Catalunya</span><span class='badge-fuente'>20minutos TV</span></div></div><div class="alerta-card" style="border-left-color:#e847a3"><div class="alerta-titular"><a href="https://www.20minutos.es/television/que-significa-brazalete-rojo-que-ha-lucido-silvia-intxaurrondo-hora-1-dia-huelga-general_7059666_0.html" target="_blank" rel="noopener" class="alerta-link">Silvia Intxaurrondo luce brazalete rojo en 'La hora de La 1'</a></div><div class='alerta-detalle'>Señal de solidaridad con huelga general mientras cumplía servicios mínimos en TVE</div><div class="alerta-meta"><span class='badge-cadena'>La 1</span><span class='badge-fuente'>20minutos TV</span></div></div><div class="alerta-card" style="border-left-color:#e847a3"><div class="alerta-titular"><a href="https://www.20minutos.es/television/impiden-antonio-naranjo-emitir-su-espacio-telemadrid-por-huelga-intxaurrondo-cintora-no-han-tenido-problemas-tve_7059957_0.html" target="_blank" rel="noopener" class="alerta-link">Impiden a Antonio Naranjo emitir en Telemadrid por huelga</a></div><div class='alerta-detalle'>Periodista denuncia censura mientras TVE emite con normalidad, genera controversia política</div><div class="alerta-meta"><span class='badge-cadena'>Telemadrid</span><span class='badge-fuente'>20minutos TV</span></div></div></div><div class="categoria-bloque"><div class="categoria-header"><span class="categoria-icon">🎙️</span><span class="categoria-label" style="color:#a347e8">Entrevistas</span><span class="categoria-count">2</span></div><div class="alerta-card" style="border-left-color:#a347e8"><div class="alerta-titular"><a href="https://www.formulatv.com/noticias/audiencias-miercoles-11-noviembre-el-hormiguero-138748/" target="_blank" rel="noopener" class="alerta-link">Feijóo en 'El Hormiguero' lidera con 19% sin competencia de 'La Revuelta'</a></div><div class='alerta-detalle'>Líder del PP revela última conversación con Sánchez sin cámaras y que no tiene su WhatsApp</div><div class="alerta-meta"><span class='badge-cadena'>Antena 3</span><span class='badge-fuente'>Fórmula TV / 20minutos TV</span></div></div><div class="alerta-card" style="border-left-color:#a347e8"><div class="alerta-titular"><a href="https://www.formulatv.com/noticias/audiencias-martes-10-noviembre-revuelta-ada-colau-138737/" target="_blank" rel="noopener" class="alerta-link">'La Revuelta' supera los 3 millones con Ada Colau con un 22,9%</a></div><div class='alerta-detalle'>Entrevista a la política en programa de Broncano alcanza más de 3 millones de espectadores</div><div class="alerta-meta"><span class='badge-cadena'>La 1</span><span class='badge-fuente'>Fórmula TV</span></div></div></div><div class="categoria-bloque"><div class="categoria-header"><span class="categoria-icon">📋</span><span class="categoria-label" style="color:#e87347">Cambios de parrilla</span><span class="categoria-count">3</span></div><div class="alerta-card" style="border-left-color:#e87347"><div class="alerta-titular"><a href="https://www.20minutos.es/television/asi-ha-sido-duro-arranque-pablo-motos-contra-sanchez-por-no-ir-programa-sus-diez-preguntas-sin-respuesta-presidente_7059984_0.html" target="_blank" rel="noopener" class="alerta-link">Pablo Motos arremete contra Sánchez por rechazar ir a 'El Hormiguero'</a></div><div class='alerta-detalle'>Presentador dedica duro arranque con diez 'preguntas sin respuesta' al presidente del Gobierno</div><div class="alerta-meta"><span class='badge-cadena'>Antena 3</span><span class='badge-fuente'>20minutos TV</span></div></div><div class="alerta-card" style="border-left-color:#e87347"><div class="alerta-titular"><a href="https://www.20minutos.es/television/maria-patino-se-ausenta-sotano-marta-riesco-sustituye-le-estan-pasando-cosas-profesionales_7060359_0.html" target="_blank" rel="noopener" class="alerta-link">María Patiño se ausenta de 'El sótano' y Marta Riesco la sustituye</a></div><div class='alerta-detalle'>Presentadora falta por 'cosas profesionales', recuerda ausencias de Carrillo antes de abandonar</div><div class="alerta-meta"><span class='badge-cadena'>Varias</span><span class='badge-fuente'>20minutos TV</span></div></div><div class="alerta-card" style="border-left-color:#e87347"><div class="alerta-titular"><a href="https://www.20minutos.es/television/martin-escalar-vuelve-por-sorpresa-saber-ganar-tras-su-abandono-por-motivos-laborales_7059771_0.html" target="_blank" rel="noopener" class="alerta-link">Martín Escalar vuelve por sorpresa a 'Saber y ganar'</a></div><div class='alerta-detalle'>Regreso inesperado del concursante tras abandono por motivos laborales, había acumulado 82 programas</div><div class="alerta-meta"><span class='badge-cadena'>La 2</span><span class='badge-fuente'>20minutos TV</span></div></div></div><div class="categoria-bloque"><div class="categoria-header"><span class="categoria-icon">📊</span><span class="categoria-label" style="color:#47e87e">Récords</span><span class="categoria-count">2</span></div><div class="alerta-card" style="border-left-color:#47e87e"><div class="alerta-titular"><a href="https://barloventocomunicacion.es/audiencias-diarias/audiencias-11-de-noviembre-2026/" target="_blank" rel="noopener" class="alerta-link">ANTENA 3 NOTICIAS 1 lidera el día con 2.773.000 y 24,4%</a></div><div class='alerta-detalle'>Informativo más visto del día 11 noviembre, Antena 3 cadena líder con 15% de cuota</div><div class="alerta-meta"><span class='badge-cadena'>Antena 3</span><span class='badge-fuente'>Barlovento Comunicación</span></div></div><div class="alerta-card" style="border-left-color:#47e87e"><div class="alerta-titular"><a href="https://barloventocomunicacion.es/audiencias-diarias/audiencias-10-de-noviembre-2026/" target="_blank" rel="noopener" class="alerta-link">'La Revuelta' lo más visto del día con 3.050.000 y 22,9%</a></div><div class='alerta-detalle'>Programa de Broncano lidera el día 10 noviembre, La 1 cadena más vista con 14,1% de cuota</div><div class="alerta-meta"><span class='badge-cadena'>La 1</span><span class='badge-fuente'>Barlovento Comunicación</span></div></div></div>
+</main>
+<footer>Generado automáticamente · Fuentes: Barlovento, Fórmula TV, Vertele, DOS30</footer>
+</body>
+</html>
