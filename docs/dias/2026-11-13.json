@@ -1,0 +1,95 @@
+{
+  "fecha": "2026-11-13",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "Día marcado por el fútbol de Nations League en La 1 con récord de 30,9%, entrevistas políticas de alto impacto (Sánchez en La Séptima récord 14,2% y El Perro Andaluz, Feijóo en El Hormiguero 19%) y debate electoral RTVE confirmado para el 23N",
+  "alertas": {
+    "estrenos": [],
+    "deportes": [
+      {
+        "titular": "FUTBOL:UEFA NATIONS LEAGUE (La1) es lo más visto de ayer gracias a 4.139.000 espectadores como promedio y el 30,9 % de cuota de pantalla",
+        "cadena": "La 1",
+        "detalle": "Partido de Nations League lidera la jornada del 12 de noviembre con más de 4 millones de espectadores",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-12-de-noviembre-2026/"
+      }
+    ],
+    "especiales": [
+      {
+        "titular": "RTVE organizará el 23 de noviembre un debate electoral a 8 con PSOE, PP, Vox, Frente Amplio, ERC, Junts, Bildu y PNV",
+        "cadena": "La 1",
+        "detalle": "Debate electoral moderado por Xabier Fortes en multipantalla RTVE previo a elecciones",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/rtve-organizara-23-noviembre-un-debate-parlamentario-con-psoe-pp-vox-frente-amplio-erc-bildu-pnv_7060623_0.html"
+      },
+      {
+        "titular": "'Supervivientes All Stars' corona a su ganador con el 55,7 % de los votos",
+        "cadena": "Telecinco",
+        "detalle": "Gran final del reality con Asraf Beno como ganador",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/supervivientes-all-stars-corona-su-ganador-con-55-7-los-votos-nunca-pense-que-ganaria_7060533_0.html"
+      }
+    ],
+    "entrevistas": [
+      {
+        "titular": "Pedro Sánchez regresa a La Séptima tras darle su récord de audiencia: será entrevistado por Alba Carrillo y Marta Márquez el domingo",
+        "cadena": "La Séptima",
+        "detalle": "Presidente logró récord histórico del canal con 14,2% el 9 de noviembre con Javier Ruiz, vuelve el domingo",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/pedro-sanchez-regresa-septima-tras-darle-su-record-audiencia-sera-entrevistado-por-alba-carrillo-marta-marquez-domingo_7060804_0.html"
+      },
+      {
+        "titular": "Pedro Sánchez confiesa en 'El perro andaluz' qué escondería de la UCO",
+        "cadena": "La Séptima",
+        "detalle": "Entrevista del presidente del Gobierno en el programa de Manu Sánchez",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/pedro-sanchez-confiesa-perro-andaluz-que-esconderia-uco-me-daria-un-poco-corte_7060530_0.html"
+      },
+      {
+        "titular": "Feijóo revela en 'El Hormiguero' la última vez que habló con Sánchez sin cámaras y si tiene su móvil",
+        "cadena": "Antena 3",
+        "detalle": "Líder del PP entrevistado por Pablo Motos en contexto electoral",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/feijoo-revela-hormiguero-ultima-vez-que-hablo-con-sanchez-sin-camaras-si-tiene-su-movil-no-le-entra-whatsapp_7060038_0.html"
+      }
+    ],
+    "parrilla": [
+      {
+        "titular": "Belén Esteban se sentará en '¡De viernes!' y dará un anuncio en exclusiva: 'Voy a contar algo muy importante'",
+        "cadena": "Telecinco",
+        "detalle": "Posible confirmación como concursante de GH VIP en programa del viernes",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/belen-esteban-se-sienta-viernes-dara-un-anuncio-exclusiva-voy-contar-algo-muy-importante_7060409_0.html"
+      },
+      {
+        "titular": "María Patiño se ausenta de 'El sótano' y Marta Riesco la sustituye: 'Le están pasando cosas profesionales'",
+        "cadena": "La Séptima",
+        "detalle": "Ausencia de la presentadora con sustitución, posibles movimientos profesionales",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/maria-patino-se-ausenta-sotano-marta-riesco-sustituye-le-estan-pasando-cosas-profesionales_7060359_0.html"
+      }
+    ],
+    "records": [
+      {
+        "titular": "El fútbol y 'El perro andaluz' con Pedro Sánchez llevan a La 1 a liderar el día con un 17,9%",
+        "cadena": "La 1",
+        "detalle": "La 1 lidera la jornada del 12 de noviembre gracias al fútbol (30,9%) y la entrevista a Sánchez",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-jueves-12-noviembre-138756/"
+      },
+      {
+        "titular": "'El hormiguero' con Feijóo lidera con un 19% sin 'La revuelta' como competencia",
+        "cadena": "Antena 3",
+        "detalle": "Programa logra 19% de share el 11 de noviembre con entrevista al líder del PP",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-miercoles-11-noviembre-el-hormiguero-138748/"
+      },
+      {
+        "titular": "Pedro Sánchez regresa a La Séptima tras darle su récord de audiencia de 14,2%",
+        "cadena": "La Séptima",
+        "detalle": "Entrevista del 9 de noviembre logró récord histórico del canal con 14,2% de cuota",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/pedro-sanchez-regresa-septima-tras-darle-su-record-audiencia-sera-entrevistado-por-alba-carrillo-marta-marquez-domingo_7060804_0.html"
+      }
+    ]
+  }
+}
