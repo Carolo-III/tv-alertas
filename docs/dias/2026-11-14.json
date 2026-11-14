@@ -1,0 +1,73 @@
+{
+  "fecha": "2026-11-14",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "Récord histórico de Pedro Sánchez en La Séptima (14,2%) genera nueva entrevista; UEFA Nations League arrasa con 4,1M; debate electoral a 8 confirmado en RTVE para el 23-N",
+  "alertas": {
+    "estrenos": [],
+    "deportes": [
+      {
+        "titular": "FUTBOL:UEFA NATIONS LEAGUE es lo más visto con 4.139.000 espectadores y 30,9% de cuota",
+        "cadena": "La 1",
+        "detalle": "Partido de la selección española lidera el jueves 12 de noviembre con récord de audiencia",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-12-de-noviembre-2026/"
+      }
+    ],
+    "especiales": [
+      {
+        "titular": "Pedro Sánchez entrevistado en 'El perro andaluz' logra récord histórico de 14,2%",
+        "cadena": "La Séptima",
+        "detalle": "Entrevista del presidente con Javier Ruiz el 9 de noviembre alcanza récord de la cadena en contexto de campaña electoral",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/pedro-sanchez-regresa-septima-tras-darle-su-record-audiencia-sera-entrevistado-por-alba-carrillo-marta-marquez-domingo_7060804_0.html"
+      },
+      {
+        "titular": "Pedro Sánchez regresará a La Séptima el domingo para nueva entrevista con Alba Carrillo y Marta Márquez",
+        "cadena": "La Séptima",
+        "detalle": "Segunda entrevista al presidente del Gobierno tras el éxito de audiencia del lunes",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/pedro-sanchez-regresa-septima-tras-darle-su-record-audiencia-sera-entrevistado-por-alba-carrillo-marta-marquez-domingo_7060804_0.html"
+      },
+      {
+        "titular": "RTVE organizará debate electoral a 8 el 23 de noviembre con PSOE, PP, Vox, Frente Amplio, ERC, Junts, Bildu y PNV",
+        "cadena": "La 1",
+        "detalle": "Debate parlamentario moderado por Xabier Fortes, emisión multiplataforma en La 1, Canal 24h, Radio 5 y RTVE Play",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/rtve-organizara-23-noviembre-un-debate-parlamentario-con-psoe-pp-vox-frente-amplio-erc-bildu-pnv_7060623_0.html"
+      },
+      {
+        "titular": "El fútbol y 'El perro andaluz' con Pedro Sánchez llevan a La 1 a liderar el día con 17,9%",
+        "cadena": "La 1",
+        "detalle": "La combinación del partido de la UEFA Nations League y la entrevista al presidente posicionan a La 1 como líder del jueves",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-jueves-12-noviembre-138756/"
+      }
+    ],
+    "entrevistas": [
+      {
+        "titular": "Jordi Wild acudirá a 'El hormiguero' tras su polémica con Abascal y Podemos",
+        "cadena": "Antena 3",
+        "detalle": "El creador de The Wild Project, protagonista de la campaña electoral, será entrevistado en el programa de Pablo Motos",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/entrevistador-entrevistado-jordi-wild-acudira-hormiguero-tras-su-polemica-con-abascal-podemos_7060714_0.html"
+      }
+    ],
+    "parrilla": [],
+    "records": [
+      {
+        "titular": "Pedro Sánchez logra récord histórico de audiencia en La Séptima con 14,2%",
+        "cadena": "La Séptima",
+        "detalle": "La entrevista al presidente del Gobierno marca el mejor dato de audiencia de la historia de la cadena",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/pedro-sanchez-regresa-septima-tras-darle-su-record-audiencia-sera-entrevistado-por-alba-carrillo-marta-marquez-domingo_7060804_0.html"
+      },
+      {
+        "titular": "'¡De viernes!' sube a un 15,5% con Belén Esteban mientras el fútbol pincha en La 1 con 5,9%",
+        "cadena": "Telecinco",
+        "detalle": "Programa nocturno alcanza buen resultado el viernes 13, contrastando con bajo dato de fútbol en La 1",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-viernes-13-noviembre-de-viernes-belen-138760/"
+      }
+    ]
+  }
+}
