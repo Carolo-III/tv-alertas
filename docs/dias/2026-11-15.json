@@ -1,0 +1,66 @@
+{
+  "fecha": "2026-11-15",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "Estreno exitoso de '¡De sábado!' con Massiel lidera con 11,1%, mientras '¡De viernes!' sube a 15,5% con Belén Esteban",
+  "alertas": {
+    "estrenos": [
+      {
+        "titular": "El estreno de '¡De sábado!' con Massiel lidera la noche con un 11,1% en Telecinco",
+        "cadena": "Telecinco",
+        "detalle": "Debut del nuevo programa '¡De sábado!' con Massiel como invitada, liderando la noche del sábado",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-sabado-14-noviembre-massiel-telecinco-138765/"
+      }
+    ],
+    "deportes": [
+      {
+        "titular": "'¡De viernes!' sube a un 15,5% con Belén Esteban y el fútbol pincha en La 1 con un 5,9%",
+        "cadena": "La 1",
+        "detalle": "Mal rendimiento del fútbol en La 1 con solo 5,9% de cuota, dato por debajo de lo esperado",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-viernes-13-noviembre-de-viernes-belen-138760/"
+      }
+    ],
+    "especiales": [],
+    "entrevistas": [
+      {
+        "titular": "Belén Esteban, sobre su inminente reencuentro con Jorge Javier Vázquez en 'GH VIP': 'Estoy más nerviosa por verlo a él'",
+        "cadena": "Telecinco",
+        "detalle": "Belén Esteban confirma su participación en GH VIP y reencuentro con Jorge Javier Vázquez",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/belen-esteban-sobre-su-inminente-reencuentro-con-jorge-javier-vazquez-gh-vip-estoy-mas-nerviosa-por-verlo_7061140_0.html"
+      },
+      {
+        "titular": "'¡De viernes!' sube a un 15,5% con Belén Esteban",
+        "cadena": "Telecinco",
+        "detalle": "Entrevista destacada a Belén Esteban impulsa el programa a 15,5% de cuota",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-viernes-13-noviembre-de-viernes-belen-138760/"
+      }
+    ],
+    "parrilla": [],
+    "records": [
+      {
+        "titular": "ANTENA 3 NOTICIAS 1 FIN DE SEMANA es lo más visto con 1.856.000 espectadores y 20,5% de cuota",
+        "cadena": "Antena 3",
+        "detalle": "Liderazgo del fin de semana con datos destacados para el informativo de Antena 3",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-14-de-noviembre-2026/"
+      },
+      {
+        "titular": "ANTENA 3 NOTICIAS 1 es lo más visto con 2.099.000 espectadores y 22,9% de cuota",
+        "cadena": "Antena 3",
+        "detalle": "Antena 3 lidera el día como cadena más vista con 13,7% de cuota total",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-13-de-noviembre-2026/"
+      },
+      {
+        "titular": "Alexia Rivas: 'Las audiencias más altas de Telecinco han sido con este tema'",
+        "cadena": "Telecinco",
+        "detalle": "Referencia a récords de audiencia de Telecinco vinculados al escándalo Merlos-Alexia Rivas",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/alexia-rivas-comparte-detalles-ineditos-su-polemico-video-intimo-las-audiencias-mas-altas-telecinco-han-sido-con-este-tema_7061188_0.html"
+      }
+    ]
+  }
+}
