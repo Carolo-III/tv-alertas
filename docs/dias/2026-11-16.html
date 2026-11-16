@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang='es'>
+<head>
+<meta charset='UTF-8'>
+<meta name='viewport' content='width=device-width, initial-scale=1.0'>
+<title>TV Alertas — Lunes 16 de noviembre de 2026</title>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=DM+Sans:wght@300;400;500;600&display=swap');
+
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+:root {
+  --bg: #0a0a0b;
+  --bg2: #111113;
+  --bg3: #1a1a1d;
+  --border: #2a2a2e;
+  --text: #e8e8ec;
+  --text-muted: #6b6b78;
+  --accent: #e8c547;
+}
+
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: 'DM Sans', sans-serif;
+  font-size: 15px;
+  line-height: 1.6;
+  min-height: 100vh;
+}
+
+.site-header {
+  border-bottom: 1px solid var(--border);
+  padding: 20px 32px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  position: sticky;
+  top: 0;
+  background: rgba(10,10,11,0.95);
+  backdrop-filter: blur(8px);
+  z-index: 100;
+}
+
+.site-title {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 24px;
+  letter-spacing: 2px;
+  color: var(--accent);
+}
+
+.site-subtitle {
+  font-size: 12px;
+  color: var(--text-muted);
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+
+.nav-link {
+  color: var(--text-muted);
+  text-decoration: none;
+  font-size: 13px;
+  letter-spacing: 0.5px;
+  transition: color 0.2s;
+}
+.nav-link:hover { color: var(--accent); }
+
+main { max-width: 900px; margin: 0 auto; padding: 40px 24px; }
+
+.fecha-display {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 48px;
+  letter-spacing: 3px;
+  color: var(--text);
+  margin-bottom: 4px;
+}
+
+.resumen-ejecutivo {
+  font-size: 16px;
+  color: var(--text-muted);
+  margin-bottom: 40px;
+  padding-left: 16px;
+  border-left: 3px solid var(--accent);
+}
+
+.sin-alertas {
+  text-align: center;
+  padding: 80px 24px;
+  color: var(--text-muted);
+}
+
+.sin-alertas .icon { font-size: 48px; margin-bottom: 16px; }
+.sin-alertas h2 { font-family: 'Bebas Neue', sans-serif; font-size: 28px; letter-spacing: 2px; margin-bottom: 8px; color: var(--text); }
+
+.categoria-bloque { margin-bottom: 40px; }
+
+.categoria-header {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 16px;
+  padding-bottom: 8px;
+  border-bottom: 1px solid var(--border);
+}
+
+.categoria-icon { font-size: 20px; }
+
+.categoria-label {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 20px;
+  letter-spacing: 2px;
+}
+
+.categoria-count {
+  font-size: 12px;
+  padding: 2px 8px;
+  border-radius: 12px;
+  background: var(--bg3);
+  color: var(--text-muted);
+  font-weight: 500;
+}
+
+.alerta-card {
+  background: var(--bg2);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 16px 20px;
+  margin-bottom: 10px;
+  border-left: 3px solid transparent;
+  transition: border-color 0.2s, background 0.2s;
+}
+
+.alerta-card:hover { background: var(--bg3); }
+
+.alerta-titular {
+  font-weight: 600;
+  font-size: 15px;
+  margin-bottom: 4px;
+  color: var(--text);
+}
+
+.alerta-detalle {
+  font-size: 13px;
+  color: var(--text-muted);
+  margin-bottom: 6px;
+}
+
+.alerta-meta {
+  display: flex;
+  gap: 12px;
+  font-size: 12px;
+}
+
+.badge-cadena {
+  background: var(--bg3);
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  padding: 1px 7px;
+  color: var(--text-muted);
+}
+
+.badge-fuente { color: var(--text-muted); font-style: italic; }
+
+.alerta-link {
+  color: var(--text);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: border-color 0.2s, color 0.2s;
+}
+.alerta-link:hover { color: var(--accent); border-bottom-color: var(--accent); }
+
+.historico-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 12px;
+  margin-top: 24px;
+}
+
+.dia-card {
+  background: var(--bg2);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 16px;
+  text-decoration: none;
+  display: block;
+  transition: border-color 0.2s, background 0.2s;
+}
+
+.dia-card:hover { background: var(--bg3); border-color: var(--accent); }
+
+.dia-fecha {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 18px;
+  letter-spacing: 1px;
+  color: var(--text);
+  margin-bottom: 4px;
+}
+
+.dia-alertas { font-size: 12px; color: var(--text-muted); }
+
+.dia-dot {
+  display: inline-block;
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: var(--accent);
+  margin-right: 6px;
+  vertical-align: middle;
+}
+
+.dia-sin-alertas .dia-dot { background: var(--border); }
+
+footer {
+  border-top: 1px solid var(--border);
+  padding: 20px 32px;
+  text-align: center;
+  font-size: 12px;
+  color: var(--text-muted);
+  letter-spacing: 0.5px;
+}
+</style>
+</head>
+<body>
+<header class="site-header"><div><div class="site-title">TV ALERTAS</div><div class="site-subtitle">Monitor de televisión española</div></div><a href="../index.html" class="nav-link">← Histórico</a></header>
+<main>
+<div class="fecha-display">LUNES 16 DE NOVIEMBRE DE 2026</div>
+<div class="resumen-ejecutivo">España-Inglaterra arrasa con 44,1%, entrevista a Sánchez en La Séptima y Telecinco, debate electoral confirmado en RTVE/Atresmedia/La Séptima, y estreno de 'GH VIP 9' con concursantes confirmados</div>
+<div class="categoria-bloque"><div class="categoria-header"><span class="categoria-icon">🎬</span><span class="categoria-label" style="color:#e8c547">Estrenos</span><span class="categoria-count">4</span></div><div class="alerta-card" style="border-left-color:#e8c547"><div class="alerta-titular"><a href="https://www.formulatv.com/noticias/audiencias-sabado-14-noviembre-massiel-telecinco-138765/" target="_blank" rel="noopener" class="alerta-link">El estreno de '¡De sábado!' con Massiel lidera la noche con un 11,1% en Telecinco</a></div><div class='alerta-detalle'>Nuevo programa de sábado noche arranca liderando con entrevista a Massiel</div><div class="alerta-meta"><span class='badge-cadena'>Telecinco</span><span class='badge-fuente'>Fórmula TV</span></div></div><div class="alerta-card" style="border-left-color:#e8c547"><div class="alerta-titular"><a href="https://www.20minutos.es/television/estos-son-los-concursantes-confirmados-gh-vip-9-periodistas-excolaboradores-salvame-politicas_7059231_0.html" target="_blank" rel="noopener" class="alerta-link">Estos son los concursantes confirmados de 'GH VIP 9': periodistas, excolaboradores de 'Sálvame', políticas...</a></div><div class='alerta-detalle'>Confirmados primeros concursantes: Arturo Requejo, Karmele Marchante, Paloma González, Pipi Estrada y Katrin Ortega</div><div class="alerta-meta"><span class='badge-cadena'>Telecinco</span><span class='badge-fuente'>20minutos TV</span></div></div><div class="alerta-card" style="border-left-color:#e8c547"><div class="alerta-titular"><a href="https://www.20minutos.es/television/casa-gran-hermano-vip-tendra-por-primera-vez-historia-mundo-un-habitante-no-humano-adorable_7061658_0.html" target="_blank" rel="noopener" class="alerta-link">La casa de 'Gran Hermano VIP' tendrá por primera vez en la historia y en el mundo un habitante no humano... y adorable</a></div><div class='alerta-detalle'>Primera vez mundial que GH incorpora habitante no humano</div><div class="alerta-meta"><span class='badge-cadena'>Telecinco</span><span class='badge-fuente'>20minutos TV</span></div></div><div class="alerta-card" style="border-left-color:#e8c547"><div class="alerta-titular"><a href="https://www.20minutos.es/television/chelo-garcia-cortes-emocionada-su-debut-con-alba-carrillo-septima-se-me-va-voz_7061483_0.html" target="_blank" rel="noopener" class="alerta-link">Chelo García-Cortés, emocionada en su debut con Alba Carrillo en La Séptima</a></div><div class='alerta-detalle'>Excolaboradora de Sálvame debuta en programa de fin de semana 'Fuera de Control'</div><div class="alerta-meta"><span class='badge-cadena'>La Séptima</span><span class='badge-fuente'>20minutos TV</span></div></div></div><div class="categoria-bloque"><div class="categoria-header"><span class="categoria-icon">⚽</span><span class="categoria-label" style="color:#47c5e8">Deportes</span><span class="categoria-count">1</span></div><div class="alerta-card" style="border-left-color:#47c5e8"><div class="alerta-titular"><a href="https://www.formulatv.com/noticias/audiencias-domingo-15-noviembre-espana-inglaterra-138770/" target="_blank" rel="noopener" class="alerta-link">La 1 barre con el España - Inglaterra con un 44,1% y Sánchez marca un 8,1% en La Séptima</a></div><div class='alerta-detalle'>UEFA Nations League: España-Inglaterra arrasa con 6.506.000 espectadores y 44,1% de share</div><div class="alerta-meta"><span class='badge-cadena'>La 1</span><span class='badge-fuente'>Fórmula TV / Barlovento</span></div></div></div><div class="categoria-bloque"><div class="categoria-header"><span class="categoria-icon">⭐</span><span class="categoria-label" style="color:#e847a3">Especiales / Galas</span><span class="categoria-count">3</span></div><div class="alerta-card" style="border-left-color:#e847a3"><div class="alerta-titular"><a href="https://www.20minutos.es/television/rtve-atresmedia-septima-emitiran-cara-cara-entre-sanchez-feijoo_7061683_0.html" target="_blank" rel="noopener" class="alerta-link">RTVE, Atresmedia y La Séptima emitirán el cara a cara entre Sánchez y Feijóo</a></div><div class='alerta-detalle'>Debate electoral confirmado entre candidatos, emisión simultánea en múltiples cadenas</div><div class="alerta-meta"><span class='badge-cadena'>Varias</span><span class='badge-fuente'>20minutos TV</span></div></div><div class="alerta-card" style="border-left-color:#e847a3"><div class="alerta-titular"><a href="https://www.20minutos.es/television/hormiguero-suspende-visita-jordi-wild-prevista-para-jueves_7061335_0.html" target="_blank" rel="noopener" class="alerta-link">'El Hormiguero', obligado a posponer la visita de Jordi Wild, prevista para el jueves</a></div><div class='alerta-detalle'>Antena 3 emitirá cara a cara Sánchez-Feijóo en lugar del programa habitual</div><div class="alerta-meta"><span class='badge-cadena'>Antena 3</span><span class='badge-fuente'>20minutos TV</span></div></div><div class="alerta-card" style="border-left-color:#e847a3"><div class="alerta-titular"><a href="https://www.20minutos.es/television/un-apagon-rtve-impide-emision-d-corazon-su-horario-previsto-estamos-siendo-boicoteados_7061304_0.html" target="_blank" rel="noopener" class="alerta-link">Un apagón en RTVE impide la emisión de 'D Corazón' en su horario previsto: 'Estamos siendo boicoteados'</a></div><div class='alerta-detalle'>Problemas técnicos provocan retraso de una hora en programa de crónica social</div><div class="alerta-meta"><span class='badge-cadena'>La 1</span><span class='badge-fuente'>20minutos TV</span></div></div></div><div class="categoria-bloque"><div class="categoria-header"><span class="categoria-icon">🎙️</span><span class="categoria-label" style="color:#a347e8">Entrevistas</span><span class="categoria-count">3</span></div><div class="alerta-card" style="border-left-color:#a347e8"><div class="alerta-titular"><a href="https://www.20minutos.es/television/pedro-sanchez-estara-este-lunes-con-carlos-franganillo-telecinco_7061513_0.html" target="_blank" rel="noopener" class="alerta-link">Pedro Sánchez estará este lunes con Carlos Franganillo en Telecinco</a></div><div class='alerta-detalle'>Entrevista al presidente del Gobierno en edición especial a las 21h con director de Informativos</div><div class="alerta-meta"><span class='badge-cadena'>Telecinco</span><span class='badge-fuente'>20minutos TV</span></div></div><div class="alerta-card" style="border-left-color:#a347e8"><div class="alerta-titular"><a href="https://www.20minutos.es/television/pedro-sanchez-desvela-por-que-no-ha-querido-ser-entrevistado-por-pablo-motos-hormiguero_7061370_0.html" target="_blank" rel="noopener" class="alerta-link">Sánchez desvela por qué no ha querido ser entrevistado por Pablo Motos en 'El Hormiguero'</a></div><div class='alerta-detalle'>Presidente declara en La Séptima sobre su decisión de no acudir a El Hormiguero</div><div class="alerta-meta"><span class='badge-cadena'>La Séptima</span><span class='badge-fuente'>20minutos TV</span></div></div><div class="alerta-card" style="border-left-color:#a347e8"><div class="alerta-titular"><a href="https://www.20minutos.es/television/massiel-rota-sobrecoge-con-su-pesadilla-junto-luis-recatero-entre-palizas-un-aborto-clandestino-me-podia-haber-matado_7061310_0.html" target="_blank" rel="noopener" class="alerta-link">Massiel, rota, sobrecoge con su 'pesadilla' junto a Luis Recatero, entre palizas y un aborto clandestino</a></div><div class='alerta-detalle'>Entrevista impactante en '¡De sábado!' con confesiones sobre maltrato en su matrimonio</div><div class="alerta-meta"><span class='badge-cadena'>Telecinco</span><span class='badge-fuente'>20minutos TV</span></div></div></div><div class="categoria-bloque"><div class="categoria-header"><span class="categoria-icon">📋</span><span class="categoria-label" style="color:#e87347">Cambios de parrilla</span><span class="categoria-count">1</span></div><div class="alerta-card" style="border-left-color:#e87347"><div class="alerta-titular"><a href="https://www.20minutos.es/television/hormiguero-suspende-visita-jordi-wild-prevista-para-jueves_7061335_0.html" target="_blank" rel="noopener" class="alerta-link">'El Hormiguero', obligado a posponer la visita de Jordi Wild, prevista para el jueves</a></div><div class='alerta-detalle'>Cambio de programación por emisión del debate electoral Sánchez-Feijóo</div><div class="alerta-meta"><span class='badge-cadena'>Antena 3</span><span class='badge-fuente'>20minutos TV</span></div></div></div><div class="categoria-bloque"><div class="categoria-header"><span class="categoria-icon">📊</span><span class="categoria-label" style="color:#47e87e">Récords</span><span class="categoria-count">3</span></div><div class="alerta-card" style="border-left-color:#47e87e"><div class="alerta-titular"><a href="https://www.formulatv.com/noticias/audiencias-domingo-15-noviembre-espana-inglaterra-138770/" target="_blank" rel="noopener" class="alerta-link">La 1 barre con el España - Inglaterra con un 44,1%</a></div><div class='alerta-detalle'>44,1% de share y 6,5 millones de espectadores en partido de selección, La 1 líder del día con 18,4%</div><div class="alerta-meta"><span class='badge-cadena'>La 1</span><span class='badge-fuente'>Barlovento / Fórmula TV</span></div></div><div class="alerta-card" style="border-left-color:#47e87e"><div class="alerta-titular"><a href="https://www.formulatv.com/noticias/audiencias-sabado-14-noviembre-massiel-telecinco-138765/" target="_blank" rel="noopener" class="alerta-link">El estreno de '¡De sábado!' con Massiel lidera la noche con un 11,1% en Telecinco</a></div><div class='alerta-detalle'>Programa arranca liderando el sábado noche con dato notable de estreno</div><div class="alerta-meta"><span class='badge-cadena'>Telecinco</span><span class='badge-fuente'>Fórmula TV</span></div></div><div class="alerta-card" style="border-left-color:#47e87e"><div class="alerta-titular"><a href="https://www.formulatv.com/noticias/audiencias-domingo-15-noviembre-espana-inglaterra-138770/" target="_blank" rel="noopener" class="alerta-link">La 1 barre con el España - Inglaterra con un 44,1% y Sánchez marca un 8,1% en La Séptima</a></div><div class='alerta-detalle'>Entrevista a Sánchez logra 8,1% en emisión simultánea al partido de fútbol</div><div class="alerta-meta"><span class='badge-cadena'>La Séptima</span><span class='badge-fuente'>Fórmula TV</span></div></div></div>
+</main>
+<footer>Generado automáticamente · Fuentes: Barlovento, Fórmula TV, Vertele, DOS30</footer>
+</body>
+</html>

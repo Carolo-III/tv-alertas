@@ -1,0 +1,124 @@
+{
+  "fecha": "2026-11-16",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "España-Inglaterra arrasa con 44,1%, entrevista a Sánchez en La Séptima y Telecinco, debate electoral confirmado en RTVE/Atresmedia/La Séptima, y estreno de 'GH VIP 9' con concursantes confirmados",
+  "alertas": {
+    "estrenos": [
+      {
+        "titular": "El estreno de '¡De sábado!' con Massiel lidera la noche con un 11,1% en Telecinco",
+        "cadena": "Telecinco",
+        "detalle": "Nuevo programa de sábado noche arranca liderando con entrevista a Massiel",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-sabado-14-noviembre-massiel-telecinco-138765/"
+      },
+      {
+        "titular": "Estos son los concursantes confirmados de 'GH VIP 9': periodistas, excolaboradores de 'Sálvame', políticas...",
+        "cadena": "Telecinco",
+        "detalle": "Confirmados primeros concursantes: Arturo Requejo, Karmele Marchante, Paloma González, Pipi Estrada y Katrin Ortega",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/estos-son-los-concursantes-confirmados-gh-vip-9-periodistas-excolaboradores-salvame-politicas_7059231_0.html"
+      },
+      {
+        "titular": "La casa de 'Gran Hermano VIP' tendrá por primera vez en la historia y en el mundo un habitante no humano... y adorable",
+        "cadena": "Telecinco",
+        "detalle": "Primera vez mundial que GH incorpora habitante no humano",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/casa-gran-hermano-vip-tendra-por-primera-vez-historia-mundo-un-habitante-no-humano-adorable_7061658_0.html"
+      },
+      {
+        "titular": "Chelo García-Cortés, emocionada en su debut con Alba Carrillo en La Séptima",
+        "cadena": "La Séptima",
+        "detalle": "Excolaboradora de Sálvame debuta en programa de fin de semana 'Fuera de Control'",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/chelo-garcia-cortes-emocionada-su-debut-con-alba-carrillo-septima-se-me-va-voz_7061483_0.html"
+      }
+    ],
+    "deportes": [
+      {
+        "titular": "La 1 barre con el España - Inglaterra con un 44,1% y Sánchez marca un 8,1% en La Séptima",
+        "cadena": "La 1",
+        "detalle": "UEFA Nations League: España-Inglaterra arrasa con 6.506.000 espectadores y 44,1% de share",
+        "fuente": "Fórmula TV / Barlovento",
+        "url": "https://www.formulatv.com/noticias/audiencias-domingo-15-noviembre-espana-inglaterra-138770/"
+      }
+    ],
+    "especiales": [
+      {
+        "titular": "RTVE, Atresmedia y La Séptima emitirán el cara a cara entre Sánchez y Feijóo",
+        "cadena": "Varias",
+        "detalle": "Debate electoral confirmado entre candidatos, emisión simultánea en múltiples cadenas",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/rtve-atresmedia-septima-emitiran-cara-cara-entre-sanchez-feijoo_7061683_0.html"
+      },
+      {
+        "titular": "'El Hormiguero', obligado a posponer la visita de Jordi Wild, prevista para el jueves",
+        "cadena": "Antena 3",
+        "detalle": "Antena 3 emitirá cara a cara Sánchez-Feijóo en lugar del programa habitual",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/hormiguero-suspende-visita-jordi-wild-prevista-para-jueves_7061335_0.html"
+      },
+      {
+        "titular": "Un apagón en RTVE impide la emisión de 'D Corazón' en su horario previsto: 'Estamos siendo boicoteados'",
+        "cadena": "La 1",
+        "detalle": "Problemas técnicos provocan retraso de una hora en programa de crónica social",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/un-apagon-rtve-impide-emision-d-corazon-su-horario-previsto-estamos-siendo-boicoteados_7061304_0.html"
+      }
+    ],
+    "entrevistas": [
+      {
+        "titular": "Pedro Sánchez estará este lunes con Carlos Franganillo en Telecinco",
+        "cadena": "Telecinco",
+        "detalle": "Entrevista al presidente del Gobierno en edición especial a las 21h con director de Informativos",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/pedro-sanchez-estara-este-lunes-con-carlos-franganillo-telecinco_7061513_0.html"
+      },
+      {
+        "titular": "Sánchez desvela por qué no ha querido ser entrevistado por Pablo Motos en 'El Hormiguero'",
+        "cadena": "La Séptima",
+        "detalle": "Presidente declara en La Séptima sobre su decisión de no acudir a El Hormiguero",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/pedro-sanchez-desvela-por-que-no-ha-querido-ser-entrevistado-por-pablo-motos-hormiguero_7061370_0.html"
+      },
+      {
+        "titular": "Massiel, rota, sobrecoge con su 'pesadilla' junto a Luis Recatero, entre palizas y un aborto clandestino",
+        "cadena": "Telecinco",
+        "detalle": "Entrevista impactante en '¡De sábado!' con confesiones sobre maltrato en su matrimonio",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/massiel-rota-sobrecoge-con-su-pesadilla-junto-luis-recatero-entre-palizas-un-aborto-clandestino-me-podia-haber-matado_7061310_0.html"
+      }
+    ],
+    "parrilla": [
+      {
+        "titular": "'El Hormiguero', obligado a posponer la visita de Jordi Wild, prevista para el jueves",
+        "cadena": "Antena 3",
+        "detalle": "Cambio de programación por emisión del debate electoral Sánchez-Feijóo",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/hormiguero-suspende-visita-jordi-wild-prevista-para-jueves_7061335_0.html"
+      }
+    ],
+    "records": [
+      {
+        "titular": "La 1 barre con el España - Inglaterra con un 44,1%",
+        "cadena": "La 1",
+        "detalle": "44,1% de share y 6,5 millones de espectadores en partido de selección, La 1 líder del día con 18,4%",
+        "fuente": "Barlovento / Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-domingo-15-noviembre-espana-inglaterra-138770/"
+      },
+      {
+        "titular": "El estreno de '¡De sábado!' con Massiel lidera la noche con un 11,1% en Telecinco",
+        "cadena": "Telecinco",
+        "detalle": "Programa arranca liderando el sábado noche con dato notable de estreno",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-sabado-14-noviembre-massiel-telecinco-138765/"
+      },
+      {
+        "titular": "La 1 barre con el España - Inglaterra con un 44,1% y Sánchez marca un 8,1% en La Séptima",
+        "cadena": "La Séptima",
+        "detalle": "Entrevista a Sánchez logra 8,1% en emisión simultánea al partido de fútbol",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-domingo-15-noviembre-espana-inglaterra-138770/"
+      }
+    ]
+  }
+}
