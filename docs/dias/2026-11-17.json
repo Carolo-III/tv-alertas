@@ -1,0 +1,117 @@
+{
+  "fecha": "2026-11-17",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "La 1 arrasa con España-Inglaterra (44,1%) y llega el debate electoral; GH VIP 9 revela concursantes y Telecinco emite entrevista especial a Sánchez",
+  "alertas": {
+    "estrenos": [
+      {
+        "titular": "Andreu Buenafuente regresa a La 1 con un programa especial tras su retirada temporal por prescripción médica",
+        "cadena": "La 1",
+        "detalle": "Vuelve con 'Reír para vivir' acompañado de Tortell Poltrona, Silvia Abril y Montserrat Tría",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/andreu-buenafuente-regresa-1-con-un-programa-especial-tras-su-retirada-temporal-por-prescripcion-medica_7061839_0.html"
+      },
+      {
+        "titular": "Ángel Martín vuelve a la televisión con 'Somos monos', un especial de humor que llegará próximamente a Movistar Plus",
+        "cadena": "Movistar Plus",
+        "detalle": "Espectáculo sobre dependencias digitales del día a día",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/angel-martin-vuelve-television-con-somos-monos-un-especial-humor-que-llegara-proximamente-movistar-plus_7062219_0.html"
+      },
+      {
+        "titular": "Estos son los concursantes confirmados de 'GH VIP 9': periodistas, excolaboradores de 'Sálvame', políticas...",
+        "cadena": "Telecinco",
+        "detalle": "Arturo Requejo, Karmele Marchante, Paloma González, Pipi Estrada, Katrin Ortega y Robert Mendoza confirmados",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/estos-son-los-concursantes-confirmados-gh-vip-9-periodistas-excolaboradores-salvame-politicas_7059231_0.html"
+      }
+    ],
+    "deportes": [
+      {
+        "titular": "FUTBOL:UEFA NATIONS LEAGUE (La1) es lo más visto de ayer gracias a 6.506.000 espectadores como promedio y el 44,1 % de cuota de pantalla",
+        "cadena": "La 1",
+        "detalle": "España-Inglaterra arrasa con 44,1% y 6,5 millones de espectadores el domingo 15 de noviembre",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-15-de-noviembre-2026/"
+      }
+    ],
+    "especiales": [
+      {
+        "titular": "'La isla de las tentaciones' sube y lidera con su 'seis meses después' con un 15,3%",
+        "cadena": "Telecinco",
+        "detalle": "Especial de reencuentro tras el reality obtiene liderazgo con 15,3%",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-lunes-16-noviembre-isla-tentaciones-138778/"
+      },
+      {
+        "titular": "El debate electoral de los principales candidatos será el jueves 26, una semana después del cara a cara",
+        "cadena": "Varias",
+        "detalle": "Academia de la Televisión ofrecerá señal para múltiples cadenas interesadas",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/debate-electoral-los-principales-candidatos-sera-jueves-26-una-semana-despues-cara-cara_7061966_0.html"
+      },
+      {
+        "titular": "RTVE, Atresmedia, Mediaset y La Séptima emitirán el cara a cara entre Sánchez y Feijóo",
+        "cadena": "Varias",
+        "detalle": "Debate electoral a dos entre líderes principales confirmado en múltiples cadenas",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/rtve-atresmedia-septima-emitiran-cara-cara-entre-sanchez-feijoo_7061683_0.html"
+      },
+      {
+        "titular": "Victoria histórica en la primera edición de 'MasterChef Celebrity Legends' tras el duelo entre Flo y Santiago Segura",
+        "cadena": "La 1",
+        "detalle": "Final histórica con doble ganador, premio repartido entre dos fundaciones benéficas",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/victoria-historica-primera-edicion-masterchef-celebrity-legends-tras-duelo-entre-flo-santiago-segura-os-mereceis_7061905_0.html"
+      }
+    ],
+    "entrevistas": [
+      {
+        "titular": "Pedro Sánchez estará este lunes con Carlos Franganillo en Telecinco",
+        "cadena": "Telecinco",
+        "detalle": "Entrevista especial al presidente del Gobierno emitida el lunes a las 21h, que obtuvo 8,1% según datos posteriores en La Séptima",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/pedro-sanchez-estara-este-lunes-con-carlos-franganillo-telecinco_7061513_0.html"
+      },
+      {
+        "titular": "Carlos Franganillo repasa su entrevista a Pedro Sánchez: 'Hubo momentos demasiado tensos'",
+        "cadena": "Telecinco",
+        "detalle": "El director de Informativos Telecinco valora la entrevista al presidente con momentos tensos",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/carlos-franganillo-repasa-su-entrevista-pedro-sanchez-hubo-momentos-demasiado-tensos_7062079_0.html"
+      },
+      {
+        "titular": "Broncano comunica que no subirán los 40 minutos de la entrevista de Abascal en 'La Revuelta'",
+        "cadena": "La 1",
+        "detalle": "Polémica por entrevista editada al líder de Vox, minutos eliminados no se publicarán",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/broncano-comunica-que-no-subiran-los-40-minutos-entrevista-abascal-revuelta-no-vamos-concederles-nada_7061919_0.html"
+      }
+    ],
+    "parrilla": [
+      {
+        "titular": "Chelo García-Cortés, emocionada en su debut con Alba Carrillo en La Séptima: 'Se me va la voz'",
+        "cadena": "La Séptima",
+        "detalle": "Excolaboradora de 'Sálvame' debuta en programa de fin de semana 'Fuera de Control'",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/chelo-garcia-cortes-emocionada-su-debut-con-alba-carrillo-septima-se-me-va-voz_7061483_0.html"
+      }
+    ],
+    "records": [
+      {
+        "titular": "La 1 barre con el España - Inglaterra con un 44,1% y Sánchez marca un 8,1% en La Séptima",
+        "cadena": "La 1",
+        "detalle": "Dato extraordinario de 44,1% para partido de fútbol, La 1 cadena más vista del día con 18,4%",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-domingo-15-noviembre-espana-inglaterra-138770/"
+      },
+      {
+        "titular": "ANTENA 3 NOTICIAS 2 (Antena3) es lo más visto de ayer gracias a 2.325.000 espectadores como promedio y el 18,3 % de cuota de pantalla",
+        "cadena": "Antena 3",
+        "detalle": "Antena 3 cadena más vista del lunes 16 con 13,9%, sus noticias lideran la noche",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-16-de-noviembre-2026/"
+      }
+    ]
+  }
+}
