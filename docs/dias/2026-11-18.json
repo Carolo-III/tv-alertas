@@ -1,0 +1,95 @@
+{
+  "fecha": "2026-11-18",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "Semana marcada por el debate Sánchez-Feijóo del 19N, regreso de GH VIP 9, y buen rendimiento de La isla de las tentaciones y La cena de los idiotas",
+  "alertas": {
+    "estrenos": [
+      {
+        "titular": "'Gran Hermano': así nos trajo el mundo que vivimos ahora. 'Gran Hermano' regresa este miércoles 18 de noviembre al prime time de Telecinco con su edición VIP número 9",
+        "cadena": "Telecinco",
+        "detalle": "Regreso de GH VIP 9 al prime time este miércoles 18 de noviembre",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/gran-hermano-asi-nos-trajo-mundo-que-vivimos-ahora_7061881_3.html"
+      },
+      {
+        "titular": "Ángel Martín vuelve a la televisión con 'Somos monos', un especial de humor que llegará próximamente a Movistar Plus",
+        "cadena": "Movistar Plus",
+        "detalle": "Nuevo especial de humor de Ángel Martín sobre dependencias digitales",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/angel-martin-vuelve-television-con-somos-monos-un-especial-humor-que-llegara-proximamente-movistar-plus_7062219_0.html"
+      }
+    ],
+    "deportes": [],
+    "especiales": [
+      {
+        "titular": "Dos horas, cinco bloques, árbitros para controlar el reloj y séquito limitado: así se prepara el cara a cara entre Sánchez y Feijóo",
+        "cadena": "Varias",
+        "detalle": "Debate electoral Sánchez-Feijóo organizado por la Academia de Televisión el 19 de noviembre, emitido en múltiples cadenas",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/dos-horas-cinco-bloques-arbitros-para-controlar-reloj-sequito-limitado-asi-se-prepara-cara-cara-entre-sanchez-feijoo_7062674_0.html"
+      },
+      {
+        "titular": "El debate electoral de los principales candidatos será el jueves 26, una semana después del cara a cara",
+        "cadena": "Varias",
+        "detalle": "Debate multipolar programado para el 26 de noviembre con señal de la Academia de la Televisión",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/debate-electoral-los-principales-candidatos-sera-jueves-26-una-semana-despues-cara-cara_7061966_0.html"
+      },
+      {
+        "titular": "El reencuentro de 'La isla de las tentaciones 11' revela un sinfín de líos entre solteros y la situación actual de las parejas",
+        "cadena": "Telecinco",
+        "detalle": "Programa especial de reencuentro 'seis meses después' de La isla de las tentaciones",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/reencuentro-isla-las-tentaciones-11-revela-un-sinfin-lios-entre-solteros-situacion-actual-las-parejas_7061979_0.html"
+      }
+    ],
+    "entrevistas": [
+      {
+        "titular": "Susanna Griso, muy directa al comenzar su entrevista a Pedro Sánchez: '¿Qué tiene que pasar en este país para que dimita?'",
+        "cadena": "Antena 3",
+        "detalle": "Entrevista al presidente del Gobierno Pedro Sánchez por Susanna Griso",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/susanna-griso-muy-directa-comenzar-su-entrevista-pedro-sanchez-que-tiene-que-pasar-este-pais-para-que-dimita_7062528_0.html"
+      },
+      {
+        "titular": "Carlos Franganillo repasa su entrevista a Pedro Sánchez: 'Hubo momentos demasiado tensos'",
+        "cadena": "Telecinco",
+        "detalle": "El director de Informativos Telecinco valora su entrevista al presidente con momentos de tensión",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/carlos-franganillo-repasa-su-entrevista-pedro-sanchez-hubo-momentos-demasiado-tensos_7062079_0.html"
+      },
+      {
+        "titular": "Broncano comunica que no subirán los 40 minutos de la entrevista de Abascal en 'La Revuelta': 'No vamos a concederles nada'",
+        "cadena": "La 1",
+        "detalle": "Polémica por recorte de 40 minutos en entrevista a Abascal en La Revuelta",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/broncano-comunica-que-no-subiran-los-40-minutos-entrevista-abascal-revuelta-no-vamos-concederles-nada_7061919_0.html"
+      }
+    ],
+    "parrilla": [
+      {
+        "titular": "Canal Sur TV suspende 'Atrápame si puedes' tras una denuncia de acoso sexual contra Manolo Sarriá",
+        "cadena": "Canal Sur",
+        "detalle": "Cancelación inmediata del programa por denuncia de acoso sexual al presentador",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/canal-sur-tv-suspende-atrapame-si-puedes-tras-una-denuncia-acoso-sexual-contra-manolo-sarria_7062384_0.html"
+      }
+    ],
+    "records": [
+      {
+        "titular": "'La isla de las tentaciones' sube y lidera con su 'seis meses después' con un 15,3%",
+        "cadena": "Telecinco",
+        "detalle": "El programa especial 'seis meses después' logra liderazgo con 15,3% de cuota",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-lunes-16-noviembre-isla-tentaciones-138778/"
+      },
+      {
+        "titular": "'La cena de los idiotas' sigue por encima del millón y 'El debate de las tentaciones' pincha",
+        "cadena": "La 1",
+        "detalle": "La cena de los idiotas mantiene más de un millón de espectadores en su emisión del martes",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-martes-17-noviembre-cena-idiotas-138787/"
+      }
+    ]
+  }
+}
