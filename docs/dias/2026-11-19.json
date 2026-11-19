@@ -1,0 +1,87 @@
+{
+  "fecha": "2026-11-19",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "GH VIP 9 se estrena con éxito liderando con 15,7%, debate Sánchez-Feijóo programado para hoy, y presentadores Campanadas Telemadrid confirmados",
+  "alertas": {
+    "estrenos": [
+      {
+        "titular": "'GH VIP 9' se estrena líder en Telecinco con un 15,7% sin llegar al millón",
+        "cadena": "Telecinco",
+        "detalle": "Estreno de GH VIP 9 con formato 'salvamizado' lidera la noche con 15,7% y remonta respecto a la edición anterior",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-miercoles-18-noviembre-estreno-ghvip-9-138792/"
+      },
+      {
+        "titular": "El regreso de 'Celeste' a Movistar Plus: imposible no emocionarse",
+        "cadena": "",
+        "detalle": "Regreso de la serie 'Celeste' a Movistar Plus con un retrato realista y sensible",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/regreso-celeste-movistar-plus-imposible-no-emocionarse_7062360_3.html"
+      }
+    ],
+    "deportes": [],
+    "especiales": [
+      {
+        "titular": "Dos horas, cinco bloques, árbitros para controlar el reloj y séquito limitado: así se prepara el cara a cara entre Sánchez y Feijóo",
+        "cadena": "Varias",
+        "detalle": "Debate electoral entre Pedro Sánchez y Feijóo organizado por la Academia de Televisión para el 19 de noviembre, emitido por múltiples cadenas",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/dos-horas-cinco-bloques-arbitros-para-controlar-reloj-sequito-limitado-asi-se-prepara-cara-cara-entre-sanchez-feijoo_7062674_0.html"
+      },
+      {
+        "titular": "Quién es María Casado y qué papel tendrá como moderadora del debate entre Pedro Sánchez y Feijóo",
+        "cadena": "Varias",
+        "detalle": "María Casado será la moderadora del debate electoral del 19 de noviembre",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/quien-es-maria-casado-papel-tendra-como-moderadora-debate-entre-pedro-sanchez-feijoo_7063058_0.html"
+      },
+      {
+        "titular": "'La cena de los idiotas' sigue por encima del millón y 'El debate de las tentaciones' pincha",
+        "cadena": "Telecinco",
+        "detalle": "Programa especial 'La cena de los idiotas' mantiene buen rendimiento mientras 'El debate de las tentaciones' baja",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-martes-17-noviembre-cena-idiotas-138787/"
+      }
+    ],
+    "entrevistas": [],
+    "parrilla": [
+      {
+        "titular": "Christian Gálvez y Patricia Pérez presentarán las Campanadas 2027 en Telemadrid",
+        "cadena": "Telemadrid",
+        "detalle": "Confirmada la pareja presentadora de las Campanadas de fin de año en la autonómica madrileña",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/christian-galvez-patricia-perez-presentaran-las-campanadas-2027-telemadrid_7063094_0.html"
+      },
+      {
+        "titular": "'Zapeando' celebra su 13 cumpleaños con una actuación musical: '¡Y aún nos quedan muchos más!'",
+        "cadena": "laSexta",
+        "detalle": "El programa Zapeando celebra 13 años en antena con actuación musical especial",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/zapeando-celebra-su-13-cumpleanos-con-una-actuacion-musical-aun-nos-quedan-muchos-mas_7062764_0.html"
+      },
+      {
+        "titular": "El Benidorm Fest abre la venta de entradas de su próxima edición: estos son los precios para ver las semifinales y la final",
+        "cadena": "La 1",
+        "detalle": "Anuncio de venta de entradas para Benidorm Fest con precios entre 40 y 75 euros",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/benidorm-fest-abre-venta-entradas-su-proxima-edicion-estos-son-los-precios-para-ver-las-semifinales-final_7062710_0.html"
+      }
+    ],
+    "records": [
+      {
+        "titular": "ANTENA 3 NOTICIAS 2 es lo más visto con 2.160.000 espectadores y 18,1% (18 noviembre)",
+        "cadena": "Antena 3",
+        "detalle": "Antena 3 lidera el día con su telediario y se mantiene como cadena más vista con 13,8% de cuota",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-18-de-noviembre-2026/"
+      },
+      {
+        "titular": "ANTENA 3 NOTICIAS 2 es lo más visto con 2.181.000 espectadores y 17,9% (17 noviembre)",
+        "cadena": "Antena 3",
+        "detalle": "Antena 3 lidera también el martes con su telediario y cuota diaria de 13,9%",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-17-de-noviembre-2026/"
+      }
+    ]
+  }
+}
