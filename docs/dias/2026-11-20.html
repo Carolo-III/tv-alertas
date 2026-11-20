@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang='es'>
+<head>
+<meta charset='UTF-8'>
+<meta name='viewport' content='width=device-width, initial-scale=1.0'>
+<title>TV Alertas — Viernes 20 de noviembre de 2026</title>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=DM+Sans:wght@300;400;500;600&display=swap');
+
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+:root {
+  --bg: #0a0a0b;
+  --bg2: #111113;
+  --bg3: #1a1a1d;
+  --border: #2a2a2e;
+  --text: #e8e8ec;
+  --text-muted: #6b6b78;
+  --accent: #e8c547;
+}
+
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: 'DM Sans', sans-serif;
+  font-size: 15px;
+  line-height: 1.6;
+  min-height: 100vh;
+}
+
+.site-header {
+  border-bottom: 1px solid var(--border);
+  padding: 20px 32px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  position: sticky;
+  top: 0;
+  background: rgba(10,10,11,0.95);
+  backdrop-filter: blur(8px);
+  z-index: 100;
+}
+
+.site-title {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 24px;
+  letter-spacing: 2px;
+  color: var(--accent);
+}
+
+.site-subtitle {
+  font-size: 12px;
+  color: var(--text-muted);
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+
+.nav-link {
+  color: var(--text-muted);
+  text-decoration: none;
+  font-size: 13px;
+  letter-spacing: 0.5px;
+  transition: color 0.2s;
+}
+.nav-link:hover { color: var(--accent); }
+
+main { max-width: 900px; margin: 0 auto; padding: 40px 24px; }
+
+.fecha-display {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 48px;
+  letter-spacing: 3px;
+  color: var(--text);
+  margin-bottom: 4px;
+}
+
+.resumen-ejecutivo {
+  font-size: 16px;
+  color: var(--text-muted);
+  margin-bottom: 40px;
+  padding-left: 16px;
+  border-left: 3px solid var(--accent);
+}
+
+.sin-alertas {
+  text-align: center;
+  padding: 80px 24px;
+  color: var(--text-muted);
+}
+
+.sin-alertas .icon { font-size: 48px; margin-bottom: 16px; }
+.sin-alertas h2 { font-family: 'Bebas Neue', sans-serif; font-size: 28px; letter-spacing: 2px; margin-bottom: 8px; color: var(--text); }
+
+.categoria-bloque { margin-bottom: 40px; }
+
+.categoria-header {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 16px;
+  padding-bottom: 8px;
+  border-bottom: 1px solid var(--border);
+}
+
+.categoria-icon { font-size: 20px; }
+
+.categoria-label {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 20px;
+  letter-spacing: 2px;
+}
+
+.categoria-count {
+  font-size: 12px;
+  padding: 2px 8px;
+  border-radius: 12px;
+  background: var(--bg3);
+  color: var(--text-muted);
+  font-weight: 500;
+}
+
+.alerta-card {
+  background: var(--bg2);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 16px 20px;
+  margin-bottom: 10px;
+  border-left: 3px solid transparent;
+  transition: border-color 0.2s, background 0.2s;
+}
+
+.alerta-card:hover { background: var(--bg3); }
+
+.alerta-titular {
+  font-weight: 600;
+  font-size: 15px;
+  margin-bottom: 4px;
+  color: var(--text);
+}
+
+.alerta-detalle {
+  font-size: 13px;
+  color: var(--text-muted);
+  margin-bottom: 6px;
+}
+
+.alerta-meta {
+  display: flex;
+  gap: 12px;
+  font-size: 12px;
+}
+
+.badge-cadena {
+  background: var(--bg3);
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  padding: 1px 7px;
+  color: var(--text-muted);
+}
+
+.badge-fuente { color: var(--text-muted); font-style: italic; }
+
+.alerta-link {
+  color: var(--text);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: border-color 0.2s, color 0.2s;
+}
+.alerta-link:hover { color: var(--accent); border-bottom-color: var(--accent); }
+
+.historico-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 12px;
+  margin-top: 24px;
+}
+
+.dia-card {
+  background: var(--bg2);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 16px;
+  text-decoration: none;
+  display: block;
+  transition: border-color 0.2s, background 0.2s;
+}
+
+.dia-card:hover { background: var(--bg3); border-color: var(--accent); }
+
+.dia-fecha {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 18px;
+  letter-spacing: 1px;
+  color: var(--text);
+  margin-bottom: 4px;
+}
+
+.dia-alertas { font-size: 12px; color: var(--text-muted); }
+
+.dia-dot {
+  display: inline-block;
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: var(--accent);
+  margin-right: 6px;
+  vertical-align: middle;
+}
+
+.dia-sin-alertas .dia-dot { background: var(--border); }
+
+footer {
+  border-top: 1px solid var(--border);
+  padding: 20px 32px;
+  text-align: center;
+  font-size: 12px;
+  color: var(--text-muted);
+  letter-spacing: 0.5px;
+}
+</style>
+</head>
+<body>
+<header class="site-header"><div><div class="site-title">TV ALERTAS</div><div class="site-subtitle">Monitor de televisión española</div></div><a href="../index.html" class="nav-link">← Histórico</a></header>
+<main>
+<div class="fecha-display">VIERNES 20 DE NOVIEMBRE DE 2026</div>
+<div class="resumen-ejecutivo">Debate electoral Sánchez-Feijóo arrasa con 10,2 millones y 70,8% de share; GH VIP 9 se estrena líder con 15,7%; cancelado 'Al cielo con ella' de Henar Álvarez en RTVE</div>
+<div class="categoria-bloque"><div class="categoria-header"><span class="categoria-icon">🎬</span><span class="categoria-label" style="color:#e8c547">Estrenos</span><span class="categoria-count">1</span></div><div class="alerta-card" style="border-left-color:#e8c547"><div class="alerta-titular"><a href="https://www.20minutos.es/television/estreno-gh-vip-9-lidera-su-estreno-salvamizado-remonta-respecto-anterior-edicion_7063000_0.html" target="_blank" rel="noopener" class="alerta-link">El estreno de 'GH VIP 9' lidera en su regreso 'salvamizado' y remonta respecto a la anterior edición</a></div><div class='alerta-detalle'>Estreno líder con 15,7% de share sin llegar al millón de espectadores, remonta respecto a edición anterior</div><div class="alerta-meta"><span class='badge-cadena'>Telecinco</span><span class='badge-fuente'>Fórmula TV / 20minutos</span></div></div></div><div class="categoria-bloque"><div class="categoria-header"><span class="categoria-icon">⭐</span><span class="categoria-label" style="color:#e847a3">Especiales / Galas</span><span class="categoria-count">3</span></div><div class="alerta-card" style="border-left-color:#e847a3"><div class="alerta-titular"><a href="https://barloventocomunicacion.es/informes-barlovento/audiencia-debate-electoral-sanchez-feijoo/" target="_blank" rel="noopener" class="alerta-link">El Debate Sánchez-Feijóo, emitido en simulcast por 20 cadenas, es visto por 10,2 millones de personas, con un 70,8% de cuota de pantalla y 16 millones de espectadores únicos</a></div><div class='alerta-detalle'>Debate electoral en 20 cadenas nacionales y autonómicas. Antena 3 líder con 2,456 millones (17,1%). Cara a cara desde Academia de la Televisión</div><div class="alerta-meta"><span class='badge-cadena'>Varias</span><span class='badge-fuente'>Barlovento / 20minutos</span></div></div><div class="alerta-card" style="border-left-color:#e847a3"><div class="alerta-titular"><a href="https://barloventocomunicacion.es/audiencias-diarias/audiencias-19-de-noviembre-2026/" target="_blank" rel="noopener" class="alerta-link">CARA A CARA.26 (Antena3) es lo más visto de ayer gracias a 2.461.000 espectadores como promedio y el 17,1 % de cuota de pantalla</a></div><div class='alerta-detalle'>El debate electoral en Antena 3 fue lo más visto del día 19 de noviembre</div><div class="alerta-meta"><span class='badge-cadena'>Antena 3</span><span class='badge-fuente'>Barlovento</span></div></div><div class="alerta-card" style="border-left-color:#e847a3"><div class="alerta-titular"><a href="https://www.formulatv.com/noticias/audiencias-jueves-19-noviembre-horizonte-valles-138803/" target="_blank" rel="noopener" class="alerta-link">'Horizonte' y el especial con Vicente Vallés lideran tras el cara a cara de Sánchez y Feijóo</a></div><div class='alerta-detalle'>Especial post-debate con Vicente Vallés lidera la noche tras el cara a cara electoral</div><div class="alerta-meta"><span class='badge-cadena'>Antena 3</span><span class='badge-fuente'>Fórmula TV</span></div></div></div><div class="categoria-bloque"><div class="categoria-header"><span class="categoria-icon">🎙️</span><span class="categoria-label" style="color:#a347e8">Entrevistas</span><span class="categoria-count">3</span></div><div class="alerta-card" style="border-left-color:#a347e8"><div class="alerta-titular"><a href="https://www.20minutos.es/television/pedro-sanchez-ha-grabado-ya-una-charla-con-plex-que-comparten-espacio_7063690_0.html" target="_blank" rel="noopener" class="alerta-link">Pedro Sánchez ha grabado ya una charla con Plex en la que 'comparten espacio'</a></div><div class='alerta-detalle'>Presidente del Gobierno graba entrevista/charla con Plex durante campaña electoral</div><div class="alerta-meta"><span class='badge-fuente'>20minutos</span></div></div><div class="alerta-card" style="border-left-color:#a347e8"><div class="alerta-titular"><a href="https://www.20minutos.es/television/feijoo-grabara-una-conversacion-con-plex-ultima-semana-campana_7063615_0.html" target="_blank" rel="noopener" class="alerta-link">Feijóo grabará una conversación con Plex en la última semana de campaña</a></div><div class='alerta-detalle'>Líder del PP grabará conversación con Plex en la recta final de campaña electoral</div><div class="alerta-meta"><span class='badge-fuente'>20minutos</span></div></div><div class="alerta-card" style="border-left-color:#a347e8"><div class="alerta-titular"><a href="https://www.20minutos.es/television/silvia-intxaurrondo-invita-sanchez-feijoo-abascal-colau-su-programa-pero-solo-han-confirmado-mitad_7063512_0.html" target="_blank" rel="noopener" class="alerta-link">Silvia Intxaurrondo invita a Sánchez, Feijóo, Abascal y Colau a su programa, pero solo 'han confirmado la mitad'</a></div><div class='alerta-detalle'>Programa electoral con líderes políticos, confirmados solo la mitad de los invitados</div><div class="alerta-meta"><span class='badge-cadena'>La Sexta</span><span class='badge-fuente'>20minutos</span></div></div></div><div class="categoria-bloque"><div class="categoria-header"><span class="categoria-icon">📋</span><span class="categoria-label" style="color:#e87347">Cambios de parrilla</span><span class="categoria-count">4</span></div><div class="alerta-card" style="border-left-color:#e87347"><div class="alerta-titular"><a href="https://www.20minutos.es/television/henar-alvarez-anuncia-cancelacion-cielo-con-ella-rtve-no-tiene-nada-que-ver-con-las-elecciones_7063475_0.html" target="_blank" rel="noopener" class="alerta-link">Henar Álvarez anuncia la cancelación de 'Al cielo con ella' en RTVE, que seguirá contando con ella: 'No tiene que ver con las elecciones'</a></div><div class='alerta-detalle'>Cancelado el late show tras su reciente traslado de La 1 a La 2. RTVE seguirá contando con la presentadora</div><div class="alerta-meta"><span class='badge-cadena'>La 1 / La 2</span><span class='badge-fuente'>20minutos</span></div></div><div class="alerta-card" style="border-left-color:#e87347"><div class="alerta-titular"><a href="https://www.20minutos.es/television/junta-electoral-rechaza-peticion-vox-para-que-revuelta-emita-toda-entrevista-abascal_7063369_0.html" target="_blank" rel="noopener" class="alerta-link">La Junta Electoral rechaza la petición de Vox para que 'La Revuelta' emita toda la entrevista de Abascal</a></div><div class='alerta-detalle'>Polémica por edición de entrevista a Abascal en La Revuelta durante campaña. JEC defiende autonomía editorial</div><div class="alerta-meta"><span class='badge-cadena'>La 1</span><span class='badge-fuente'>20minutos</span></div></div><div class="alerta-card" style="border-left-color:#e87347"><div class="alerta-titular"><a href="https://www.20minutos.es/television/ion-aramendi-maria-lamela-daran-las-campanadas-para-telecinco-cuatro-desde-plaza-obradoiro_7063697_0.html" target="_blank" rel="noopener" class="alerta-link">Ion Aramendi y María Lamela darán las Campanadas para Telecinco y Cuatro desde la Plaza del Obradoiro</a></div><div class='alerta-detalle'>Anuncio de presentadores para Campanadas 2026/2027 desde Santiago de Compostela</div><div class="alerta-meta"><span class='badge-cadena'>Telecinco / Cuatro</span><span class='badge-fuente'>20minutos</span></div></div><div class="alerta-card" style="border-left-color:#e87347"><div class="alerta-titular"><a href="https://www.20minutos.es/television/christian-galvez-patricia-perez-presentaran-las-campanadas-2027-telemadrid_7063094_0.html" target="_blank" rel="noopener" class="alerta-link">Christian Gálvez y Patricia Pérez presentarán las Campanadas 2027 en Telemadrid</a></div><div class='alerta-detalle'>Anuncio de presentadores para Campanadas en la autonómica madrileña</div><div class="alerta-meta"><span class='badge-cadena'>Telemadrid</span><span class='badge-fuente'>20minutos</span></div></div></div><div class="categoria-bloque"><div class="categoria-header"><span class="categoria-icon">📊</span><span class="categoria-label" style="color:#47e87e">Récords</span><span class="categoria-count">2</span></div><div class="alerta-card" style="border-left-color:#47e87e"><div class="alerta-titular"><a href="https://barloventocomunicacion.es/informes-barlovento/audiencia-debate-electoral-sanchez-feijoo/" target="_blank" rel="noopener" class="alerta-link">El Debate Sánchez-Feijóo reúne 10,2 millones de espectadores y 70,8% de share con 16 millones de espectadores únicos</a></div><div class='alerta-detalle'>Dato extraordinario de audiencia para debate electoral emitido simultáneamente en 20 cadenas</div><div class="alerta-meta"><span class='badge-cadena'>Varias</span><span class='badge-fuente'>Barlovento</span></div></div><div class="alerta-card" style="border-left-color:#47e87e"><div class="alerta-titular"><a href="https://barloventocomunicacion.es/audiencias-diarias/audiencias-19-de-noviembre-2026/" target="_blank" rel="noopener" class="alerta-link">Antena3 es la cadena más vista del día gracias al 14,6 % de cuota de pantalla</a></div><div class='alerta-detalle'>Liderazgo diario impulsado por el debate electoral del 19 de noviembre</div><div class="alerta-meta"><span class='badge-cadena'>Antena 3</span><span class='badge-fuente'>Barlovento</span></div></div></div>
+</main>
+<footer>Generado automáticamente · Fuentes: Barlovento, Fórmula TV, Vertele, DOS30</footer>
+</body>
+</html>

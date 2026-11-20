@@ -1,0 +1,109 @@
+{
+  "fecha": "2026-11-20",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "Debate electoral Sánchez-Feijóo arrasa con 10,2 millones y 70,8% de share; GH VIP 9 se estrena líder con 15,7%; cancelado 'Al cielo con ella' de Henar Álvarez en RTVE",
+  "alertas": {
+    "estrenos": [
+      {
+        "titular": "El estreno de 'GH VIP 9' lidera en su regreso 'salvamizado' y remonta respecto a la anterior edición",
+        "cadena": "Telecinco",
+        "detalle": "Estreno líder con 15,7% de share sin llegar al millón de espectadores, remonta respecto a edición anterior",
+        "fuente": "Fórmula TV / 20minutos",
+        "url": "https://www.20minutos.es/television/estreno-gh-vip-9-lidera-su-estreno-salvamizado-remonta-respecto-anterior-edicion_7063000_0.html"
+      }
+    ],
+    "deportes": [],
+    "especiales": [
+      {
+        "titular": "El Debate Sánchez-Feijóo, emitido en simulcast por 20 cadenas, es visto por 10,2 millones de personas, con un 70,8% de cuota de pantalla y 16 millones de espectadores únicos",
+        "cadena": "Varias",
+        "detalle": "Debate electoral en 20 cadenas nacionales y autonómicas. Antena 3 líder con 2,456 millones (17,1%). Cara a cara desde Academia de la Televisión",
+        "fuente": "Barlovento / 20minutos",
+        "url": "https://barloventocomunicacion.es/informes-barlovento/audiencia-debate-electoral-sanchez-feijoo/"
+      },
+      {
+        "titular": "CARA A CARA.26 (Antena3) es lo más visto de ayer gracias a 2.461.000 espectadores como promedio y el 17,1 % de cuota de pantalla",
+        "cadena": "Antena 3",
+        "detalle": "El debate electoral en Antena 3 fue lo más visto del día 19 de noviembre",
+        "fuente": "Barlovento",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-19-de-noviembre-2026/"
+      },
+      {
+        "titular": "'Horizonte' y el especial con Vicente Vallés lideran tras el cara a cara de Sánchez y Feijóo",
+        "cadena": "Antena 3",
+        "detalle": "Especial post-debate con Vicente Vallés lidera la noche tras el cara a cara electoral",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-jueves-19-noviembre-horizonte-valles-138803/"
+      }
+    ],
+    "entrevistas": [
+      {
+        "titular": "Pedro Sánchez ha grabado ya una charla con Plex en la que 'comparten espacio'",
+        "cadena": "",
+        "detalle": "Presidente del Gobierno graba entrevista/charla con Plex durante campaña electoral",
+        "fuente": "20minutos",
+        "url": "https://www.20minutos.es/television/pedro-sanchez-ha-grabado-ya-una-charla-con-plex-que-comparten-espacio_7063690_0.html"
+      },
+      {
+        "titular": "Feijóo grabará una conversación con Plex en la última semana de campaña",
+        "cadena": "",
+        "detalle": "Líder del PP grabará conversación con Plex en la recta final de campaña electoral",
+        "fuente": "20minutos",
+        "url": "https://www.20minutos.es/television/feijoo-grabara-una-conversacion-con-plex-ultima-semana-campana_7063615_0.html"
+      },
+      {
+        "titular": "Silvia Intxaurrondo invita a Sánchez, Feijóo, Abascal y Colau a su programa, pero solo 'han confirmado la mitad'",
+        "cadena": "La Sexta",
+        "detalle": "Programa electoral con líderes políticos, confirmados solo la mitad de los invitados",
+        "fuente": "20minutos",
+        "url": "https://www.20minutos.es/television/silvia-intxaurrondo-invita-sanchez-feijoo-abascal-colau-su-programa-pero-solo-han-confirmado-mitad_7063512_0.html"
+      }
+    ],
+    "parrilla": [
+      {
+        "titular": "Henar Álvarez anuncia la cancelación de 'Al cielo con ella' en RTVE, que seguirá contando con ella: 'No tiene que ver con las elecciones'",
+        "cadena": "La 1 / La 2",
+        "detalle": "Cancelado el late show tras su reciente traslado de La 1 a La 2. RTVE seguirá contando con la presentadora",
+        "fuente": "20minutos",
+        "url": "https://www.20minutos.es/television/henar-alvarez-anuncia-cancelacion-cielo-con-ella-rtve-no-tiene-nada-que-ver-con-las-elecciones_7063475_0.html"
+      },
+      {
+        "titular": "La Junta Electoral rechaza la petición de Vox para que 'La Revuelta' emita toda la entrevista de Abascal",
+        "cadena": "La 1",
+        "detalle": "Polémica por edición de entrevista a Abascal en La Revuelta durante campaña. JEC defiende autonomía editorial",
+        "fuente": "20minutos",
+        "url": "https://www.20minutos.es/television/junta-electoral-rechaza-peticion-vox-para-que-revuelta-emita-toda-entrevista-abascal_7063369_0.html"
+      },
+      {
+        "titular": "Ion Aramendi y María Lamela darán las Campanadas para Telecinco y Cuatro desde la Plaza del Obradoiro",
+        "cadena": "Telecinco / Cuatro",
+        "detalle": "Anuncio de presentadores para Campanadas 2026/2027 desde Santiago de Compostela",
+        "fuente": "20minutos",
+        "url": "https://www.20minutos.es/television/ion-aramendi-maria-lamela-daran-las-campanadas-para-telecinco-cuatro-desde-plaza-obradoiro_7063697_0.html"
+      },
+      {
+        "titular": "Christian Gálvez y Patricia Pérez presentarán las Campanadas 2027 en Telemadrid",
+        "cadena": "Telemadrid",
+        "detalle": "Anuncio de presentadores para Campanadas en la autonómica madrileña",
+        "fuente": "20minutos",
+        "url": "https://www.20minutos.es/television/christian-galvez-patricia-perez-presentaran-las-campanadas-2027-telemadrid_7063094_0.html"
+      }
+    ],
+    "records": [
+      {
+        "titular": "El Debate Sánchez-Feijóo reúne 10,2 millones de espectadores y 70,8% de share con 16 millones de espectadores únicos",
+        "cadena": "Varias",
+        "detalle": "Dato extraordinario de audiencia para debate electoral emitido simultáneamente en 20 cadenas",
+        "fuente": "Barlovento",
+        "url": "https://barloventocomunicacion.es/informes-barlovento/audiencia-debate-electoral-sanchez-feijoo/"
+      },
+      {
+        "titular": "Antena3 es la cadena más vista del día gracias al 14,6 % de cuota de pantalla",
+        "cadena": "Antena 3",
+        "detalle": "Liderazgo diario impulsado por el debate electoral del 19 de noviembre",
+        "fuente": "Barlovento",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-19-de-noviembre-2026/"
+      }
+    ]
+  }
+}
