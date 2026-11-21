@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang='es'>
+<head>
+<meta charset='UTF-8'>
+<meta name='viewport' content='width=device-width, initial-scale=1.0'>
+<title>TV Alertas — Sábado 21 de noviembre de 2026</title>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=DM+Sans:wght@300;400;500;600&display=swap');
+
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+:root {
+  --bg: #0a0a0b;
+  --bg2: #111113;
+  --bg3: #1a1a1d;
+  --border: #2a2a2e;
+  --text: #e8e8ec;
+  --text-muted: #6b6b78;
+  --accent: #e8c547;
+}
+
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: 'DM Sans', sans-serif;
+  font-size: 15px;
+  line-height: 1.6;
+  min-height: 100vh;
+}
+
+.site-header {
+  border-bottom: 1px solid var(--border);
+  padding: 20px 32px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  position: sticky;
+  top: 0;
+  background: rgba(10,10,11,0.95);
+  backdrop-filter: blur(8px);
+  z-index: 100;
+}
+
+.site-title {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 24px;
+  letter-spacing: 2px;
+  color: var(--accent);
+}
+
+.site-subtitle {
+  font-size: 12px;
+  color: var(--text-muted);
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+
+.nav-link {
+  color: var(--text-muted);
+  text-decoration: none;
+  font-size: 13px;
+  letter-spacing: 0.5px;
+  transition: color 0.2s;
+}
+.nav-link:hover { color: var(--accent); }
+
+main { max-width: 900px; margin: 0 auto; padding: 40px 24px; }
+
+.fecha-display {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 48px;
+  letter-spacing: 3px;
+  color: var(--text);
+  margin-bottom: 4px;
+}
+
+.resumen-ejecutivo {
+  font-size: 16px;
+  color: var(--text-muted);
+  margin-bottom: 40px;
+  padding-left: 16px;
+  border-left: 3px solid var(--accent);
+}
+
+.sin-alertas {
+  text-align: center;
+  padding: 80px 24px;
+  color: var(--text-muted);
+}
+
+.sin-alertas .icon { font-size: 48px; margin-bottom: 16px; }
+.sin-alertas h2 { font-family: 'Bebas Neue', sans-serif; font-size: 28px; letter-spacing: 2px; margin-bottom: 8px; color: var(--text); }
+
+.categoria-bloque { margin-bottom: 40px; }
+
+.categoria-header {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 16px;
+  padding-bottom: 8px;
+  border-bottom: 1px solid var(--border);
+}
+
+.categoria-icon { font-size: 20px; }
+
+.categoria-label {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 20px;
+  letter-spacing: 2px;
+}
+
+.categoria-count {
+  font-size: 12px;
+  padding: 2px 8px;
+  border-radius: 12px;
+  background: var(--bg3);
+  color: var(--text-muted);
+  font-weight: 500;
+}
+
+.alerta-card {
+  background: var(--bg2);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 16px 20px;
+  margin-bottom: 10px;
+  border-left: 3px solid transparent;
+  transition: border-color 0.2s, background 0.2s;
+}
+
+.alerta-card:hover { background: var(--bg3); }
+
+.alerta-titular {
+  font-weight: 600;
+  font-size: 15px;
+  margin-bottom: 4px;
+  color: var(--text);
+}
+
+.alerta-detalle {
+  font-size: 13px;
+  color: var(--text-muted);
+  margin-bottom: 6px;
+}
+
+.alerta-meta {
+  display: flex;
+  gap: 12px;
+  font-size: 12px;
+}
+
+.badge-cadena {
+  background: var(--bg3);
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  padding: 1px 7px;
+  color: var(--text-muted);
+}
+
+.badge-fuente { color: var(--text-muted); font-style: italic; }
+
+.alerta-link {
+  color: var(--text);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: border-color 0.2s, color 0.2s;
+}
+.alerta-link:hover { color: var(--accent); border-bottom-color: var(--accent); }
+
+.historico-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 12px;
+  margin-top: 24px;
+}
+
+.dia-card {
+  background: var(--bg2);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 16px;
+  text-decoration: none;
+  display: block;
+  transition: border-color 0.2s, background 0.2s;
+}
+
+.dia-card:hover { background: var(--bg3); border-color: var(--accent); }
+
+.dia-fecha {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 18px;
+  letter-spacing: 1px;
+  color: var(--text);
+  margin-bottom: 4px;
+}
+
+.dia-alertas { font-size: 12px; color: var(--text-muted); }
+
+.dia-dot {
+  display: inline-block;
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: var(--accent);
+  margin-right: 6px;
+  vertical-align: middle;
+}
+
+.dia-sin-alertas .dia-dot { background: var(--border); }
+
+footer {
+  border-top: 1px solid var(--border);
+  padding: 20px 32px;
+  text-align: center;
+  font-size: 12px;
+  color: var(--text-muted);
+  letter-spacing: 0.5px;
+}
+</style>
+</head>
+<body>
+<header class="site-header"><div><div class="site-title">TV ALERTAS</div><div class="site-subtitle">Monitor de televisión española</div></div><a href="../index.html" class="nav-link">← Histórico</a></header>
+<main>
+<div class="fecha-display">SÁBADO 21 DE NOVIEMBRE DE 2026</div>
+<div class="resumen-ejecutivo">El debate electoral Sánchez-Feijóo arrasa con 10,2 millones y 70,8% de share en 20 cadenas; Antena 3 lidera con 2,5M; la campaña electoral domina la programación con especiales, entrevistas y cambios de parrilla</div>
+<div class="categoria-bloque"><div class="categoria-header"><span class="categoria-icon">🎬</span><span class="categoria-label" style="color:#e8c547">Estrenos</span><span class="categoria-count">2</span></div><div class="alerta-card" style="border-left-color:#e8c547"><div class="alerta-titular"><a href="https://www.20minutos.es/television/septima-estrenara-documental-pedro-sanchez-moncloa-cuatro-estaciones-ninguna-television-abierto-emitio_7063945_0.html" target="_blank" rel="noopener" class="alerta-link">La Séptima estrenará el documental sobre Pedro Sánchez 'Moncloa: Cuatro estaciones', que ninguna televisión en abierto emitió</a></div><div class='alerta-detalle'>Documental de 4 capítulos sobre Sánchez, rodado entre febrero 2022 y marzo 2023, llega a La Séptima tras ser rechazado por cadenas en abierto</div><div class="alerta-meta"><span class='badge-cadena'>La Séptima</span><span class='badge-fuente'>20minutos TV</span></div></div><div class="alerta-card" style="border-left-color:#e8c547"><div class="alerta-titular"><a href="https://www.20minutos.es/television/marta-lopez-muy-critica-con-belen-esteban-tras-su-reencuentro-con-jorge-javier-vazquez-no-se-pone-igual-chula-que-con-chayo_7063876_0.html" target="_blank" rel="noopener" class="alerta-link">El estreno de GH VIP 9 con reencuentro de Belén Esteban y Jorge Javier Vázquez</a></div><div class='alerta-detalle'>Nueva edición de GH VIP arrancó el miércoles, primer reencuentro de Belén con Jorge Javier tras 3 años de la cancelación de Sálvame</div><div class="alerta-meta"><span class='badge-cadena'>Telecinco</span><span class='badge-fuente'>20minutos TV</span></div></div></div><div class="categoria-bloque"><div class="categoria-header"><span class="categoria-icon">⭐</span><span class="categoria-label" style="color:#e847a3">Especiales / Galas</span><span class="categoria-count">3</span></div><div class="alerta-card" style="border-left-color:#e847a3"><div class="alerta-titular"><a href="https://barloventocomunicacion.es/informes-barlovento/audiencia-debate-electoral-sanchez-feijoo/" target="_blank" rel="noopener" class="alerta-link">Cara a Cara - Debate electoral Sánchez-Feijóo reúne 10,2 millones de espectadores y 70,8% de share</a></div><div class='alerta-detalle'>Debate electoral emitido en simulcast por 20 cadenas nacionales y autonómicas; Antena 3 lidera con 2,5M (17,1%); 16M de espectadores únicos</div><div class="alerta-meta"><span class='badge-cadena'>Varias</span><span class='badge-fuente'>Barlovento Comunicación / 20minutos TV</span></div></div><div class="alerta-card" style="border-left-color:#e847a3"><div class="alerta-titular"><a href="https://www.formulatv.com/noticias/audiencias-jueves-19-noviembre-horizonte-valles-138803/" target="_blank" rel="noopener" class="alerta-link">'Horizonte' y el especial con Vicente Vallés lideran tras el cara a cara de Sánchez y Feijóo</a></div><div class='alerta-detalle'>Especial post-debate en Antena 3 con Vicente Vallés logra liderazgo el jueves 19</div><div class="alerta-meta"><span class='badge-cadena'>Antena 3</span><span class='badge-fuente'>Fórmula TV</span></div></div><div class="alerta-card" style="border-left-color:#e847a3"><div class="alerta-titular"><a href="https://www.20minutos.es/television/pedro-sanchez-salvados-cara-cara-feijoo-debate-no-jugar-como-argentina-final-mundial_7063822_0.html" target="_blank" rel="noopener" class="alerta-link">Pedro Sánchez en 'Salvados' explica su estrategia en el cara a cara: se emite el domingo 22 en plena campaña electoral</a></div><div class='alerta-detalle'>Entrevista especial de Jordi Évole a Sánchez el domingo 22/11 a las 21:30h, en ecuador de campaña del 29-N</div><div class="alerta-meta"><span class='badge-cadena'>laSexta</span><span class='badge-fuente'>20minutos TV</span></div></div></div><div class="categoria-bloque"><div class="categoria-header"><span class="categoria-icon">🎙️</span><span class="categoria-label" style="color:#a347e8">Entrevistas</span><span class="categoria-count">4</span></div><div class="alerta-card" style="border-left-color:#a347e8"><div class="alerta-titular"><a href="https://www.20minutos.es/television/reflexion-susanna-griso-sobre-su-entrevista-pedro-sanchez-le-he-vuelto-ver-un-papel-muy-aprendido-estudiado_7063842_0.html" target="_blank" rel="noopener" class="alerta-link">Entrevista de Susanna Griso a Pedro Sánchez en 'Espejo Público'</a></div><div class='alerta-detalle'>Griso reflexiona sobre entrevista al presidente: 'Le he vuelto a ver en un papel muy aprendido y estudiado'</div><div class="alerta-meta"><span class='badge-cadena'>Antena 3</span><span class='badge-fuente'>20minutos TV</span></div></div><div class="alerta-card" style="border-left-color:#a347e8"><div class="alerta-titular"><a href="https://www.20minutos.es/television/pedro-sanchez-ha-grabado-ya-una-charla-con-plex-que-comparten-espacio_7063690_0.html" target="_blank" rel="noopener" class="alerta-link">Pedro Sánchez ha grabado ya una charla con Plex en la que 'comparten espacio'</a></div><div class='alerta-detalle'>Candidato del PSOE graba encuentro con youtuber Plex durante campaña electoral</div><div class="alerta-meta"><span class='badge-fuente'>20minutos TV</span></div></div><div class="alerta-card" style="border-left-color:#a347e8"><div class="alerta-titular"><a href="https://www.20minutos.es/television/feijoo-grabara-una-conversacion-con-plex-ultima-semana-campana_7063615_0.html" target="_blank" rel="noopener" class="alerta-link">Feijóo grabará una conversación con Plex en la última semana de campaña</a></div><div class='alerta-detalle'>Candidato del PP también tendrá encuentro con youtuber Plex antes del 29-N</div><div class="alerta-meta"><span class='badge-fuente'>20minutos TV</span></div></div><div class="alerta-card" style="border-left-color:#a347e8"><div class="alerta-titular"><a href="https://www.20minutos.es/television/silvia-intxaurrondo-invita-sanchez-feijoo-abascal-colau-su-programa-pero-solo-han-confirmado-mitad_7063512_0.html" target="_blank" rel="noopener" class="alerta-link">Silvia Intxaurrondo invita a Sánchez, Feijóo, Abascal y Colau a su programa, pero solo 'han confirmado la mitad'</a></div><div class='alerta-detalle'>Programa de Intxaurrondo busca entrevistar a líderes políticos durante campaña, con confirmación parcial</div><div class="alerta-meta"><span class='badge-cadena'>La 1</span><span class='badge-fuente'>20minutos TV</span></div></div></div><div class="categoria-bloque"><div class="categoria-header"><span class="categoria-icon">📋</span><span class="categoria-label" style="color:#e87347">Cambios de parrilla</span><span class="categoria-count">4</span></div><div class="alerta-card" style="border-left-color:#e87347"><div class="alerta-titular"><a href="https://www.20minutos.es/television/hormiguero-desvela-nueva-fecha-entrevista-jordi-wild-tras-tener-que-posponerla-por-cara-cara-electoral_7063936_0.html" target="_blank" rel="noopener" class="alerta-link">'El Hormiguero' desvela la nueva fecha de la entrevista a Jordi Wild tras posponerla por el cara a cara electoral</a></div><div class='alerta-detalle'>Entrevista con youtuber grabada el 19/11 se emitirá el lunes tras ser retrasada por debate electoral</div><div class="alerta-meta"><span class='badge-cadena'>Antena 3</span><span class='badge-fuente'>20minutos TV</span></div></div><div class="alerta-card" style="border-left-color:#e87347"><div class="alerta-titular"><a href="https://www.20minutos.es/television/henar-alvarez-anuncia-cancelacion-cielo-con-ella-rtve-no-tiene-nada-que-ver-con-las-elecciones_7063475_0.html" target="_blank" rel="noopener" class="alerta-link">Henar Álvarez anuncia la cancelación de 'Al cielo con ella' en RTVE tras su traslado de La 1 a La 2</a></div><div class='alerta-detalle'>RTVE cancela el late show tras reciente cambio de cadena; última entrega ya grabada; Henar seguirá en la casa</div><div class="alerta-meta"><span class='badge-cadena'>La 2</span><span class='badge-fuente'>20minutos TV</span></div></div><div class="alerta-card" style="border-left-color:#e87347"><div class="alerta-titular"><a href="https://www.20minutos.es/television/ion-aramendi-maria-lamela-daran-las-campanadas-para-telecinco-cuatro-desde-plaza-obradoiro_7063697_0.html" target="_blank" rel="noopener" class="alerta-link">Ion Aramendi y María Lamela darán las Campanadas para Telecinco y Cuatro desde la Plaza del Obradoiro</a></div><div class='alerta-detalle'>Confirmada pareja presentadora para Fin de Año desde Santiago de Compostela</div><div class="alerta-meta"><span class='badge-cadena'>Telecinco/Cuatro</span><span class='badge-fuente'>20minutos TV</span></div></div><div class="alerta-card" style="border-left-color:#e87347"><div class="alerta-titular"><a href="https://www.20minutos.es/television/patricia-cerezo-reconoce-sus-nervios-ante-las-campanadas-agradezco-confianza-espero-hacerlo-bien_7063654_0.html" target="_blank" rel="noopener" class="alerta-link">Patricia Cerezo reconoce sus nervios ante las Campanadas con Christian Gálvez</a></div><div class='alerta-detalle'>Confirmación de Patricia Cerezo junto a Christian Gálvez para dar las Campanadas</div><div class="alerta-meta"><span class='badge-fuente'>20minutos TV</span></div></div></div><div class="categoria-bloque"><div class="categoria-header"><span class="categoria-icon">📊</span><span class="categoria-label" style="color:#47e87e">Récords</span><span class="categoria-count">3</span></div><div class="alerta-card" style="border-left-color:#47e87e"><div class="alerta-titular"><a href="https://barloventocomunicacion.es/audiencias-diarias/audiencias-20-de-noviembre-2026/" target="_blank" rel="noopener" class="alerta-link">ANTENA 3 NOTICIAS 1 es lo más visto del viernes con 1.975.000 y 22,3%; Antena 3 lidera el día con 12,9%</a></div><div class='alerta-detalle'>Informativo de mediodía arrasa el viernes 20/11 y Antena 3 gana el día</div><div class="alerta-meta"><span class='badge-cadena'>Antena 3</span><span class='badge-fuente'>Barlovento Comunicación</span></div></div><div class="alerta-card" style="border-left-color:#47e87e"><div class="alerta-titular"><a href="https://barloventocomunicacion.es/audiencias-diarias/audiencias-19-de-noviembre-2026/" target="_blank" rel="noopener" class="alerta-link">CARA A CARA.26 es lo más visto del jueves con 2.461.000 y 17,1%; Antena 3 lidera con 14,6%</a></div><div class='alerta-detalle'>Debate electoral lidera en Antena 3 el jueves 19/11; la cadena gana el día claramente</div><div class="alerta-meta"><span class='badge-cadena'>Antena 3</span><span class='badge-fuente'>Barlovento Comunicación</span></div></div><div class="alerta-card" style="border-left-color:#47e87e"><div class="alerta-titular"><a href="https://www.formulatv.com/noticias/audiencias-viernes-20-noviembre-de-viernes-la-voz-138810/" target="_blank" rel="noopener" class="alerta-link">'¡De viernes!' cae sin Belén Esteban y se ve superado por 'La Voz'</a></div><div class='alerta-detalle'>Programa de Telecinco registra caída de audiencia sin su estrella y pierde ante 'La Voz' de Antena 3</div><div class="alerta-meta"><span class='badge-cadena'>Telecinco</span><span class='badge-fuente'>Fórmula TV</span></div></div></div>
+</main>
+<footer>Generado automáticamente · Fuentes: Barlovento, Fórmula TV, Vertele, DOS30</footer>
+</body>
+</html>

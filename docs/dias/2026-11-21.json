@@ -1,0 +1,130 @@
+{
+  "fecha": "2026-11-21",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "El debate electoral Sánchez-Feijóo arrasa con 10,2 millones y 70,8% de share en 20 cadenas; Antena 3 lidera con 2,5M; la campaña electoral domina la programación con especiales, entrevistas y cambios de parrilla",
+  "alertas": {
+    "estrenos": [
+      {
+        "titular": "La Séptima estrenará el documental sobre Pedro Sánchez 'Moncloa: Cuatro estaciones', que ninguna televisión en abierto emitió",
+        "cadena": "La Séptima",
+        "detalle": "Documental de 4 capítulos sobre Sánchez, rodado entre febrero 2022 y marzo 2023, llega a La Séptima tras ser rechazado por cadenas en abierto",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/septima-estrenara-documental-pedro-sanchez-moncloa-cuatro-estaciones-ninguna-television-abierto-emitio_7063945_0.html"
+      },
+      {
+        "titular": "El estreno de GH VIP 9 con reencuentro de Belén Esteban y Jorge Javier Vázquez",
+        "cadena": "Telecinco",
+        "detalle": "Nueva edición de GH VIP arrancó el miércoles, primer reencuentro de Belén con Jorge Javier tras 3 años de la cancelación de Sálvame",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/marta-lopez-muy-critica-con-belen-esteban-tras-su-reencuentro-con-jorge-javier-vazquez-no-se-pone-igual-chula-que-con-chayo_7063876_0.html"
+      }
+    ],
+    "deportes": [],
+    "especiales": [
+      {
+        "titular": "Cara a Cara - Debate electoral Sánchez-Feijóo reúne 10,2 millones de espectadores y 70,8% de share",
+        "cadena": "Varias",
+        "detalle": "Debate electoral emitido en simulcast por 20 cadenas nacionales y autonómicas; Antena 3 lidera con 2,5M (17,1%); 16M de espectadores únicos",
+        "fuente": "Barlovento Comunicación / 20minutos TV",
+        "url": "https://barloventocomunicacion.es/informes-barlovento/audiencia-debate-electoral-sanchez-feijoo/"
+      },
+      {
+        "titular": "'Horizonte' y el especial con Vicente Vallés lideran tras el cara a cara de Sánchez y Feijóo",
+        "cadena": "Antena 3",
+        "detalle": "Especial post-debate en Antena 3 con Vicente Vallés logra liderazgo el jueves 19",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-jueves-19-noviembre-horizonte-valles-138803/"
+      },
+      {
+        "titular": "Pedro Sánchez en 'Salvados' explica su estrategia en el cara a cara: se emite el domingo 22 en plena campaña electoral",
+        "cadena": "laSexta",
+        "detalle": "Entrevista especial de Jordi Évole a Sánchez el domingo 22/11 a las 21:30h, en ecuador de campaña del 29-N",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/pedro-sanchez-salvados-cara-cara-feijoo-debate-no-jugar-como-argentina-final-mundial_7063822_0.html"
+      }
+    ],
+    "entrevistas": [
+      {
+        "titular": "Entrevista de Susanna Griso a Pedro Sánchez en 'Espejo Público'",
+        "cadena": "Antena 3",
+        "detalle": "Griso reflexiona sobre entrevista al presidente: 'Le he vuelto a ver en un papel muy aprendido y estudiado'",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/reflexion-susanna-griso-sobre-su-entrevista-pedro-sanchez-le-he-vuelto-ver-un-papel-muy-aprendido-estudiado_7063842_0.html"
+      },
+      {
+        "titular": "Pedro Sánchez ha grabado ya una charla con Plex en la que 'comparten espacio'",
+        "cadena": "",
+        "detalle": "Candidato del PSOE graba encuentro con youtuber Plex durante campaña electoral",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/pedro-sanchez-ha-grabado-ya-una-charla-con-plex-que-comparten-espacio_7063690_0.html"
+      },
+      {
+        "titular": "Feijóo grabará una conversación con Plex en la última semana de campaña",
+        "cadena": "",
+        "detalle": "Candidato del PP también tendrá encuentro con youtuber Plex antes del 29-N",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/feijoo-grabara-una-conversacion-con-plex-ultima-semana-campana_7063615_0.html"
+      },
+      {
+        "titular": "Silvia Intxaurrondo invita a Sánchez, Feijóo, Abascal y Colau a su programa, pero solo 'han confirmado la mitad'",
+        "cadena": "La 1",
+        "detalle": "Programa de Intxaurrondo busca entrevistar a líderes políticos durante campaña, con confirmación parcial",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/silvia-intxaurrondo-invita-sanchez-feijoo-abascal-colau-su-programa-pero-solo-han-confirmado-mitad_7063512_0.html"
+      }
+    ],
+    "parrilla": [
+      {
+        "titular": "'El Hormiguero' desvela la nueva fecha de la entrevista a Jordi Wild tras posponerla por el cara a cara electoral",
+        "cadena": "Antena 3",
+        "detalle": "Entrevista con youtuber grabada el 19/11 se emitirá el lunes tras ser retrasada por debate electoral",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/hormiguero-desvela-nueva-fecha-entrevista-jordi-wild-tras-tener-que-posponerla-por-cara-cara-electoral_7063936_0.html"
+      },
+      {
+        "titular": "Henar Álvarez anuncia la cancelación de 'Al cielo con ella' en RTVE tras su traslado de La 1 a La 2",
+        "cadena": "La 2",
+        "detalle": "RTVE cancela el late show tras reciente cambio de cadena; última entrega ya grabada; Henar seguirá en la casa",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/henar-alvarez-anuncia-cancelacion-cielo-con-ella-rtve-no-tiene-nada-que-ver-con-las-elecciones_7063475_0.html"
+      },
+      {
+        "titular": "Ion Aramendi y María Lamela darán las Campanadas para Telecinco y Cuatro desde la Plaza del Obradoiro",
+        "cadena": "Telecinco/Cuatro",
+        "detalle": "Confirmada pareja presentadora para Fin de Año desde Santiago de Compostela",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/ion-aramendi-maria-lamela-daran-las-campanadas-para-telecinco-cuatro-desde-plaza-obradoiro_7063697_0.html"
+      },
+      {
+        "titular": "Patricia Cerezo reconoce sus nervios ante las Campanadas con Christian Gálvez",
+        "cadena": "",
+        "detalle": "Confirmación de Patricia Cerezo junto a Christian Gálvez para dar las Campanadas",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/patricia-cerezo-reconoce-sus-nervios-ante-las-campanadas-agradezco-confianza-espero-hacerlo-bien_7063654_0.html"
+      }
+    ],
+    "records": [
+      {
+        "titular": "ANTENA 3 NOTICIAS 1 es lo más visto del viernes con 1.975.000 y 22,3%; Antena 3 lidera el día con 12,9%",
+        "cadena": "Antena 3",
+        "detalle": "Informativo de mediodía arrasa el viernes 20/11 y Antena 3 gana el día",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-20-de-noviembre-2026/"
+      },
+      {
+        "titular": "CARA A CARA.26 es lo más visto del jueves con 2.461.000 y 17,1%; Antena 3 lidera con 14,6%",
+        "cadena": "Antena 3",
+        "detalle": "Debate electoral lidera en Antena 3 el jueves 19/11; la cadena gana el día claramente",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-19-de-noviembre-2026/"
+      },
+      {
+        "titular": "'¡De viernes!' cae sin Belén Esteban y se ve superado por 'La Voz'",
+        "cadena": "Telecinco",
+        "detalle": "Programa de Telecinco registra caída de audiencia sin su estrella y pierde ante 'La Voz' de Antena 3",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-viernes-20-noviembre-de-viernes-la-voz-138810/"
+      }
+    ]
+  }
+}
