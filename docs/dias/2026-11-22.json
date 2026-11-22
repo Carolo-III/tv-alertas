@@ -1,0 +1,51 @@
+{
+  "fecha": "2026-11-22",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "Debate electoral Sánchez-Feijóo protagoniza la semana con especiales informativos liderando; caída de '¡De viernes!' sin Belén Esteban frente a 'La Voz'",
+  "alertas": {
+    "estrenos": [],
+    "deportes": [],
+    "especiales": [
+      {
+        "titular": "Cara a Cara – Debate electoral",
+        "cadena": "Varias",
+        "detalle": "Debate electoral Sánchez-Feijóo en contexto de campaña electoral, evento político de máximo seguimiento",
+        "fuente": "DOS30",
+        "url": "https://www.dos30.com/actualidad/2026/11/20/cara-a-cara-debate-electoral/"
+      },
+      {
+        "titular": "'Horizonte' y el especial con Vicente Vallés lideran tras el cara a cara de Sánchez y Feijóo",
+        "cadena": "Antena 3",
+        "detalle": "Especiales informativos post-debate electoral lideran audiencias el jueves 19 de noviembre",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-jueves-19-noviembre-horizonte-valles-138803/"
+      }
+    ],
+    "entrevistas": [
+      {
+        "titular": "Sánchez asegura en 'Salvados' que Zapatero le 'aconseja' en campaña",
+        "cadena": "laSexta",
+        "detalle": "Entrevista al presidente del Gobierno Pedro Sánchez en plena campaña electoral en 'Salvados'",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/sanchez-asegura-salvados-que-zapatero-le-aconseja-campana-pero-sin-ir-mitines-ha-decidido-por-razones-personales_7064199_0.html"
+      },
+      {
+        "titular": "Sánchez revela en 'Salvados' que decidió el fin de la legislatura comiendo con sus padres",
+        "cadena": "laSexta",
+        "detalle": "El presidente revela detalles sobre decisiones clave de Gobierno en entrevista destacada",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/sanchez-revela-salvados-que-decidio-fin-legislatura-comiendo-con-sus-padres-para-mi-su-opinion-es-muy-importante_7064102_0.html"
+      }
+    ],
+    "parrilla": [
+      {
+        "titular": "'¡De viernes!' cae sin Belén Esteban y se ve superado por 'La Voz'",
+        "cadena": "Telecinco",
+        "detalle": "Cambio en la programación habitual de '¡De viernes!' sin su colaboradora estrella, afectando resultados frente a competencia",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-viernes-20-noviembre-de-viernes-la-voz-138810/"
+      }
+    ],
+    "records": []
+  }
+}
