@@ -1,0 +1,81 @@
+{
+  "fecha": "2026-11-23",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "Salvados logra máximo de temporada con entrevista a Pedro Sánchez en plena campaña electoral, debate electoral 'Cara a Cara' programado, y cierre definitivo de 'Al cielo con ella' en TVE.",
+  "alertas": {
+    "estrenos": [
+      {
+        "titular": "'Drag Race España' anuncia su séptima temporada y abre el casting para encontrar a sus nuevas reinas",
+        "cadena": "Atresplayer",
+        "detalle": "Casting abierto desde el 23 de noviembre para la nueva temporada del formato",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/drag-race-espana-anuncia-su-septima-temporada-abre-casting-para-encontrar-sus-nuevas-reinas_7064618_0.html"
+      }
+    ],
+    "deportes": [],
+    "especiales": [
+      {
+        "titular": "Cara a Cara – Debate electoral",
+        "cadena": "Varias",
+        "detalle": "Debate electoral destacado en contexto de campaña electoral",
+        "fuente": "DOS30",
+        "url": "https://www.dos30.com/actualidad/2026/11/20/cara-a-cara-debate-electoral/"
+      },
+      {
+        "titular": "Gonzo se despide de 'Salvados' y de su equipo ante Pedro Sánchez",
+        "cadena": "laSexta",
+        "detalle": "Programa especial de despedida de Gonzo como presentador de Salvados",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/gonzo-se-despide-salvados-despidiendose-su-equipo-ante-pedro-sanchez-os-echare-menos-pero-hay-que-seguir_7064505_0.html"
+      },
+      {
+        "titular": "Henar Álvarez despide 'Al cielo con ella' entre pullas e ironía",
+        "cadena": "TVE",
+        "detalle": "Cierre definitivo del programa de Henar Álvarez en La 1",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/henar-alvarez-despide-cielo-con-ella-entre-pullas-ironia-si-no-se-consiguieran-cosas-gritando-telecinco-no-existiria_7064452_0.html"
+      }
+    ],
+    "entrevistas": [
+      {
+        "titular": "Pedro Sánchez, en 'Salvados': entrevista al presidente del Gobierno en plena campaña electoral",
+        "cadena": "laSexta",
+        "detalle": "Entrevista al presidente Pedro Sánchez en el último programa de Gonzo al frente de Salvados",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/pedro-sanchez-salvados-tengo-pisos-alquilados-creo-inquilino-contento_7064341_0.html"
+      },
+      {
+        "titular": "Isabel Allende y los seis días en que supo que su hija Paula se iba en 'Cuarto Milenio'",
+        "cadena": "Cuatro",
+        "detalle": "Entrevista a la escritora Isabel Allende en Cuarto Milenio",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/isabel-allende-los-seis-dias-que-supo-que-su-hija-paula-se-iba-se-sabe-cuando-viene-muerte_7064355_0.html"
+      }
+    ],
+    "parrilla": [
+      {
+        "titular": "Jordi Évole niega que haya intentado fichar a Silvia Intxaurrondo para 'Salvados'",
+        "cadena": "laSexta",
+        "detalle": "Évole busca una mujer poco conocida para la nueva etapa de Salvados tras la salida de Gonzo",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/jordi-evole-niega-que-haya-intentado-fichar-silvia-intxaurrondo-para-salvados-porque-quiere-alguien-poco-conocida_7064478_0.html"
+      },
+      {
+        "titular": "Telecinco acierta con 'The Equalizer' de Denzel Washington y lidera la noche con un 10%",
+        "cadena": "Telecinco",
+        "detalle": "La emisión de la película logra el liderazgo de la noche del sábado",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-sabado-21-noviembre-the-equalizer-138815/"
+      }
+    ],
+    "records": [
+      {
+        "titular": "'Salvados' logra máximo de temporada con Pedro Sánchez, aunque no alcanza el 10%",
+        "cadena": "laSexta",
+        "detalle": "El programa alcanza su mejor dato de la temporada con la entrevista al presidente",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-domingo-22-noviembre-salvados-maximo-138820/"
+      }
+    ]
+  }
+}
