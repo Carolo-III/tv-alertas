@@ -1,0 +1,81 @@
+{
+  "fecha": "2026-11-24",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "El debate a 8 en La 1 arrasa con 3,1M (24,2%), máximo del día; Salvados despide temporada con Sánchez logrando récord; Plex publica entrevistas con Sánchez y Feijóo",
+  "alertas": {
+    "estrenos": [
+      {
+        "titular": "'Drag Race España' anuncia su séptima temporada y abre el casting para encontrar a sus nuevas reinas",
+        "cadena": "Atresplayer",
+        "detalle": "Se abre casting para la séptima edición del programa desde el 23 de noviembre",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/drag-race-espana-anuncia-su-septima-temporada-abre-casting-para-encontrar-sus-nuevas-reinas_7064618_0.html"
+      }
+    ],
+    "deportes": [],
+    "especiales": [
+      {
+        "titular": "DEBATE A 8 EN RTVE - 23 noviembre 2026",
+        "cadena": "La 1",
+        "detalle": "Debate electoral con portavoces de 8 formaciones políticas: 3.456.000 espectadores (26,9% con La1+24H), 6.881.000 espectadores únicos",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/informes-barlovento/debate-a-8-en-rtve/"
+      },
+      {
+        "titular": "El debate a 8 en La 1, lo más visto del día con más de 3 millones y un 24,2%",
+        "cadena": "La 1",
+        "detalle": "3.108.000 espectadores y 24,2% de cuota, convierte a La 1 en cadena más vista del día (14,6%)",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-lunes-23-noviembre-debate-a-8-mas-visto-138829/"
+      }
+    ],
+    "entrevistas": [
+      {
+        "titular": "Plex comparte fotos junto a Sánchez y Feijóo para anunciar la fecha en la que publicará sus encuentros con ambos",
+        "cadena": "YouTube/Plex",
+        "detalle": "El youtuber publicará el miércoles 25 de noviembre a las 20:00 y 21:00 horas sus entrevistas con Pedro Sánchez y Alberto Núñez Feijóo",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/plex-comparte-fotos-junto-pedro-sanchez-feijoo-para-anunciar-fecha-que-publicara-sus-encuentros-con-ambos_7064860_0.html"
+      },
+      {
+        "titular": "Gonzo se despide de 'Salvados' y de su equipo ante Pedro Sánchez",
+        "cadena": "laSexta",
+        "detalle": "Despedida de Gonzo en Salvados durante la entrevista con el presidente del gobierno Pedro Sánchez",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/gonzo-se-despide-salvados-despidiendose-su-equipo-ante-pedro-sanchez-os-echare-menos-pero-hay-que-seguir_7064505_0.html"
+      },
+      {
+        "titular": "Jordi Wild reflexiona en 'El Hormiguero' sobre sus entrevistas políticas",
+        "cadena": "Antena 3",
+        "detalle": "El streamer habla sobre sus encuentros con Ada Colau, Pedro Sánchez y Feijóo en el marco de la campaña electoral",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/jordi-wild-reflexiona-hormiguero-sobre-sus-entrevistas-politicas-ha-sido-muy-reconfortante-pero-duro-psicologicamente_7064850_0.html"
+      }
+    ],
+    "parrilla": [
+      {
+        "titular": "Henar Álvarez despide 'Al cielo con ella'",
+        "cadena": "Telecinco",
+        "detalle": "Finalización del programa de Henar Álvarez en Telecinco con mensaje irónico de despedida",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/henar-alvarez-despide-cielo-con-ella-entre-pullas-ironia-si-no-se-consiguieran-cosas-gritando-telecinco-no-existiria_7064452_0.html"
+      },
+      {
+        "titular": "Jordi Évole niega que haya intentado fichar a Silvia Intxaurrondo para 'Salvados', porque quiere a alguien poco conocida",
+        "cadena": "laSexta",
+        "detalle": "El productor desmiente rumores sobre Intxaurrondo y confirma que busca una mujer poco conocida para nueva etapa de Salvados",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/jordi-evole-niega-que-haya-intentado-fichar-silvia-intxaurrondo-para-salvados-porque-quiere-alguien-poco-conocida_7064478_0.html"
+      }
+    ],
+    "records": [
+      {
+        "titular": "'Salvados' logra máximo de temporada con Pedro Sánchez, aunque no alcanza el 10%",
+        "cadena": "laSexta",
+        "detalle": "El programa con la entrevista al presidente Pedro Sánchez consigue el mejor dato de audiencia de la temporada, aunque queda por debajo del 10%",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-domingo-22-noviembre-salvados-maximo-138820/"
+      }
+    ]
+  }
+}
