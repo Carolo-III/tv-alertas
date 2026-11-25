@@ -1,0 +1,95 @@
+{
+  "fecha": "2026-11-25",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "El debate electoral a 8 en La 1 arrasa con 3,1M (24,2%) y lidera el día; Antena 3 domina el martes; La que se avecina T15 estrena en Telecinco con un discreto 8,9%",
+  "alertas": {
+    "estrenos": [
+      {
+        "titular": "'La que se avecina' estrena su temporada 15 en Telecinco en cuarto lugar con un 8,9%",
+        "cadena": "Telecinco",
+        "detalle": "Estreno de la temporada 15 con resultado por debajo de expectativas en cuarto lugar",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-martes-24-noviembre-la-que-se-avecina-138837/"
+      },
+      {
+        "titular": "'El Escondite' de Grison tiene ya fecha de estreno para poner a famosos a ocultarse en sitios inesperados",
+        "cadena": "",
+        "detalle": "Nuevo programa de Grison con famosos confirmado para próximo estreno",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/escondite-grison-tiene-ya-fecha-estreno-para-poner-famosos-ocultarse-sitios-inesperados_7065581_0.html"
+      }
+    ],
+    "deportes": [],
+    "especiales": [
+      {
+        "titular": "E29N:DEBATE A 8 (La1) es lo más visto de ayer gracias a 3.108.000 espectadores como promedio y el 24,2 % de cuota de pantalla",
+        "cadena": "La 1",
+        "detalle": "Debate electoral con los 8 grupos parlamentarios alcanza 3,1M espectadores y lidera la jornada del lunes 23 noviembre",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-23-de-noviembre-2026/"
+      },
+      {
+        "titular": "DEBATE A 8 EN RTVE - La1+24H: 3.456.000 de audiencia media, 26,9% de cuota y 6.881.000 espectadores",
+        "cadena": "La 1",
+        "detalle": "El debate electoral sumando La 1 y 24H alcanza 3,4M de media y 6,8M de espectadores únicos en contexto de campaña electoral",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/informes-barlovento/debate-a-8-en-rtve/"
+      },
+      {
+        "titular": "Cara a Cara – Debate electoral",
+        "cadena": "laSexta",
+        "detalle": "Debate electoral universitario entre Albiol y Colau desde la Universitat de Barcelona en contexto de campaña",
+        "fuente": "DOS30",
+        "url": "https://www.dos30.com/actualidad/2026/11/20/cara-a-cara-debate-electoral/"
+      }
+    ],
+    "entrevistas": [
+      {
+        "titular": "Cuándo salen los vídeos de Plex junto a Pedro Sánchez y Feijóo: horario y dónde ver",
+        "cadena": "",
+        "detalle": "Entrevistas del youtuber Plex a Pedro Sánchez (20:00h) y Feijóo (21:00h) se publican el 25 noviembre en YouTube",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/cuando-salen-los-videos-plex-junto-pedro-sanchez-feijoo-horario-donde-ver_7065245_0.html"
+      },
+      {
+        "titular": "Feijóo muestra las primeras fotos de su entrevista con Plex, subidos a un Porsche y corriendo por el circuito del Jarama",
+        "cadena": "",
+        "detalle": "Adelanto de la entrevista de Feijóo con el youtuber Plex en formato dinámico en el circuito del Jarama",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/feijoo-muestra-las-primeras-fotos-su-entrevista-con-plex-subidos-un-porsche-corriendo-por-circuito-jarama_7065001_0.html"
+      }
+    ],
+    "parrilla": [
+      {
+        "titular": "La debilidad subsanada de la casa de 'Gran Hermano'",
+        "cadena": "",
+        "detalle": "Gran Hermano regresa en plena campaña electoral, contexto que podría afectar audiencias",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/debilidad-subsanada-casa-gran-hermano_7064911_3.html"
+      },
+      {
+        "titular": "Un histórico miembro de 'El Hormiguero' abandona el programa después de 19 años: 'Ha llegado el momento de parar'",
+        "cadena": "Antena 3",
+        "detalle": "Salida de un miembro histórico del programa tras 19 años, cambio significativo en el equipo",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/un-historico-miembro-hormiguero-abandona-programa-despues-19-anos-ha-llegado-momento-parar_7065039_0.html"
+      }
+    ],
+    "records": [
+      {
+        "titular": "ANTENA 3 NOTICIAS 1 es lo más visto de ayer gracias a 2.147.000 espectadores y el 22,2% de cuota. Antena3 cadena más vista del día con 13,7%",
+        "cadena": "Antena 3",
+        "detalle": "Antena 3 Noticias 1 lidera el martes 24 noviembre con más de 2M y Antena 3 es la cadena más vista del día",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-24-de-noviembre-2026/"
+      },
+      {
+        "titular": "El debate a 8 en La 1, lo más visto del día con más de 3 millones y un 24,2%",
+        "cadena": "La 1",
+        "detalle": "La 1 se convierte en cadena más vista del lunes 23 noviembre con 14,6% gracias al debate electoral",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-lunes-23-noviembre-debate-a-8-mas-visto-138829/"
+      }
+    ]
+  }
+}
