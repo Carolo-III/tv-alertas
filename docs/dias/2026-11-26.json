@@ -1,0 +1,102 @@
+{
+  "fecha": "2026-11-26",
+  "hay_alertas": true,
+  "resumen_ejecutivo": "Semana marcada por debate electoral 'Cara a Cara', estreno de 'La que se avecina' T15 en Telecinco (8,9%), caída de 'GH VIP' que mantiene liderazgo (14,2%), y confirmación de Campanadas 2027 en La 1 con Silvia Abril, Carrasco y Jesús Vázquez",
+  "alertas": {
+    "estrenos": [
+      {
+        "titular": "'La que se avecina' estrena su temporada 15 en Telecinco en cuarto lugar con un 8,9%",
+        "cadena": "Telecinco",
+        "detalle": "Estreno T15 de LQSA obtiene 8,9%, queda en cuarto lugar de la noche",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-martes-24-noviembre-la-que-se-avecina-138837/"
+      },
+      {
+        "titular": "'El Escondite' de Grison tiene ya fecha de estreno para poner a famosos a ocultarse en sitios inesperados",
+        "cadena": "",
+        "detalle": "Nuevo formato de Grison con famosos ya tiene fecha confirmada de estreno",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/escondite-grison-tiene-ya-fecha-estreno-para-poner-famosos-ocultarse-sitios-inesperados_7065581_0.html"
+      },
+      {
+        "titular": "Se acabó el misterio de las Campanadas de La 1: un cantante, una actriz y un presentador darán la bienvenida a 2027 desde Sol",
+        "cadena": "La 1",
+        "detalle": "Silvia Abril, Manuel Carrasco y Jesús Vázquez presentarán Campanadas 2027 desde Puerta del Sol",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/se-acabo-misterio-las-campanadas-1-un-cantante-una-actriz-un-presentador-daran-bienvenida-2027-desde-sol_7065934_0.html"
+      }
+    ],
+    "deportes": [],
+    "especiales": [
+      {
+        "titular": "Cara a Cara – Debate electoral",
+        "cadena": "",
+        "detalle": "Debate electoral 'Cara a Cara' realizado en contexto de elecciones",
+        "fuente": "DOS30",
+        "url": "https://www.dos30.com/actualidad/2026/11/20/cara-a-cara-debate-electoral/"
+      },
+      {
+        "titular": "Telecinco responde al debate a cuatro con su propio postre: gala extra de 'GH VIP' en directo, con colaboradores y plató",
+        "cadena": "Telecinco",
+        "detalle": "Gala especial extra de GH VIP programada como contraprogramación al debate electoral a cuatro",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/telecinco-responde-debate-cuatro-con-su-propio-postre-gala-extra-gh-vip-directo-con-colaboradores-plato_7065924_0.html"
+      }
+    ],
+    "entrevistas": [
+      {
+        "titular": "Pedro Sánchez desvela a Plex los protocolos de seguridad de los líderes mundiales: 'Trump controla hasta el agua que bebe'",
+        "cadena": "",
+        "detalle": "Entrevista del presidente Pedro Sánchez con el youtuber Plex",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/pedro-sanchez-desvela-plex-los-protocolos-seguridad-los-lideres-mundiales-trump-controla-hasta-agua-que-bebe_7065907_0.html"
+      },
+      {
+        "titular": "Feijóo desvela a Plex el origen del meme 'Anatomía de un farsante' o 'Anotop... At' y confiesa que el de Anuel terminó gustándole",
+        "cadena": "",
+        "detalle": "Entrevista del líder del PP Alberto Núñez Feijóo con el youtuber Plex",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/feijoo-desvela-origen-meme-anatomia-un-farsante-anotop-at-confiesa-que-anuel-termino-gustandole_7065915_0.html"
+      }
+    ],
+    "parrilla": [
+      {
+        "titular": "Moisés abandona por sorpresa 'Pasapalabra' por 'agotamiento físico y mental': 'Ha llegado el momento de apartarme a un lado'",
+        "cadena": "Antena 3",
+        "detalle": "Concursante abandona tras 54 programas y 24.600€ acumulados por agotamiento",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/moises-abandona-por-sorpresa-pasapalabra-por-agotamiento-fisico-mental-ha-llegado-momento-apartarme-un-lado_7065949_0.html"
+      },
+      {
+        "titular": "Belén Esteban rechaza la oferta firme de 'GH VIP' y se despide: 'Quiero estar en casa con mi marido, con mi madre, con mi familia'",
+        "cadena": "Telecinco",
+        "detalle": "Belén Esteban abandona GH VIP como concursante oficial tras 7 días dentro de la casa",
+        "fuente": "20minutos TV",
+        "url": "https://www.20minutos.es/television/belen-esteban-rechaza-oferta-firme-gh-vip-se-despide-quiero-estar-casa-con-mi-marido-con-mi-madre-con-mi-familia_7065935_0.html"
+      }
+    ],
+    "records": [
+      {
+        "titular": "'GH VIP 9' cae en su segunda gala, aunque lidera la noche del miércoles con un 14,2%",
+        "cadena": "Telecinco",
+        "detalle": "GH VIP registra caída en segunda gala pero mantiene liderazgo de la noche con 14,2%",
+        "fuente": "Fórmula TV",
+        "url": "https://www.formulatv.com/noticias/audiencias-miercoles-25-noviembre-ghvip-gala-138851/"
+      },
+      {
+        "titular": "ANTENA 3 NOTICIAS 2 (Antena3) es lo más visto de ayer gracias a 2.069.000 espectadores como promedio y el 17 % de cuota de pantalla",
+        "cadena": "Antena 3",
+        "detalle": "Antena 3 Noticias 2 líder del día 25 noviembre con 2.069.000 y 17%. Antena 3 cadena más vista (13,5%)",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-25-de-noviembre-2026/"
+      },
+      {
+        "titular": "ANTENA 3 NOTICIAS 1 (Antena3) es lo más visto de ayer gracias a 2.147.000 espectadores como promedio y el 22,2 % de cuota de pantalla",
+        "cadena": "Antena 3",
+        "detalle": "Antena 3 Noticias 1 líder del día 24 noviembre con 2.147.000 y 22,2%. Antena 3 cadena más vista (13,7%)",
+        "fuente": "Barlovento Comunicación",
+        "url": "https://barloventocomunicacion.es/audiencias-diarias/audiencias-24-de-noviembre-2026/"
+      }
+    ]
+  }
+}

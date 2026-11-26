@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang='es'>
+<head>
+<meta charset='UTF-8'>
+<meta name='viewport' content='width=device-width, initial-scale=1.0'>
+<title>TV Alertas — Jueves 26 de noviembre de 2026</title>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=DM+Sans:wght@300;400;500;600&display=swap');
+
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+:root {
+  --bg: #0a0a0b;
+  --bg2: #111113;
+  --bg3: #1a1a1d;
+  --border: #2a2a2e;
+  --text: #e8e8ec;
+  --text-muted: #6b6b78;
+  --accent: #e8c547;
+}
+
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: 'DM Sans', sans-serif;
+  font-size: 15px;
+  line-height: 1.6;
+  min-height: 100vh;
+}
+
+.site-header {
+  border-bottom: 1px solid var(--border);
+  padding: 20px 32px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  position: sticky;
+  top: 0;
+  background: rgba(10,10,11,0.95);
+  backdrop-filter: blur(8px);
+  z-index: 100;
+}
+
+.site-title {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 24px;
+  letter-spacing: 2px;
+  color: var(--accent);
+}
+
+.site-subtitle {
+  font-size: 12px;
+  color: var(--text-muted);
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+
+.nav-link {
+  color: var(--text-muted);
+  text-decoration: none;
+  font-size: 13px;
+  letter-spacing: 0.5px;
+  transition: color 0.2s;
+}
+.nav-link:hover { color: var(--accent); }
+
+main { max-width: 900px; margin: 0 auto; padding: 40px 24px; }
+
+.fecha-display {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 48px;
+  letter-spacing: 3px;
+  color: var(--text);
+  margin-bottom: 4px;
+}
+
+.resumen-ejecutivo {
+  font-size: 16px;
+  color: var(--text-muted);
+  margin-bottom: 40px;
+  padding-left: 16px;
+  border-left: 3px solid var(--accent);
+}
+
+.sin-alertas {
+  text-align: center;
+  padding: 80px 24px;
+  color: var(--text-muted);
+}
+
+.sin-alertas .icon { font-size: 48px; margin-bottom: 16px; }
+.sin-alertas h2 { font-family: 'Bebas Neue', sans-serif; font-size: 28px; letter-spacing: 2px; margin-bottom: 8px; color: var(--text); }
+
+.categoria-bloque { margin-bottom: 40px; }
+
+.categoria-header {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 16px;
+  padding-bottom: 8px;
+  border-bottom: 1px solid var(--border);
+}
+
+.categoria-icon { font-size: 20px; }
+
+.categoria-label {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 20px;
+  letter-spacing: 2px;
+}
+
+.categoria-count {
+  font-size: 12px;
+  padding: 2px 8px;
+  border-radius: 12px;
+  background: var(--bg3);
+  color: var(--text-muted);
+  font-weight: 500;
+}
+
+.alerta-card {
+  background: var(--bg2);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 16px 20px;
+  margin-bottom: 10px;
+  border-left: 3px solid transparent;
+  transition: border-color 0.2s, background 0.2s;
+}
+
+.alerta-card:hover { background: var(--bg3); }
+
+.alerta-titular {
+  font-weight: 600;
+  font-size: 15px;
+  margin-bottom: 4px;
+  color: var(--text);
+}
+
+.alerta-detalle {
+  font-size: 13px;
+  color: var(--text-muted);
+  margin-bottom: 6px;
+}
+
+.alerta-meta {
+  display: flex;
+  gap: 12px;
+  font-size: 12px;
+}
+
+.badge-cadena {
+  background: var(--bg3);
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  padding: 1px 7px;
+  color: var(--text-muted);
+}
+
+.badge-fuente { color: var(--text-muted); font-style: italic; }
+
+.alerta-link {
+  color: var(--text);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: border-color 0.2s, color 0.2s;
+}
+.alerta-link:hover { color: var(--accent); border-bottom-color: var(--accent); }
+
+.historico-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 12px;
+  margin-top: 24px;
+}
+
+.dia-card {
+  background: var(--bg2);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 16px;
+  text-decoration: none;
+  display: block;
+  transition: border-color 0.2s, background 0.2s;
+}
+
+.dia-card:hover { background: var(--bg3); border-color: var(--accent); }
+
+.dia-fecha {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 18px;
+  letter-spacing: 1px;
+  color: var(--text);
+  margin-bottom: 4px;
+}
+
+.dia-alertas { font-size: 12px; color: var(--text-muted); }
+
+.dia-dot {
+  display: inline-block;
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: var(--accent);
+  margin-right: 6px;
+  vertical-align: middle;
+}
+
+.dia-sin-alertas .dia-dot { background: var(--border); }
+
+footer {
+  border-top: 1px solid var(--border);
+  padding: 20px 32px;
+  text-align: center;
+  font-size: 12px;
+  color: var(--text-muted);
+  letter-spacing: 0.5px;
+}
+</style>
+</head>
+<body>
+<header class="site-header"><div><div class="site-title">TV ALERTAS</div><div class="site-subtitle">Monitor de televisión española</div></div><a href="../index.html" class="nav-link">← Histórico</a></header>
+<main>
+<div class="fecha-display">JUEVES 26 DE NOVIEMBRE DE 2026</div>
+<div class="resumen-ejecutivo">Semana marcada por debate electoral 'Cara a Cara', estreno de 'La que se avecina' T15 en Telecinco (8,9%), caída de 'GH VIP' que mantiene liderazgo (14,2%), y confirmación de Campanadas 2027 en La 1 con Silvia Abril, Carrasco y Jesús Vázquez</div>
+<div class="categoria-bloque"><div class="categoria-header"><span class="categoria-icon">🎬</span><span class="categoria-label" style="color:#e8c547">Estrenos</span><span class="categoria-count">3</span></div><div class="alerta-card" style="border-left-color:#e8c547"><div class="alerta-titular"><a href="https://www.formulatv.com/noticias/audiencias-martes-24-noviembre-la-que-se-avecina-138837/" target="_blank" rel="noopener" class="alerta-link">'La que se avecina' estrena su temporada 15 en Telecinco en cuarto lugar con un 8,9%</a></div><div class='alerta-detalle'>Estreno T15 de LQSA obtiene 8,9%, queda en cuarto lugar de la noche</div><div class="alerta-meta"><span class='badge-cadena'>Telecinco</span><span class='badge-fuente'>Fórmula TV</span></div></div><div class="alerta-card" style="border-left-color:#e8c547"><div class="alerta-titular"><a href="https://www.20minutos.es/television/escondite-grison-tiene-ya-fecha-estreno-para-poner-famosos-ocultarse-sitios-inesperados_7065581_0.html" target="_blank" rel="noopener" class="alerta-link">'El Escondite' de Grison tiene ya fecha de estreno para poner a famosos a ocultarse en sitios inesperados</a></div><div class='alerta-detalle'>Nuevo formato de Grison con famosos ya tiene fecha confirmada de estreno</div><div class="alerta-meta"><span class='badge-fuente'>20minutos TV</span></div></div><div class="alerta-card" style="border-left-color:#e8c547"><div class="alerta-titular"><a href="https://www.20minutos.es/television/se-acabo-misterio-las-campanadas-1-un-cantante-una-actriz-un-presentador-daran-bienvenida-2027-desde-sol_7065934_0.html" target="_blank" rel="noopener" class="alerta-link">Se acabó el misterio de las Campanadas de La 1: un cantante, una actriz y un presentador darán la bienvenida a 2027 desde Sol</a></div><div class='alerta-detalle'>Silvia Abril, Manuel Carrasco y Jesús Vázquez presentarán Campanadas 2027 desde Puerta del Sol</div><div class="alerta-meta"><span class='badge-cadena'>La 1</span><span class='badge-fuente'>20minutos TV</span></div></div></div><div class="categoria-bloque"><div class="categoria-header"><span class="categoria-icon">⭐</span><span class="categoria-label" style="color:#e847a3">Especiales / Galas</span><span class="categoria-count">2</span></div><div class="alerta-card" style="border-left-color:#e847a3"><div class="alerta-titular"><a href="https://www.dos30.com/actualidad/2026/11/20/cara-a-cara-debate-electoral/" target="_blank" rel="noopener" class="alerta-link">Cara a Cara – Debate electoral</a></div><div class='alerta-detalle'>Debate electoral 'Cara a Cara' realizado en contexto de elecciones</div><div class="alerta-meta"><span class='badge-fuente'>DOS30</span></div></div><div class="alerta-card" style="border-left-color:#e847a3"><div class="alerta-titular"><a href="https://www.20minutos.es/television/telecinco-responde-debate-cuatro-con-su-propio-postre-gala-extra-gh-vip-directo-con-colaboradores-plato_7065924_0.html" target="_blank" rel="noopener" class="alerta-link">Telecinco responde al debate a cuatro con su propio postre: gala extra de 'GH VIP' en directo, con colaboradores y plató</a></div><div class='alerta-detalle'>Gala especial extra de GH VIP programada como contraprogramación al debate electoral a cuatro</div><div class="alerta-meta"><span class='badge-cadena'>Telecinco</span><span class='badge-fuente'>20minutos TV</span></div></div></div><div class="categoria-bloque"><div class="categoria-header"><span class="categoria-icon">🎙️</span><span class="categoria-label" style="color:#a347e8">Entrevistas</span><span class="categoria-count">2</span></div><div class="alerta-card" style="border-left-color:#a347e8"><div class="alerta-titular"><a href="https://www.20minutos.es/television/pedro-sanchez-desvela-plex-los-protocolos-seguridad-los-lideres-mundiales-trump-controla-hasta-agua-que-bebe_7065907_0.html" target="_blank" rel="noopener" class="alerta-link">Pedro Sánchez desvela a Plex los protocolos de seguridad de los líderes mundiales: 'Trump controla hasta el agua que bebe'</a></div><div class='alerta-detalle'>Entrevista del presidente Pedro Sánchez con el youtuber Plex</div><div class="alerta-meta"><span class='badge-fuente'>20minutos TV</span></div></div><div class="alerta-card" style="border-left-color:#a347e8"><div class="alerta-titular"><a href="https://www.20minutos.es/television/feijoo-desvela-origen-meme-anatomia-un-farsante-anotop-at-confiesa-que-anuel-termino-gustandole_7065915_0.html" target="_blank" rel="noopener" class="alerta-link">Feijóo desvela a Plex el origen del meme 'Anatomía de un farsante' o 'Anotop... At' y confiesa que el de Anuel terminó gustándole</a></div><div class='alerta-detalle'>Entrevista del líder del PP Alberto Núñez Feijóo con el youtuber Plex</div><div class="alerta-meta"><span class='badge-fuente'>20minutos TV</span></div></div></div><div class="categoria-bloque"><div class="categoria-header"><span class="categoria-icon">📋</span><span class="categoria-label" style="color:#e87347">Cambios de parrilla</span><span class="categoria-count">2</span></div><div class="alerta-card" style="border-left-color:#e87347"><div class="alerta-titular"><a href="https://www.20minutos.es/television/moises-abandona-por-sorpresa-pasapalabra-por-agotamiento-fisico-mental-ha-llegado-momento-apartarme-un-lado_7065949_0.html" target="_blank" rel="noopener" class="alerta-link">Moisés abandona por sorpresa 'Pasapalabra' por 'agotamiento físico y mental': 'Ha llegado el momento de apartarme a un lado'</a></div><div class='alerta-detalle'>Concursante abandona tras 54 programas y 24.600€ acumulados por agotamiento</div><div class="alerta-meta"><span class='badge-cadena'>Antena 3</span><span class='badge-fuente'>20minutos TV</span></div></div><div class="alerta-card" style="border-left-color:#e87347"><div class="alerta-titular"><a href="https://www.20minutos.es/television/belen-esteban-rechaza-oferta-firme-gh-vip-se-despide-quiero-estar-casa-con-mi-marido-con-mi-madre-con-mi-familia_7065935_0.html" target="_blank" rel="noopener" class="alerta-link">Belén Esteban rechaza la oferta firme de 'GH VIP' y se despide: 'Quiero estar en casa con mi marido, con mi madre, con mi familia'</a></div><div class='alerta-detalle'>Belén Esteban abandona GH VIP como concursante oficial tras 7 días dentro de la casa</div><div class="alerta-meta"><span class='badge-cadena'>Telecinco</span><span class='badge-fuente'>20minutos TV</span></div></div></div><div class="categoria-bloque"><div class="categoria-header"><span class="categoria-icon">📊</span><span class="categoria-label" style="color:#47e87e">Récords</span><span class="categoria-count">3</span></div><div class="alerta-card" style="border-left-color:#47e87e"><div class="alerta-titular"><a href="https://www.formulatv.com/noticias/audiencias-miercoles-25-noviembre-ghvip-gala-138851/" target="_blank" rel="noopener" class="alerta-link">'GH VIP 9' cae en su segunda gala, aunque lidera la noche del miércoles con un 14,2%</a></div><div class='alerta-detalle'>GH VIP registra caída en segunda gala pero mantiene liderazgo de la noche con 14,2%</div><div class="alerta-meta"><span class='badge-cadena'>Telecinco</span><span class='badge-fuente'>Fórmula TV</span></div></div><div class="alerta-card" style="border-left-color:#47e87e"><div class="alerta-titular"><a href="https://barloventocomunicacion.es/audiencias-diarias/audiencias-25-de-noviembre-2026/" target="_blank" rel="noopener" class="alerta-link">ANTENA 3 NOTICIAS 2 (Antena3) es lo más visto de ayer gracias a 2.069.000 espectadores como promedio y el 17 % de cuota de pantalla</a></div><div class='alerta-detalle'>Antena 3 Noticias 2 líder del día 25 noviembre con 2.069.000 y 17%. Antena 3 cadena más vista (13,5%)</div><div class="alerta-meta"><span class='badge-cadena'>Antena 3</span><span class='badge-fuente'>Barlovento Comunicación</span></div></div><div class="alerta-card" style="border-left-color:#47e87e"><div class="alerta-titular"><a href="https://barloventocomunicacion.es/audiencias-diarias/audiencias-24-de-noviembre-2026/" target="_blank" rel="noopener" class="alerta-link">ANTENA 3 NOTICIAS 1 (Antena3) es lo más visto de ayer gracias a 2.147.000 espectadores como promedio y el 22,2 % de cuota de pantalla</a></div><div class='alerta-detalle'>Antena 3 Noticias 1 líder del día 24 noviembre con 2.147.000 y 22,2%. Antena 3 cadena más vista (13,7%)</div><div class="alerta-meta"><span class='badge-cadena'>Antena 3</span><span class='badge-fuente'>Barlovento Comunicación</span></div></div></div>
+</main>
+<footer>Generado automáticamente · Fuentes: Barlovento, Fórmula TV, Vertele, DOS30</footer>
+</body>
+</html>
